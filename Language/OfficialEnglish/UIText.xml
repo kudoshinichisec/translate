@@ -1633,7 +1633,7 @@ Chế độ</string>
 	<string name="0xrxw6g7gyliovp3-n156_est2-texts_3" mz="n156">Trận đồ</string>
 	<string name="0xrxw6g7do0z3a-n44_duea" mz="n44">Cảnh giới</string>
 	<string name="0xrxw6g7j83c2ovua-n293_i8mv-0" mz="n293">Đặc tính</string>
-	<string name="0xrxw6g7h1t8c1-n124_c0eg" mz="n124">Lower game speed</string>
+	<string name="0xrxw6g7h1t8c1-n124_c0eg" mz="n124">Giảm tốc độ trò chơi</string>
 	<string name="0xrxw6g7fevgbb-n194_tvk1" mz="title">Thiên Yêu Hóa Huyết Thuật</string>
 	<string name="0xrxw6g7m7quogftdo-n31_dfoj-texts_0" mz="n31">Turbulent</string>
 	<string name="0xrxw6g7icii51-n51_tuo1" mz="n51">Xác nhận</string>
@@ -2198,7 +2198,7 @@ Tôn giáo chính: Đan Hà Động Thiên</string>
 	<string name="0xrxw6g7sdekljrytj-n90_f045" mz="BlueFuction">Tạo bản vẽ kiến trúc</string>
 	<string name="0xrxw6g7wtx752ow61-n178_tyhn" mz="n178">Kích hoạt mặc định</string>
 	<string name="0xrxw6g7g4rxogftcd-n4_g4rx-texts_2" mz="n4">Dương</string>
-	<string name="0xrxw6g7lfk7a9-n123_lfk7" mz="n123">Move Speed</string>
+	<string name="0xrxw6g7lfk7a9-n123_lfk7" mz="n123">Tốc độ di chuyển</string>
 	<string name="0xrxw6g7rjyvljryq1-n135_bfm8-2" mz="n135">Thế hệ đệ tử</string>
 	<string name="0xrxw6g7ikk5vnk-n183_uqfx" mz="nonchinese">Không phải tiếng Trung</string>
 	<string name="0xrxw6g7qh7mljrytm-n4_qh7m" mz="n4">Trợ giúp</string>
@@ -2312,7 +2312,7 @@ Sau khi nhận phần thưởng, hãy vào menu tài khoản để xem.</string>
 	<string name="0xrxw6g7q9xpn4-n268_mj32" mz="n268">Dấu ấn:</string>
 	<string name="0xrxw6g7v4kf32-n115_vpeb" mz="n115">Đã chết</string>
 	<string name="0xrxw6g7ee2a52ow2m-n15_v22f-tips" mz="globle">Điểm số tối đa của kỹ năng hiện tại trong đội</string>
-	<string name="0xrxw6g7n3hgljryzx-n132_n3hg" mz="n132">紫霄宗</string>
+	<string name="0xrxw6g7n3hgljryzx-n132_n3hg" mz="n132">Tử Tiêu Tông</string>
 	<string name="0xrxw6g7k8u8m4-n9_k8u8" mz="n9">Lên xuống</string>
 	<string name="0xrxw6g7h2yi52ow5y-n267_ency" mz="MaterialSelect">Chọn vật liệu chính</string>
 	<string name="0xrxw6g7p69w52ow6e-n136_tyhn" mz="n136">Biên tập</string>
@@ -2739,7 +2739,7 @@ Gỗ: 111111</string>
 	<string name="0xrxw6g7a1h9mg-n168_gaom" mz="bad">Đánh giá tệ</string>
 	<string name="0xrxw6g7s13452ow3i-n0_s134" mz="frame">Khai trí</string>
 	<string name="0xrxw6g7h2yi52ow5y-n287_ency" mz="BuildSelect">Chọn công trình</string>
-	<string name="0xrxw6g7tifuvnr-n161_tifu-prompt" mz="intro">介绍</string>
+	<string name="0xrxw6g7tifuvnr-n161_tifu-prompt" mz="intro">Giới thiệu</string>
 	<string name="0xrxw6g77xkaay-n40_fevg" mz="n40">Mức độ phù hợp: 100%</string>
 	<string name="0xrxw6g7s69xvnj-n3_q8j7" mz="n3">Xác nhận</string>
 	<string name="0xrxw6g7shy138-n119_shy1" mz="n119">Tâm cảnh</string>
@@ -3009,7 +3009,7 @@ Ngũ hành: Mộc</string>
 	<string name="0xrxw6g7j83c2ovu8-n117_scuo-tips" mz="n91">Chọn các chủ đề khác nhau để thảo luận với đối phương.</string>
 	<string name="0xrxw6g794r952ow8o-n217_em6p" mz="frame">Trình quản lý tin nhắn</string>
 	<string name="0xrxw6g7rd8g52ow4p-n142_rd8g" mz="n142">Đệ tử trưởng thành</string>
-	<string name="0xrxw6g7h1t8c1-n127_qc1e" mz="n127">Raise game speed</string>
+	<string name="0xrxw6g7h1t8c1-n127_qc1e" mz="n127">Tăng tốc độ trò chơi</string>
 	<string name="0xrxw6g7i7jlbu-n107_gebq" mz="title">Không có kế hoạch</string>
 	<string name="0xrxw6g7a1h9mg-n128_bv7o" mz="more">Cửa hàng mod</string>
 	<string name="0xrxw6g7s13452ow3i-n25_ih4r-1" mz="Head">Lý trí</string>

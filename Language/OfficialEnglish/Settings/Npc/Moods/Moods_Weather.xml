@@ -146,7 +146,7 @@
 			<StoryDesc>Đang đắm chìm trong khí tức từ tiên giới ban xuống.</StoryDesc>
 		</Text>
 		<Text Name="Weather_DanQi">
-			<DisplayName>Alchemy Qi Overflowing</DisplayName>
+			<DisplayName>Đan khí tràn ngập</DisplayName>
 			<Desc>Khí đan đậm đặc tràn ngập</Desc>
 			<StoryDesc>Đang đắm chìm trong đan khí nồng đậm</StoryDesc>
 		</Text>

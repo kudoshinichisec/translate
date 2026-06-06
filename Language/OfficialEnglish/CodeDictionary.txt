@@ -1701,8 +1701,8 @@ ApplyEffect!  激活次数 UsedTimes is {0}	ApplyEffect! Kích hoạt số lần
 需要神民\n每种神国建筑都需要一定数量的神民，神民数量不能满足需求数量会导致怨气累加。	Cần Thần Dân\nMỗi loại công trình trong Thần Quốc đều cần một số lượng Thần Dân nhất định, nếu số lượng Thần Dân không đáp ứng đủ nhu cầu sẽ dẫn đến tích lũy oán khí.
 新消耗品	Tiêu hao phẩm mới
 该植物正在被使用	Cây này đang được sử dụng
-\n[color=#FF4000]规模超出阵枢承载会导致稳定度大幅下降，反之则上升。[/color]	\n[color=#FF4000]Quy mô vượt quá khả năng chịu đựng của trận trục sẽ dẫn đến sự giảm đáng kể về độ ổn định, ngược lại sẽ tăng lên.
-存储空间不足，共需要 {0}DaoHang, 仅剩余 {1}DaoHang	Insufficient
+\n[color=#FF4000]规模超出阵枢承载会导致稳定度大幅下降，反之则上升。[/color]	\n[color=#FF4000]Quy mô vượt quá khả năng chịu đựng của trận trục sẽ dẫn đến sự giảm đáng kể về độ ổn định, ngược lại sẽ tăng lên.[/color]
+存储空间不足，共需要 {0}DaoHang, 仅剩余 {1}DaoHang	Không đủ dung lượng, cần {0} DaoHang, chỉ còn {1} DaoHang
   ({0}格[{1}])	  ({0} ô [{1}])
 地图名称	Tên bản đồ
 三境:出神	Tam cảnh: Xuất thần
@@ -3358,7 +3358,7 @@ CombineBrushTexture_A_耗时 : 	CombineBrushTexture_A_Thời gian tiêu tốn :
 建筑人文	Kiến trúc văn hóa
 术法冷却缩短:	Giảm thời gian hồi chiêu thuật pháp:
 奖励已领取。	Phần thưởng đã nhận.
-\n[align=center][color=#9e6404]----功法进阶----[/color][/align]	\n[align=center][color=#9e6404]----Tiến阶 công pháp----[/color][/align]
+\n[align=center][color=#9e6404]----功法进阶----[/color][/align]	\n[align=center][color=#9e6404]----Công pháp tiến giai----[/color][/align]
 杂项	Tạp vật.
 {0}获得秘体：[{1}]\n{2}	{0} nhận được thể chất bí mật: [{1}]\n{2}
 平淡乏味	Buồn tẻ và nhạt nhẽo

@@ -2,15 +2,15 @@
 	<List>
 		<Text Name="Mutation_Type_HengDing">
 			<DisplayName>Constant</DisplayName>
-			<Desc>Select an chaos effect</Desc>
+			<Desc>Chọn một hiệu ứng hỗn độn</Desc>
 		</Text>
 		<Text Name="Mutation_Type_DongDang">
 			<DisplayName>Turbulent</DisplayName>
-			<Desc>Select one option from both Conditions and Effects to combine into a complete anomaly effect</Desc>
+			<Desc>Chọn một tùy chọn từ cả Điều kiện và Hiệu ứng để kết hợp thành một hiệu ứng dị biến hoàn chỉnh</Desc>
 		</Text>
 		<Text Name="Mutation_Type_YinYang">
-			<DisplayName>Yin Yang</DisplayName>
-			<Desc>Select one Yin effect and one Yang effect to form a complete chaos</Desc>
+			<DisplayName>Âm Dương</DisplayName>
+			<Desc>Chọn một hiệu ứng Âm và một hiệu ứng Dương để tạo thành một hỗn độn hoàn chỉnh</Desc>
 		</Text>
 	</List>
 </Texts>

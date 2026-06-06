@@ -1,36 +1,36 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Mutation_Card_Debug">
-			<DisplayName>Path of Loss</DisplayName>
-			<Desc>Due to unknown reasons, this chaos only leaves a faint residue of energy, unable to exert any effect.</Desc>
+			<DisplayName>Đạo lộ Mất mát</DisplayName>
+			<Desc>Vì lý do không rõ, hỗn độn này chỉ để lại một dư vận mờ nhạt, không thể phát huy bất kỳ hiệu ứng nào.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_AnimalToMonster">
 			<DisplayName>Beast convertion</DisplayName>
 			<Desc>Dead animals may transform into monsters.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ElixirGas">
-			<DisplayName>Alchemy Qi Fullness</DisplayName>
-			<Desc>Successful alchemy boosts the Five Elements Alchemy Qi in the area, offering varied effects based on proportions</Desc>
+			<DisplayName>Đan khí sung mãn</DisplayName>
+			<Desc>Luyện đan thành công sẽ tăng cường Đan khí Ngũ hành trong khu vực, mang lại hiệu ứng khác nhau tùy theo tỉ lệ.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_LifeLost">
 			<DisplayName>Abrupt Fate</DisplayName>
-			<Desc>Eating medicine results in less Medicine Tolerance, but the character's Lifespan will deplete at 100 times the speed.</Desc>
+			<Desc>Uống thuốc tạo ra ít kháng dược hơn, nhưng Tuổi thọ của nhân vật sẽ tiêu hao với tốc độ gấp 100 lần.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_AncientStoneChest">
 			<DisplayName>Deep Rock Curse</DisplayName>
-			<Desc>Greatly increases the chance of digging out an ancient casket, but doing so will kill the mining disciple.</Desc>
+			<Desc>Tăng đáng kể cơ hội đào được quan tài cổ, nhưng làm vậy sẽ giết chết đệ tử khai thác.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_LinQiSurge">
 			<DisplayName>Celestial Phenomenon Might</DisplayName>
-			<Desc>Each weather change is accompanied by a Burst of Qi, but changing the weather will cost a life.</Desc>
+			<Desc>Mỗi lần thay đổi thời tiết đều kèm theo một đợt bùng nổ Khí, nhưng thay đổi thời tiết sẽ tiêu tốn một sinh mạng.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_GoodsExpensiveButSuppliesCheaper">
 			<DisplayName>People Seek Profit</DisplayName>
-			<Desc>Merchant selling price is halved, purchasing price is doubled, but within a single merchant cycle, goods become more expensive the more you buy, and materials become cheaper the more you sell.</Desc>
+			<Desc>Giá bán của thương nhân giảm một nửa, giá mua tăng gấp đôi, nhưng trong một chu kỳ thương nhân, hàng hóa càng mua càng đắt, vật liệu càng bán càng rẻ.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_FiveElementsRelationChange">
-			<DisplayName>Five Elements Reversal</DisplayName>
-			<Desc>The Five Elements generation and overcoming relationship is reversed once.</Desc>
+			<DisplayName>Ngũ hành đảo ngược</DisplayName>
+			<Desc>Quan hệ tương sinh tương khắc của Ngũ hành bị đảo ngược một lần.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_CantDrawFuAndRandomFu">
 			<DisplayName>Talisman Path Collapse</DisplayName>
@@ -38,35 +38,35 @@
 		</Text>
 		<Text Name="Mutation_Effect_Constant_RefineMustSuccess">
 			<DisplayName>Divinely Ordained Artifact</DisplayName>
-			<Desc>Refinement is guaranteed to succeed, but it consumes more resources.</Desc>
+			<Desc>Luyện chế đảm bảo thành công, nhưng tiêu tốn nhiều tài nguyên hơn.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_NpcAvoidDangerAutomatically">
 			<DisplayName>Harmonious World</DisplayName>
-			<Desc>Gaining favor from other cultivators is greatly increased, and one can directly break through mental defenses, but other cultivators will also automatically avoid danger.</Desc>
+			<Desc>Việc nhận được thiện cảm từ tu sĩ khác được tăng đáng kể, và có thể trực tiếp phá vỡ phòng thủ tâm lý, nhưng các tu sĩ khác cũng sẽ tự động tránh nguy hiểm.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_RealTime">
 			<DisplayName>Time Axis Adjustment</DisplayName>
-			<Desc>The trigger days for all secret events are shortened to 1/3, and disciples' time stationed outside will become actual time.</Desc>
+			<Desc>Số ngày kích hoạt của mọi sự kiện bí mật được rút ngắn còn 1/3, và thời gian đệ tử đóng trú bên ngoài sẽ trở thành thời gian thực.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_SupplyBox">
 			<DisplayName>Apocalyptic Remnants</DisplayName>
-			<Desc>Map fog is automatically eliminated. The entire world cannot obtain yields from butchering, harvesting, mining, or chopping, but supply crates will fall from the sky daily within the sect.</Desc>
+			<Desc>Sương mù bản đồ tự động được xóa bỏ. Toàn thế giới không thể thu hoạch từ giết mổ, thu hoạch, khai thác hay chặt cây, nhưng thùng tiếp tế sẽ rơi xuống từ trên trời mỗi ngày trong môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_GetGoodBadScoreRandom">
 			<DisplayName>Worldwide Connection</DisplayName>
-			<Desc>When acquiring reputation through various means, the acquired reputation is randomly positive or negative, and the multiplier for acquiring reputation ranges randomly from 0.1 to 10.</Desc>
+			<Desc>Khi nhận danh tiếng qua các phương thức khác nhau, danh tiếng nhận được ngẫu nhiên là dương hoặc âm, và hệ số nhận danh tiếng dao động ngẫu nhiên từ 0.1 đến 10.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_UnlockGong">
 			<DisplayName>Dao Fruit at Risk</DisplayName>
-			<Desc>The foundation value required for Foundation Training, and the cultivation value needed for practice, are multipled by 5. All laws are now opened to all cultivators.</Desc>
+			<Desc>Giá trị nền tảng cần thiết để Trúc cơ và giá trị tu luyện cần thiết để luyện tập đều nhân lên 5 lần. Tất cả pháp môn hiện đã mở ra cho mọi tu sĩ.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Yang">
-			<DisplayName>Place of Extreme Yang</DisplayName>
-			<Desc>Sect Feng Shui is permanently at the highest, base spirit gathering effect increases by 100 points, all plots gain fire and wood attributes, but the map's base temperature rises by 20°.</Desc>
+			<DisplayName>Cực Dương chi địa</DisplayName>
+			<Desc>Phong thủy Môn phái vĩnh viễn ở mức cao nhất, hiệu ứng tụ linh cơ bản tăng thêm 100 điểm, tất cả mảnh đất nhận thuộc tính Hỏa và Mộc, nhưng nhiệt độ cơ bản của bản đồ tăng lên 20°.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Yin">
-			<DisplayName>Place of Extreme Yin</DisplayName>
-			<Desc>Sect Feng Shui is permanently at the highest, base spirit gathering effect increases by 100 points, all plots gain metal and water attributes, but the map's base temperature decreases by 20°.</Desc>
+			<DisplayName>Cực Âm chi địa</DisplayName>
+			<Desc>Phong thủy Môn phái vĩnh viễn ở mức cao nhất, hiệu ứng tụ linh cơ bản tăng thêm 100 điểm, tất cả mảnh đất nhận thuộc tính Kim và Thủy, nhưng nhiệt độ cơ bản của bản đồ giảm 20°.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_1">
 			<DisplayName>Monster Hunter: Rabbit</DisplayName>
@@ -101,72 +101,72 @@
 			<Desc>Kill 5 snakes, gain a rare item. Next time needs will double.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_GetItem_1">
-			<DisplayName>Crime of Possession</DisplayName>
-			<Desc>Acquired several rare treasures, but all Sects' favor towards us plummeted.</Desc>
+			<DisplayName>Tội danh chiếm hữu</DisplayName>
+			<Desc>Có được nhiều bảo vật hiếm, nhưng thiện cảm của tất cả các Môn phái đối với ta giảm mạnh.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_OuterDiscipleRoomDemand">
 			<DisplayName>Innate Immortal Root</DisplayName>
-			<Desc>Outer disciples gain flight ability, but their room requirements increase.</Desc>
+			<Desc>Ngoại môn đệ tử có được khả năng bay, nhưng yêu cầu phòng ốc của họ tăng lên.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_GetItem_2">
-			<DisplayName>Heavenly Blessing</DisplayName>
-			<Desc>Each time the sect's reputation level increases, a rare item is acquired.</Desc>
+			<DisplayName>Thiên ân</DisplayName>
+			<Desc>Mỗi lần cấp độ danh tiếng của môn phái tăng, sẽ nhận được một vật phẩm hiếm.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Sacrific">
 			<DisplayName>Demon Worship Ceremony</DisplayName>
-			<Desc>Enable the Beast Sacrifice Ceremony, but each Beast Sacrifice will provoke the anger of the Daemonia Temple (available at the Ancestral Shrine)</Desc>
+			<Desc>Kích hoạt Nghi lễ hiến tế thú, nhưng mỗi lần hiến tế sẽ khêu gợi sự tức giận của Yêu Điện (có thể dùng tại Tổ miếu).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_FengShuiChange">
-			<DisplayName>Rebellious Sect</DisplayName>
-			<Desc>All sect disciples are naturally gifted, with all abilities +2 (increase cap), but your sect suffers from divine jealousy, making all relics permanently adverse.</Desc>
+			<DisplayName>Môn phái phản nghịch</DisplayName>
+			<Desc>Tất cả đệ tử môn phái thiên phú dị bẩm, mọi năng lực +2 (tăng giới hạn), nhưng môn phái chịu sự ghen ghét của thần minh, khiến mọi di vật vĩnh viễn bất lợi.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_2">
-			<DisplayName>Hermit in the Deep Mountains</DisplayName>
-			<Desc>Sect disciples live reclusively in their residences, dedicated to artifact crafting, but gradually neglect their adventure skills; their adventure-related abilities suffer a marked decline, artifact crafting skill +5 (increase cap), alchemy skill +5 (increase cap), learning ability improved.</Desc>
+			<DisplayName>Ẩn sĩ thâm sơn</DisplayName>
+			<Desc>Đệ tử môn phái sống ẩn dật trong cư sở, chuyên tâm luyện chế pháp bảo, nhưng dần dần xao nhãng kỹ năng phiêu lưu; năng lực liên quan phiêu lưu giảm đáng kể, kỹ năng luyện chế pháp bảo +5 (tăng giới hạn), kỹ năng luyện đan +5 (tăng giới hạn), năng lực lĩnh hội được cải thiện.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_4">
 			<DisplayName>Dexterous in Socializing</DisplayName>
-			<Desc>Sect disciples are lively and good at socializing, but due to their restless minds, they find it hard to focus on cultivation; mental state decreases, Artisanry +5 (increase cap), Social Skill +5 (increase cap)</Desc>
+			<Desc>Đệ tử môn phái hoạt bát, giỏi giao tiếp, nhưng do tâm trí xao động khó tập trung tu luyện; Tâm cảnh giảm, Thủ nghệ +5 (tăng giới hạn), Kỹ năng giao tiếp +5 (tăng giới hạn).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_5">
 			<DisplayName>Avoid Light, Seek Heavy</DisplayName>
-			<Desc>Sect disciples are not afraid of hard work and are good at heavy physical labor, but as a result, they are averse to delicate tasks; their manual-related abilities significantly decrease, Construction Skill +10, Mining Skill +10</Desc>
+			<Desc>Đệ tử môn phái không ngại lao động nặng nhọc, nhưng vì thế họ ghét các công việc tinh tế; năng lực liên quan thủ công giảm đáng kể, Kỹ năng xây dựng +10, Kỹ năng khai thác +10.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_6">
-			<DisplayName>Reason with Fists and Feet</DisplayName>
-			<Desc>Sect disciples are proficient in martial arts but poor in verbal communication; Social skills -5, Battle skills +5 (increase cap).</Desc>
+			<DisplayName>Lấy nắm đấm làm lý lẽ</DisplayName>
+			<Desc>Đệ tử môn phái tinh thông võ thuật nhưng kém ăn nói; Kỹ năng giao tiếp -5, Kỹ năng chiến đấu +5 (tăng giới hạn).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_7">
-			<DisplayName>Gluttonous Qi</DisplayName>
-			<Desc>Sect disciples are in harmony with nature, with excellent Qi Sense, but as a result, they become more prone to hunger and fatigue (Qi Sense +10).</Desc>
+			<DisplayName>Tham ăn chi khí</DisplayName>
+			<Desc>Đệ tử môn phái hòa hợp với tự nhiên, Thần thức xuất sắc, nhưng vì vậy dễ đói và mệt mỏi hơn (Thần thức +10).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_8">
-			<DisplayName>Longevity and Prosperity</DisplayName>
-			<Desc>Sect disciples emphasize health preservation, are more sensitive to cold weather, but also become longer-lived.</Desc>
+			<DisplayName>Trường thọ hưng thịnh</DisplayName>
+			<Desc>Đệ tử môn phái chú trọng dưỡng sinh, nhạy cảm hơn với thời tiết lạnh, nhưng cũng trở nên trường thọ hơn.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_9">
 			<DisplayName>Divine Inspiration</DisplayName>
-			<Desc>All disciples are more easily attuned to Dao, significantly increasing their Qi cap, but all Heavenly Tribulations will also arrive earlier.</Desc>
+			<Desc>Tất cả đệ tử dễ dàng cảm ngộ Đạo hơn, tăng đáng kể giới hạn Khí của họ, nhưng tất cả Thiên kiếp cũng sẽ đến sớm hơn.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_10">
-			<DisplayName>Defend Instead of Attack</DisplayName>
-			<Desc>Sect disciples are devoted to defensive techniques, dislike combat skills, and are proficient in substituting offense with defense. Combat skills -5, protective skills +5 (increase cap)</Desc>
+			<DisplayName>Lấy thủ làm công</DisplayName>
+			<Desc>Đệ tử môn phái chuyên tâm vào kỹ thuật phòng thủ, không thích kỹ năng chiến đấu, tinh thông lấy thủ thay công. Kỹ năng chiến đấu -5, kỹ năng hộ thể +5 (tăng giới hạn).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_11">
-			<DisplayName>Obsessed with Spell</DisplayName>
-			<Desc>Sect disciples are indulged in the art of Spell, excelling in the skill but neglecting their practice as a result; their cultivation speed significantly decreases, Spell Skill +10 (increase cap)</Desc>
+			<DisplayName>Mê đắm Thuật pháp</DisplayName>
+			<Desc>Đệ tử môn phái đắm chìm trong nghệ thuật Thuật pháp, xuất sắc về kỹ năng này nhưng xao nhãng tu luyện; tốc độ tu luyện giảm đáng kể, Kỹ năng thuật pháp +10 (tăng giới hạn).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_12">
 			<DisplayName>One Achieves Immortality</DisplayName>
-			<Desc>One disciple's ascension boosts all Sect disciples' foundation building/practice speed significantly in the short term.</Desc>
+			<Desc>Việc phi thăng của một đệ tử sẽ thúc đẩy đáng kể tốc độ trúc cơ/tu luyện của tất cả đệ tử Môn phái trong thời gian ngắn.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_13">
-			<DisplayName>Path of Slaughter</DisplayName>
-			<Desc>Under the Heavenly Chaos, the speed of foundation training and cultivation is greatly reduced. However, inner disciples can gain cultivation by killing cultivators at the Golden Core stage or above in combat.</Desc>
+			<DisplayName>Sát đạo</DisplayName>
+			<Desc>Dưới ảnh hưởng của Thiên Ma Hỗn Độn, tốc độ trúc cơ và tu luyện bị giảm mạnh. Tuy nhiên, nội môn đệ tử có thể thu được tu vi bằng cách giết tu sĩ ở giai đoạn Kim đan trở lên trong chiến đấu.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_14">
-			<DisplayName>Obsessed with Artifact Mastery</DisplayName>
-			<Desc>Sect disciples are immersed in the art of artifact mastery, excelling in the skill but neglecting their academic pursuits as a result; their learning speed significantly decreases, Artifact Mastery +5 (increase cap)</Desc>
+			<DisplayName>Mê đắm Pháp khí</DisplayName>
+			<Desc>Đệ tử môn phái đắm chìm trong nghệ thuật pháp khí, xuất sắc về kỹ năng này nhưng xao nhãng việc học; tốc độ lĩnh hội giảm đáng kể, Pháp khí +5 (tăng giới hạn).</Desc>
 		</Text>
 	</List>
 </Texts>

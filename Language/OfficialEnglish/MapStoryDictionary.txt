@@ -1504,7 +1504,7 @@ GameUlt.KillBoss(\"Boss_Long\", \"龙穴被毁\	GameUlt.KillBoss(\"Boss_Long\", 
 [NAME]凝神查看，发现北方的凹槽正微微发亮。不过此处阵图已经点亮了。	[NAME] tập trung quan sát, phát hiện rãnh lõm ở hướng Bắc đang phát sáng mờ mờ. Nhưng trận đồ ở đây đã được kích hoạt.
 [NAME]凝神查看，发现北方的凹槽正微微发亮。	[NAME] tập trung quan sát, phát hiện rãnh lõm ở hướng Bắc đang phát sáng mờ mờ.
 片刻之后，那道气息现出身影，竟然是一个貌美女子。远远看去，此人竟然是栖霞洞天的长老月清愁！只见她环顾四周，似乎并未觉得有什么惊讶的神色，应当不是正常的拜访。那么此刻她出现在这里绝不寻常，难道她知道些什么？[NAME]计上心来。	Một lát sau, luồng khí tức lộ diện, hóa ra là một nữ tử xinh đẹp. Từ xa nhìn lại, người này chính là trưởng lão Nguyệt Thanh Sầu của hang động Thiên Quang! Chỉ thấy nàng quan sát xung quanh, dường như không có vẻ gì ngạc nhiên, chắc hẳn không phải là một chuyến thăm bình thường. Vậy thì việc nàng xuất hiện ở đây lúc này quả thật không đơn giản, chẳng lẽ nàng biết điều gì đó? [NAME] lập tức nảy ra kế hoạch.
-[NAME]知道此地不宜久留，便趁那人四处查看时悄然离开。之前发现[color=#0F0F0F]灵石塔[/color]的异常，只好下次再来查探了。	[NAME] biết nơi này không nên ở lâu, liền nhân lúc người kia đang quan sát xung quanh mà lặng lẽ rời đi. Phát hiện bất thường ở tháp linh thạch [color=#0F0F0F]đành để lần sau quay lại kiểm tra.
+[NAME]知道此地不宜久留，便趁那人四处查看时悄然离开。之前发现[color=#0F0F0F]灵石塔[/color]的异常，只好下次再来查探了。	[NAME] biết nơi này không nên ở lâu, liền nhân lúc người kia đang quan sát xung quanh mà lặng lẽ rời đi. Phát hiện bất thường ở [color=#0F0F0F]tháp linh thạch[/color] đành để lần sau quay lại kiểm tra.
 [NAME]尝试正练这本秘籍。	[NAME] thử nghiệm chính luyện bí kíp này.
 [NAME]已经逆练了秘籍，无法正练了。	[NAME] đã nghịch luyện bí kíp, không thể chính luyện nữa.
 [NAME]已经学会了正练之法。	[NAME] đã học được phương pháp Chính luyện.

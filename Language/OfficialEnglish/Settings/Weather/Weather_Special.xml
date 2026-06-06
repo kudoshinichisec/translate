@@ -116,11 +116,11 @@
 			<StoryDesc>Trong bùng nổ linh khí</StoryDesc>
 		</Text>
 		<Text Name="Yang_Mutation">
-			<DisplayName>Place of Extreme Yang</DisplayName>
+			<DisplayName>Nơi Cực Dương</DisplayName>
 			<StoryDesc>Chí Dương Chi Địa</StoryDesc>
 		</Text>
 		<Text Name="Yin_Mutation">
-			<DisplayName>Place of Extreme Yin</DisplayName>
+			<DisplayName>Nơi Cực Âm</DisplayName>
 			<StoryDesc>Địa chí âm</StoryDesc>
 		</Text>
 		<Text Name="MouldRains_Mutation">

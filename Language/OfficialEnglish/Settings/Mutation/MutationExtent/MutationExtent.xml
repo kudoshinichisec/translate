@@ -2,17 +2,17 @@
 	<List>
 		<Text Name="Mutation_Extent_Shallow">
 			<DisplayName>Turbulent</DisplayName>
-			<Desc>The chaos effect disappears after its trigger count is exhausted.</Desc>
+			<Desc>Hiệu ứng hỗn độn biến mất sau khi số lần kích hoạt cạn kiệt.</Desc>
 			<ExpireDesc>{0} times.</ExpireDesc>
 		</Text>
 		<Text Name="Mutation_Extent_Middle">
-			<DisplayName>Yin Yang</DisplayName>
-			<Desc>The chaos effect fades after 112 days.</Desc>
+			<DisplayName>Âm Dương</DisplayName>
+			<Desc>Hiệu ứng hỗn độn tan biến sau 112 ngày.</Desc>
 			<ExpireDesc>{0} days.</ExpireDesc>
 		</Text>
 		<Text Name="Mutation_Extent_Deep">
 			<DisplayName>Constant</DisplayName>
-			<Desc>The chaos effect permanently takes effect in this world.</Desc>
+			<Desc>Hiệu ứng hỗn độn vĩnh viễn có hiệu lực trong thế giới này.</Desc>
 			<ExpireDesc>Permanent</ExpireDesc>
 		</Text>
 	</List>

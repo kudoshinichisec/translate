@@ -2,42 +2,42 @@
 	<List>
 		<Text Name="Mutation_TaiShi">
 			<DisplayName>Taishi</DisplayName>
-			<Desc>Begin a new game with 3 constant Heavenly Chaos events.</Desc>
-			<Trigger.StartGame.Extent.Desc>A new tale unfolds, the Taishi Heavenly Dao stirs...</Trigger.StartGame.Extent.Desc>
+			<Desc>Bắt đầu trò chơi mới với 3 sự kiện Thiên Ma Hỗn Độn bất biến.</Desc>
+			<Trigger.StartGame.Extent.Desc>Một thiên cơ mới mở ra, Thái Thủy Thiên Đạo đã khuấy động...</Trigger.StartGame.Extent.Desc>
 		</Text>
 		<Text Name="Mutation_TaiZhong">
 			<DisplayName>Taizhong</DisplayName>
-			<Desc>Every 10/50/100 days, trigger 1 Turbulence/Yin Yang/Constant Heavenly Chaos.</Desc>
-			<Trigger.Time.Days.0.Extent.Desc>As time passes, some changes have occurred in the world..</Trigger.Time.Days.0.Extent.Desc>
+			<Desc>Cứ mỗi 10/50/100 ngày, kích hoạt 1 lần Thiên Ma Hỗn Độn cuồng loạn/Âm Dương/bất biến.</Desc>
+			<Trigger.Time.Days.0.Extent.Desc>Theo dòng thời gian, một số thay đổi đã xảy ra trong thiên hạ..</Trigger.Time.Days.0.Extent.Desc>
 			<Trigger.Time.Days.1.Extent.Desc>As time passes, this world has undergone changes..</Trigger.Time.Days.1.Extent.Desc>
 			<Trigger.Time.Days.2.Extent.Desc>As time passes, this world undergoes drastic changes...</Trigger.Time.Days.2.Extent.Desc>
 		</Text>
 		<Text Name="Mutation_TaiZhen">
 			<DisplayName>Taizhen</DisplayName>
-			<Desc>Each 1-level increase in sect reputation triggers 1 Yin Yang heavenly chaos; every 6 triggers result in a Constant heavenly chaos.</Desc>
-			<TriggerInfo.Desc>Sect level increased, triggering the Taizhen Heavenly Dao</TriggerInfo.Desc>
-			<Trigger.School.Score.0.Extent.Desc>[SCHOOL]'s reputation has risen, triggering the Taizhen Heavenly Dao...</Trigger.School.Score.0.Extent.Desc>
-			<Trigger.School.Score.1.Extent.Desc>[SCHOOL]'s reputation significantly boosts, becoming world-renowned, and unexpectedly activating the Taizhen, one of the Heavenly Dao.</Trigger.School.Score.1.Extent.Desc>
+			<Desc>Mỗi lần danh tiếng môn phái tăng 1 cấp sẽ kích hoạt 1 lần Thiên Ma Hỗn Độn Âm Dương; cứ mỗi 6 lần kích hoạt sẽ tạo ra 1 lần Thiên Ma Hỗn Độn bất biến.</Desc>
+			<TriggerInfo.Desc>Cấp độ môn phái tăng lên, kích hoạt Thái Chân Thiên Đạo</TriggerInfo.Desc>
+			<Trigger.School.Score.0.Extent.Desc>Danh tiếng của [SCHOOL] đã trỗi dậy, kích hoạt Thái Chân Thiên Đạo...</Trigger.School.Score.0.Extent.Desc>
+			<Trigger.School.Score.1.Extent.Desc>Danh tiếng của [SCHOOL] tăng vọt đáng kể, vang danh thiên hạ, bất ngờ kích hoạt Thái Chân trong Thiên Đạo.</Trigger.School.Score.1.Extent.Desc>
 		</Text>
 		<Text Name="Mutation_TaiXu">
 			<DisplayName>Taixu</DisplayName>
-			<Desc>Each sect disciple's breakthrough has a chance to trigger Heavenly chaos once</Desc>
-			<Trigger.StageLevelChange.LevelChangeInfos.0.Extent.Desc>[NPC] has just embarked on the path of immortality, triggering the Taixy Heavenly Dao...</Trigger.StageLevelChange.LevelChangeInfos.0.Extent.Desc>
-			<Trigger.StageLevelChange.LevelChangeInfos.1.Extent.Desc>[NPC]'s cultivation has advanced, triggering the Taixu Heavenly Dao...</Trigger.StageLevelChange.LevelChangeInfos.1.Extent.Desc>
-			<Trigger.StageLevelChange.LevelChangeInfos.2.Extent.Desc>[NPC] has caught a glimpse of the great path, causing an unusual movement in the Taixu Heavenly Dao...</Trigger.StageLevelChange.LevelChangeInfos.2.Extent.Desc>
-			<Trigger.StageLevelChange.LevelChangeInfos.3.Extent.Desc>[NPC] achieves enlightenment and ascends, triggering a chaos in the Taixu Heavenly Dao...</Trigger.StageLevelChange.LevelChangeInfos.3.Extent.Desc>
+			<Desc>Mỗi lần đột phá của đệ tử môn phái có cơ hội kích hoạt Thiên Ma Hỗn Độn một lần</Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.0.Extent.Desc>[NPC] vừa bước lên con đường tiên đạo, kích hoạt Thái Hư Thiên Đạo...</Trigger.StageLevelChange.LevelChangeInfos.0.Extent.Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.1.Extent.Desc>Tu vi của [NPC] đã tiến bộ, kích hoạt Thái Hư Thiên Đạo...</Trigger.StageLevelChange.LevelChangeInfos.1.Extent.Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.2.Extent.Desc>[NPC] đã thoáng thấy đại đạo, gây ra sự biến động bất thường trong Thái Hư Thiên Đạo...</Trigger.StageLevelChange.LevelChangeInfos.2.Extent.Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.3.Extent.Desc>[NPC] đắc đạo phi thăng, kích hoạt hỗn độn trong Thái Hư Thiên Đạo...</Trigger.StageLevelChange.LevelChangeInfos.3.Extent.Desc>
 		</Text>
 		<Text Name="Mutation_TaiXuan">
 			<DisplayName>Taixuan</DisplayName>
-			<Desc>Cannot manually select effects of Turbulent or Yin Yang Heavenly Chaos</Desc>
+			<Desc>Không thể tự chọn hiệu ứng của Thiên Ma Hỗn Độn cuồng loạn hoặc Âm Dương</Desc>
 		</Text>
 		<Text Name="Mutation_TaiYi">
 			<DisplayName>Taiyi</DisplayName>
-			<Desc>After the turbulent Heavenly Chaos takes effect, there's a chance to reset one effect</Desc>
+			<Desc>Sau khi Thiên Ma Hỗn Độn cuồng loạn có hiệu lực, có cơ hội đặt lại một hiệu ứng</Desc>
 		</Text>
 		<Text Name="Mutation_TaiJi">
 			<DisplayName>Taiji</DisplayName>
-			<Desc>When obtaining Turbulent or Yin Yang Heaven Chaos, expand the random range of the chaos effects.</Desc>
+			<Desc>Khi nhận được Thiên Ma Hỗn Độn cuồng loạn hoặc Âm Dương, mở rộng phạm vi ngẫu nhiên của các hiệu ứng hỗn độn.</Desc>
 		</Text>
 	</List>
 </Texts>

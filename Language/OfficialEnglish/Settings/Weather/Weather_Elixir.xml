@@ -1,132 +1,132 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Weather_Elixir_Base">
-			<DisplayName>Alchemy Qi Overflowing</DisplayName>
-			<StoryDesc>The Alchemy Qi permeates the air, making the Lingqi more active.</StoryDesc>
+			<DisplayName>Đan khí tràn ngập</DisplayName>
+			<StoryDesc>Đan khí thấm đẫm không trung, khiến Linh khí trở nên hoạt bát hơn.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_Wu">
-			<DisplayName>Primordial Qi</DisplayName>
-			<StoryDesc>The Alchemy Qi permeates the air, making the Lingqi more active.</StoryDesc>
+			<DisplayName>Nguyên thủy chi khí</DisplayName>
+			<StoryDesc>Đan khí thấm đẫm không trung, khiến Linh khí trở nên hoạt bát hơn.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_Jin">
-			<DisplayName>Metal Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Kim chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_Mu">
-			<DisplayName>Wood Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Mộc chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_Shui">
-			<DisplayName>Water Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Thủy chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_Huo">
-			<DisplayName>Fire Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Hỏa chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_Tu">
-			<DisplayName>Earth Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Thổ chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinMu">
-			<DisplayName>Exhausting Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Tận chước chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinShui">
-			<DisplayName>Surging Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Cuồn cuộn chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinHuo">
-			<DisplayName>Melting Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Dung hóa chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinTu">
-			<DisplayName>Accumulating Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Tích tụ chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_MuShui">
-			<DisplayName>Breeding Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Sinh dưỡng chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_MuHuo">
-			<DisplayName>Full Blaze Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Cực diễm chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_MuTu">
-			<DisplayName>Stabilizing Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Ổn cố chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_ShuiHuo">
-			<DisplayName>Waning Flame Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Tàn diễm chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_ShuiTu">
-			<DisplayName>Overflowing Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Tràn đầy chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_HuoTu">
-			<DisplayName>Ashen Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Tro tàn chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinMuShui">
-			<DisplayName>Jia Wood Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Giáp Mộc chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinMuHuo">
-			<DisplayName>Yi Wood Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Ất Mộc chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinMuTu">
-			<DisplayName>Ji Earth Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Kỷ Thổ chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinShuiHuo">
-			<DisplayName>Xin Metal Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Tân Kim chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinShuiTu">
-			<DisplayName>Ren Water Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Nhâm Thủy chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinHuoTu">
-			<DisplayName>Kui Metal Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Quý Kim chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_MuShuiHuo">
-			<DisplayName>Bing Fire Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Bính Hỏa chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_MuShuiTu">
-			<DisplayName>Gui Water Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Quý Thủy chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_MuHuoTu">
-			<DisplayName>Wu Earth Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Mậu Thổ chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_ShuiHuoTu">
-			<DisplayName>Ding Fire Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Đinh Hỏa chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_NoJin">
-			<DisplayName>Metal Sever Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Kim đoạn chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_NoMu">
-			<DisplayName>Wood Sever Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Mộc đoạn chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_NoShui">
-			<DisplayName>Water Sever Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Thủy đoạn chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_NoHuo">
-			<DisplayName>Fire Sever Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Hỏa đoạn chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_NoTu">
-			<DisplayName>Earth Sever Qi</DisplayName>
-			<StoryDesc>A rich Alchemy Qi pervades the air.</StoryDesc>
+			<DisplayName>Thổ đoạn chi khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tràn khắp không trung.</StoryDesc>
 		</Text>
 	</List>
 </Texts>

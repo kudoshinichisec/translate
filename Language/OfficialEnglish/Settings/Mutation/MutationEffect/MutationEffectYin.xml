@@ -1,307 +1,307 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Mutation_Effect_Yin_DiscipleCompleteCommandRandom">
-			<Desc>Disciples ignore work arrangements and randomly complete instructions.</Desc>
+			<Desc>Đệ tử bỏ qua phân công công việc và ngẫu nhiên hoàn thành mệnh lệnh.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_SoulPetCanNotControl">
-			<Desc>Spirit pets act as they please and no longer obey training</Desc>
+			<Desc>Linh thú tự do hành động, không còn nghe theo huấn luyện.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_CantConfineTongling">
 			<Desc>Cannot Confine Freezed Beings</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_CantInviteNpc">
-			<Desc>Cannot invite others to your sect.</Desc>
+			<Desc>Không thể mời người khác gia nhập môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_1">
-			<Desc>Slightly reduce the spiritual energy recovery speed of sect disciples.</Desc>
+			<Desc>Hơi giảm tốc độ hồi phục linh khí của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_2">
-			<Desc>Slows Sect disciples' Qi recovery.</Desc>
+			<Desc>Giảm tốc độ hồi phục khí của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_3">
-			<Desc>Significantly reduce the spiritual energy recovery speed of sect disciples.</Desc>
+			<Desc>Giảm đáng kể tốc độ hồi phục linh khí của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_4">
-			<Desc>Reduce sect disciples' cultivation speed.</Desc>
+			<Desc>Giảm tốc độ tu luyện của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_5">
-			<Desc>Drastically slows Sect disciples' cultivation.</Desc>
+			<Desc>Giảm mạnh tốc độ tu luyện của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_6">
-			<Desc>Sect disciples become more prone to hunger.</Desc>
+			<Desc>Đệ tử môn phái dễ đói hơn.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_7">
-			<Desc>Sect disciples become more prone to fatigue.</Desc>
+			<Desc>Đệ tử môn phái dễ mệt mỏi hơn.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_8">
-			<Desc>Sect disciples become more prone to Thirst.</Desc>
+			<Desc>Đệ tử môn phái dễ khát hơn.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_9">
-			<Desc>Slightly reduce the strength of the Qi barrier for sect disciples.</Desc>
+			<Desc>Hơi giảm cường độ khí bảo vệ của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_10">
-			<Desc>Reduce the strength of the Qi barrier for sect disciples.</Desc>
+			<Desc>Giảm cường độ khí bảo vệ của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_11">
-			<Desc>Slightly decreases the probability of sect disciples breaking through bottlenecks.</Desc>
+			<Desc>Hơi giảm xác suất phá vỡ nút thắt của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_12">
-			<Desc>Reduce the probability of sect disciples breaking through bottlenecks</Desc>
+			<Desc>Giảm xác suất phá vỡ nút thắt của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_13">
-			<Desc>Slightly increase the attainment bonus of sect disciples</Desc>
+			<Desc>Hơi tăng thêm đạo hạnh của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_14">
-			<Desc>Increase sect disciples' attainment bonus.</Desc>
+			<Desc>Tăng thêm đạo hạnh của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_15">
-			<Desc>Greatly enhances sect disciples' Attainment bonus.</Desc>
+			<Desc>Tăng đáng kể đạo hạnh của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_16">
-			<Desc>Slightly reduces the lifespan Cap of Sect disciples.</Desc>
+			<Desc>Hơi giảm giới hạn tuổi thọ của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_17">
-			<Desc>Reduce sect disciples' lifespan limit</Desc>
+			<Desc>Giảm giới hạn tuổi thọ của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_18">
-			<Desc>Significantly cuts Sect disciples' lifespan Cap.</Desc>
+			<Desc>Giảm đáng kể giới hạn tuổi thọ của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_19">
-			<Desc>Slightly reduces sect disciples' movement speed.</Desc>
+			<Desc>Hơi giảm tốc độ di chuyển của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_20">
-			<Desc>Decrease sect disciples' movement speed</Desc>
+			<Desc>Giảm tốc độ di chuyển của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_21">
-			<Desc>Greatly reduces sect disciples' movement speed.</Desc>
+			<Desc>Giảm mạnh tốc độ di chuyển của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_22">
-			<Desc>Decrease sect disciples' Foundation Training speed</Desc>
+			<Desc>Giảm tốc độ luyện thể của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_23">
-			<Desc>Greatly reduces sect disciples' Foundation Training speed.</Desc>
+			<Desc>Giảm mạnh tốc độ luyện thể của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_24">
-			<Desc>Reduce sect disciples' learning speed.</Desc>
+			<Desc>Giảm tốc độ lĩnh hội của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_25">
-			<Desc>Greatly reduces sect disciples' learning speed.</Desc>
+			<Desc>Giảm mạnh tốc độ lĩnh hội của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_26">
-			<Desc>Slightly reduce the overall work speed of sect disciples.</Desc>
+			<Desc>Hơi giảm tốc độ làm việc tổng thể của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_27">
-			<Desc>Decreases the overall work speed of Sect disciples.</Desc>
+			<Desc>Giảm tốc độ làm việc tổng thể của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_28">
-			<Desc>Significantly reduce the overall work speed of sect disciples.</Desc>
+			<Desc>Giảm đáng kể tốc độ làm việc tổng thể của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_29">
-			<Desc>Slightly decrease the base mental state value of sect disciples</Desc>
+			<Desc>Hơi giảm giá trị tâm cảnh cơ bản của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_30">
-			<Desc>Lowers Sect disciples' base Mental State.</Desc>
+			<Desc>Giảm tâm cảnh cơ bản của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_31">
-			<Desc>Significantly decrease the base mental state value of sect disciples</Desc>
+			<Desc>Giảm đáng kể giá trị tâm cảnh cơ bản của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_32">
-			<Desc>Reduce the metal attribute damage reduction for sect disciples</Desc>
+			<Desc>Giảm khả năng giảm sát thương Kim của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_33">
-			<Desc>Reduce the wood damage reduction for sect disciples.</Desc>
+			<Desc>Giảm khả năng giảm sát thương Mộc của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_34">
-			<Desc>Reduce the water damage reduction for sect disciples.</Desc>
+			<Desc>Giảm khả năng giảm sát thương Thủy của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_35">
-			<Desc>Reduce the fire damage reduction for sect disciples.</Desc>
+			<Desc>Giảm khả năng giảm sát thương Hỏa của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_36">
-			<Desc>Reduce the earth attribute damage reduction for sect disciples</Desc>
+			<Desc>Giảm khả năng giảm sát thương Thổ của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_37">
-			<Desc>Reduce the damage reduction of all attributes for sect disciples</Desc>
+			<Desc>Giảm khả năng giảm sát thương toàn thuộc tính của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_38">
-			<Desc>Reduces Sect disciples' formation Load capacity.</Desc>
+			<Desc>Giảm tải lượng trận pháp của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_40">
-			<Desc>Sect disciple's Battle skill level decreases by 1.</Desc>
+			<Desc>Cấp độ kỹ năng Chiến đấu của đệ tử giảm 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_41">
-			<Desc>Sect disciple's Battle skill level decreases by 2.</Desc>
+			<Desc>Cấp độ kỹ năng Chiến đấu của đệ tử giảm 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_42">
-			<Desc>Sect Disciple Battle Skill Level -3</Desc>
+			<Desc>Cấp độ kỹ năng Chiến đấu của đệ tử -3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_43">
-			<Desc>Sect disciples' Social skill level -1.</Desc>
+			<Desc>Cấp độ kỹ năng Giao tiếp của đệ tử -1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_44">
-			<Desc>Sect disciple's Social skill level decreases by 2.</Desc>
+			<Desc>Cấp độ kỹ năng Giao tiếp của đệ tử giảm 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_45">
-			<Desc>Sect disciple's Social skill level decreases by 3.</Desc>
+			<Desc>Cấp độ kỹ năng Giao tiếp của đệ tử giảm 3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_46">
-			<Desc>Sect disciples' Art skill level -1.</Desc>
+			<Desc>Cấp độ kỹ năng Thủ công của đệ tử -1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_47">
-			<Desc>Sect disciple's Artisanry skill level decreases by 2.</Desc>
+			<Desc>Cấp độ kỹ năng Thủ công của đệ tử giảm 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_48">
-			<Desc>Sect disciples' Art skill level -3.</Desc>
+			<Desc>Cấp độ kỹ năng Thủ công của đệ tử -3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_49">
-			<Desc>Sect Disciple Qi Sense Skill Level -1</Desc>
+			<Desc>Cấp độ kỹ năng Thần thức của đệ tử -1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_50">
-			<Desc>Sect disciple's Qi Sense skill level decreases by 2.</Desc>
+			<Desc>Cấp độ kỹ năng Thần thức của đệ tử giảm 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_51">
-			<Desc>Sect Disciple Qi Sense Skill Level -3</Desc>
+			<Desc>Cấp độ kỹ năng Thần thức của đệ tử -3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_52">
-			<Desc>Sect disciples' Crafting/Artifact Crafting skill level -1.</Desc>
+			<Desc>Cấp độ kỹ năng Chế tác/Chế tác pháp khí của đệ tử -1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_53">
-			<Desc>Sect disciples' Crafting/Artifact Crafting skill level -2.</Desc>
+			<Desc>Cấp độ kỹ năng Chế tác/Chế tác pháp khí của đệ tử -2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_54">
-			<Desc>Sect disciples' Crafting/Artifact Crafting skill level -3.</Desc>
+			<Desc>Cấp độ kỹ năng Chế tác/Chế tác pháp khí của đệ tử -3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_55">
-			<Desc>Sect disciples' Medicine/Alchemy skill level decreases by 1.</Desc>
+			<Desc>Cấp độ kỹ năng Y dược/Luyện đan của đệ tử giảm 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_56">
-			<Desc>Sect disciples' Medicine/Alchemy skill level -2.</Desc>
+			<Desc>Cấp độ kỹ năng Y dược/Luyện đan của đệ tử -2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_57">
-			<Desc>Sect disciples' Medicine/Alchemy skill level decreases by 3.</Desc>
+			<Desc>Cấp độ kỹ năng Y dược/Luyện đan của đệ tử giảm 3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_58">
-			<Desc>Sect disciple's Artifact Mastery skill level decreases by 1.</Desc>
+			<Desc>Cấp độ kỹ năng Khí khí của đệ tử giảm 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_59">
-			<Desc>Sect disciple's Artifact Mastery skill level decreases by 2.</Desc>
+			<Desc>Cấp độ kỹ năng Khí khí của đệ tử giảm 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_60">
-			<Desc>Sect disciples' Artifact Mastery skill level -3.</Desc>
+			<Desc>Cấp độ kỹ năng Khí khí của đệ tử -3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_61">
-			<Desc>Sect Disciple Spell Skill Level -1</Desc>
+			<Desc>Cấp độ kỹ năng Pháp thuật của đệ tử -1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_62">
-			<Desc>Sect disciple's Spell skill level decreases by 2.</Desc>
+			<Desc>Cấp độ kỹ năng Pháp thuật của đệ tử giảm 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_63">
-			<Desc>Sect disciples' Spell skill level -3.</Desc>
+			<Desc>Cấp độ kỹ năng Pháp thuật của đệ tử -3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_64">
-			<Desc>Sect disciples' Protection skill level -1.</Desc>
+			<Desc>Cấp độ kỹ năng Phòng thủ của đệ tử -1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_65">
-			<Desc>Sect Disciple Protection Skill Level -2</Desc>
+			<Desc>Cấp độ kỹ năng Phòng thủ của đệ tử -2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_66">
-			<Desc>Sect disciples' Protection skill level -3.</Desc>
+			<Desc>Cấp độ kỹ năng Phòng thủ của đệ tử -3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_67">
-			<Desc>Sect disciple's Formation skill level decreases by 1.</Desc>
+			<Desc>Cấp độ kỹ năng Trận pháp của đệ tử giảm 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_68">
-			<Desc>Sect disciple's Formation skill level decreases by 2.</Desc>
+			<Desc>Cấp độ kỹ năng Trận pháp của đệ tử giảm 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_69">
-			<Desc>Sect disciple's Formation skill level decreases by 3.</Desc>
+			<Desc>Cấp độ kỹ năng Trận pháp của đệ tử giảm 3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_70">
-			<Desc>Sect disciple's Mining skill level decreases by 1.</Desc>
+			<Desc>Cấp độ kỹ năng Khai thác của đệ tử giảm 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_71">
-			<Desc>Sect disciples' Metallurgy skill level -2.</Desc>
+			<Desc>Cấp độ kỹ năng Khai thác của đệ tử -2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_72">
-			<Desc>Sect Disciple Mining Skill Level -3</Desc>
+			<Desc>Cấp độ kỹ năng Khai thác của đệ tử -3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_73">
-			<Desc>Sect disciple's Farming skill level decreases by 1.</Desc>
+			<Desc>Cấp độ kỹ năng Canh tác của đệ tử giảm 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_74">
-			<Desc>Sect disciple's Farming skill level decreases by 2.</Desc>
+			<Desc>Cấp độ kỹ năng Canh tác của đệ tử giảm 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_75">
-			<Desc>Sect disciple's Farming skill level decreases by 3.</Desc>
+			<Desc>Cấp độ kỹ năng Canh tác của đệ tử giảm 3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_76">
-			<Desc>Sect disciple's Construction skill level decreases by 1.</Desc>
+			<Desc>Cấp độ kỹ năng Xây dựng của đệ tử giảm 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_77">
-			<Desc>Sect disciple's Construction skill level decreases by 2.</Desc>
+			<Desc>Cấp độ kỹ năng Xây dựng của đệ tử giảm 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_78">
-			<Desc>Sect disciple's Construction skill level decreases by 3.</Desc>
+			<Desc>Cấp độ kỹ năng Xây dựng của đệ tử giảm 3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_79">
-			<Desc>Sect disciple's Cooking skill level decreases by 1.</Desc>
+			<Desc>Cấp độ kỹ năng Nấu ăn của đệ tử giảm 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_80">
-			<Desc>Sect Disciple Cooking Skill Level -2</Desc>
+			<Desc>Cấp độ kỹ năng Nấu ăn của đệ tử -2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_81">
-			<Desc>Sect disciple's Cooking skill level decreases by 3.</Desc>
+			<Desc>Cấp độ kỹ năng Nấu ăn của đệ tử giảm 3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_88">
-			<Desc>Sect disciples' charisma decreases by 10%.</Desc>
+			<Desc>Mị lực của đệ tử môn phái giảm 10%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_89">
-			<Desc>Sect disciples' charisma decreases by 30%.</Desc>
+			<Desc>Mị lực của đệ tử môn phái giảm 30%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_90">
-			<Desc>Sect disciples' charisma decreases by 50%.</Desc>
+			<Desc>Mị lực của đệ tử môn phái giảm 50%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_91">
-			<Desc>Sect disciples' Intelligence -10%</Desc>
+			<Desc>Ngộ tính của đệ tử môn phái -10%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_92">
-			<Desc>Sect disciples' Intelligence decreases by 30%.</Desc>
+			<Desc>Ngộ tính của đệ tử môn phái giảm 30%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_93">
-			<Desc>Sect disciples' Intelligence decreases by 50%.</Desc>
+			<Desc>Ngộ tính của đệ tử môn phái giảm 50%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_94">
-			<Desc>Sect disciples' opportunity -10%</Desc>
+			<Desc>Phúc duyên của đệ tử môn phái -10%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_95">
-			<Desc>Sect disciples' opportunity -30%</Desc>
+			<Desc>Phúc duyên của đệ tử môn phái -30%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_96">
-			<Desc>Sect disciples' luck decreases by 50%.</Desc>
+			<Desc>Phúc duyên của đệ tử môn phái giảm 50%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_97">
-			<Desc>Sect disciples' perception -10%</Desc>
+			<Desc>Thần thức của đệ tử môn phái -10%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_98">
-			<Desc>Sect disciples' perception -30%</Desc>
+			<Desc>Thần thức của đệ tử môn phái -30%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_99">
-			<Desc>Sect disciples' perception decreases by 50%.</Desc>
+			<Desc>Thần thức của đệ tử môn phái giảm 50%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_100">
-			<Desc>Sect disciples' constitution decreases by 10%.</Desc>
+			<Desc>Căn cốt của đệ tử môn phái giảm 10%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_101">
-			<Desc>Sect disciples' constitution decreases by 30%.</Desc>
+			<Desc>Căn cốt của đệ tử môn phái giảm 30%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_102">
-			<Desc>Sect disciples' constitution decreases by 50%.</Desc>
+			<Desc>Căn cốt của đệ tử môn phái giảm 50%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_39">
-			<Desc>Sect disciples' five attributes -10%</Desc>
+			<Desc>Ngũ phẩm chất của đệ tử môn phái -10%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_103">
-			<Desc>Sect disciples' five attributes decrease by 30%.</Desc>
+			<Desc>Ngũ phẩm chất của đệ tử môn phái giảm 30%.</Desc>
 		</Text>
 	</List>
 </Texts>

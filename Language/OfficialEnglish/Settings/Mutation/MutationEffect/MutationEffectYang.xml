@@ -2,359 +2,359 @@
 	<List>
 		<Text Name="Mutation_Effect_Yang_FoodsDropCoin">
 			<DisplayName>Eat Out Coin</DisplayName>
-			<Desc>All food has a very low chance of yielding coins.</Desc>
+			<Desc>Tất cả thức ăn có xác suất rất thấp để thu được tiền vàng.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_FoodsDropCoin2">
 			<DisplayName>Eat Out Coin</DisplayName>
-			<Desc>All food has a small chance to produce coins when eaten</Desc>
+			<Desc>Tất cả thức ăn có xác suất nhỏ tạo ra tiền vàng khi ăn</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_FoodsDropCoin3">
 			<DisplayName>Eat Out Coin</DisplayName>
-			<Desc>All food has a high chance of yielding coins.</Desc>
+			<Desc>Tất cả thức ăn có xác suất cao để thu được tiền vàng.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_FaBaoSpecialAbility">
-			<DisplayName>Artifact Gains Effect</DisplayName>
-			<Desc>Gain a random rare artifact effect when an artifact is completed.</Desc>
-			<Effects.0.SpecialAbilities.0.Desc>Increases damage to targets of Earth element by 80%.</Effects.0.SpecialAbilities.0.Desc>
-			<Effects.0.SpecialAbilities.1.Desc>For every 15th strike, it will attack the cultivator's body itself, penetrating shield and deal additional damage.</Effects.0.SpecialAbilities.1.Desc>
+			<DisplayName>Pháp khí Nhận Hiệu Ứng</DisplayName>
+			<Desc>Nhận một hiệu ứng pháp khí hiếm ngẫu nhiên khi pháp khí được hoàn thành.</Desc>
+			<Effects.0.SpecialAbilities.0.Desc>Tăng sát thương lên mục tiêu thuộc tính Thổ thêm 80%.</Effects.0.SpecialAbilities.0.Desc>
+			<Effects.0.SpecialAbilities.1.Desc>Cứ mỗi đòn đánh thứ 15, sẽ tấn công trực tiếp thân thể tu sĩ, xuyên qua khiên và gây thêm sát thương.</Effects.0.SpecialAbilities.1.Desc>
 			<Effects.0.SpecialAbilities.2.Desc>For every 3 attacks, generates 9 spike apparitions that last 3 seconds.</Effects.0.SpecialAbilities.2.Desc>
-			<Effects.0.SpecialAbilities.3.Desc>The base power of artifact is increased by 1% for every 1 second the sword maintained flying. The effect is cleared when it returns.</Effects.0.SpecialAbilities.3.Desc>
-			<Effects.0.SpecialAbilities.4.Desc>For every 12 attacks on a same artifact, it can disable the target for a certain length of time corresponding to its tier.</Effects.0.SpecialAbilities.4.Desc>
-			<Effects.0.SpecialAbilities.5.Desc>For every 1% Health lower, Artifact Power is increased by 5%.</Effects.0.SpecialAbilities.5.Desc>
-			<Effects.0.SpecialAbilities.6.Desc>Each living being killed will increase its power by 10%, up to a maximum stacks of 36. The effect is cleared if it doesn't drink blood for 1 day.</Effects.0.SpecialAbilities.6.Desc>
-			<Effects.0.SpecialAbilities.7.Desc>Every 9th attack will cast a spell on the target enemy.</Effects.0.SpecialAbilities.7.Desc>
-			<Effects.0.SpecialAbilities.8.Desc>Protection skill level increased by 10.</Effects.0.SpecialAbilities.8.Desc>
-			<Effects.0.SpecialAbilities.9.Desc>At the cost of being shattered, defy death once and restore all damage dealt to you.</Effects.0.SpecialAbilities.9.Desc>
-			<Effects.0.SpecialAbilities.10.Desc>The closer the user to maximum lifespan, the more powerful the artifact will be.</Effects.0.SpecialAbilities.10.Desc>
-			<Effects.0.SpecialAbilities.11.Desc>10% of damage dealt will be replenished to the artifact's Qi.</Effects.0.SpecialAbilities.11.Desc>
+			<Effects.0.SpecialAbilities.3.Desc>Sức mạnh cơ bản của pháp khí tăng 1% cho mỗi giây kiếm duy trì bay. Hiệu ứng bị xóa khi kiếm thu về.</Effects.0.SpecialAbilities.3.Desc>
+			<Effects.0.SpecialAbilities.4.Desc>Cứ mỗi 12 lần tấn công vào cùng một pháp khí, có thể vô hiệu hóa mục tiêu trong khoảng thời gian tương ứng với cấp bậc của nó.</Effects.0.SpecialAbilities.4.Desc>
+			<Effects.0.SpecialAbilities.5.Desc>Cứ mỗi 1% sinh lực giảm, Sức mạnh Pháp khí tăng thêm 5%.</Effects.0.SpecialAbilities.5.Desc>
+			<Effects.0.SpecialAbilities.6.Desc>Mỗi sinh linh bị tiêu diệt sẽ tăng sức mạnh thêm 10%, tối đa 36 lớp chồng. Hiệu ứng bị xóa nếu không uống máu trong 1 ngày.</Effects.0.SpecialAbilities.6.Desc>
+			<Effects.0.SpecialAbilities.7.Desc>Cứ mỗi đòn đánh thứ 9 sẽ thi triển một pháp thuật lên kẻ địch mục tiêu.</Effects.0.SpecialAbilities.7.Desc>
+			<Effects.0.SpecialAbilities.8.Desc>Cấp độ kỹ năng Hộ pháp tăng thêm 10.</Effects.0.SpecialAbilities.8.Desc>
+			<Effects.0.SpecialAbilities.9.Desc>Với cái giá là bị hủy, chống lại cái chết một lần và hồi phục toàn bộ sát thương đã nhận.</Effects.0.SpecialAbilities.9.Desc>
+			<Effects.0.SpecialAbilities.10.Desc>Người dùng càng gần tuổi thọ tối đa, pháp khí càng trở nên mạnh mẽ hơn.</Effects.0.SpecialAbilities.10.Desc>
+			<Effects.0.SpecialAbilities.11.Desc>10% sát thương gây ra sẽ được bổ sung vào Khí của pháp khí.</Effects.0.SpecialAbilities.11.Desc>
 			<Effects.0.SpecialAbilities.12.Desc>For every 7 attacks, generate a swordsprite that lasts 7 seconds.</Effects.0.SpecialAbilities.12.Desc>
-			<Effects.0.SpecialAbilities.13.Desc>Spell skill level increased by 10.</Effects.0.SpecialAbilities.13.Desc>
-			<Effects.0.SpecialAbilities.14.Desc>Increases damage to targets of Wood element by 100%.</Effects.0.SpecialAbilities.14.Desc>
-			<Effects.0.SpecialAbilities.15.Desc>Increases damage to targets of Earth element by 100%.</Effects.0.SpecialAbilities.15.Desc>
-			<Effects.0.SpecialAbilities.16.Desc>Increases damage to targets of Fire element by 100%.</Effects.0.SpecialAbilities.16.Desc>
-			<Effects.0.SpecialAbilities.17.Desc>Increases damage to targets of Metal element by 100%.</Effects.0.SpecialAbilities.17.Desc>
-			<Effects.0.SpecialAbilities.18.Desc>Increases damage to targets of Water element by 100%.</Effects.0.SpecialAbilities.18.Desc>
-			<Effects.0.SpecialAbilities.19.Desc>Surrounding the whole body, it focuses on defense and will not attack.</Effects.0.SpecialAbilities.19.Desc>
-			<Effects.0.SpecialAbilities.20.Desc>For every 10,000 Qi consumed, damage is increased by 10%, up to a maximum of 1000%. The effect is reset when replenishing Qi to the artifact.</Effects.0.SpecialAbilities.20.Desc>
-			<Effects.0.SpecialAbilities.21.Desc>For each kind of Elixir consumed, its power is increased by 5%.</Effects.0.SpecialAbilities.21.Desc>
-			<Effects.0.SpecialAbilities.22.Desc>Every 2 attacks reduce skill cooldown by 1 second.</Effects.0.SpecialAbilities.22.Desc>
-			<Effects.0.SpecialAbilities.23.Desc>Sword Mastery skill level increased by 10.</Effects.0.SpecialAbilities.23.Desc>
+			<Effects.0.SpecialAbilities.13.Desc>Cấp độ kỹ năng Pháp thuật tăng thêm 10.</Effects.0.SpecialAbilities.13.Desc>
+			<Effects.0.SpecialAbilities.14.Desc>Tăng sát thương lên mục tiêu thuộc tính Mộc thêm 100%.</Effects.0.SpecialAbilities.14.Desc>
+			<Effects.0.SpecialAbilities.15.Desc>Tăng sát thương lên mục tiêu thuộc tính Thổ thêm 100%.</Effects.0.SpecialAbilities.15.Desc>
+			<Effects.0.SpecialAbilities.16.Desc>Tăng sát thương lên mục tiêu thuộc tính Hỏa thêm 100%.</Effects.0.SpecialAbilities.16.Desc>
+			<Effects.0.SpecialAbilities.17.Desc>Tăng sát thương lên mục tiêu thuộc tính Kim thêm 100%.</Effects.0.SpecialAbilities.17.Desc>
+			<Effects.0.SpecialAbilities.18.Desc>Tăng sát thương lên mục tiêu thuộc tính Thủy thêm 100%.</Effects.0.SpecialAbilities.18.Desc>
+			<Effects.0.SpecialAbilities.19.Desc>Bao phủ toàn thân, tập trung vào phòng thủ và không tấn công.</Effects.0.SpecialAbilities.19.Desc>
+			<Effects.0.SpecialAbilities.20.Desc>Cứ mỗi 10.000 Khí tiêu thụ, sát thương tăng thêm 10%, tối đa 1000%. Hiệu ứng đặt lại khi bổ sung Khí vào pháp khí.</Effects.0.SpecialAbilities.20.Desc>
+			<Effects.0.SpecialAbilities.21.Desc>Cứ mỗi loại Đan dược tiêu thụ, sức mạnh tăng thêm 5%.</Effects.0.SpecialAbilities.21.Desc>
+			<Effects.0.SpecialAbilities.22.Desc>Cứ mỗi 2 lần tấn công giảm thời gian hồi chiêu 1 giây.</Effects.0.SpecialAbilities.22.Desc>
+			<Effects.0.SpecialAbilities.23.Desc>Cấp độ kỹ năng Kiếm pháp tăng thêm 10.</Effects.0.SpecialAbilities.23.Desc>
 			<Effects.0.SpecialAbilities.24.Desc>Deals 1.5x damage when fighting against other artifacts.</Effects.0.SpecialAbilities.24.Desc>
-			<Effects.0.SpecialAbilities.25.Desc>When dealing damage, there is a 10% chance of dealing 5x damage.</Effects.0.SpecialAbilities.25.Desc>
-			<Effects.0.SpecialAbilities.26.Desc>Deals 1.5x damage when attacking the enemy's body itself.</Effects.0.SpecialAbilities.26.Desc>
-			<Effects.0.SpecialAbilities.27.Desc>When attacking the enemy's body itself, there is a 1% chance of dealing an additional damage that is equal to 30% of the current target's Qi.</Effects.0.SpecialAbilities.27.Desc>
-			<Effects.0.SpecialAbilities.28.Desc>Fundamentally increases your Artifact Power Bonus by 30%.</Effects.0.SpecialAbilities.28.Desc>
-			<Effects.0.SpecialAbilities.29.Desc>Fundamentally increases your Artifact Qi Bonus by 30%.</Effects.0.SpecialAbilities.29.Desc>
-			<Effects.0.SpecialAbilities.30.Desc>Fundamentally increases your Artifact's Knockback Resistance by 30%.</Effects.0.SpecialAbilities.30.Desc>
-			<Effects.0.SpecialAbilities.31.Desc>Fundamentally increases your Artifact Turn Speed by 30%.</Effects.0.SpecialAbilities.31.Desc>
-			<Effects.0.SpecialAbilities.32.Desc>Fundamentally increases your Artifact Qi Recovery Rate by 30%.</Effects.0.SpecialAbilities.32.Desc>
-			<Effects.0.SpecialAbilities.33.Desc>Fundamentally increases your Artifact Knockback by 30%.</Effects.0.SpecialAbilities.33.Desc>
-			<Effects.0.SpecialAbilities.34.Desc>Fundamentally increases your Artifact Fly Speed by 30%.</Effects.0.SpecialAbilities.34.Desc>
-			<Effects.0.SpecialAbilities.35.Desc>Power of first sword strike increased by 500%. The effect is reset when replenishing Qi to the artifact.</Effects.0.SpecialAbilities.35.Desc>
+			<Effects.0.SpecialAbilities.25.Desc>Khi gây sát thương, có 10% xác suất gây 5 lần sát thương.</Effects.0.SpecialAbilities.25.Desc>
+			<Effects.0.SpecialAbilities.26.Desc>Gây 1,5 lần sát thương khi tấn công trực tiếp thân thể kẻ địch.</Effects.0.SpecialAbilities.26.Desc>
+			<Effects.0.SpecialAbilities.27.Desc>Khi tấn công trực tiếp thân thể kẻ địch, có 1% xác suất gây thêm sát thương bằng 30% Khí hiện tại của mục tiêu.</Effects.0.SpecialAbilities.27.Desc>
+			<Effects.0.SpecialAbilities.28.Desc>Căn bản tăng Thưởng Sức mạnh Pháp khí của bạn thêm 30%.</Effects.0.SpecialAbilities.28.Desc>
+			<Effects.0.SpecialAbilities.29.Desc>Căn bản tăng Thưởng Khí Pháp khí của bạn thêm 30%.</Effects.0.SpecialAbilities.29.Desc>
+			<Effects.0.SpecialAbilities.30.Desc>Căn bản tăng Kháng Lực đẩy lùi Pháp khí của bạn thêm 30%.</Effects.0.SpecialAbilities.30.Desc>
+			<Effects.0.SpecialAbilities.31.Desc>Căn bản tăng Tốc độ xoay Pháp khí của bạn thêm 30%.</Effects.0.SpecialAbilities.31.Desc>
+			<Effects.0.SpecialAbilities.32.Desc>Căn bản tăng Tốc độ hồi Khí Pháp khí của bạn thêm 30%.</Effects.0.SpecialAbilities.32.Desc>
+			<Effects.0.SpecialAbilities.33.Desc>Căn bản tăng Lực đẩy lùi Pháp khí của bạn thêm 30%.</Effects.0.SpecialAbilities.33.Desc>
+			<Effects.0.SpecialAbilities.34.Desc>Căn bản tăng Tốc độ bay Pháp khí của bạn thêm 30%.</Effects.0.SpecialAbilities.34.Desc>
+			<Effects.0.SpecialAbilities.35.Desc>Sức mạnh của đòn đánh đầu tiên tăng thêm 500%. Hiệu ứng đặt lại khi bổ sung Khí vào pháp khí.</Effects.0.SpecialAbilities.35.Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_PlantIgnoreTemp">
 			<DisplayName>Plants Ignore Temperature Conditions</DisplayName>
-			<Desc>Sect plants ignore temperature conditions for growth.</Desc>
+			<Desc>Cây trồng của môn phái bỏ qua điều kiện nhiệt độ để sinh trưởng.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Persuasion">
-			<Desc>Slightly increases the persuasion success rate of sect disciples.</Desc>
+			<Desc>Tăng nhẹ tỷ lệ thành công thuyết phục của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Persuasion2">
-			<Desc>Increase the persuasion success rate of sect disciples.</Desc>
+			<Desc>Tăng tỷ lệ thành công thuyết phục của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Persuasion3">
-			<Desc>Significantly increases the persuasion success rate of sect disciples.</Desc>
+			<Desc>Tăng đáng kể tỷ lệ thành công thuyết phục của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_PuppetDropHPStop">
-			<Desc>Puppet ceases to degrade.</Desc>
+			<Desc>Bù nhìn ngừng xuống cấp.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_1">
-			<Desc>Slightly increase the Qi recovery speed of sect disciples.</Desc>
+			<Desc>Tăng nhẹ tốc độ hồi phục Khí của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_2">
-			<Desc>Increase sect disciples' Qi recovery speed.</Desc>
+			<Desc>Tăng tốc độ hồi phục Khí của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_3">
-			<Desc>Significantly increases the Qi recovery speed of sect disciples.</Desc>
+			<Desc>Tăng đáng kể tốc độ hồi phục Khí của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_4">
-			<Desc>Enhance sect disciples' cultivation speed.</Desc>
+			<Desc>Tăng tốc độ tu luyện của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_5">
-			<Desc>Significantly increase the cultivation speed of sect disciples.</Desc>
+			<Desc>Tăng đáng kể tốc độ tu luyện của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_6">
-			<Desc>Sect disciples become less prone to hunger.</Desc>
+			<Desc>Đệ tử môn phái ít bị đói hơn.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_7">
-			<Desc>Sect disciples become less prone to fatigue.</Desc>
+			<Desc>Đệ tử môn phái ít bị mệt mỏi hơn.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_8">
-			<Desc>Sect disciples become less prone to Thirst.</Desc>
+			<Desc>Đệ tử môn phái ít bị khát hơn.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_9">
-			<Desc>Slightly increases the strength of sect disciples' Qi barrier.</Desc>
+			<Desc>Tăng nhẹ sức mạnh của Khí lá chắn đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_10">
-			<Desc>Increase the strength of Qi barrier for sect disciples</Desc>
+			<Desc>Tăng sức mạnh Khí lá chắn của đệ tử môn phái</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_11">
-			<Desc>Slightly increases the probability of sect disciples breaking through bottlenecks.</Desc>
+			<Desc>Tăng nhẹ xác suất đệ tử môn phái đột phá qua cản trở.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_12">
-			<Desc>Increase the probability of sect disciples breaking through bottlenecks.</Desc>
+			<Desc>Tăng xác suất đệ tử môn phái đột phá qua cản trở.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_13">
-			<Desc>Significantly increases the probability of sect disciples breaking through bottlenecks.</Desc>
+			<Desc>Tăng đáng kể xác suất đệ tử môn phái đột phá qua cản trở.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_14">
-			<Desc>Slightly increases the ability of sect disciples to practice inedia.</Desc>
+			<Desc>Tăng nhẹ khả năng tu tập nhịn ăn của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_15">
-			<Desc>Improve the ability of sect disciples to abstain from food and drink</Desc>
+			<Desc>Cải thiện khả năng nhịn ăn uống của đệ tử môn phái</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_16">
-			<Desc>Greatly enhances the ability of sect disciples to abstain from food and drink.</Desc>
+			<Desc>Tăng mạnh khả năng nhịn ăn uống của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_17">
-			<Desc>Slightly reduces the attainment bonus of Sect disciples.</Desc>
+			<Desc>Giảm nhẹ thưởng Đạo hạnh của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_18">
-			<Desc>Reduce sect disciples' attainment bonus.</Desc>
+			<Desc>Giảm thưởng Đạo hạnh của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_19">
-			<Desc>Significantly lowers Sect disciples' Dao merit bonus.</Desc>
+			<Desc>Giảm đáng kể thưởng Đạo hạnh của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_20">
-			<Desc>Slightly increases sect disciples' lifespan cap.</Desc>
+			<Desc>Tăng nhẹ giới hạn tuổi thọ của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_21">
-			<Desc>Increase sect disciples' lifespan limit.</Desc>
+			<Desc>Tăng giới hạn tuổi thọ của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_22">
-			<Desc>Greatly enhances sect disciples' lifespan cap.</Desc>
+			<Desc>Tăng mạnh giới hạn tuổi thọ của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_23">
-			<Desc>Slightly increase the movement speed of sect disciples</Desc>
+			<Desc>Tăng nhẹ tốc độ di chuyển của đệ tử môn phái</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_24">
-			<Desc>Increase sect disciples' movement speed</Desc>
+			<Desc>Tăng tốc độ di chuyển của đệ tử môn phái</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_25">
-			<Desc>Greatly increase sect disciples' movement speed</Desc>
+			<Desc>Tăng mạnh tốc độ di chuyển của đệ tử môn phái</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_26">
-			<Desc>Enhance sect disciples' foundation building speed.</Desc>
+			<Desc>Tăng tốc độ luyện thể của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_27">
-			<Desc>Greatly enhances sect disciples' Foundation Training speed.</Desc>
+			<Desc>Tăng mạnh tốc độ luyện thể của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_28">
-			<Desc>Enhance sect disciples' learning speed.</Desc>
+			<Desc>Tăng tốc độ lĩnh hội của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_29">
-			<Desc>Greatly enhances sect disciples' learning speed.</Desc>
+			<Desc>Tăng mạnh tốc độ lĩnh hội của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_30">
-			<Desc>Slightly increases the overall work speed of sect disciples.</Desc>
+			<Desc>Tăng nhẹ tốc độ làm việc tổng thể của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_31">
-			<Desc>Speeds up Sect disciples' overall work.</Desc>
+			<Desc>Tăng tốc công việc tổng thể của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_32">
-			<Desc>Significantly increase the overall work speed of sect disciples.</Desc>
+			<Desc>Tăng đáng kể tốc độ làm việc tổng thể của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_33">
-			<Desc>Slightly increase the base mental state value of sect disciples</Desc>
+			<Desc>Tăng nhẹ giá trị tâm cảnh cơ bản của đệ tử môn phái</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_34">
-			<Desc>Increases the base Mental State value of Sect disciples.</Desc>
+			<Desc>Tăng giá trị Tâm cảnh cơ bản của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_35">
-			<Desc>Significantly increase the base mental state value of sect disciples.</Desc>
+			<Desc>Tăng đáng kể giá trị tâm cảnh cơ bản của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_36">
-			<Desc>The formation load capacity of sect disciples has been significantly increased.</Desc>
+			<Desc>Sức chứa đội hình của đệ tử môn phái được tăng đáng kể.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_37">
-			<Desc>The formation load capacity of sect disciples has been significantly increased.</Desc>
+			<Desc>Sức chứa đội hình của đệ tử môn phái được tăng đáng kể.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_40">
-			<Desc>Sect disciples' Battle skill level +1 (increase cap).</Desc>
+			<Desc>Cấp độ kỹ năng Chiến đấu của đệ tử môn phái +1 (tăng giới hạn).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_41">
-			<Desc>Sect disciples' Battle skill level +1.</Desc>
+			<Desc>Cấp độ kỹ năng Chiến đấu của đệ tử môn phái +1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_42">
-			<Desc>Sect disciple's Battle skill level increases by 2.</Desc>
+			<Desc>Cấp độ kỹ năng Chiến đấu của đệ tử môn phái tăng thêm 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_43">
-			<Desc>Sect disciples' Social skill level +1 (increase cap).</Desc>
+			<Desc>Cấp độ kỹ năng Xã giao của đệ tử môn phái +1 (tăng giới hạn).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_44">
-			<Desc>Sect disciple's Social skill level increases by 1.</Desc>
+			<Desc>Cấp độ kỹ năng Xã giao của đệ tử môn phái tăng thêm 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_45">
-			<Desc>Sect disciple's Social skill level increases by 2.</Desc>
+			<Desc>Cấp độ kỹ năng Xã giao của đệ tử môn phái tăng thêm 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_46">
-			<Desc>Sect disciples' Artisanry skill level +1 (increase cap).</Desc>
+			<Desc>Cấp độ kỹ năng Thủ công của đệ tử môn phái +1 (tăng giới hạn).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_47">
-			<Desc>Sect disciple's Artisanry skill level increases by 1.</Desc>
+			<Desc>Cấp độ kỹ năng Thủ công của đệ tử môn phái tăng thêm 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_48">
-			<Desc>Sect disciples' Art skill level +2.</Desc>
+			<Desc>Cấp độ kỹ năng Nghệ thuật của đệ tử môn phái +2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_49">
-			<Desc>Sect disciples' Qi Sense skill level +1 (raises cap).</Desc>
+			<Desc>Cấp độ kỹ năng Thần thức của đệ tử môn phái +1 (tăng giới hạn).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_50">
-			<Desc>Sect disciple's Qi Sense skill level increases by 1.</Desc>
+			<Desc>Cấp độ kỹ năng Thần thức của đệ tử môn phái tăng thêm 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_51">
-			<Desc>Sect disciples' Qi Sensing skill level +2.</Desc>
+			<Desc>Cấp độ kỹ năng Thần thức của đệ tử môn phái +2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_52">
-			<Desc>Sect disciples' Crafting/Artifact Crafting skill level +1 (increase cap).</Desc>
+			<Desc>Cấp độ kỹ năng Chế tác/Luyện pháp khí của đệ tử môn phái +1 (tăng giới hạn).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_53">
-			<Desc>The [SCHOOL] disciple's Crafting/Artifact Crafting skill level +1.</Desc>
+			<Desc>Cấp độ kỹ năng Chế tác/Luyện pháp khí của đệ tử [SCHOOL] +1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_54">
-			<Desc>Sect disciples' Crafting/Artifact Crafting skill level +2.</Desc>
+			<Desc>Cấp độ kỹ năng Chế tác/Luyện pháp khí của đệ tử môn phái +2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_55">
-			<Desc>Sect disciples' Medicine/Alchemy Crafting skill level +1 (increase cap).</Desc>
+			<Desc>Cấp độ kỹ năng Y thuật/Luyện đan của đệ tử môn phái +1 (tăng giới hạn).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_56">
-			<Desc>Sect disciples' Medicine/Alchemy skill level +1.</Desc>
+			<Desc>Cấp độ kỹ năng Y thuật/Luyện đan của đệ tử môn phái +1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_57">
-			<Desc>Sect disciples' Medicine/Alchemy skill level +2.</Desc>
+			<Desc>Cấp độ kỹ năng Y thuật/Luyện đan của đệ tử môn phái +2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_58">
-			<Desc>Sect disciples' Artifact Mastery skill level +1 (increase cap).</Desc>
+			<Desc>Cấp độ kỹ năng Ngự khí của đệ tử môn phái +1 (tăng giới hạn).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_59">
-			<Desc>Sect disciples' Artifact Mastery skill level +1.</Desc>
+			<Desc>Cấp độ kỹ năng Ngự khí của đệ tử môn phái +1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_60">
-			<Desc>Sect disciples' Artifact Mastery skill level +2.</Desc>
+			<Desc>Cấp độ kỹ năng Ngự khí của đệ tử môn phái +2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_61">
-			<Desc>Sect disciples' Spell skill level +1 (increase cap).</Desc>
+			<Desc>Cấp độ kỹ năng Pháp thuật của đệ tử môn phái +1 (tăng giới hạn).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_62">
-			<Desc>Sect disciples' Spell skill level +1.</Desc>
+			<Desc>Cấp độ kỹ năng Pháp thuật của đệ tử môn phái +1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_63">
-			<Desc>Sect disciple's Spell skill level increases by 2.</Desc>
+			<Desc>Cấp độ kỹ năng Pháp thuật của đệ tử môn phái tăng thêm 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_64">
-			<Desc>Sect disciples' Protection skill level +1 (raises cap).</Desc>
+			<Desc>Cấp độ kỹ năng Hộ pháp của đệ tử môn phái +1 (tăng giới hạn).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_65">
-			<Desc>Sect Disciple Protection Skill Level +1</Desc>
+			<Desc>Cấp độ kỹ năng Hộ pháp của đệ tử môn phái +1</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_66">
-			<Desc>Sect disciple's Protection skill level increases by 2.</Desc>
+			<Desc>Cấp độ kỹ năng Hộ pháp của đệ tử môn phái tăng thêm 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_67">
-			<Desc>Sect disciples' Formation skill level +1 (increase cap).</Desc>
+			<Desc>Cấp độ kỹ năng Trận pháp của đệ tử môn phái +1 (tăng giới hạn).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_68">
-			<Desc>Sect disciple's Formation skill level increases by 1.</Desc>
+			<Desc>Cấp độ kỹ năng Trận pháp của đệ tử môn phái tăng thêm 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_69">
-			<Desc>Sect disciple's Formation skill level increases by 2.</Desc>
+			<Desc>Cấp độ kỹ năng Trận pháp của đệ tử môn phái tăng thêm 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_70">
-			<Desc>Sect disciples' Mining skill level +1 (increase cap).</Desc>
+			<Desc>Cấp độ kỹ năng Khai thác của đệ tử môn phái +1 (tăng giới hạn).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_71">
-			<Desc>Sect disciple's Mining skill level increases by 1.</Desc>
+			<Desc>Cấp độ kỹ năng Khai thác của đệ tử môn phái tăng thêm 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_72">
-			<Desc>Sect disciple's Mining skill level increases by 2.</Desc>
+			<Desc>Cấp độ kỹ năng Khai thác của đệ tử môn phái tăng thêm 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_73">
-			<Desc>Sect disciples' Farming skill level +1 (increase cap).</Desc>
+			<Desc>Cấp độ kỹ năng Canh tác của đệ tử môn phái +1 (tăng giới hạn).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_74">
-			<Desc>Sect disciples' Farming skill level +1.</Desc>
+			<Desc>Cấp độ kỹ năng Canh tác của đệ tử môn phái +1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_75">
-			<Desc>Sect disciples' Farming skill level +2.</Desc>
+			<Desc>Cấp độ kỹ năng Canh tác của đệ tử môn phái +2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_76">
-			<Desc>Sect disciples' Construction skill level +1 (raises cap).</Desc>
+			<Desc>Cấp độ kỹ năng Kiến trúc của đệ tử môn phái +1 (tăng giới hạn).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_77">
-			<Desc>Sect Disciple Construction Skill Level +1</Desc>
+			<Desc>Cấp độ kỹ năng Kiến trúc của đệ tử môn phái +1</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_78">
-			<Desc>Sect disciple's Construction skill level increases by 2.</Desc>
+			<Desc>Cấp độ kỹ năng Kiến trúc của đệ tử môn phái tăng thêm 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_79">
-			<Desc>Sect disciples' Cooking skill level +1 (increase cap).</Desc>
+			<Desc>Cấp độ kỹ năng Nấu ăn của đệ tử môn phái +1 (tăng giới hạn).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_80">
-			<Desc>Sect Disciple Cooking Skill Level +1</Desc>
+			<Desc>Cấp độ kỹ năng Nấu ăn của đệ tử môn phái +1</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_81">
-			<Desc>Sect disciple's Cooking skill level increases by 2.</Desc>
+			<Desc>Cấp độ kỹ năng Nấu ăn của đệ tử môn phái tăng thêm 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_82">
-			<Desc>Sect disciples' charisma increases by 10%.</Desc>
+			<Desc>Mị lực của đệ tử môn phái tăng thêm 10%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_83">
-			<Desc>Sect disciples' charisma increases by 30%.</Desc>
+			<Desc>Mị lực của đệ tử môn phái tăng thêm 30%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_84">
-			<Desc>Sect disciples' charisma increases by 50%.</Desc>
+			<Desc>Mị lực của đệ tử môn phái tăng thêm 50%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_85">
-			<Desc>Sect disciples' Intelligence increases by 10%.</Desc>
+			<Desc>Ngộ tính của đệ tử môn phái tăng thêm 10%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_86">
-			<Desc>Sect disciples' Intelligence increases by 30%.</Desc>
+			<Desc>Ngộ tính của đệ tử môn phái tăng thêm 30%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_87">
-			<Desc>Sect disciples' Intelligence increases by 50%.</Desc>
+			<Desc>Ngộ tính của đệ tử môn phái tăng thêm 50%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_88">
-			<Desc>Sect disciples' opportunity +10%</Desc>
+			<Desc>Phúc duyên của đệ tử môn phái +10%</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_89">
-			<Desc>Sect disciples' luck increases by 30%.</Desc>
+			<Desc>Phúc duyên của đệ tử môn phái tăng thêm 30%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_90">
-			<Desc>Sect disciples' luck increases by 50%.</Desc>
+			<Desc>Phúc duyên của đệ tử môn phái tăng thêm 50%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_91">
-			<Desc>Sect disciples' perception increases by 10%.</Desc>
+			<Desc>Thần thức của đệ tử môn phái tăng thêm 10%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_92">
-			<Desc>Sect disciples' perception +30%</Desc>
+			<Desc>Thần thức của đệ tử môn phái +30%</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_93">
-			<Desc>Sect disciples' perception increases by 50%.</Desc>
+			<Desc>Thần thức của đệ tử môn phái tăng thêm 50%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_94">
-			<Desc>Sect disciples' constitution increases by 10%.</Desc>
+			<Desc>Căn cốt của đệ tử môn phái tăng thêm 10%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_95">
-			<Desc>Sect disciples' physique +30%</Desc>
+			<Desc>Căn cốt của đệ tử môn phái +30%</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_96">
-			<Desc>Sect disciples' constitution increases by 50%.</Desc>
+			<Desc>Căn cốt của đệ tử môn phái tăng thêm 50%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_97">
-			<Desc>Sect disciples' five attributes increase by 10%.</Desc>
+			<Desc>Ngũ phẩm chất của đệ tử môn phái tăng thêm 10%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_38">
-			<Desc>Sect disciples' five attributes increase by 30%.</Desc>
+			<Desc>Ngũ phẩm chất của đệ tử môn phái tăng thêm 30%.</Desc>
 		</Text>
 	</List>
 </Texts>
