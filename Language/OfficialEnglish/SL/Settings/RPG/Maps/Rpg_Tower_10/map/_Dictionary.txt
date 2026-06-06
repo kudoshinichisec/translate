@@ -1,0 +1,53 @@
+房间	Phòng
+农田	Ruộng
+鹿蜀皮休闲下裳	Da lộc thục Hưu Nhàn Hạ Thường
+角色出生点	Điểm sinh nhân vật
+逻辑点	Điểm logic
+大理石床	Giường đá cẩm thạch
+天柱石墙	Tường Thiên trụ thạch
+天柱石门	Cổng Đá Thiên Trụ
+木栅栏	Hàng rào gỗ
+灵石炉灶	Bếp Lò Linh Thạch
+灵石水缸	Linh Thạch Chum Nước
+玄铁假人桩	Cọc giả nhân Huyền thiết
+玄铁水井	Giếng nước huyền thiết
+玄铁灯笼	Đèn Lồng Huyền Thiết
+木砍柴处	Nơi đốn củi gỗ
+灵石磨坊	Xưởng Xay Linh Thạch
+帝	Đế
+归	Quy
+身躯	Thân mình
+混元臂·左	Cánh tay Hỗn Nguyên - trái
+混元臂·右	Hỗn nguyên Cánh Tay·Phải
+天盾腿·左	Thiên thuẫn chân·trái
+天盾腿·右	Thiên Thuẫn Chân·Phải
+五行拳	Quyền Ngũ Hành
+鹰熊合形	Ưng Hùng Hợp Hình
+撼渊腿·左	Chân Hãm Uyên·Trái
+撼渊腿·右	Hám Uyên Chân·Phải
+九岳御天顶	Cửu Nhạc Ngự Thiên Đỉnh
+无形手·右	Vô Hình Tay·Phải
+焚神掌·左	Chưởng thiêu thần·Trái
+玄木盘根腿	Huyền Mộc Bàn Căn Chân
+六御摘雷手·右	Lục Ngự Trích Lôi Thủ · Hữu
+吞灵灭劫圈	Thôn Linh Diệt Kiếp Hoàn
+蛮极不灭体	Man Cực Bất Diệt Thể
+虚化之体	Hư Hóa Chi Thể
+洞真之体	Động Chân Chi Thể
+外骨邪甲	Ngoại cốt tà giáp
+真阳玲珑心	Tâm Linh Lung Chân Dương
+玄阴琉璃心	Huyền Âm Lưu Ly Tâm
+天龙脊	Thiên Long Tích
+天地洪炉	Hồng Lô Thiên Địa
+蛮极战意	Man Cực Chiến Ý
+吞尽之口	Thôn Tận Chi Khẩu
+斥异之体	Thể Xua Dị Chất
+禄	Lộc
+峰	Phong
+昌	Xương
+凌珍	Lăng Trân
+最初者	Người khởi đầu
+哟？难得有外人前来？稀客稀客!	Ồ? Hiếm khi có người ngoài tới thăm? Quý khách quý khách!
+来来来，让我打一拳先，这个鬼地方，真是闷出鸟了！	Lại đây, để ta đấm một quyền trước, cái chỗ quỷ quái này thực sự ngột ngạt chết đi được!
+
+

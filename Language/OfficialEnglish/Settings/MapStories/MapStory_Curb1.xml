@@ -1,0 +1,23 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="BuildCurb1">
+			<DisplayName>Cản trở</DisplayName>
+			<Desc>Trong quá trình xây dựng kỳ quan, đột nhiên có vài người đến gây rối, họ nói phong thủy nơi đây không tốt.</Desc>
+			<Selections.0.Display>Dùng gậy đánh chết họ</Selections.0.Display>
+			<Selections.1.Display>Tranh luận về phong thủy với họ</Selections.1.Display>
+		</Text>
+		<Text Name="BuildCurb2">
+			<DisplayName>Cản trở</DisplayName>
+			<Desc>Trong quá trình xây dựng kỳ quan, đột nhiên có vài người đến hỏi đang làm gì.</Desc>
+			<Selections.0.Display>Không để ý đến họ</Selections.0.Display>
+			<Selections.1.Display>Giải thích</Selections.1.Display>
+		</Text>
+		<Text Name="BuildCurb3">
+			<DisplayName>Cản trở</DisplayName>
+			<Desc>Trong quá trình xây dựng kỳ quan, có một nhóm người muốn trao thưởng cho chúng tôi.</Desc>
+			<Selections.0.Display>Bảo họ ngày mai quay lại</Selections.0.Display>
+			<Selections.1.Display>Nhận thưởng</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>
+

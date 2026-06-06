@@ -1,0 +1,29 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Body_ModifierTest">
+			<Desc>Thực hiện thần thông có modifier, thi triển lại sẽ loại bỏ.</Desc>
+		</Text>
+		<Text Name="Magic_Body_JingXi">
+			<DisplayName>Kình Tức Thổ Nạp Pháp</DisplayName>
+			<Desc>Tại địa điểm mục tiêu, thực hiện hô hấp mãnh liệt, hiệu suất gấp 100 lần bình thường. Sau khi thi triển pháp này, phổi sẽ chịu tải quá lớn, hiệu suất hô hấp giảm đáng kể trong 10 ngày.</Desc>
+			<TargetDesc>Chọn một địa điểm để thực hiện hô hấp.</TargetDesc>
+		</Text>
+		<Text Name="Magic_Body_TuJin">
+			<DisplayName>Thôn Tận Chi Khẩu</DisplayName>
+			<Desc>Kích hoạt miệng nuốt tận cùng, tăng tốc vận hành cơ năng cơ thể và cưỡng ép hấp thụ dưỡng chất từ trời đất để bổ sung bản thân. Thi triển lại kỹ năng sẽ dừng hiệu quả này.</Desc>
+		</Text>
+		<Text Name="Magic_Body_ChiYi1">
+			<DisplayName>Thử Sinh Thúc Hốt</DisplayName>
+			<Desc>Sử dụng chân khí sinh ra từ thể bài dị để vận hành khắp cơ thể, tăng tốc độ tiêu hao sinh mệnh và tốc độ luyện thể đáng kể. Thi triển lại kỹ năng sẽ dừng hiệu quả này.</Desc>
+		</Text>
+		<Text Name="Magic_Body_ChiYi2">
+			<DisplayName>Thử Sinh Hư Vọng</DisplayName>
+			<Desc>Sử dụng chân khí sinh ra từ thể bài dị để vận hành khắp cơ thể, tăng tốc độ tiêu hao sinh mệnh và hiệu suất luyện thể đáng kể. Thi triển lại kỹ năng sẽ dừng hiệu quả này.</Desc>
+		</Text>
+		<Text Name="Magic_Body_Banyunqixue">
+			<DisplayName>Vận chuyển khí huyết</DisplayName>
+			<Desc>Tiêu hao 50 tinh hoa sinh cơ, vận chuyển khí huyết toàn thân, phục hồi thương tổn bản thân, kéo dài 100 giây.</Desc>
+		</Text>
+	</List>
+</Texts>
+

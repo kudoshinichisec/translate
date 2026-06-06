@@ -1,0 +1,78 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="All">
+			<PeferEnvironment.Desc>Thích</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Snake">
+			<NaiveTalk>Xì xì, xì xì xì xì!</NaiveTalk>
+			<PeferEnvironment.LightDesc>Thích ở trong nhà.</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Chỉ thích động vật nhỏ.</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Chỉ thích động vật nhỏ.\nThích ở trong nhà.\n</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Bear">
+			<NaiveTalk>Hú hú, hú hú hú!</NaiveTalk>
+			<PeferEnvironment.LightDesc>Thích ở ngoài trời</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Thích có động vật ăn cỏ ở gần</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Thích có động vật ăn cỏ ở gần.\nThích ở ngoài trời.\n</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Rabbit">
+			<NaiveTalk>Gù gù, gù gù u u!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Thích có cỏ dại ở gần</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Thích ở ngoài trời</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Chỉ thích đồng loại</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Thích có cỏ dại ở gần.\nThích ở ngoài trời. Chỉ thích đồng loại.\n</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Chicken">
+			<NaiveTalk>Cục cục, cục cục tác!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Thích có lúa mì ở gần</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Thích ở ngoài trời</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Ghét động vật ăn thịt</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Thích có lúa mì ở gần.\nThích ở ngoài trời. Ghét động vật ăn thịt.\n</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Wolf">
+			<NaiveTalk>Gào ú, gào ú!</NaiveTalk>
+			<PeferEnvironment.LightDesc>Thích ở ngoài trời</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Chỉ thích đồng loại</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Thích đồng loại. Thích ở ngoài trời.\n</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Boar">
+			<NaiveTalk>Hừ hừ, hừ hừ!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Thích có nấm ở gần</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Thích ở ngoài trời</PeferEnvironment.LightDesc>
+			<PeferEnvironment.Desc>Thích có nấm ở gần. Thích ở ngoài trời.\n</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Frog">
+			<NaiveTalk>Kêu quạc quạc, quạc quạc!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Thích có hoa sen ở gần</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Thích ở ngoài trời</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Ghét động vật ăn thịt</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Thích có hoa sen ở gần. Thích ở ngoài trời.\nKhông thích động vật ăn thịt.\n</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Turtle">
+			<NaiveTalk>Cà la, cà la!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Thích có lau sậy ở gần</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Thích ở trong nhà</PeferEnvironment.LightDesc>
+			<PeferEnvironment.Desc>Thích có lau sậy ở gần. Thích ở trong nhà.\n</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Cat">
+			<NaiveTalk>Meo, meo u!</NaiveTalk>
+			<PeferEnvironment.LightDesc>Thích ở trong nhà</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Ghét bất kỳ loài động vật nào khác</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Thích ở trong nhà. Ghét bất kỳ loài động vật nào khác.\n</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Tiger">
+			<NaiveTalk>Gầm gừ, gầm gừ!</NaiveTalk>
+			<PeferEnvironment.LightDesc>Thích ở ngoài trời</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Ghét bất kỳ loài động vật nào khác</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Thích ở ngoài trời. Ghét bất kỳ loài động vật nào khác.\n</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Cattle">
+			<NaiveTalk>Moo moo moo, moo moo!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Thích có cỏ dài ở gần</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Thích ở ngoài trời</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Ghét bất kỳ động vật ăn thịt nào</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Thích có cỏ dài ở gần. Thích ở ngoài trời.\nGhét bất kỳ động vật ăn thịt nào.\n</PeferEnvironment.Desc>
+		</Text>
+	</List>
+</Texts>
+

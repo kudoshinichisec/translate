@@ -1,0 +1,406 @@
+<SpecialNames>
+  <List>
+	<SpecialItem Name="Item_HomeFood">
+		<Item_TurtleEgg>
+			<li Name="Quy Đản Bố Đinh" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Quy Đản Canh" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Toan Lạt Quy Đản Thang" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Cửu Thái Tiên Quy Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Sinh Quy Đản Phan Phạn" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Quy Đản Sao Phạn" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Thủy Chử Quy Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Mao Quy Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+		</Item_TurtleEgg>
+		<Item_SnakeEgg>
+			<li Name="Xà Đản Bố Đinh" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Xà Đản Canh" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Toan Lạt Xà Đản Thang" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Cửu Thái Tiên Xà Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Sinh Xà Đản Phan Phạn" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Xà Đản Sao Phạn" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Thủy Chử Xà Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Mao Xà Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+		</Item_SnakeEgg>
+		<Item_ChickenEgg>
+			<li Name="Kê Đản Bố Đinh" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Kê Đản Canh" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Toan Lạt Kê Đản Thang" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Cửu Thái Tiên Kê Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Sinh Kê Đản Phan Phạn" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Kê Đản Sao Phạn" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Thủy Chử Kê Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Mao Kê Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+		</Item_ChickenEgg>
+		<Item_BoarMeat>
+			<li Name="Trư Cốt Thang Phạn" Desc="" />
+			<li Name="Trư Nhục Bính" Desc="" />
+			<li Name="Dã Trư Nhục Sao Phạn" Desc="" />
+			<li Name="Trư Nhục Quyển" Desc="" />
+			<li Name="Trư Nhục Đôn La Bặc" Desc="" />
+			<li Name="Trư Nhục Đôn Phấn Điều" Desc="" />
+			<li Name="Tiêm Tiêu Nhục Ti" Desc="" />
+			<li Name="Tạc Trư Nhục Bài" Desc="" />
+			<li Name="Thán Khảo Dã Trư Thối" Desc="" />
+		</Item_BoarMeat>
+		<Item_ChickenMeat>
+			<li Name="Đôn Kê Nhục" Desc="" />
+			<li Name="Kê Nhục Bính" Desc="" />
+			<li Name="Kê Nhục Sao Phạn" Desc="" />
+			<li Name="Khảo Kê Sí" Desc="" />
+			<li Name="Kê Sí Phạn" Desc="" />
+			<li Name="Kê Ti Diện" Desc="" />
+		</Item_ChickenMeat>
+		<Item_Beef>
+			<li Name="Ngưu Nhục Phạn" Desc="" />
+			<li Name="Lỗ Ngưu Nhục" Desc="" />
+			<li Name="Ngưu Nhục Canh" Desc="" />
+			<li Name="Thổ Đậu Đôn Ngưu Nhục" Desc="" />
+			<li Name="Tiểu Sao Ngưu Nhục" Desc="" />
+			<li Name="Thán Khảo Ngưu Thối" Desc="" />
+			<li Name="Lạt Sao Ngưu Nhục" Desc="" />
+			<li Name="Ngưu Nhục Sao Phạn" Desc="" />
+			<li Name="Ngưu Cốt Nùng Thang" Desc="" />
+		</Item_Beef>
+		<Item_RabbitMeat>
+			<li Name="Khảo Thỏ Nhục" Desc="" />
+			<li Name="Thỏ Nhục Quyển" Desc="" />
+			<li Name="Thỏ Nhục Đinh Sao Phạn" Desc="" />
+			<li Name="Lỗ Thủy Thỏ Nhục" Desc="" />
+			<li Name="Thỏ Nhục Đôn La Bặc" Desc="" />
+			<li Name="Muộn Thỏ Nhục" Desc="" />
+			<li Name="Ma Lạt Thỏ Nhục" Desc="" />
+			<li Name="Mật Trấp Thỏ" Desc="" />
+			<li Name="Thán Khảo Thỏ Nhục" Desc="" />
+		</Item_RabbitMeat>
+		<Item_WolfMeat>
+			<li Name="Khảo Lang Nhục" Desc="" />
+			<li Name="Thô Diêm Lang Nhục" Desc="" />
+			<li Name="Khảo Lang Lặc Bài" Desc="" />
+			<li Name="Thủ Trảo Lang Nhục" Desc="" />
+			<li Name="Hồng Muộn Lang Nhục" Desc="" />
+			<li Name="Hồng Thiêu Lang Nhục" Desc="" />
+			<li Name="Thán Khảo Lang Thối Nhục" Desc="" />
+		</Item_WolfMeat>
+		<Item_FishMeat>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Item_FishMeat>
+		<Item_SnakeMeat>
+			<li Name="Xà Nhục Canh" Desc="" />
+			<li Name="Cán Tạc Xà Đoạn" Desc="" />
+			<li Name="Khẩu Vị Xà" Desc="" />
+			<li Name="Hồng Thiêu Xà Nhục" Desc="" />
+			<li Name="Cán Biên Xà Nhục" Desc="" />
+			<li Name="Hương Lạt Xà Nhục" Desc="" />
+			<li Name="Lương Phan Xà Bì" Desc="" />
+		</Item_SnakeMeat>
+		<Item_Wheat>
+			<li Name="Man Đầu" Desc="" />
+			<li Name="Hoa Quyển" Desc="" />
+			<li Name="Đam Đam Diện" Desc="" />
+			<li Name="Lạp Diện" Desc="" />
+			<li Name="Đả Lỗ Diện" Desc="" />
+			<li Name="Tiên Bính" Desc="" />
+			<li Name="Ma Du Diện" Desc="" />
+			<li Name="Thanh Thang Diện" Desc="" />
+			<li Name="Kê Ti Diện" Desc="" />
+		</Item_Wheat>
+		<Item_Flour>
+			<li Name="Man Đầu" Desc="" />
+			<li Name="Hoa Quyển" Desc="" />
+			<li Name="Đam Đam Diện" Desc="" />
+			<li Name="Lạp Diện" Desc="" />
+			<li Name="Đả Lỗ Diện" Desc="" />
+			<li Name="Tiên Bính" Desc="" />
+			<li Name="Ma Du Diện" Desc="" />
+			<li Name="Thanh Thang Diện" Desc="" />
+			<li Name="Kê Ti Diện" Desc="" />
+		</Item_Flour>
+		<Item_Mushroom>
+			<li Name="Ma Cô Thang" Desc="" />
+			<li Name="Thanh Sao Ma Cô" Desc="" />
+			<li Name="Cán Tạc Ma Cô" Desc="" />
+			<li Name="Ma Cô Sao Phạn" Desc="" />
+			<li Name="Ma Cô Sao Nhục Đinh" Desc="" />
+		</Item_Mushroom>
+		<Item_Lotusroot>
+			<li Name="Thanh Sao Liên Ngẫu" Desc="" />
+			<li Name="Thúy Sao Ngẫu Đinh" Desc="" />
+			<li Name="Lỗ Ngẫu Phiến" Desc="" />
+			<li Name="Liên Ngẫu Trư Cốt Thang" Desc="" />
+			<li Name="Liên Ngẫu Đôn Bài Cốt" Desc="" />
+			<li Name="Ngẫu Phấn" Desc="" />
+		</Item_Lotusroot>
+		<Item_Pear>
+			<li Name="Tuyết Lê Đôn Kê Thang" Desc="" />
+			<li Name="Lê Chung Phạn" Desc="" />
+			<li Name="Thu Lê Thang" Desc="" />
+			<li Name="Sơn Tra Hồng Tảo Bảo Tuyết Lê" Desc="" />
+			<li Name="Đàm Hoa Thủy Lê Thang" Desc="" />
+		</Item_Pear>
+		<Item_Fruit>
+			<li Name="Sa Cức Đôn Đậu Hủ" Desc="" />
+			<li Name="Sa Cức Sơn Dược Canh" Desc="" />
+			<li Name="Sa Cức Phạn" Desc="" />
+			<li Name="Sa Cức Trấp" Desc="" />
+			<li Name="Toan Quả Trấp" Desc="" />
+			<li Name="Toan Quả Sao Phạn" Desc="" />
+			<li Name="Toan Quả Ngư Thang" Desc="" />
+		</Item_Fruit>
+		<Item_FrogMeat>
+			<li Name="Cán Oa Điền Kê" Desc="" />
+			<li Name="Hương Tô Điền Kê Thối" Desc="" />
+		</Item_FrogMeat>
+		<Item_TurtleMeat>
+			<li Name="Hồng Muộn Quy Nhục" Desc="" />
+			<li Name="Giáp Ngư Thang" Desc="" />
+		</Item_TurtleMeat>
+		<Item_BearMeat>
+			<li Name="Hồng Thiêu Hùng Nhục" Desc="" />
+			<li Name="Đại Đao Hồng Du Hùng Nhục Phiến" Desc="" />
+		</Item_BearMeat>
+	</SpecialItem>
+	<SpecialItem Name="Item_DeliciousFood">
+		<Item_TurtleEgg>
+			<li Name="Ngũ Hương Lỗ Quy Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Bí Chế Hàm Quy Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Quả Mộc Khảo Quy Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Hương Tiên Quy Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Chích Khảo Quy Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Hổ Bì Quy Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+		</Item_TurtleEgg>
+		<Item_SnakeEgg>
+			<li Name="Ngũ Hương Lỗ Xà Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Bí Chế Hàm Xà Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Quả Mộc Khảo Xà Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Hương Tiên Xà Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Chích Khảo Xà Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Hổ Bì Xà Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+		</Item_SnakeEgg>
+		<Item_ChickenEgg>
+			<li Name="Ngũ Hương Lỗ Kê Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Bí Chế Hàm Kê Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Quả Mộc Khảo Kê Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Hương Tiên Kê Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Chích Khảo Kê Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Hổ Bì Kê Đản" Desc="【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+		</Item_ChickenEgg>
+		<Item_BoarMeat>
+			<li Name="Lỗ Trư Nhĩ" Desc="" />
+			<li Name="Trư Nhục Hoàn Tử" Desc="" />
+			<li Name="Hồng Thiêu Trư Đề" Desc="" />
+			<li Name="Hồng Tiêu Bạo Sao Dã Trư Nhục" Desc="" />
+			<li Name="Trư Nhục Giáo Tử" Desc="" />
+			<li Name="Mật Trấp Trư Nhục Bô" Desc="" />
+			<li Name="Thông Hương Khảo Trư Nhục Điều" Desc="" />
+			<li Name="Tương Hương Lý Tích Ti" Desc="" />
+			<li Name="Mật Trấp Trư Nhục Bô" Desc="" />
+		</Item_BoarMeat>
+		<Item_ChickenMeat>
+			<li Name="Cung Bảo Kê Đinh" Desc="" />
+			<li Name="Đại Kê Bài" Desc="" />
+			<li Name="Tạc Kê Thối" Desc="" />
+		</Item_ChickenMeat>
+		<Item_Beef>
+			<li Name="Thủy Chử Ngưu Nhục" Desc="" />
+			<li Name="Thượng Thang Phì Ngưu" Desc="" />
+			<li Name="Đôn Chử Ngưu Đề Cân" Desc="" />
+			<li Name="Ngưu Nhục Hoàn" Desc="" />
+			<li Name="Ngưu Nhục Giáo Tử" Desc="" />
+			<li Name="Bạo Sao Ngưu Nhục Ti" Desc="" />
+			<li Name="Sa Oa Ngưu Nhục" Desc="" />
+			<li Name="Ngưu Nhục Loạn Đôn" Desc="" />
+			<li Name="Hoàng Kim Ngưu Nhục" Desc="" />
+		</Item_Beef>
+		<Item_RabbitMeat>
+			<li Name="Hương Lạt Thỏ Đầu" Desc="" />
+			<li Name="Khảo Toàn Thỏ" Desc="" />
+			<li Name="Hương Lạt Bạo Sao Thỏ Đinh" Desc="" />
+			<li Name="Thúy Bì Thỏ" Desc="" />
+			<li Name="Tiêu Diêm Thỏ" Desc="" />
+			<li Name="Khương Thông Muộn Thỏ Nhục" Desc="" />
+			<li Name="Bích Sơn Thỏ" Desc="" />
+			<li Name="Khiêu Thủy Thỏ" Desc="" />
+			<li Name="Trám Thủy Thỏ Nhục" Desc="" />
+		</Item_RabbitMeat>
+		<Item_WolfMeat>
+			<li Name="Đôn Lang Nhục" Desc="" />
+			<li Name="Sơn Tiêu Lang Nhục" Desc="" />
+			<li Name="Tư Nhiên Lang Nhục" Desc="" />
+			<li Name="Khương Bạo Lang Nhục" Desc="" />
+		</Item_WolfMeat>
+		<Item_FishMeat>
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Item_FishMeat>
+		<Item_SnakeMeat>
+			<li Name="Khẩu Thủy Xà" Desc="" />
+			<li Name="Thủy Xà Chúc" Desc="" />
+			<li Name="Thanh Đôn Xà Nhục" Desc="" />
+			<li Name="Hoàng Muộn Xà" Desc="" />
+			<li Name="Thông Bạo Xà Đoạn" Desc="" />
+			<li Name="Kim Châm Xà Ti" Desc="" />
+			<li Name="Kim Long Thang" Desc="" />
+			<li Name="Ngũ Thải Sao Xà Ti" Desc="" />
+			<li Name="Tam Khuẩn Xà Nhục" Desc="" />
+		</Item_SnakeMeat>
+		<Item_Wheat>
+			<li Name="Long Tu Diện" Desc="" />
+			<li Name="Chùy Diện" Desc="" />
+			<li Name="Suất Diện" Desc="" />
+			<li Name="Muộn Diện" Desc="" />
+			<li Name="Phô Cái Diện" Desc="" />
+			<li Name="Thu Phiến" Desc="" />
+			<li Name="Đậu Sa Bao" Desc="" />
+			<li Name="Nãi Hoàng Bao" Desc="" />
+			<li Name="Đường Bao" Desc="" />
+			<li Name="Lạc Bính" Desc="" />
+		</Item_Wheat>
+		<Item_Flour>
+			<li Name="Long Tu Diện" Desc="" />
+			<li Name="Chùy Diện" Desc="" />
+			<li Name="Suất Diện" Desc="" />
+			<li Name="Muộn Diện" Desc="" />
+			<li Name="Phô Cái Diện" Desc="" />
+			<li Name="Thu Phiến" Desc="" />
+			<li Name="Đậu Sa Bao" Desc="" />
+			<li Name="Nãi Hoàng Bao" Desc="" />
+			<li Name="Đường Bao" Desc="" />
+			<li Name="Lạc Bính" Desc="" />
+		</Item_Flour>
+		<Item_Mushroom>
+			<li Name="Tiên Ma Bát Bảo Quái" Desc="" />
+			<li Name="Ma Cô Cao Thang Kiêu Phạn" Desc="" />
+			<li Name="Khảo Ma Cô" Desc="" />
+			<li Name="Ma Cô Đôn Thổ Đậu" Desc="" />
+			<li Name="Ma Cô Quyển" Desc="" />
+			<li Name="Ngũ Thải Ma Cô Bính" Desc="" />
+			<li Name="Toán Khảo Kim Châm Cô" Desc="" />
+		</Item_Mushroom>
+		<Item_Lotusroot>
+			<li Name="Ngẫu Hạp" Desc="" />
+			<li Name="Toan Mai Liên Ngẫu Thang" Desc="" />
+			<li Name="Đường Thố Ngẫu Phiến" Desc="" />
+			<li Name="Ngẫu Tâm Chưng Phạn" Desc="" />
+			<li Name="Ngũ Hương Liên Ngẫu" Desc="" />
+		</Item_Lotusroot>
+		<Item_Pear>
+			<li Name="Bách Hợp Băng Lê Phiến" Desc="" />
+			<li Name="Mật Lê Song Trùng Ẩm" Desc="" />
+			<li Name="Ngân Nhĩ Nhưỡng Tiểu Lê" Desc="" />
+			<li Name="Thu Lê Cao" Desc="" />
+		</Item_Pear>
+		<Item_Fruit>
+			<li Name="Sa Cức Cao" Desc="" />
+			<li Name="Sa Cức Lục Đậu Tương" Desc="" />
+			<li Name="Thủy Tinh Sa Cức" Desc="" />
+			<li Name="Toan Quả Tương Khảo Nhục" Desc="" />
+			<li Name="Toan Quả Khảo Bính" Desc="" />
+			<li Name="Toan Quả Muộn Ngư" Desc="" />
+		</Item_Fruit>
+		<Item_FrogMeat>
+			<li Name="Cán Oa Điền Kê" Desc="" />
+			<li Name="Hương Tô Điền Kê Thối" Desc="" />
+		</Item_FrogMeat>
+		
+		<Item_TurtleMeat>
+			<li Name="Hồng Muộn Quy Nhục" Desc="" />
+			<li Name="Giáp Ngư Thang" Desc="" />
+		</Item_TurtleMeat>
+		
+		<Item_BearMeat>
+			<li Name="Chưng Hùng Chưởng" Desc="" />
+			<li Name="Hồng Thiêu Hùng Chưởng" Desc="" />
+		</Item_BearMeat>
+	</SpecialItem>
+	<SpecialItem Name="Item_DelicacyFood">
+		<Item_TurtleEgg>
+			<li Name="Ngũ Sắc Quái Đản" Desc="Nấu chín nguyên liệu bằng nước nhiều lần cho đến khi thành hình rồi cắt lát, rắc bột từ năm loại linh quả đã nghiền lên, đảo đều bằng phương pháp đặc biệt. Vị ngọt ngào, dễ ăn mà không ngấy. 【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Long Tức Đản" Desc=" Hầm nguyên liệu bằng tro cây phượng cao nhiệt độ trong bảy giờ, không thêm bất kỳ vật liệu nào khác, để hương vị của trứng phát huy tối đa, đồng thời có chút hương trái cây và cảm giác bùng nổ của sức mạnh lửa khiến người ta nhớ mãi. 【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+		</Item_TurtleEgg>
+		<Item_SnakeEgg>
+			<li Name="Ngũ Sắc Quái Đản" Desc="Nấu chín nguyên liệu bằng nước nhiều lần cho đến khi thành hình rồi cắt lát, rắc bột từ năm loại linh quả đã nghiền lên, đảo đều bằng phương pháp đặc biệt. Vị ngọt ngào, dễ ăn mà không ngấy. 【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Long Tức Đản" Desc=" Hầm nguyên liệu bằng tro cây phượng cao nhiệt độ trong bảy giờ, không thêm bất kỳ vật liệu nào khác, để hương vị của trứng phát huy tối đa, đồng thời có chút hương trái cây và cảm giác bùng nổ của sức mạnh lửa khiến người ta nhớ mãi. 【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+		</Item_SnakeEgg>
+		<Item_ChickenEgg>
+			<li Name="Ngũ Sắc Quái Đản" Desc="Nấu chín nguyên liệu bằng nước nhiều lần cho đến khi thành hình rồi cắt lát, rắc bột từ năm loại linh quả đã nghiền lên, đảo đều bằng phương pháp đặc biệt. Vị ngọt ngào, dễ ăn mà không ngấy. 【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+			<li Name="Long Tức Đản" Desc=" Hầm nguyên liệu bằng tro cây phượng cao nhiệt độ trong bảy giờ, không thêm bất kỳ vật liệu nào khác, để hương vị của trứng phát huy tối đa, đồng thời có chút hương trái cây và cảm giác bùng nổ của sức mạnh lửa khiến người ta nhớ mãi. 【Cảm ơn: Nhân Giới Lầu cung cấp công thức.】" />
+		</Item_ChickenEgg>
+		<Item_BoarMeat>
+			<li Name="Khoáng Dã Chi Phong" Desc="Nướng thịt đùi lợn bằng lửa lớn với độ khó cao, tạo thành ba lớp cảm giác khác biệt: lớp ngoài giòn rụm cay nồng, lớp giữa dai dẳng, lớp trong mọng nước mềm mại, ăn xong như lạc vào đồng cỏ, là món ăn mang đậm phong cách thảo nguyên." />
+			<li Name="Nhị Thập Tứ Kiều Minh Nguyệt Dạ" Desc="Cắt thịt lợn rừng thành sợi, ướp cho thấm vị, sau đó cuộn vào viên đậu hủ, làm thành hai mươi bốn viên, cho vào nước dùng ninh nhỏ lửa cho đến khi nước dùng cạn, tạo thành món ăn sang trọng." />
+		</Item_BoarMeat>
+		<Item_Beef>
+			<li Name="Lục Liễu Phù Phong" Desc="Cắt thịt bò thành sợi mỏng, xào ở mức độ cao, bày ra đĩa, có vị thanh nhẹ nhưng để lại dư vị không thể quên. Do sợi thịt mỏng manh nên rất thấm gia vị, nhưng nếu không cẩn thận sẽ làm mất độ chín, khiến thịt trở nên dai." />
+			<li Name="Tam Ti Ngưu Thiệt" Desc="Lưỡi bò có vị ngọt ngào, thịt cực kỳ mềm, lưỡi bò ba sợi càng phát huy đặc tính này đến mức tối đa, chỉ với rất ít gia vị để làm nổi bật hương vị và cảm giác của lưỡi bò." />
+		</Item_Beef>
+		<Item_RabbitMeat>
+			<li Name="Thủy Tinh Thỏ" Desc="Nấu thịt thỏ bằng phương pháp đặc biệt, khiến nó trong suốt như pha lê. Cảm giác giòn ngon, là món ăn hội tụ đầy đủ hương sắc." />
+			<li Name="Ngũ Tiên Thỏ" Desc="Xào thịt thỏ với năm loại gia vị, năm hương vị đan xen làm nổi bật từng lớp thịt thỏ. Điểm khó nằm ở việc kiểm soát độ lửa, một khi mất cân bằng sẽ làm gia vị lẫn lộn, phá hủy sự phân tầng của hương vị." />
+		</Item_RabbitMeat>
+		<Item_WolfMeat>
+			<li Name="Thiên Cẩu Thôn Nhật" Desc="Nấu súp thịt sói bằng tương và hàng chục loại nguyên liệu, ban đầu nhìn không thấy điều kỳ diệu, nhưng khi từng chút nước dùng được uống, các nguyên liệu lần lượt lộ ra, mỗi loại đều có hương vị riêng." />
+			<li Name="Liệt Hỏa Chước Tâm" Desc="Thịt lưng sói được xào đi xào lại với ớt, ngay cả trong mùa đông lạnh giá, khi ăn cũng cảm thấy toàn thân nóng ấm, có vị tươi ngon và cay nồng, không thể dừng lại." />
+		</Item_WolfMeat>
+		<Item_FishMeat>
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Item_FishMeat>
+		<Item_SnakeMeat>
+			<li Name="Long Phượng Trình Tường" Desc="Ướp thịt rắn và thịt gà trước, sau đó cho vào nồi súp ninh nhỏ lửa cho đến khi nước cạn, hương thơm của hai loại thịt hòa quyện, tạo nên hương vị tuyệt vời." />
+			<li Name="Quy Xà Bàn" Desc="Nấu chung thịt rùa và thịt rắn, thịt rùa và thịt rắn có cảm giác dai và thấm gia vị, là món ăn bổ dưỡng." />
+		</Item_SnakeMeat>
+		<Item_Flour>
+			<li Name="Tam Thiên Phiền Não" Desc="Món mì mảnh như sợi tóc, kèm theo bốn loại nước sốt đặc chế, rất thấm vị và tan ngay trong miệng, là nghệ thuật của món mì." />
+			<li Name="Quán Thang Ngũ Đức Đại Bao" Desc="Món ăn truyền từ cung đình, chia thành năm ngăn trong một chiếc bánh lớn, nhồi năm loại nhân đặc trưng, tượng trưng cho năm đức: nhân, nghĩa, lễ, trí, tín. Nếu hấp bằng lửa nhỏ, thì sẽ có đủ hương vị; nếu hấp bằng lửa lớn, vỏ bánh mỏng sẽ bị vỡ do áp lực, nước sốt sẽ hòa trộn ngẫu nhiên, tạo ra vô vàn hương vị khác nhau." />
+			<li Name="Thủ Tê Bao" Desc="Món mì đặc chế đến từ một thành phố ven biển phía Nam, xốp mềm ngọt ngào, khi ăn có vị thơm ngon tuyệt vời. Nó gửi gắm kỷ niệm của thành phố đó." />
+		</Item_Flour>
+		<Item_Wheat>
+			<li Name="Tam Thiên Phiền Não" Desc="Món mì mảnh như sợi tóc, kèm theo bốn loại nước sốt đặc chế, rất thấm vị và tan ngay trong miệng, là nghệ thuật của món mì." />
+			<li Name="Quán Thang Ngũ Đức Đại Bao" Desc="Món ăn truyền từ cung đình, chia thành năm ngăn trong một chiếc bánh lớn, nhồi năm loại nhân đặc trưng, tượng trưng cho năm đức: nhân, nghĩa, lễ, trí, tín. Nếu hấp bằng lửa nhỏ, thì sẽ có đủ hương vị; nếu hấp bằng lửa lớn, vỏ bánh mỏng sẽ bị vỡ do áp lực, nước sốt sẽ hòa trộn ngẫu nhiên, tạo ra vô vàn hương vị khác nhau." />
+		</Item_Wheat>
+		<Item_Mushroom>
+			<li Name="Thiên Nhai Tiểu Vũ Nhuận Như Tô" Desc="Đặt nấm có hình dáng hoàn hảo lên trên đậu hũ trắng, và trong quá trình hấp, liên tục rưới nước sốt đặc chế lên. Khi lấy ra, nấm vẫn còn đọng giọt nước, vì vậy được gọi là món này." />
+		</Item_Mushroom>
+		<Item_Lotusroot>
+			<li Name="Thất Xảo Chưng Hồng Ngẫu" Desc="Ban đầu là món ăn dùng để cúng trời, sau này lưu truyền trong dân gian trở thành món ăn nổi tiếng. Lấy củ sen lớn có bảy lỗ làm nguyên liệu chính, nhồi vào bốn loại thịt đặc chế, hấp chín rồi cắt lát bày ra đĩa. Mặc dù quy trình đơn giản, nhưng yêu cầu rất cao về nguyên liệu và tay nghề." />
+			<li Name="Dược Long Môn" Desc="Cắt bỏ hai đầu củ sen lớn, thông lỗ giữa. Sau đó đặt vào nồi đặc chế, một bên cho nước dùng nóng với đá, một bên cho nước trong và cho cá nhỏ đặc sản từ Vân Mộng Trạch vào, sau đó đun lửa lớn, rồi dọn lên bàn." />
+		</Item_Lotusroot>
+		<Item_Pear>
+			<li Name="Thủy Tinh Lê Điêu" Desc="Đóng băng nhanh những quả lê chất lượng, sau đó lột vỏ, thịt lê sẽ trở thành chất liệu trong suốt. Trong thời gian rất ngắn, điêu khắc thành nhiều hình dạng để trình bày, trong làn sương trắng, những tác phẩm điêu khắc trong suốt hiện ra mờ ảo, khi ăn có vị lạnh ngọt ngào. Là món ăn hội tụ đủ sắc hương vị." />
+			<li Name="Băng Khánh Thiền Dực" Desc="Lột vỏ những quả lê tuyết hảo hạng, sau đó cắt thành lát mỏng như cánh ve, xếp chồng lên nhau bên trong bình đá làm từ nước gừng đường. Khi ăn, lát lê mỏng như cánh ve ngọt giòn, ăn xong có thể uống nước dùng từ đá tan chảy. Dù là món lạnh nhưng lại là món ngon không phân biệt mùa." />
+		</Item_Pear>
+		<Item_Fruit>
+			<li Name="Bách Quả Hối" Desc="Sử dụng những quả dâu hoang dã thông thường làm nguyên liệu, với tay nghề và nguyên liệu cao siêu chế biến thành nhiều hương vị trái cây khác nhau, sau đó hòa trộn vào một bát, không có tay nghề cao siêu không thể hoàn thành món ăn này." />
+		</Item_Fruit>
+		<Item_FrogMeat>
+			<li Name="Cán Oa Điền Kê" Desc="" />
+			<li Name="Hương Tô Điền Kê Thối" Desc="" />
+		</Item_FrogMeat>
+		<Item_TurtleMeat>
+			<li Name="Quy Xà Bàn" Desc="Nấu chung thịt rùa và thịt rắn, thịt rùa và thịt rắn có cảm giác dai và thấm gia vị, là món ăn bổ dưỡng." />
+		</Item_TurtleMeat>
+		<Item_BearMeat>
+			<li Name="Thủy Tinh Hùng Chưởng" Desc="" />
+		</Item_BearMeat>
+		
+		<Item_ChickenMeat>
+			<li Name="Kim Đề Báo Hiểu" Desc="" />
+		</Item_ChickenMeat>
+	</SpecialItem>
+</List>
+</SpecialNames>
+

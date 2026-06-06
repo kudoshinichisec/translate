@@ -1,0 +1,23 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Story_QuestStory_Item_ShangGuYiWenLu">
+			<DisplayName>Tra cứu mật quyển</DisplayName>
+			<Desc>[NAME] cẩn thận nghiên cứu mật quyển.</Desc>
+			<Selections.0.Display>Đọc</Selections.0.Display>
+			<Selections.1.Display>Giải mã bằng Ấn Cổ Đại</Selections.1.Display>
+		</Text>
+		<Text Name="Story_QuestStory_Item_TaiYiMiDian">
+			<DisplayName>Tra cứu sách vở</DisplayName>
+			<Desc>[NAME] cẩn thận nghiên cứu sách vở.</Desc>
+			<Selections.0.Display>Đọc</Selections.0.Display>
+			<Selections.1.Display>Giải mã bằng Ấn Càn Khôn</Selections.1.Display>
+		</Text>
+		<Text Name="Story_QuestStory_Item_JinChuanCanJuan">
+			<DisplayName>Tra cứu tàn quyển</DisplayName>
+			<Desc>[NAME] thử đọc tàn quyển trong hộp vàng.</Desc>
+			<Selections.0.Display>Tra cứu</Selections.0.Display>
+			<Selections.1.Display>Giải mã bằng Ấn Pháp Cổ Kính</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>
+

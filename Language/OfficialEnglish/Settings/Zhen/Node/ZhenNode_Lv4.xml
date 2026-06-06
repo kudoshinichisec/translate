@@ -1,0 +1,26 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ZhenMainNode_Lv4_2_1">
+			<DisplayName>Hồng Mông</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv4_5_1">
+			<DisplayName>Trời đất khai phá</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv4_5_2">
+			<DisplayName>Thời không diễn sinh</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv4_5_3">
+			<DisplayName>Vạn linh sinh phát</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv4_5_4">
+			<DisplayName>Trời đất quy tịch</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv4_5_5">
+			<DisplayName>Thời không tận suy</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv4_5_6">
+			<DisplayName>Vạn vật diệt vong</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

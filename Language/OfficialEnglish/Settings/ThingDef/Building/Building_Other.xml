@@ -1,0 +1,40 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Building_Jiaolong_Body" sParam="Building">
+			<ThingName>Xác giao long</ThingName>
+			<Desc>Xác giao long để lại sau khi rơi xuống.</Desc>
+		</Text>
+		<Text Name="Building_Dragon_Hole" sParam="Building">
+			<ThingName>Hang động bí ẩn</ThingName>
+			<Desc>Trong hang thỉnh thoảng phát ra ý niệm mạnh mẽ, yêu cầu ngươi thực hiện nghi lễ. Có thể trấn áp bằng phong thủy phòng, phong thủy càng tốt, hoạt tính càng thấp, khoảng cách yêu cầu nghi lễ càng dài. Mỗi lần nghi lễ thành công sẽ tăng cường ý niệm trong hang bí ẩn, tăng độ khó trấn áp.</Desc>
+			<StoryBnts.0.Name>Chọc giận</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử lấp kín hang.</StoryBnts.0.Desc>
+			<StoryBnts.0.Script>local t = bind.ID; CS.Wnd_Message.Show("Ý niệm trong hang đầy nguy hiểm và mạnh mẽ, ngươi có chắc chắn muốn chọc giận nó không? (Thực hiện lệnh này sẽ triệu hồi thú cổ đại, nếu không chuẩn bị kỹ, có thể dẫn đến diệt môn, xin hãy suy nghĩ kỹ.)", 2, function(b) if (b ~= "1") then return end local hole = ThingMgr:FindThingByID(t); if (hole == nil) then return end hole.luaclass:GetTable():BornYaoLong() end)</StoryBnts.0.Script>
+		</Text>
+		<Text Name="Building_Xiongfeng_dan" sParam="Building">
+			<ThingName>Trứng Phượng Hung</ThingName>
+			<Desc>Nóng cực độ và phát sáng chói lòa, nó đang hấp thụ linh khí và cố gắng hồi sinh.</Desc>
+		</Text>
+		<Text Name="Building_Xiongfeng_danbroken" sParam="Building">
+			<ThingName>Trứng Phượng Hung</ThingName>
+			<Desc>Trứng Phượng Hung bị cạn linh khí và gián đoạn quá trình niết bàn.</Desc>
+		</Text>
+		<Text Name="Building_Zhulong_yingdan" sParam="Building">
+			<ThingName>Trứng Âm</ThingName>
+			<Desc>Có thứ gì đó đang cố gắng nở ra, cần dùng phong thủy đại cát để trấn áp.</Desc>
+		</Text>
+		<Text Name="Building_Zhulong_yangdan" sParam="Building">
+			<ThingName>Trứng Dương</ThingName>
+			<Desc>Có thứ gì đó đang cố gắng nở ra, cần dùng phong thủy đại hung để trấn áp.</Desc>
+		</Text>
+		<Text Name="Building_Zhulong_yingdan_broken" sParam="Building">
+			<ThingName>Trứng Âm (Chết)</ThingName>
+			<Desc>Đã chết</Desc>
+		</Text>
+		<Text Name="Building_Zhulong_yangdan_broken" sParam="Building">
+			<ThingName>Trứng Dương (Chết)</ThingName>
+			<Desc>Đã chết</Desc>
+		</Text>
+	</List>
+</Texts>
+

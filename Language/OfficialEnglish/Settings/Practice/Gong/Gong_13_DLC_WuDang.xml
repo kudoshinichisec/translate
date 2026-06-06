@@ -1,0 +1,25 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_13_None">
+			<DisplayName>Huyền Thiên Chân Võ Lưỡng Nghi Diệu Đạo</DisplayName>
+			<Desc>Pháp môn đăng tiên do Huyền Thiên Chân Võ Đại Đế truyền lại. Tu luyện pháp này có thể khai phá âm dương trong nội cảnh, kết âm dương kim đan, thành tựu âm dương nguyên thần. Khi tu luyện nguyên thần phân thần lại càng đạt hiệu quả gấp bội, là pháp quyết trấn sơn của dòng Huyền Thiên Chân Võ núi Võ Đang, huyền diệu vô cùng.</Desc>
+			<SelectDesc>Sau khi tu luyện pháp này, đạo hạnh lĩnh ngộ được cũng thuộc về âm dương, tuy có thể tăng mạnh giới hạn thực lực của người tu luyện, nhưng tỷ lệ đạo hạnh giữa âm dương nguyên thần sẽ ảnh hưởng căn bản đến tu vi. Pháp này trộm huyền diệu âm dương của trời đất, bị trời ganh ghét, do đó uy lực thiên kiếp cực kỳ mạnh mẽ.</SelectDesc>
+			<Stages.0.DisplayName>Thái Dịch</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Hư Ngân</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Thái Sơ</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Tiên Thiên</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nGốc rễ càng thấp, càng khó đột phá qua bình cảnh này.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Nguyên Khí</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>Thái Thủy</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Sơ Hình</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Hỗn Nhất</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>Thái Tố</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Hóa Sinh</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Ngưng Chất</Stages.3.Necks.1.DisplayName>
+			<Stages.4.DisplayName>Thái cực</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Âm Dương</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Khai Phá</Stages.4.Necks.1.DisplayName>
+		</Text>
+	</List>
+</Texts>
+

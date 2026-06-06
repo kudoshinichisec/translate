@@ -1,0 +1,26 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LookAtSky">
+			<Desc>Ngẩn ngơ/nhìn trời/mặt trời/mặt trăng</Desc>
+		</Text>
+		<Text Name="Dance">
+			<Desc>Nhảy múa</Desc>
+		</Text>
+		<Text Name="Music">
+			<Desc>Chơi nhạc</Desc>
+		</Text>
+		<Text Name="PlayBird">
+			<Desc>Chọc ghẹo chim côn trùng</Desc>
+		</Text>
+		<Text Name="Calligraphy">
+			<Desc>Thư họa</Desc>
+		</Text>
+		<Text Name="PlayChess">
+			<Desc>Chơi cờ</Desc>
+		</Text>
+		<Text Name="PlayTicTacToe">
+			<Desc>Chơi cờ caro</Desc>
+		</Text>
+	</List>
+</Texts>
+

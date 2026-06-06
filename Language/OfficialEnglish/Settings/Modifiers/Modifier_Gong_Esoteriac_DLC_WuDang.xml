@@ -1,0 +1,44 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_DLC_WuDang_YinYang1">
+			<DisplayName>Thuần Dương</DisplayName>
+			<Desc>Một thân đạo hạnh thuần dương, tinh thuần cực kỳ, dùng để ngự kiếm, không gì không phá.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang2">
+			<DisplayName>Mặt trời</DisplayName>
+			<Desc>Một thân đạo hạnh gần như thuần dương, có thể từ căn bản tăng khả năng điều khiển pháp bảo đối địch.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang3">
+			<DisplayName>Lão Dương</DisplayName>
+			<Desc>Toàn thân đạo hạnh âm dương mất cân bằng, không chỉ ảnh hưởng tâm cảnh mà còn ảnh hưởng lớn đến khả năng điều khiển linh khí hộ thể.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang4">
+			<DisplayName>Thiếu Dương</DisplayName>
+			<Desc>Toàn thân đạo hạnh tuy có khuyết điểm nhưng cơ bản vẫn cân bằng, có thể tăng tâm cảnh và tăng khả năng hộ thể.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang5">
+			<DisplayName>Thái cực</DisplayName>
+			<Desc>Toàn thân đạo hạnh đạt đến cảnh giới cân bằng âm dương viên dung, tâm cảnh vô khuyết vô nhiễm, khí cương toàn thân cũng như âm dương luân chuyển, phá tan vạn pháp.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang6">
+			<DisplayName>Thiếu Âm</DisplayName>
+			<Desc>Toàn thân đạo hạnh tuy có khuyết điểm nhưng cơ bản vẫn cân bằng, có thể tăng tâm cảnh và tăng khả năng hộ thể.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang7">
+			<DisplayName>Lão Âm</DisplayName>
+			<Desc>Toàn thân đạo hạnh âm dương mất cân bằng, không chỉ ảnh hưởng tâm cảnh mà còn ảnh hưởng lớn đến khả năng điều khiển linh khí hộ thể.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang8">
+			<DisplayName>Thái Âm</DisplayName>
+			<Desc>Một thân đạo hạnh gần như thuần âm, có thể từ căn bản tăng khả năng thi triển pháp thuật đối địch.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang9">
+			<DisplayName>Thuần Âm</DisplayName>
+			<Desc>Một thân đạo hạnh thuần âm, tinh thuần cực kỳ, dùng để thi pháp, pháp ngự vạn vật.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang10">
+			<DisplayName>Không có</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

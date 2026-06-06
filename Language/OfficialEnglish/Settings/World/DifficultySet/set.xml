@@ -1,0 +1,24 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Lv0">
+			<DisplayName>Sơ Nhập Tiên Đạo</DisplayName>
+			<Desc>Sơ Nhập:
+Ở độ khó này có thể dễ dàng bước lên đại đạo tu hành, rất phù hợp cho người chơi mới trải nghiệm
+Việc phàm tục sẽ không trở thành trở ngại của bạn, hiệu suất công việc và tu luyện sẽ tăng lên đáng kể
+Không gặp phải sự kiện địch mạnh xâm nhập, không gặp thời tiết cực đoan, có thể chơi thoải mái</Desc>
+		</Text>
+		<Text Name="Lv1">
+			<DisplayName>Bậc thầy tu luyện</DisplayName>
+			<Desc>Bậc thầy: Độ khó tiêu chuẩn kinh điển, phù hợp với người chơi có hiểu biết về tu luyện. Tất cả sự kiện sẽ xuất hiện bình thường, công việc và tu luyện diễn ra với hiệu suất chuẩn</Desc>
+		</Text>
+		<Text Name="Lv2">
+			<DisplayName>Đại năng thượng cổ</DisplayName>
+			<Desc>Đại năng:  
+Độ khó này vô cùng khó, chỉ phù hợp với Người chơi đã quen thuộc Tu luyện.  
+Có thể thử thách ở chế độ Kim Tiên, chế độ Kim Tiên sẽ đem lại trải nghiệm trò chơi hoàn chỉnh nhất.  
+Chế độ Kim Tiên sẽ kiểm nghiệm hiểu biết tối thượng về trò chơi, chỉ dành cho những Người chơi thực sự là Tiên nhân.  
+Một số Thành tựu chỉ có thể hoàn thành trong chế độ Kim Tiên</Desc>
+		</Text>
+	</List>
+</Texts>
+

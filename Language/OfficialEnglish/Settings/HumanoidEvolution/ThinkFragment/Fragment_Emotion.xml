@@ -1,0 +1,88 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SlightlyFear">
+			<DisplayName>Có chút sợ hãi</DisplayName>
+			<SingleFormat.0>Cảm thấy {0} đối với các loài động vật khác</SingleFormat.0>
+			<SingleFormat.1>Cảm thấy {0} đối với môi trường mới</SingleFormat.1>
+		</Text>
+		<Text Name="Fear">
+			<DisplayName>Sợ hãi</DisplayName>
+			<SingleFormat.0>Cảm thấy {0} đối với con người xung quanh</SingleFormat.0>
+		</Text>
+		<Text Name="GreatlyFear">
+			<DisplayName>Rất sợ hãi</DisplayName>
+			<SingleFormat.0>Nhớ đến thiên địch, cảm thấy {0}</SingleFormat.0>
+			<SingleFormat.1>Nhớ đến đồng loại bị sát hại, cảm thấy {0}</SingleFormat.1>
+		</Text>
+		<Text Name="SlightlyHappy">
+			<DisplayName>Có chút vui vẻ</DisplayName>
+			<SingleFormat.0>Nhớ đến ngày nắng đẹp, cảm thấy {0}</SingleFormat.0>
+			<SingleFormat.1>Nhớ đến món ăn ngon, cảm thấy {0}</SingleFormat.1>
+		</Text>
+		<Text Name="Happy">
+			<DisplayName>Vui vẻ</DisplayName>
+			<SingleFormat.0>Cảm thấy {0} đối với môi trường hiện tại</SingleFormat.0>
+		</Text>
+		<Text Name="GreatlyHappy">
+			<DisplayName>Rất vui vẻ</DisplayName>
+			<SingleFormat.0>Nhớ đến khoảnh khắc đoàn tụ với người thân, cảm thấy {0}</SingleFormat.0>
+		</Text>
+		<Text Name="SlightlyAnger">
+			<DisplayName>Có chút phẫn nộ</DisplayName>
+			<SingleFormat.0>Cảm thấy {0} đối với những người đi qua đôi khi</SingleFormat.0>
+		</Text>
+		<Text Name="Anger">
+			<DisplayName>Phẫn nộ</DisplayName>
+			<SingleFormat.0>Nhớ lại đồng loại mạo hiểm một mình, cảm thấy {0}</SingleFormat.0>
+		</Text>
+		<Text Name="GreatlyAnger">
+			<DisplayName>Rất phẫn nộ</DisplayName>
+			<SingleFormat.0>Nhớ đến những ngày tranh giành lãnh thổ với động vật khác, cảm thấy {0}</SingleFormat.0>
+			<SingleFormat.1>Nhớ đến đồng loại từng bắt nạt mình, cảm thấy {0}</SingleFormat.1>
+		</Text>
+		<Text Name="SlightlyWorry">
+			<DisplayName>Có chút lo lắng</DisplayName>
+			<SingleFormat.0>Nhớ đến người lạ đi qua, cảm thấy {0}</SingleFormat.0>
+		</Text>
+		<Text Name="Worry">
+			<DisplayName>Lo lắng</DisplayName>
+			<SingleFormat.0>Nhớ đến dòng sông sâu không thấy đáy, cảm thấy {0}</SingleFormat.0>
+			<SingleFormat.1>Nhớ đến chạy dọc bờ vực hẻm núi, cảm thấy {0}</SingleFormat.1>
+		</Text>
+		<Text Name="GreatlyWorry">
+			<DisplayName>Rất lo lắng</DisplayName>
+			<SingleFormat.0>Nhớ đến sinh tồn trong tự nhiên đầy nguy hiểm, cảm thấy {0}</SingleFormat.0>
+			<SingleFormat.1>Nhớ đến từng suýt bị người săn bắt, cảm thấy {0}</SingleFormat.1>
+		</Text>
+		<Text Name="SlightlyMiss">
+			<DisplayName>Có chút nhớ nhung</DisplayName>
+			<SingleFormat.0>Bất chợt {0} vài bóng hình mờ nhạt</SingleFormat.0>
+			<SingleFormat.1>Bất chợt {0} phong cảnh mờ nhạt</SingleFormat.1>
+		</Text>
+		<Text Name="Miss">
+			<DisplayName>Nhớ nhung</DisplayName>
+			<SingleFormat.0>Bất chợt cảm thấy {0} về những ngày sống trong tự nhiên</SingleFormat.0>
+			<SingleFormat.1>Bất chợt cảm thấy {0} về vài bóng dáng đồng loại</SingleFormat.1>
+		</Text>
+		<Text Name="GreatlyMiss">
+			<DisplayName>Rất nhớ nhung</DisplayName>
+			<SingleFormat.0>Trong đầu hiện lên hình ảnh người thân, cảm thấy {0}</SingleFormat.0>
+			<SingleFormat.1>Trong đầu hiện lên dòng suối trong veo, cảm thấy {0}</SingleFormat.1>
+		</Text>
+		<Text Name="Peace">
+			<DisplayName>Bình tĩnh</DisplayName>
+			<SingleFormat.0>Chân đặt trên đất vững chắc, cảm thấy {0}</SingleFormat.0>
+			<SingleFormat.1>Nhìn những sinh linh qua lại, cảm thấy {0}</SingleFormat.1>
+		</Text>
+		<Text Name="Eruption">
+			<DisplayName>Nôn nóng</DisplayName>
+			<SingleFormat.0>Dưới sự thúc đẩy của bản năng, cảm thấy {0}</SingleFormat.0>
+		</Text>
+		<Text Name="Regret">
+			<DisplayName>Hối hận</DisplayName>
+			<SingleFormat.0>Nhớ đến chuyện {0}, hoa mai rơi xuống</SingleFormat.0>
+			<SingleFormat.1>Nhớ đến chuyện {0}, hoa mai rơi đầy núi Nam Sơn</SingleFormat.1>
+		</Text>
+	</List>
+</Texts>
+

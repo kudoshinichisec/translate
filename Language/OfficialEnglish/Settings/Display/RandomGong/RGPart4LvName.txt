@@ -1,0 +1,6 @@
+1Cấp hậu tố,Tàn Điển,Tàn Pháp,Tàn Quyển,Tàn Giải,Tàn Lục,Tàn Bi,Tàn Khắc,Tàn Truyện,Tàn Sách,Tàn Thư,Tàn Chương
+2Cấp hậu tố,Thông Điển,Thông Pháp,Thông Quyển,Thông Giải,Thông Lục,Thông Bi,Thông Khắc,Thông Truyện,Thông Sách,Thông Thư,Thông Chương
+3Cấp hậu tố,Diệu Điển,Diệu Pháp,Diệu Quyển,Diệu Giải,Diệu Lục,Diệu Bi,Diệu Khắc,Diệu Truyện,Diệu Sách,Diệu Thư,Diệu Chương,Linh Điển,Linh Pháp,Linh Quyển,Linh Giải,Linh Lục,Linh Bi,Linh Khắc,Linh Truyện,Linh Sách,Linh Thư,Linh Chương
+4Cấp hậu tố,Chân Điển,Chân Pháp,Chân Quyển,Chân Giải,Chân Lục,Chân Bi,Chân Khắc,Chân Truyện,Chân Sách,Chân Thư,Chân Chương,Bí Điển,Bí Pháp,Bí Quyển,Bí Giải,Bí Lục,Bí Bi,Bí Khắc,Bí Truyện,Bí Sách,Bí Thư,Bí Chương
+
+

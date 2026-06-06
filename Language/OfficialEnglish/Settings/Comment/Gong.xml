@@ -1,0 +1,21 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="GongDengXian">
+			<Title>Phương pháp đăng tiên</Title>
+			<Desc>Loại công pháp này có thể trực tiếp thông đến tiên đạo, phi thăng thành tiên.</Desc>
+		</Text>
+		<Text Name="GongYuanShen">
+			<Title>Phương pháp Nguyên Thần</Title>
+			<Desc>Loại công pháp này cao nhất có thể tu luyện đạt đến cảnh giới Nguyên Thần.</Desc>
+		</Text>
+		<Text Name="GongJinDan">
+			<Title>Phương pháp Kim Đan</Title>
+			<Desc>Loại công pháp này cao nhất có thể kết thành Kim Đan.</Desc>
+		</Text>
+		<Text Name="GongFanSu">
+			<Title>Phương pháp Phàm Tục</Title>
+			<Desc>Loại công pháp này rất bình thường, thậm chí không thể kết đan.</Desc>
+		</Text>
+	</List>
+</Texts>
+

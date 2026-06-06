@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Ginseng" sParam="Plant">
+			<ThingName>Nhân Sâm</ThingName>
+			<Desc>Một loại dược liệu quý hiếm, cực kỳ giá trị trong y học, có thể đại bổ nguyên khí, mọc trong khoảng nhiệt độ từ [temperature]-30[/temperature] đến [temperature]40[/temperature]. Cần mọc ở nơi có linh khí nhất định.</Desc>
+		</Text>
+		<Text Name="GanodermaLucidum" sParam="Plant">
+			<ThingName>Chi thảo</ThingName>
+			<Desc>Một loại dược liệu quý hiếm, cực kỳ giá trị trong y học, có thể đại bổ nguyên khí, mọc trong khoảng nhiệt độ từ [temperature]10[/temperature] đến [temperature]40[/temperature]. Cần mọc ở nơi có linh khí nhất định.</Desc>
+		</Text>
+		<Text Name="Mint" sParam="Plant">
+			<ThingName>Thanh Tâm Thảo</ThingName>
+			<Desc>Một loại dược liệu phổ biến, tính mát, có thể an thần định khí, mọc trong khoảng nhiệt độ từ [temperature]-30[/temperature] đến [temperature]40[/temperature]. Cần mọc ở nơi có linh khí nhất định.</Desc>
+		</Text>
+		<Text Name="MagicHerb" sParam="Plant">
+			<ThingName>Linh tiên thảo</ThingName>
+			<Desc>Một loại thảo dược giàu linh lực, vốn rất hiếm, mọc trong khoảng nhiệt độ từ [temperature]-30[/temperature] đến [temperature]40[/temperature]. Cần mọc ở nơi có linh khí nhất định. Ngoài động y tiên trên Luyện Đan Phong Trung Nguyên, có cả một ngọn núi đầy Linh Tiên Thảo mọc.</Desc>
+		</Text>
+		<Text Name="WarmHerb" sParam="Plant">
+			<ThingName>Đông trùng hạ thảo</ThingName>
+			<Desc>Loại cỏ có hình dạng thay đổi, chỉ trưởng thành vào mùa đông và hè, được người đời gọi là "cỏ biến hóa". Sau khi dùng có thể tạm thời tăng khả năng thích nghi với môi trường khắc nghiệt.</Desc>
+			<StoryBnts.0.Name>Hái lượm</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử dùng pháp lực hái.</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>
+

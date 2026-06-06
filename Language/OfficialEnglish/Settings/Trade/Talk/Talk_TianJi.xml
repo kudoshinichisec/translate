@@ -1,0 +1,19 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Talk_TianJi">
+			<Hate.0>Có gì đó đang nói chuyện sao? Sao ta không nhìn thấy?</Hate.0>
+			<Hate.1>Ồ? Là ngươi? Kể cho bản tôn một câu chuyện cười, không kể được thì chết.</Hate.1>
+			<Normal.0>Nhanh lên, ta sắp lên bàn rồi.</Normal.0>
+			<Normal.1>(Ngáp) Chọn xong thì nói một tiếng.</Normal.1>
+			<Like.0>(Đặt xúc xắc xuống) Xin chào, có muốn chơi vài ván không?</Like.0>
+			<Like.1>Ừm, ngươi cứ dạo quanh đi.</Like.1>
+			<Submiss.0>Lâu rồi không gặp, ngươi có chuyện gì quan trọng sao?</Submiss.0>
+			<Submiss.1>Lại là ngươi à, gần đây đang làm gì vậy?</Submiss.1>
+			<GiftLike.0>Hôm nay đúng là ngày tốt, cảm giác còn vui hơn cả song tu.</GiftLike.0>
+			<GiftLike.1>Người tốt à, thứ này ta muốn từ lâu rồi!</GiftLike.1>
+			<LowValueGift.0>Thứ này, ta mang đi lừa người phàm cũng không được.</LowValueGift.0>
+			<LowValueGift.1>Thứ này làm ta nhớ lại những ngày ăn đất từ rất lâu trước đây. Ngươi cút đi.</LowValueGift.1>
+		</Text>
+	</List>
+</Texts>
+

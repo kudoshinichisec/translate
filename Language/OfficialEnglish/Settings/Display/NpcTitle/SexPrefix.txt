@@ -1,0 +1,10 @@
+Nam Thông Dụng,Tẩu,Công,Hầu,Đế,Vương,Quân,Lang,Công Tử,Thiếu Gia,Lang Quân,Thư Sinh,Tiên Sinh,Cư Sĩ,Tán Nhân,Khách
+Nam Trung,Tẩu,Công,Hầu,Đế,Vương,Quân,Lang,Công Tử,Thiếu Gia,Lang Quân,Thư Sinh,Tiên Sinh,Cư Sĩ,Tán Nhân,Khách
+Nam Chính,Tẩu,Công,Hầu,Đế,Vương,Quân,Lang,Công Tử,Thiếu Gia,Lang Quân,Thư Sinh,Tiên Sinh,Cư Sĩ,Tán Nhân,Khách
+Nam Tà,Yêu Nhân,Ma Nhân,Sát Thần,Tà Nhân,Nhân Đồ,Tẩu,Công,Hầu,Đế,Vương,Quân,Lang,Công Tử,Thiếu Gia,Lang Quân
+Nữ Thông Dụng,Tiên Tử,Nương Tử,Ngọc Nữ,Thánh Cô,Cư Sĩ,Tán Nhân,Khách,Nữ Hiệp
+Nữ Trung,Tiên Tử,Nương Tử,Ngọc Nữ,Thánh Cô,Cư Sĩ,Tán Nhân,Khách,Nữ Hiệp
+Nữ Chính,Tiên Tử,Nương Tử,Ngọc Nữ,Thánh Cô,Cư Sĩ,Tán Nhân,Khách,Nữ Hiệp
+Nữ Tà,Yêu Nữ,Ma Nữ,Nhân Đồ,Nương Tử,Mị,Hồ Ly
+
+

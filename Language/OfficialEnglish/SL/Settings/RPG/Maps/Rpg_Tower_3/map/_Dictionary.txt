@@ -1,0 +1,65 @@
+阳鱼	Dương ngư
+阴鱼	Cá âm
+阳眼	Dương nhãn
+阴眼	Âm nhãn
+蜚皮休闲衣衫	Áo da phi Hưu Nhàn Thường
+蜚皮薄下裳	Xiêm mỏng da Phỉ
+巧夺天工的神兵，融合制作者的心血与灵感而成。	Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.
+狂战	Cuồng chiến
+梧桐神木	Ngô Đồng thần mộc
+枝	Chi
+梧桐木角料	Gỗ vụn ngô đồng
+甲乙诛神钉	Giáp Ất Chư Thần Đinh
+观音土	Đất Quan Âm
+冲虚魔灵宝	Bảo Ma Linh Trùng Hư
+狼皮	Da sói
+行疆千魂障	Hành Cương Thiên Hồn Chướng
+天柱石	Thiên trụ thạch
+坤元七魄镇	Khôn Nguyên Thất Phách Trấn
+垃圾	Rác
+万里饮血渣	Bã Ẩm Huyết Vạn Lý
+佩戴者可以从根本上提高法术威力，法术灵气消耗。	Người đeo có thể từ căn bản tăng uy lực pháp thuật, tiêu hao linh khí pháp thuật.
+圣咒符	Thánh chú phù
+佩戴者可以从根本上提高法宝威力，并全面提高法宝能力。	Người đeo có thể từ căn bản tăng uy lực pháp bảo, và toàn diện tăng khả năng pháp bảo.
+圣剑符	Thánh kiếm phù
+提高饮气辟谷的效率。	Tăng hiệu quả uống khí bế thực.
+饮气符	Ẩm Khí Phù
+可以提高炼制法宝成功率的符咒。	Là phù chú có thể tăng tỷ lệ thành công luyện chế pháp bảo.
+太上通宝符	Thái thượng thông bảo phù
+角色出生点	Điểm sinh nhân vật
+逻辑点	Điểm logic
+天	Ngày
+法道	Pháp đạo
+通	Thông
+刚	Cương
+宗政	Tông Chính
+秋灵	Thu Linh
+道法源流	Nguồn gốc Đạo pháp
+紫霄清心咒	Tử Tiêu Thanh Tâm Chú
+华山落花诀	Hoa Sơn Lạc Hoa Quyết
+丙丁开天咒	Bính Đinh Khai Thiên Chú
+多宝七星	Đa Bảo Thất Tinh
+归真八极诀	Quy Chân Bát Cực Quyết
+壬水七星	Nhâm Thủy Thất Tinh
+丙丁飞星	Bính Đinh Phi Tinh
+太上天星神雷	Thái Thượng Thiên Tinh Thần Lôi
+御神化伤神雷	Ngự Thần Hóa Thương thần lôi
+腾岳震地诀	Quyết Đằng Nhạc Chấn Địa
+太上通天诀	Thái Thượng Thông Thiên Quyết
+本源回魂诀	Bản Nguyên Hồi Hồn Quyết
+华山震地咒	Hoa Sơn Chấn Địa Chú
+震雷天星神雷	Thần Lôi Thiên Tinh Chấn Lôi
+奔烈陨星	Bôn Liệt Vẫn Tinh
+嵩山清心	Thanh tâm Tung Sơn
+麒麟落花	Kỳ Lân Lạc Hoa
+凝光甘霖真言	Ngưng Qu光 Cam Lâm Chân Ngôn
+乙木落花神雷	Ất Mộc Lạc Hoa Thần Lôi
+行疆镇神真言	Hành Cương Trấn Thần Chân Ngôn
+现在贤先天一气诀	Hiện Hiền Tiên Thiên Nhất Khí Quyết
+造化落花真言	Tạo Hóa Lạc Hoa Chân Ngôn
+太上飞星诀	Thái Thượng Phi Tinh Quyết
+紫薇流光咒	Tử Vi Lưu Quang Chú
+吾成道太初，观无极二分，化天地万物，有感于心，开辟道法修行之路。本望生灵能超脱天地之锢…	Ta thành đạo từ thời Thái Sơ, quan sát Vô Cực phân thành hai, hóa sinh trời đất vạn vật, cảm ngộ trong lòng, mở ra con đường tu luyện đạo pháp. Vốn mong sinh linh có thể siêu thoát khỏi trói buộc của trời đất…
+然世间因修行超脱者寡，沉沦者众……流毒自吾而始…便由吾而终罢……	Nhưng đời người vì tu hành siêu thoát thì ít, sa đọa thì nhiều... lưu độc từ ta mà sinh, cũng nên do ta mà kết thúc..
+
+

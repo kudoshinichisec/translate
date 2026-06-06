@@ -1,0 +1,89 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_SuperPart_BaseOn_1_LV1">
+			<DisplayName>Xích Ngọc Đồng 1</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_1_LV2">
+			<DisplayName>Xích Ngọc Đồng 2</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_1_LV3">
+			<DisplayName>Xích Ngọc Đồng 3</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_2_LV1">
+			<DisplayName>Chân Dương Linh Lung Tâm 1</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_2_LV2">
+			<DisplayName>Chân Dương Linh Lung Tâm 2</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_2_1_LV1">
+			<DisplayName>Huyền Âm Lưu Ly Tâm 1</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_2_1_LV2">
+			<DisplayName>Huyền Âm Lưu Ly Tâm 2</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_3_LV1">
+			<DisplayName>Thiên Long Tích</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_4_LV1">
+			<DisplayName>Thiên Địa Hồng Lô 1</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_4_LV2">
+			<DisplayName>Thiên Địa Hồng Lô 2</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_4_LV3">
+			<DisplayName>Thiên Địa Hồng Lô 3</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_4_LV4">
+			<DisplayName>Thiên Địa Hồng Lô 4</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_2_10">
+			<DisplayName>Bát Cực Chi Nhãn</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_3_16">
+			<DisplayName>Định Tinh Vĩ</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_5">
+			<DisplayName>Trục Nhật Thối</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_6">
+			<DisplayName>Hư Hóa Chi Thể</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_7">
+			<DisplayName>Thiên Xúc Tà Tí</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_8_LV1">
+			<DisplayName>Động Chân Chi Thể</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_8_LV2">
+			<DisplayName>Động Chân Chi Thể</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Boar_1">
+			<DisplayName>Huyết Thần Tông</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Cat_1">
+			<DisplayName>Cửu Sinh Huyền Mệnh</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Cat_2">
+			<DisplayName>Cửu Dạ Huyền Tinh</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Cattle_1">
+			<DisplayName>Tứ Tượng Huyền Hóa Phúc</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Chicken_2">
+			<DisplayName>Thiên Dương Chân Hành Quan</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Rabbit_2">
+			<DisplayName>Hư Hóa Chi Thể</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Tiger_2">
+			<DisplayName>Ngự Phong Chi Thể</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Wolf_1">
+			<DisplayName>Cấp Linh Chi Vẫn</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Wolf_2">
+			<DisplayName>Thể hồn hoang</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

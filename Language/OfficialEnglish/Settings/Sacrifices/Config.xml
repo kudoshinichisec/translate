@@ -1,0 +1,13 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Blood">
+			<Display>Hiến lên Yêu Linh Dịch</Display>
+			<Desc>Đổ linh dịch yêu vào hồ để cầu đạo cụ</Desc>
+		</Text>
+		<Text Name="Elixir">
+			<Display>Soul Pearl</Display>
+			<Desc>Offer soul pearls for items.</Desc>
+		</Text>
+	</List>
+</Texts>
+

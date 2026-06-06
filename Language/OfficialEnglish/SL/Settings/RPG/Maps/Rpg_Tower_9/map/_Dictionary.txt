@@ -1,0 +1,39 @@
+灵植影响范围	Phạm vi ảnh hưởng linh thực
+鹿蜀皮休闲衣衫	Áo Thường Nhật Da Lộc Thục
+鹿蜀皮薄下裳	Hạ Thường Da Lộc Thục mỏng
+梧桐木弓	Cung ngô đồng thần mộc
+棋局	Bàn cờ
+甲乙无上谱	Phổ Vô Thượng Giáp Ất
+黑布手帕	Khăn tay hắc bộ
+碧光玄光帕	Bích Quang Huyền Quang Bạc
+寒晶角料	Tinh hàn vụn
+冰银引魂碎	Băng Ngân Dẫn Hồn Toái
+可以提高移动速度的符咒。	Là phù chú có thể tăng tốc độ di chuyển.
+轻身符	Phù nhẹ thân
+佩戴者可以提高法宝回灵倍率。	Người đeo có thể tăng tỷ lệ hồi linh của pháp bảo.
+灵剑符	Linh kiếm phù
+角色出生点	Điểm sinh nhân vật
+逻辑点	Điểm logic
+天地共土	Thiên địa cộng thổ
+渊土神碑	Thần Bia Uyên Thổ
+灵石栅栏	Hàng rào Linh thạch
+上古残迹	Di tích cổ đại
+棕石凶蛮雕像	Đá nâu Tượng điêu khắc
+灵石凶蛮雕像	Linh thạch Hung Man Điêu Tượng
+灵石灯笼	Đèn lồng linh thạch
+乱界	Loạn giới
+冤孽	Oan nghiệt
+双	Song
+航	Hàng
+宗政	Tông Chính
+娅	Á
+厍	Xá
+辉	Huy
+乙木无形神雷	Ất Mộc Vô Hình Thần Lôi
+碧光飞星咒	Bích Quang Phi Tinh Chú
+冷月燃灵诀	Lãnh Nguyệt Nhiên Linh Quyết
+壬癸五方	Nhâm Quý Ngũ Phương
+哦？你，你终于来了？你是天道派来审判我的？	Ồ? Ngươi, rốt cuộc cũng đến? Ngươi là người được Thiên Đạo phái tới xét xử ta sao?
+来！来吧！昔年我炼渊土神碑，遭至此界崩坏，千万年来无时无刻不等待这一天，但我不认为这是我的罪孽，这份罪孽，此界亿万生灵与天道共担！想审判我，我要看看你的斤两！	Đến đây! Hãy đến đây! Năm xưa ta luyện Bia Thần Uyên Thổ, khiến giới này sụp đổ, ngàn vạn năm qua không lúc nào không chờ đợi ngày này. Nhưng ta không cho đó là tội lỗi của ta, tội này, muôn loài sinh linh nơi đây phải cùng Thiên Đạo gánh chịu! Muốn phán xét ta, hãy để ta xem ngươi có bản lĩnh gì!
+
+

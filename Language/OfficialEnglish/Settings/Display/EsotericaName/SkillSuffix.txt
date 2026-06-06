@@ -1,0 +1,12 @@
+Thiệt Hại Loại Đạn 1,Quyết,Chú,Chân Ngôn,Thần Lôi
+Thiệt Hại Tác Động Trực Tiếp 2,Thần Sát,Thần Cương
+Tăng Cường Kiếm Bay Đơn Thể 3,Kiếm Quyết,Kiếm Độn,Kiếm
+Tăng Cường Kiếm Bay Tập Thể 4,Kiếm Trận,Kiếm Quyết,Kiếm Độn,Kiếm
+Tăng Cường Thuật Pháp Đơn Thể 5,Quyết,Chú,Chân Ngôn,Đại Pháp,Pháp,Thần Thông
+Tăng Cường Thuật Pháp Tập Thể 6,Trận,Đại Trận,Chú Trận,Phù Trận
+Khôi Phục Máu Đơn Thể 7,Quyết,Chú,Chân Ngôn,Đại Pháp,Pháp,Thần Thông
+Khôi Phục Máu Tập Thể 8,Trận,Đại Trận,Chú Trận,Phù Trận
+Tăng Cường Lá Chắn Đơn Thể 9,Quyết,Chú,Chân Ngôn,Đại Pháp,Pháp,Thần Thông
+Tăng Cường Lá Chắn Tập Thể 10,Trận,Đại Trận,Chú Trận,Phù
+
+

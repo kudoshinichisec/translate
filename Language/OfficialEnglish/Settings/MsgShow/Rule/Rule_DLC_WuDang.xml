@@ -1,0 +1,15 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="School_13">
+			<DisplayName>Ngoại giao môn phái-Võ Đang Phái</DisplayName>
+			<Desc>Khi giao tiếp với Võ Đang Phái, đệ tử môn phái ta áp dụng thái độ như thế nào.</Desc>
+			<Selection.0.DisplayName>Thiện ý</Selection.0.DisplayName>
+			<Selection.0.Desc>Giao tiếp với họ bằng thái độ thân thiện.</Selection.0.Desc>
+			<Selection.1.DisplayName>Ác ý</Selection.1.DisplayName>
+			<Selection.1.Desc>Giao tiếp với họ bằng thái độ thù địch.</Selection.1.Desc>
+			<Selection.2.DisplayName>Không gây chuyện</Selection.2.DisplayName>
+			<Selection.2.Desc>Người gặp họ nên chủ động lánh xa, cố gắng tránh né.</Selection.2.Desc>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,8 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="ItemBase" sParam="Item">
+			<Item.FabaoSuffix>Linh bảo</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>
+

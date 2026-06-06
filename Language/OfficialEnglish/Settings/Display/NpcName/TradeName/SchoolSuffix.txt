@@ -1,0 +1,26 @@
+Đan Hà Động Thiên Nam,m Đan Nhất s,f Đan Nhị s,f Đan Tam s
+Đan Hà Động Thiên Nữ,f Đan Nhất s,f Đan Nhị s,f Đan Tam s
+Côn Lôn Cung Nam,m Côn Nhất s,f Côn Nhị s,f Côn Tam s
+Côn Lôn Cung Nữ,f Côn Nhất s,f Côn Nhị s,f Côn Tam s
+Cực Thiên Cung Nam,m Cực Nhất s,f Cực Nhị s,f Cực Tam s
+Cực Thiên Cung Nữ,f Cực Nhất s,f Cực Nhị s,f Cực Tam s
+Tử Tiêu Tông Nam,m Tử Nhất s,f Tử Nhị s,f Tử Tam s
+Tử Tiêu Tông Nữ,f Tử Nhất s,f Tử Nhị s,f Tử Tam s
+Huyền Nhất Đạo Nam,m Chính Nhất s,f Chính Nhị s,f Chính Tam s
+Huyền Nhất Đạo Nữ,f Chính Nhất s,f Chính Nhị s,f Chính Tam s
+Thanh Liên Kiếm Tông Nam,m Thanh Nhất s,f Thanh Nhị s,f Thanh Tam s
+Thanh Liên Kiếm Tông Nữ,f Thanh Nhất s,f Thanh Nhị s,f Thanh Tam s
+Tê Hà Động Thiên Nam,m Tê Nhất s,f Tê Nhị s,f Tê Tam s
+Tê Hà Động Thiên Nữ,f Tê Nhất s,f Tê Nhị s,f Tê Tam s
+Bách Man sơn Nam,m Bách Nhất s,f Bách Nhị s,f Bách Tam s
+Bách Man sơn Nữ,f Bách Nhất s,f Bách Nhị s,f Bách Tam s
+Thất Thiên Ổ Nam,m Thất Nhất s,f Thất Nhị s,f Thất Tam s
+Thất Thiên Ổ Nữ,f Thất Nhất s,f Thất Nhị s,f Thất Tam s
+Thất sát Ma Cung Nam,m Thất Nhất s,f Thất Nhị s,f Thất Tam s
+Thất sát Ma Cung Nữ,f Thất Nhất s,f Thất Nhị s,f Thất Tam s
+Hợp Hoan Phái Nam,m Hợp Nhất s,f Hợp Nhị s,f Hợp Tam s
+Hợp Hoan Phái Nữ,f Hợp Nhất s,f Hợp Nhị s,f Hợp Tam s
+Vạn Yêu Điện Nam,m Vạn Nhất s,f Vạn Nhị s,f Vạn Tam s
+Vạn Yêu Điện Nữ,f Vạn Nhất s,f Vạn Nhị s,f Vạn Tam s
+
+

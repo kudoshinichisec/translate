@@ -1,0 +1,13 @@
+ID	Desc
+
+1	Lần đầu bước vào giang hồ
+2	Phân công công việc
+3	Xây dựng môn phái.
+4	Phong thủy ngũ hành
+5	Con đường tu luyện
+6	Cổ thú thượng cổ
+7	Hồng trần loạn thế
+8	Yêu tộc quật khởi
+9	Huyền Chương Bí Pháp
+
+

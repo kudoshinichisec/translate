@@ -1,0 +1,21 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ShuShanA">
+			<IVNUMBER.0.Animal.DisplayName>Chuồng ếch</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Bên trong có một con ếch kỳ khai trí, được môn phái định hướng bồi dưỡng để sở hữu ký ức về chế tạo.</IVNUMBER.0.Animal.Tip>
+		</Text>
+		<Text Name="ShuShanAL">
+			<IVNUMBER.0.Animal.DisplayName>Chuồng ếch sơ sài</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Bên trong có một con ếch kỳ khai trí, sở hữu linh trí về nỗi sợ.</IVNUMBER.0.Animal.Tip>
+			<IVNUMBER.1.Animal.DisplayName>Chuồng ếch sơ sài</IVNUMBER.1.Animal.DisplayName>
+			<IVNUMBER.1.Animal.Tip>Bên trong có một con ếch kỳ khai trí, sở hữu linh trí về nỗi nhớ.</IVNUMBER.1.Animal.Tip>
+			<IVNUMBER.2.Animal.DisplayName>Chuồng ếch sơ sài</IVNUMBER.2.Animal.DisplayName>
+			<IVNUMBER.2.Animal.Tip>Bên trong có một con ếch kỳ khai trí, sở hữu linh trí về niềm vui.</IVNUMBER.2.Animal.Tip>
+			<IVNUMBER.3.Animal.DisplayName>Chuồng ếch sơ sài</IVNUMBER.3.Animal.DisplayName>
+			<IVNUMBER.3.Animal.Tip>Bên trong có một con ếch kỳ khai trí, sở hữu linh trí về sự giận dữ.</IVNUMBER.3.Animal.Tip>
+			<IVNUMBER.4.Animal.DisplayName>Chuồng ếch sơ sài</IVNUMBER.4.Animal.DisplayName>
+			<IVNUMBER.4.Animal.Tip>Bên trong có một con ếch kỳ khai trí, sở hữu linh trí về nỗi lo.</IVNUMBER.4.Animal.Tip>
+		</Text>
+	</List>
+</Texts>
+

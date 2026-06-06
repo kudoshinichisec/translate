@@ -1,0 +1,71 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="QuadrupedBody">
+			<Part.Parts.0.DisplayName>Phần đầu</Part.Parts.0.DisplayName>
+			<Part.Parts.0.Parts.0.DisplayName>Xương đầu</Part.Parts.0.Parts.0.DisplayName>
+			<Part.Parts.0.Parts.1.DisplayName>Não</Part.Parts.0.Parts.1.DisplayName>
+			<Part.Parts.0.Parts.2.DisplayName>Mắt trái</Part.Parts.0.Parts.2.DisplayName>
+			<Part.Parts.0.Parts.3.DisplayName>Mắt phải</Part.Parts.0.Parts.3.DisplayName>
+			<Part.Parts.0.Parts.4.DisplayName>Tai trái</Part.Parts.0.Parts.4.DisplayName>
+			<Part.Parts.0.Parts.5.DisplayName>Tai phải</Part.Parts.0.Parts.5.DisplayName>
+			<Part.Parts.0.Parts.6.DisplayName>Mũi</Part.Parts.0.Parts.6.DisplayName>
+			<Part.Parts.0.Parts.7.DisplayName>Miệng</Part.Parts.0.Parts.7.DisplayName>
+			<Part.Parts.0.Parts.8.DisplayName>Họng</Part.Parts.0.Parts.8.DisplayName>
+			<Part.Parts.0.Parts.9.DisplayName>Khuôn mặt</Part.Parts.0.Parts.9.DisplayName>
+			<Part.Parts.0.Parts.10.DisplayName>Đầu</Part.Parts.0.Parts.10.DisplayName>
+			<Part.Parts.1.Parts.0.DisplayName>Xương sườn trái</Part.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.1.Parts.1.DisplayName>Xương sườn phải</Part.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.1.Parts.2.DisplayName>Xương sườn trái</Part.Parts.1.Parts.2.DisplayName>
+			<Part.Parts.1.Parts.3.DisplayName>Xương sườn phải</Part.Parts.1.Parts.3.DisplayName>
+			<Part.Parts.1.Parts.4.DisplayName>Xương sườn trái</Part.Parts.1.Parts.4.DisplayName>
+			<Part.Parts.1.Parts.5.DisplayName>Xương sườn phải</Part.Parts.1.Parts.5.DisplayName>
+			<Part.Parts.1.Parts.6.DisplayName>Xương sườn trái</Part.Parts.1.Parts.6.DisplayName>
+			<Part.Parts.1.Parts.7.DisplayName>Xương sườn phải</Part.Parts.1.Parts.7.DisplayName>
+			<Part.Parts.1.Parts.8.DisplayName>Cột sống</Part.Parts.1.Parts.8.DisplayName>
+			<Part.Parts.1.Parts.9.DisplayName>Xương chậu</Part.Parts.1.Parts.9.DisplayName>
+			<Part.Parts.1.Parts.10.DisplayName>Tim</Part.Parts.1.Parts.10.DisplayName>
+			<Part.Parts.1.Parts.11.DisplayName>Gan</Part.Parts.1.Parts.11.DisplayName>
+			<Part.Parts.1.Parts.12.DisplayName>Lá lách</Part.Parts.1.Parts.12.DisplayName>
+			<Part.Parts.1.Parts.13.DisplayName>Phổi</Part.Parts.1.Parts.13.DisplayName>
+			<Part.Parts.1.Parts.14.DisplayName>Thận</Part.Parts.1.Parts.14.DisplayName>
+			<Part.Parts.1.Parts.15.DisplayName>Dạ dày</Part.Parts.1.Parts.15.DisplayName>
+			<Part.Parts.1.Parts.16.DisplayName>Ruột</Part.Parts.1.Parts.16.DisplayName>
+			<Part.Parts.1.Parts.17.DisplayName>Cơ quan sinh dục</Part.Parts.1.Parts.17.DisplayName>
+			<Part.Parts.1.Parts.18.DisplayName>Thân mình</Part.Parts.1.Parts.18.DisplayName>
+			<Part.Parts.2.DisplayName>Chân trước trái</Part.Parts.2.DisplayName>
+			<Part.Parts.2.Parts.0.DisplayName>Xương vai trái</Part.Parts.2.Parts.0.DisplayName>
+			<Part.Parts.2.Parts.0.Parts.0.DisplayName>Cơ vai trái</Part.Parts.2.Parts.0.Parts.0.DisplayName>
+			<Part.Parts.2.Parts.0.Parts.1.DisplayName>Xương đùi trước trái</Part.Parts.2.Parts.0.Parts.1.DisplayName>
+			<Part.Parts.2.Parts.0.Parts.1.Parts.0.DisplayName>Cơ đùi trước trái</Part.Parts.2.Parts.0.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.2.Parts.0.Parts.1.Parts.1.DisplayName>Xương cẳng chân trước trái</Part.Parts.2.Parts.0.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.2.Parts.0.Parts.1.Parts.1.Parts.0.DisplayName>Cơ cẳng chân trước trái</Part.Parts.2.Parts.0.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.2.Parts.0.Parts.1.Parts.1.Parts.1.DisplayName>Xương móng vuốt trái</Part.Parts.2.Parts.0.Parts.1.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.2.Parts.0.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>Cơ móng vuốt trái</Part.Parts.2.Parts.0.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.3.DisplayName>Chân trước phải</Part.Parts.3.DisplayName>
+			<Part.Parts.3.Parts.0.DisplayName>Xương vai phải</Part.Parts.3.Parts.0.DisplayName>
+			<Part.Parts.3.Parts.0.Parts.0.DisplayName>Cơ vai phải</Part.Parts.3.Parts.0.Parts.0.DisplayName>
+			<Part.Parts.3.Parts.0.Parts.1.DisplayName>Xương đùi trước phải</Part.Parts.3.Parts.0.Parts.1.DisplayName>
+			<Part.Parts.3.Parts.0.Parts.1.Parts.0.DisplayName>Cơ đùi trước phải</Part.Parts.3.Parts.0.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.3.Parts.0.Parts.1.Parts.1.DisplayName>Xương cẳng chân trước phải</Part.Parts.3.Parts.0.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.3.Parts.0.Parts.1.Parts.1.Parts.0.DisplayName>Cơ cẳng chân trước phải</Part.Parts.3.Parts.0.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.3.Parts.0.Parts.1.Parts.1.Parts.1.DisplayName>Xương móng vuốt phải</Part.Parts.3.Parts.0.Parts.1.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.3.Parts.0.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>Cơ móng vuốt phải</Part.Parts.3.Parts.0.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.4.DisplayName>Chân sau trái</Part.Parts.4.DisplayName>
+			<Part.Parts.4.Parts.0.DisplayName>Xương đùi sau trái</Part.Parts.4.Parts.0.DisplayName>
+			<Part.Parts.4.Parts.0.Parts.0.DisplayName>Cơ đùi sau trái</Part.Parts.4.Parts.0.Parts.0.DisplayName>
+			<Part.Parts.4.Parts.0.Parts.1.DisplayName>Xương cẳng chân sau trái</Part.Parts.4.Parts.0.Parts.1.DisplayName>
+			<Part.Parts.4.Parts.0.Parts.1.Parts.0.DisplayName>Cơ cẳng chân sau trái</Part.Parts.4.Parts.0.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.4.Parts.0.Parts.1.Parts.1.DisplayName>Xương móng vuốt sau trái</Part.Parts.4.Parts.0.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.4.Parts.0.Parts.1.Parts.1.Parts.0.DisplayName>Cơ móng vuốt sau trái</Part.Parts.4.Parts.0.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.5.DisplayName>Chân sau phải</Part.Parts.5.DisplayName>
+			<Part.Parts.5.Parts.0.DisplayName>Xương đùi sau phải</Part.Parts.5.Parts.0.DisplayName>
+			<Part.Parts.5.Parts.0.Parts.0.DisplayName>Cơ đùi sau phải</Part.Parts.5.Parts.0.Parts.0.DisplayName>
+			<Part.Parts.5.Parts.0.Parts.1.DisplayName>Xương cẳng chân sau phải</Part.Parts.5.Parts.0.Parts.1.DisplayName>
+			<Part.Parts.5.Parts.0.Parts.1.Parts.0.DisplayName>Cơ cẳng chân sau phải</Part.Parts.5.Parts.0.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.5.Parts.0.Parts.1.Parts.1.DisplayName>Xương móng vuốt sau phải</Part.Parts.5.Parts.0.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.5.Parts.0.Parts.1.Parts.1.Parts.0.DisplayName>Cơ móng vuốt sau phải</Part.Parts.5.Parts.0.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.6.DisplayName>Toàn thân</Part.Parts.6.DisplayName>
+		</Text>
+	</List>
+</Texts>
+

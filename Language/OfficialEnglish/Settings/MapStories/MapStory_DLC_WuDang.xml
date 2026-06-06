@@ -1,0 +1,49 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="System_FightMap_RedWall">
+			<DisplayName>Quan sát</DisplayName>
+			<Desc>[NAME] cố gắng tìm hiểu phương pháp xây dựng công trình này.</Desc>
+			<Selections.0.Display>Quan sát</Selections.0.Display>
+		</Text>
+		<Text Name="System_FightMap_DragonIncense">
+			<DisplayName>Cầu nguyện</DisplayName>
+			<Desc>[NAME] thử cầu nguyện tại Long Đầu Hương.</Desc>
+			<Selections.0.Display>Cầu nguyện tâm tĩnh lặng</Selections.0.Display>
+			<Selections.1.Display>Cầu nguyện tiến lên một tầng</Selections.1.Display>
+			<Selections.2.Display>Cầu nguyện gặp dữ hóa lành</Selections.2.Display>
+			<Selections.3.Display>Cầu nguyện thấu hiểu đại đạo</Selections.3.Display>
+			<Selections.4.Display>Ta muốn tất cả</Selections.4.Display>
+			<Selections.5.Display>Từ bỏ</Selections.5.Display>
+		</Text>
+		<Text Name="Story_Building_TaiZiDian">
+			<DisplayName>Tiếp xúc</DisplayName>
+			<Desc>[NAME] ngồi xuống bên bàn, thử sử dụng thần thức giao tiếp với nó.</Desc>
+			<Selections.0.Display>Tiếp xúc</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_ZiXiaoJianZhen">
+			<DisplayName>Tiếp xúc</DisplayName>
+			<Desc>[NAME] ngồi xuống bên trận kiếm, thử sử dụng thần thức giao tiếp với nó.</Desc>
+			<Selections.0.Display>Tiếp xúc</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_ZiXiaoDanLu">
+			<DisplayName>Tiếp xúc</DisplayName>
+			<Desc>[NAME] ngồi xuống bên lò đan, thử sử dụng thần thức giao tiếp với nó.</Desc>
+			<Selections.0.Display>Tiếp xúc</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Ls_CallXuanWu">
+			<DisplayName>Vuốt ve</DisplayName>
+			<Desc>Linh Ngọc này phát sáng hai loại ánh sáng, mang khí tức của Huyền Vũ.</Desc>
+			<Selections.0.Display>Vuốt ve</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Building_ZiXiaoShiBei">
+			<DisplayName>Chạm vào</DisplayName>
+			<Desc>[NAME] dùng tay chạm vào chữ trên bia.</Desc>
+			<Selections.0.Display>Chạm vào</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>
+

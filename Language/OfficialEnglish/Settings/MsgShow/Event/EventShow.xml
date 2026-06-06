@@ -1,0 +1,57 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="t1">
+			<DisplayName>Thời tiết bình thường</DisplayName>
+			<Desc>Thời tiết bình thường</Desc>
+		</Text>
+		<Text Name="t2">
+			<DisplayName>Thời tiết hiếm gặp</DisplayName>
+			<Desc>Thời tiết hiếm gặp</Desc>
+		</Text>
+		<Text Name="t3">
+			<DisplayName>Bảo vật rơi xuống</DisplayName>
+			<Desc>Bảo vật rơi xuống</Desc>
+		</Text>
+		<Text Name="t8">
+			<DisplayName>Đệ tử giới thiệu</DisplayName>
+			<Desc>Đệ tử giới thiệu</Desc>
+		</Text>
+		<Text Name="t_vistor">
+			<DisplayName>Sự kiện khách đến thăm</DisplayName>
+			<Desc>Sự kiện khách đến thăm</Desc>
+		</Text>
+		<Text Name="t5">
+			<DisplayName>Dã thú tấn công</DisplayName>
+			<Desc>Dã thú tấn công</Desc>
+		</Text>
+		<Text Name="t6">
+			<DisplayName>Kẻ địch xâm chiếm</DisplayName>
+			<Desc>Kẻ địch xâm chiếm</Desc>
+		</Text>
+		<Text Name="t7">
+			<DisplayName>Yêu thú tấn công</DisplayName>
+			<Desc>Yêu thú tấn công</Desc>
+		</Text>
+		<Text Name="s_fabao">
+			<DisplayName>Bí văn-pháp bảo xuất thế</DisplayName>
+			<Desc>Bí văn-pháp bảo xuất thế</Desc>
+		</Text>
+		<Text Name="s_miji">
+			<DisplayName>Bí văn-bí kíp xuất thế</DisplayName>
+			<Desc>Bí văn-bí kíp xuất thế</Desc>
+		</Text>
+		<Text Name="s_daotong">
+			<DisplayName>Bí văn-đạo thống hiện thế</DisplayName>
+			<Desc>Bí văn-đạo thống hiện thế</Desc>
+		</Text>
+		<Text Name="s_dongfu">
+			<DisplayName>Bí văn-động phủ hiện thế</DisplayName>
+			<Desc>Bí văn-động phủ hiện thế</Desc>
+		</Text>
+		<Text Name="s_zhengxie">
+			<DisplayName>Bí văn-chính tà hành tung</DisplayName>
+			<Desc>Bí văn-chính tà hành tung</Desc>
+		</Text>
+	</List>
+</Texts>
+

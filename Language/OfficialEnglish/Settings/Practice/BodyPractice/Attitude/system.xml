@@ -1,0 +1,24 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LostPart">
+			<DisplayName>Vật Bị Lạc</DisplayName>
+		</Text>
+		<Text Name="SYS_ATK">
+			<DisplayName>Tư Thế Tấn Công</DisplayName>
+			<Desc>Luyện thể giả tấn công toàn lực vào cơ thể kẻ địch, nhưng sẽ làm giảm khả năng phòng thủ của bí thể.</Desc>
+		</Text>
+		<Text Name="SYS_NORMAL">
+			<DisplayName>Tư thế bình thường</DisplayName>
+			<Desc>Luyện thể giả chiến đấu bình thường, ưu tiên giải quyết phi kiếm của kẻ địch, sau đó tấn công cơ thể kẻ địch. Trạng thái này cân bằng giữa tấn công và phòng thủ, khả năng tổng thể cũng khá đều.</Desc>
+		</Text>
+		<Text Name="BPAttitudes_ManJi">
+			<DisplayName>Man Cực Chiến Ý</DisplayName>
+			<Desc>Dùng ý chí chiến đấu mạnh mẽ điều khiển toàn thân, trực tiếp tấn công cơ thể kẻ địch, tăng mạnh khả năng tấn công, đồng thời duy trì khả năng phòng thủ bản năng.</Desc>
+		</Text>
+		<Text Name="BPAttitudes_WangZhe">
+			<DisplayName>Vương Giả Chiến Ý</DisplayName>
+			<Desc>Đối mặt với chiến đấu bằng tâm thế vương đạo, bình tĩnh không vội vàng, giảm tiêu hao của bí thể.</Desc>
+		</Text>
+	</List>
+</Texts>
+

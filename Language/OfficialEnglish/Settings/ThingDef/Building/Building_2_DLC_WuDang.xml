@@ -1,0 +1,43 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="RedWallDownLeftS" sParam="Building">
+			<ThingName>Góc tường đỏ</ThingName>
+			<Desc>Bức tường đặc trưng của Võ Đang, xây dựng theo phương pháp tương tự nhưng thu nhỏ quy mô, có thể tạo thành phòng.</Desc>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="RedWallUpLeftS" sParam="Building">
+			<ThingName>Góc tường đỏ</ThingName>
+			<Desc>Bức tường đặc trưng của Võ Đang, xây dựng theo phương pháp tương tự nhưng thu nhỏ quy mô, có thể tạo thành phòng.</Desc>
+		</Text>
+		<Text Name="RedWallMidUpS" sParam="Building">
+			<ThingName>Tường đỏ uốn cong</ThingName>
+			<Desc>Bức tường đặc trưng của Võ Đang, xây dựng theo phương pháp tương tự nhưng thu nhỏ quy mô, có thể tạo thành phòng.</Desc>
+		</Text>
+		<Text Name="RedWallMidRightS" sParam="Building">
+			<ThingName>Tường đỏ uốn cong</ThingName>
+			<Desc>Bức tường đặc trưng của Võ Đang, xây dựng theo phương pháp tương tự nhưng thu nhỏ quy mô, có thể tạo thành phòng.</Desc>
+		</Text>
+		<Text Name="RedWallVerticalS" sParam="Building">
+			<ThingName>Đoạn giữa của tường đỏ</ThingName>
+			<Desc>Bức tường đặc trưng của Võ Đang, xây dựng theo phương pháp tương tự nhưng thu nhỏ quy mô, có thể tạo thành phòng.</Desc>
+		</Text>
+		<Text Name="RedWallVerticalHalfS" sParam="Building">
+			<ThingName>Đoạn cuối của tường đỏ</ThingName>
+			<Desc>Bức tường đặc trưng của Võ Đang, xây dựng theo phương pháp tương tự nhưng thu nhỏ quy mô, có thể tạo thành phòng.</Desc>
+		</Text>
+		<Text Name="RedWallHorizontalS" sParam="Building">
+			<ThingName>Tường đỏ</ThingName>
+			<Desc>Bức tường đặc trưng của Võ Đang, xây dựng theo phương pháp tương tự nhưng thu nhỏ quy mô, có thể tạo thành phòng.</Desc>
+		</Text>
+		<Text Name="RedWallDownLeftTinyS" sParam="Building">
+			<ThingName>Góc nhỏ của tường đỏ</ThingName>
+			<Desc>Bức tường đặc trưng của Võ Đang, xây dựng theo phương pháp tương tự nhưng thu nhỏ quy mô, có thể tạo thành phòng.</Desc>
+		</Text>
+		<Text Name="RedWallUpLeftTinyS" sParam="Building">
+			<ThingName>Góc nhỏ của tường đỏ</ThingName>
+			<Desc>Bức tường đặc trưng của Võ Đang, xây dựng theo phương pháp tương tự nhưng thu nhỏ quy mô, có thể tạo thành phòng.</Desc>
+		</Text>
+	</List>
+</Texts>
+

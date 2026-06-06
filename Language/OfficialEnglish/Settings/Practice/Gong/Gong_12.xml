@@ -1,0 +1,29 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_12_None">
+			<DisplayName>Thái Nguyên Ngũ Phù Vân Lục</DisplayName>
+			<Desc>Truyền thuyết cho rằng đây là đạo thống của Kim Tiên Vân Trung Tử, trong hệ thống tu luyện Kim Đan truyền thống đã mở ra một con đường mới, mượn cơ hội phá quan có thể ngưng tụ năm đạo bổn mệnh chân phù, mang theo huyền diệu riêng biệt.</Desc>
+			<SelectDesc>Công pháp này khi tu luyện sâu hơn có thể ngưng tụ năm đạo bổn mệnh chân phù để nhận được sự gia trì vĩnh viễn của lực phù chú. Tuy nhiên, bản thân công pháp này có khuyết điểm ở con đường đấu pháp, không giỏi tranh đấu.</SelectDesc>
+			<Stages.0.DisplayName>Hóa Khí Chi Cảnh</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Hội Lưu</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nNút thắt này thần thức càng thấp, càng khó vượt qua.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Quan Hải</Stages.0.Necks.1.DisplayName>
+			<Stages.1.DisplayName>Sơ Động Chi Cảnh</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Hậu Tích</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nGốc rễ càng thấp, càng khó đột phá qua bình cảnh này.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Sơ Phù</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>Thủy Hỏa Chi Cảnh</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Hỏa Phù</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Thủy Phù</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Thành đan</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>Nguyên Đan Chi Cảnh</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Hỗn Thành</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Nguyên Phù</Stages.3.Necks.1.DisplayName>
+			<Stages.4.DisplayName>Thuần Dương Chi Cảnh</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Hóa hình</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Thần Phù</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.2.DisplayName>Vân Thăng</Stages.4.Necks.2.DisplayName>
+		</Text>
+	</List>
+</Texts>
+

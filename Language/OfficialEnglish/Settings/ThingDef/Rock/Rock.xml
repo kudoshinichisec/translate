@@ -1,0 +1,25 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="RockBrown" sParam="Plant">
+			<ThingName>Đá nâu</ThingName>
+			<Desc>Một ngọn núi đá màu nâu, kết cấu lỏng lẻo, khó khai thác được đá sử dụng được.</Desc>
+		</Text>
+		<Text Name="RockGray" sParam="Plant">
+			<ThingName>Đá xám</ThingName>
+			<Desc>Một ngọn núi đá màu xám, kết cấu chặt chẽ, có thể khai thác để xây dựng.</Desc>
+		</Text>
+		<Text Name="RockMarble" sParam="Plant">
+			<ThingName>Đá cẩm thạch</ThingName>
+			<Desc>Một ngọn núi chứa nhiều đá cẩm thạch, có thể khai thác để lấy đá cẩm thạch.</Desc>
+		</Text>
+		<Text Name="RockJade" sParam="Plant">
+			<ThingName>Đá ngọc</ThingName>
+			<Desc>Một ngọn núi chứa ngọc, có thể khai thác để lấy ngọc.</Desc>
+		</Text>
+		<Text Name="RockCinnabar" sParam="Plant">
+			<ThingName>Đá chu sa</ThingName>
+			<Desc>Một ngọn núi chứa quặng chu sa, có thể khai thác để lấy chu sa.</Desc>
+		</Text>
+	</List>
+</Texts>
+

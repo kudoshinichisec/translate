@@ -1,0 +1,31 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BambooBed">
+			<Type>Sinh hoạt</Type>
+		</Text>
+		<Text Name="BambooLight">
+			<Type>Trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Building_BambooScreen1">
+			<Type>Trang trí</Type>
+			<Label>Nội thất.</Label>
+		</Text>
+		<Text Name="Building_BambooScreen2">
+			<Type>Trang trí</Type>
+			<Label>Nội thất.</Label>
+		</Text>
+		<Text Name="Building_WaterWheel">
+			<Type>Trang trí</Type>
+			<Label>Cảnh quan</Label>
+		</Text>
+		<Text Name="Building_BambooPavilion">
+			<Type>Trang trí</Type>
+			<Label>Cảnh quan</Label>
+		</Text>
+		<Text Name="LsPanda_Carve">
+			<Type>Linh sủng</Type>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,47 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_SnatchBody">
+			<DisplayName>Âm Thần Đoạt Xá</DisplayName>
+		</Text>
+		<Text Name="Gong_LifeBurning">
+			<DisplayName>Đốt cháy sinh mệnh</DisplayName>
+			<Desc>Tăng khả năng trong thời gian ngắn, kết thúc sẽ gây hại cho cơ thể.</Desc>
+		</Text>
+		<Text Name="Gong_DevilBlood">
+			<DisplayName>Ma hóa</DisplayName>
+			<Desc>Giao tiếp với Thiên Ma, cơ thể hoàn toàn ma hóa, thể chất tăng mạnh, tốc độ tu luyện tăng mạnh, nhưng từ đó bị thiên nhân ruồng bỏ.</Desc>
+		</Text>
+		<Text Name="Gong_DevilBlood_LianHun">
+			<DisplayName>Luyện hồn</DisplayName>
+			<Desc>Bị tra tấn, linh hồn chịu đựng đau đớn lớn lao.</Desc>
+		</Text>
+		<Text Name="Gong_HunTin_Self">
+			<DisplayName>Phân hồn</DisplayName>
+			<Desc>Do phân một phần nguyên thần để thực hiện ký sinh hồn thể, trí tuệ nhân vật bị tổn hại. Ngộ tính, tốc độ tu luyện, tốc độ lĩnh hội giảm nhẹ.</Desc>
+		</Text>
+		<Text Name="Gong_TaHua_Self">
+			<DisplayName>Tha hóa cộng cảm</DisplayName>
+			<Desc>Thực hiện đại pháp tha hóa, thu nhận lĩnh hội và tu vi từ tâm niệm chúng sinh. Nhưng do ảnh hưởng này, giá trị cơ bản của tâm trạng và tâm cảnh sẽ giảm.</Desc>
+		</Text>
+		<Text Name="Gong_TaHua_Self1">
+			<DisplayName>Tha hóa cộng cảm</DisplayName>
+			<Desc>Thực hiện đại pháp tha hóa, thu nhận lĩnh hội và tu vi từ tâm niệm chúng sinh. Nhưng do ảnh hưởng này, giá trị cơ bản của tâm trạng và tâm cảnh sẽ giảm.</Desc>
+		</Text>
+		<Text Name="Gong_TianMoWu">
+			<DisplayName>Thiên Ma mê thần</DisplayName>
+		</Text>
+		<Text Name="Gong_SoulKeYin">
+			<DisplayName>Ấn ký linh hồn</DisplayName>
+		</Text>
+		<Text Name="Modifier_GongXinYin_Damage">
+			<DisplayName>Phản phệ của Tâm Ấn Quyết</DisplayName>
+		</Text>
+		<Text Name="WuYinKeShenRestore">
+			<DisplayName>Phục hồi Ngũ Ấn Khắc Thần</DisplayName>
+		</Text>
+		<Text Name="TianMoWuRestore">
+			<DisplayName>Phục hồi Thiên Ma Vũ</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

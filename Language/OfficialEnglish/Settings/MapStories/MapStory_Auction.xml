@@ -1,0 +1,11 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="TradeAuction">
+			<DisplayName>Đấu giá</DisplayName>
+			<Desc>[NAME] đã đến [PLACE], phát hiện nơi đây có một nhà đấu giá.</Desc>
+			<Selections.0.Display>Tham gia đấu giá</Selections.0.Display>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>
+

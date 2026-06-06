@@ -1,0 +1,18 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Body_Gong_5">
+			<DisplayName>Bại Diệt Tà Thể</DisplayName>
+			<Desc>Thời cổ đại có một số người luyện thể cho rằng thế giới này là một nhà tù, và vĩnh dạ chính là ánh sáng chiếu từ bên ngoài nhà tù vào. Họ hấp thụ một loại tinh hoa kỳ dị từ vĩnh dạ và dùng nó để luyện thể, cho rằng cuối cùng sẽ tu luyện thành bảo phàm phá tan nhà tù và vượt qua khổ hải. Trường phái luyện thể này nhiệt tình tôn sùng vĩnh dạ, từng bị thế nhân không dung thứ, bị gọi là bại diệt tà giáo. Và đại pháp căn bản của họ cũng được gọi là "Bại Diệt Tà Thể".</Desc>
+			<SelectDesc>Bước lên con đường tu luyện thân thể đồng nghĩa với việc hợp nhất hoàn toàn tinh khí thần, tuyệt duyên với linh khí, không thể sử dụng bất kỳ vật huyền diệu nào, từ đó hành tẩu thiên địa chỉ dựa vào thân thể. Có chắc chắn muốn đi con đường này không?</SelectDesc>
+			<Stages.0.DisplayName>Tẩy Thể Kỳ</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Huyết Nhục Tân Sinh</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Tẩy Tủy Kỳ</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Tẩy Tủy Hoán Cốt</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Thoát Thai Kỳ</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Nội Ngoại Hợp Nhất</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Hỗn Nguyên Kỳ</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Thiên Hình</Stages.3.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>
+

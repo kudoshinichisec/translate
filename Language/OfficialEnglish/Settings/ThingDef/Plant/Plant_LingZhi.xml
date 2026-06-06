@@ -1,0 +1,55 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="LingZhi_Huo" sParam="Plant">
+			<ThingName>Căn linh hỏa-Cây Trúc Quả</ThingName>
+			<Desc>Cây của ngũ hành thần dược Trúc Quả, cần mọc ở nơi linh khí dồi dào, ngũ hành tương ứng, đất đai màu mỡ. Vì tính chất đặc biệt, phải ở môi trường trên [temperature]200[/temperature] mới có thể sinh trưởng.</Desc>
+		</Text>
+		<Text Name="LingZhi_Jin" sParam="Plant">
+			<ThingName>Căn linh kim-Cây Thần Mộc Lang Nha</ThingName>
+			<Desc>Cây của ngũ hành thần dược Lang Nha Quả, cần mọc ở nơi linh khí dồi dào, ngũ hành tương ứng, đất đai màu mỡ. Rất nhạy cảm với nhiệt độ cao nhưng chịu được lạnh, phải ở môi trường dưới [temperature]20[/temperature] mới có thể sinh trưởng.</Desc>
+		</Text>
+		<Text Name="LingZhi_Mu" sParam="Plant">
+			<ThingName>Căn linh mộc-Cây Mộc Khô Đằng</ThingName>
+			<Desc>Cây của ngũ hành thần dược Mộc Khô Đằng, cần mọc ở nơi linh khí dồi dào, ngũ hành tương ứng, đất đai màu mỡ. Yêu cầu nhiệt độ sinh trưởng rất nghiêm ngặt, phải trong khoảng [temperature]15[/temperature]-[temperature]35[/temperature] mới có thể sinh trưởng.</Desc>
+		</Text>
+		<Text Name="LingZhi_Shui" sParam="Plant">
+			<ThingName>Căn linh thủy-Hoa Sen Ngũ Sắc</ThingName>
+			<Desc>Cây của ngũ hành thần dược Hoa Sen Ngũ Sắc, cần mọc ở nơi linh khí dồi dào, ngũ hành tương ứng, đất đai màu mỡ dưới nước. Ưa nhiệt độ thấp, phải ở môi trường dưới [temperature]-120[/temperature] mới có thể sinh trưởng.</Desc>
+		</Text>
+		<Text Name="LingZhi_Tu" sParam="Plant">
+			<ThingName>Căn linh thổ-Cây Xạ Hoàng Tinh</ThingName>
+			<Desc>Cây của ngũ hành thần dược Xạ Hoàng Tinh, cần mọc ở nơi linh khí dồi dào, ngũ hành tương ứng, đất đai màu mỡ. Rất kỵ nhiệt độ thấp, phải ở môi trường trên [temperature]30[/temperature] mới có thể sinh trưởng.</Desc>
+		</Text>
+		<Text Name="LingZhi_Huo_ZF" sParam="Plant">
+			<ThingName>Căn linh hỏa-Cây Trúc Quả</ThingName>
+			<Desc>Cây của ngũ hành thần dược Trúc Quả, truyền thuyết nói rằng chỉ có thể mọc ở nơi linh khí dồi dào, ngũ hành tương ứng, đất đai màu mỡ.</Desc>
+			<StoryBnts.0.Name>Quan sát kỹ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử dùng thần thức quan sát kỹ.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="LingZhi_Jin_ZF" sParam="Plant">
+			<ThingName>Căn linh kim-Cây Thần Mộc Lang Nha</ThingName>
+			<Desc>Cây của ngũ hành thần dược Lang Nha Quả, truyền thuyết nói rằng chỉ có thể mọc ở nơi linh khí dồi dào, ngũ hành tương ứng, đất đai màu mỡ.</Desc>
+			<StoryBnts.0.Name>Quan sát kỹ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử dùng thần thức quan sát kỹ.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="LingZhi_Mu_ZF" sParam="Plant">
+			<ThingName>Căn linh mộc-Cây Mộc Khô Đằng</ThingName>
+			<Desc>Cây của ngũ hành thần dược Mộc Khô Đằng, truyền thuyết nói rằng chỉ có thể mọc ở nơi linh khí dồi dào, ngũ hành tương ứng, đất đai màu mỡ.</Desc>
+			<StoryBnts.0.Name>Quan sát kỹ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử dùng thần thức quan sát kỹ.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="LingZhi_Shui_ZF" sParam="Plant">
+			<ThingName>Căn linh thủy-Hoa Sen Ngũ Sắc</ThingName>
+			<Desc>Cây của ngũ hành thần dược Hoa Sen Ngũ Sắc, truyền thuyết nói rằng chỉ có thể mọc ở nơi linh khí dồi dào, ngũ hành tương ứng, đất đai màu mỡ.</Desc>
+			<StoryBnts.0.Name>Quan sát kỹ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử dùng thần thức quan sát kỹ.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="LingZhi_Tu_ZF" sParam="Plant">
+			<ThingName>Căn linh thổ-Cây Xạ Hoàng Tinh</ThingName>
+			<Desc>Cây của ngũ hành thần dược Xạ Hoàng Tinh, truyền thuyết nói rằng chỉ có thể mọc ở nơi linh khí dồi dào, ngũ hành tương ứng, đất đai màu mỡ.</Desc>
+			<StoryBnts.0.Name>Quan sát kỹ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử dùng thần thức quan sát kỹ.</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>
+

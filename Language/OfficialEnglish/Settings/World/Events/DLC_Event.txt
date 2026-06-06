@@ -1,0 +1,9 @@
+ID	Name	sParam2	Desc
+
+40001	Khải trí mạch	Trong [TXT], một con quái vật tình cờ, tự nhận thức được [FRAG], đã phát sinh ra linh trí.	
+40002	Khải trí mạch	Trong [TXT], một con quái vật không biết vì lý do gì, bất ngờ cảm nhận được nhiều lần [FRAG], đã phát sinh ra linh trí.	
+40003	Khải trí mạch	Trong [TXT], một con quái vật sau nhiều lần [FRAG], bỗng nảy ra ý tưởng, đã phát sinh ra linh trí.	
+40004	Động vật gia nhập		    Một con Mạc đến môn phái của bạn, nó dường như rất thích nơi này.
+40005	Yêu thú xâm lấn		    Một số yêu quái Mạc xuất hiện gần đó, chúng tràn đầy thù địch.
+
+

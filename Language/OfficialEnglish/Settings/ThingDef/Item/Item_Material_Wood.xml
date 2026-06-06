@@ -1,0 +1,28 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="WoodBase" sParam="Item">
+			<Item.FabaoSuffix>Gỗ, cành, cột, cọc</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Wood" sParam="Item">
+			<ThingName>Gỗ nguyên liệu</ThingName>
+			<Desc>Loại gỗ tốt, là nguyên liệu chế tác phổ biến.</Desc>
+			<Item.BeMaterial.NamePrefix>Mộc</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_HardWood" sParam="Item">
+			<ThingName>Gỗ linh kim tuyến</ThingName>
+			<Desc>Gỗ kim tuyến trăm năm quý giá, chất liệu cứng, rất nặng.</Desc>
+			<Item.BeMaterial.NamePrefix>Gỗ kim ti</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_ParasolWood" sParam="Item">
+			<ThingName>Ngô Đồng thần mộc</ThingName>
+			<Desc>Gỗ thần nơi phượng hoàng cư ngụ, bề mặt nhẵn bóng, chất liệu cực kỳ cứng, giàu linh khí, hiếm có trên thế gian.</Desc>
+			<Item.BeMaterial.NamePrefix>Gỗ ngô đồng</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingWood" sParam="Item">
+			<ThingName>Gỗ linh mộc</ThingName>
+			<Desc>Loại gỗ được linh khí tẩy luyện, rất cứng và khó cháy.</Desc>
+			<Item.BeMaterial.NamePrefix>Gỗ linh mộc</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>
+

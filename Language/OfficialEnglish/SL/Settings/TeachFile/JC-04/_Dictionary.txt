@@ -1,0 +1,103 @@
+房间	Phòng
+熊皮薄衣衫	Áo mỏng da gấu
+靛蓝布修行下裳	Tu hành hạ thường điện lam bố
+狼皮薄衣衫	Áo mỏng da sói
+熊皮休闲下裳	Hùng Bì Nhàn Hạ Hạ Sam
+紫布修行衣衫	Vải tím Áo Tu Hành
+黄布薄下裳	Bạc Hạ Thường hoàng bố
+可以提高视野范围，并提高历练时发现新地点的速度。	Là phù chú có thể tăng phạm vi tầm nhìn, và tăng tốc độ phát hiện địa điểm mới khi luyện tập.
+松豪	Tùng Hào
+千里神视符	Thiên Lý Thị Phù
+寒精弓	Tinh hàn yêu cung
+肉干	Thịt khô
+母兔子粪便	Phân thỏ cái
+木水井	Giếng gỗ
+灵石墙	Linh thạch tường
+灵石门	Môn Linh thạch
+灵石床	Linh thạch
+灵石油灯	Đèn dầu Linh thạch
+母兔子	Thỏ cái
+母狼	Sói mẹ
+雌蛇	Rắn cái
+母野猪	Lợn rừng cái
+母鸡	Gà mái
+公鸡	Gà trống
+雄龟	Rùa đực
+雌龟	Rùa cái
+雄青蛙	Ếch đực
+雌青蛙	Ếch cái
+缠	Triền
+碎	Toái
+<font color=MYCOLOR>仰厚</font>在割除<font color=OBJCOLOR>野草</font>时，脑海中突然浮现<font color=OBJCOLOR>轩辕士</font>的模样。	<font color=MYCOLOR>Ngưỡng Hậu</font> trong lúc đang cắt <font color=OBJCOLOR>Cỏ dại</font>, trong đầu bỗng hiện lên hình ảnh của <font color=OBJCOLOR>Hiên Viên</font>.
+1天 20:49	1 ngày 20:49
+仰	Ngưỡng
+厚	Hậu
+惊魂初定	Hồn phách ổn định
+致	Trí
+景	Cảnh
+依白	Y Bạch
+公	đực
+友菱	Hữu Lăng
+<font color=MYCOLOR>程雪青</font>在割除<font color=OBJCOLOR>长草</font>时满怀动力，她觉得这也是修行的一环。	<font color=MYCOLOR>Trình Tuyết Thanh</font> tràn đầy động lực khi cắt <font color=OBJCOLOR>cỏ dài</font>, cô cảm thấy đây cũng là một phần của tu luyện.
+1天 17:07	1 ngày 17:07
+<font color=MYCOLOR>程雪青</font>好像听到有谁在喊自己的名字。	<font color=MYCOLOR>Trình Tuyết Thanh</font> dường như nghe có ai đó đang gọi tên mình.
+1天 19:13	1 ngày 19:13
+程	Trình
+雪青	Tuyết Thanh
+胜	Thắng
+贺	Hạ
+珊	San
+毕	Tất
+绍	Thiệu
+<font color=MYCOLOR>轩辕士</font>踩到了什么东西。	<font color=MYCOLOR>Hiên Viên sĩ</font> giẫm phải đồ vật nào đó.
+1天 10:07	1 ngày 10:07
+<font color=MYCOLOR>轩辕士</font>打了个嗝。	<font color=MYCOLOR>Hiên Viên Sĩ</font> ợ hơi.
+3天 06:27	3 ngày 06:27
+轩辕	Hiên Viên
+士	Sĩ
+兴业	Hưng Nghiệp
+言	Ngôn
+诗蕊	Thi Nhị
+公兔子	Thỏ đực
+药物储量不足	Dự trữ thuốc không đủ
+存档写入完成	Hoàn tất ghi lưu trữ
+松豪遇到瓶颈	Tùng Hào gặp bình cảnh
+仰厚需要砍伐工具	Ngưỡng Hậu cần dụng cụ đốn gỗ
+食物储量不足	Dự trữ thực phẩm không đủ
+化形镇神神雷	Hóa Hình Trấn Thần thần lôi
+丙火金刚真言	Bính Hỏa Kim Cương Chân Ngôn
+奔烈覆天神雷	Thần Lôi Phục Thiên Bôn Liệt
+天火飞星神雷	Thiên Hoả Phi Tinh Thần Lôi
+奠基宝典	Điện Cơ Bảo Điển
+少量的	Một chút
+奠基秘册	Điện Cơ Bí Sách
+奠基经	Kinh Điện Cơ
+金刚宝典	Kim Cang Bảo Điển
+五戒奠基秘法	Ngũ Giới Điện Cơ Bí Pháp
+中量的	Vừa
+辟谷要诀	Tịch Cốc Yếu Quyết
+微草佛心宝典	Vi Thảo Phật Tâm Bảo Điển
+黄芽合一册	Sách Hợp Nhất Hoàng Nha
+五内琢玉通卷	Ngũ Nội Trác Ngọc Thông Quyển
+凌霄决意神功	Lăng Tiêu Quyết Ý Thần Công
+大量的	Số lượng lớn
+奔烈合一要诀	Bôn Liệt Hợp Nhất Yếu Quyết
+凌霄摄神	Linh Tiêu Nhiếp Thần
+海量的	Cực lớn
+御木诀	Ngự Mộc Quyết
+元坤妙法	Nguyên Khôn Diệu Pháp
+醍醐灌顶之术	Đề Hồ Quán Đỉnh Thuật
+凌霄沃野密卷	Lăng Tiêu Vọng Dã Mật Quyển
+赋灵术	Phú Linh Thuật
+五泉涤心法	Ngũ Tuyền Địch Tâm Pháp
+先天罡气	Tiên Thiên Cương Khí
+化伤术	Hóa Thương Thuật
+天霖诀	Thiên Lâm Quyết
+天一真法	Thiên Nhất Chân Pháp
+水镜观心定	Thủy Kính Quán Tâm Định
+同风诀	Đồng Phong Quyết
+归海诀	Quy Hải Quyết
+九阴真水界	Cửu Âm Chân Thủy Giới
+罡煞合流	Cương Sát Hợp Lưu
+
+

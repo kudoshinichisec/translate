@@ -1,0 +1,73 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="PenetrateGong_1_Shui">
+			<Title>Tham ngộ-《Thái Hòa Thập Lục Động Thiên》</Title>
+			<Desc>Trang này hiển thị các bí kíp chứa trong 《Thái Hòa Thập Lục Động Thiên》.</Desc>
+		</Text>
+		<Text Name="PenetrateGong_2_Mu">
+			<Title>Tham ngộ-《Kỷ Dần Cửu Xung Đa Bảo Chân Giải》</Title>
+			<Desc>Trang này hiển thị các bí kíp chứa trong 《Kỷ Dần Cửu Xung Đa Bảo Chân Giải》.</Desc>
+		</Text>
+		<Text Name="PenetrateGong_3_Jin">
+			<Title>Tham ngộ-《Thất Sát Kiếm Quyết》</Title>
+			<Desc>Trang này hiển thị các bí kíp chứa trong 《Thất Sát Kiếm Quyết》.</Desc>
+		</Text>
+		<Text Name="PenetrateGong_4_None">
+			<Title>Tham ngộ-《Ngọc Thanh Tiên Pháp》</Title>
+			<Desc>Trang này hiển thị các bí kíp chứa trong 《Ngọc Thanh Tiên Pháp》.</Desc>
+		</Text>
+		<Text Name="PenetrateGong_5_Tu">
+			<Title>Tham ngộ-《Thâu Thiên Quyết》</Title>
+			<Desc>Trang này hiển thị các bí kíp chứa trong 《Thâu Thiên Quyết》.</Desc>
+		</Text>
+		<Text Name="PenetrateGong_6_Huo">
+			<Title>Tham ngộ-《Cửu Chuyển Kim Đan Trực Chỉ》</Title>
+			<Desc>Trang này hiển thị các bí kíp chứa trong 《Cửu Chuyển Kim Đan Trực Chỉ》.</Desc>
+		</Text>
+		<Text Name="PenetrateGong_7_Huo">
+			<Title>Tham ngộ-《Thái Thượng Vong Tình Đạo》</Title>
+			<Desc>Trang này hiển thị các bí kíp chứa trong 《Thái Thượng Vong Tình Đạo》.</Desc>
+		</Text>
+		<Text Name="PenetrateGong_8_Jin">
+			<Title>Tham ngộ-《Bắc Đẩu Động Tâm Kiếp Pháp》</Title>
+			<Desc>Trang này hiển thị các bí kíp chứa trong 《Bắc Đẩu Động Tâm Kiếp Pháp》.</Desc>
+		</Text>
+		<Text Name="PenetrateGong_9_Mu">
+			<Title>Tham ngộ-《Trường Sinh Lục Đạo Luân Hồi Kinh》</Title>
+			<Desc>Trang này hiển thị các bí kíp chứa trong 《Trường Sinh Lục Đạo Luân Hồi Kinh》.</Desc>
+		</Text>
+		<Text Name="PenetrateGong_10_Huo">
+			<Title>Tham ngộ-《Tam Dương Tam Muội Bính Đinh Luyện Hỏa Quyết》</Title>
+			<Desc>Trang này hiển thị các bí kíp chứa trong 《Tam Dương Tam Muội Bính Đinh Luyện Hỏa Quyết》.</Desc>
+		</Text>
+		<Text Name="PenetrateGong_11_Tu">
+			<Title>Tham ngộ-《Quỳ Hoa Luyện Thần Đại Pháp》</Title>
+			<Desc>Trang này hiển thị các bí kíp chứa trong 《Quỳ Hoa Luyện Thần Đại Pháp》.</Desc>
+		</Text>
+		<Text Name="PenetrateGong_12_None">
+			<Title>Tham ngộ-《Thái Nguyên Ngũ Phù Vân Lục》</Title>
+			<Desc>Trang này hiển thị các bí kíp chứa trong 《Thái Nguyên Ngũ Phù Vân Lục》.</Desc>
+		</Text>
+		<Text Name="PenetrateGong_13_None">
+			<Title>Tham ngộ - «Huyền Thiên Chân Vũ Lưỡng Nghĩa Diệu Đạo»</Title>
+			<Desc>Trang này hiển thị bí kíp chứa trong 《Huyền Thiên Chân Võ Lưỡng Nghi Diệu Đạo》.</Desc>
+		</Text>
+		<Text Name="PenetrateDengXian">
+			<Title>Tham ngộ-《Đăng Tiên Chi Pháp》</Title>
+			<Desc>Trang này hiển thị các bí kíp chứa trong 《Đăng Tiên Chi Pháp》 được lưu truyền trong giang hồ.</Desc>
+		</Text>
+		<Text Name="PenetrateYuanShen">
+			<Title>Tham ngộ-《Nguyên Thần Chi Pháp》</Title>
+			<Desc>Trang này hiển thị các bí kíp chứa trong 《Nguyên Thần Chi Pháp》 được lưu truyền trong giang hồ.</Desc>
+		</Text>
+		<Text Name="PenetrateJinDan">
+			<Title>Tham ngộ-《Kim Đan Chi Pháp》</Title>
+			<Desc>Trang này hiển thị các bí kíp chứa trong 《Kim Đan Chi Pháp》 được lưu truyền trong giang hồ.</Desc>
+		</Text>
+		<Text Name="PenetrateFanSu">
+			<Title>Tham ngộ-《Phàm Tục Chi Pháp》</Title>
+			<Desc>Trang này hiển thị các bí kíp chứa trong 《Phàm Tục Chi Pháp》 được lưu truyền trong giang hồ.</Desc>
+		</Text>
+	</List>
+</Texts>
+

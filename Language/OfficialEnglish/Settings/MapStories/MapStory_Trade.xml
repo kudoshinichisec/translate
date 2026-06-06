@@ -1,0 +1,20 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Trade_NoItem">
+			<DisplayName>Hàng hóa đã bán hết</DisplayName>
+			<Desc>Ta đã không còn món hàng nào để bán cho ngươi.</Desc>
+			<Selections.0.Display>Ta muốn biết một vài tin tức</Selections.0.Display>
+			<Selections.1.Display>Vậy thôi bỏ qua đi</Selections.1.Display>
+		</Text>
+		<Text Name="Trade_WalkTrader">
+			<DisplayName>Tin tức của thương nhân</DisplayName>
+			<Desc>Nội dung của hội đấu giá lần tới, ngươi có muốn biết không?</Desc>
+			<Selections.0.Display>Những ai sẽ tham gia vậy?</Selections.0.Display>
+		</Text>
+		<Text Name="Trade_WalkTrader_2">
+			<DisplayName>Tin tức của thương nhân</DisplayName>
+			<Desc>Trên thế giới này có một nhà đấu giá, có lẽ ngươi vẫn chưa đủ tư cách để bước vào.</Desc>
+		</Text>
+	</List>
+</Texts>
+

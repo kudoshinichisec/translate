@@ -1,0 +1,55 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsDog">
+			<PossibleMagic.0.DisplayName>Thuật tưới nước</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>Tưới cây khiến chúng phát triển nhanh chóng đến giai đoạn trưởng thành. Không thể sử dụng thủ công, chỉ có thể kích hoạt thông qua hành vi của Linh Thú.</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>Đất màu sáng tạo</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Hy sinh sự phát triển và dinh dưỡng của bản thân để biến một khu vực thành đất màu. \n[color=#FF0000]Cần đạt giai đoạn trưởng thành.[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.2.DisplayName>Làm nũng</PossibleMagic.2.DisplayName>
+			<PossibleMagic.2.Desc>Làm nũng với một nhân vật, dùng sự nhiệt tình và sức hút của mình để làm đối phương cảm động, phá vỡ phòng ngự tâm lý của họ. \n[color=#FF0000]Cần đạt Linh Trí 100.[/color]</PossibleMagic.2.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]Cần Hộ Thể đạt 50.[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Cần Hộ Thể đạt 100.[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]Cần Thuật Pháp đạt 50.[/color]</PossibleSkill.2.Desc>
+			<PossibleSkill.3.Desc>[color=#FF0000]Cần Thuật Pháp đạt 100.[/color]</PossibleSkill.3.Desc>
+		</Text>
+		<Text Name="LsFox">
+			<PossibleMagic.0.DisplayName>Hóa Thương Thuật</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>Chữa trị vết thương nội môn của một đệ tử. Không thể sử dụng thủ công, chỉ có thể kích hoạt thông qua hành vi của Linh Thú.</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>Linh thổ sáng tạo</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Hy sinh sự phát triển và dinh dưỡng của bản thân để biến một khu vực thành Linh thổ. \n[color=#FF0000]Cần đạt giai đoạn trưởng thành.[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.2.DisplayName>Làm nũng</PossibleMagic.2.DisplayName>
+			<PossibleMagic.2.Desc>Làm nũng với thương nhân để tạo thiện cảm. \n[color=#FF0000]Cần đạt Linh Trí 100.[/color]</PossibleMagic.2.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]Cần Ngự Đan đạt 50.[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Cần Thuật Pháp đạt 50.[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]Cần Linh Khí đạt 50.[/color]</PossibleSkill.2.Desc>
+			<PossibleSkill.3.Desc>[color=#FF0000]Cần Linh Khí đạt 100.[/color]</PossibleSkill.3.Desc>
+		</Text>
+		<Text Name="LsDragon">
+			<PossibleMagic.0.DisplayName>Thuật gió mát</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>Chữa trị cho một đệ tử bị say nắng. Không thể sử dụng thủ công, chỉ có thể kích hoạt thông qua hành vi của Linh Thú.</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>Hấp thụ Hàn Ngục</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Là đồng loại của Giao Long, có thể hấp thụ Hàn Ngục do Giao Long để lại. \n[color=#FF0000]Cần đạt giai đoạn trưởng thành.[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.2.DisplayName>Hơi thở lạnh lẽo</PossibleMagic.2.DisplayName>
+			<PossibleMagic.2.Desc>Sử dụng chân khí Giao Long trong cơ thể để xua tan cái nóng. \n[color=#FF0000]Cần đạt giai đoạn trưởng thành.[/color]</PossibleMagic.2.Desc>
+			<PossibleMagic.3.DisplayName>Uy chấn tứ phương</PossibleMagic.3.DisplayName>
+			<PossibleMagic.3.Desc>Thể hiện thần uy tại một điểm đại diện, tăng độ ổn định. [color=#FF0000]Cần đạt Linh Trí 100 để mở khóa.[/color]</PossibleMagic.3.Desc>
+			<PossibleSkill.0.Desc>Thuật Thuỷ lôi</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Cần Thuật Pháp đạt 50.[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]Cần Thuật Pháp đạt 100.[/color]</PossibleSkill.2.Desc>
+		</Text>
+		<Text Name="LsPhoenix">
+			<PossibleMagic.0.DisplayName>Thuật Lô Ôn</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>Chữa trị cho một đệ tử bị tê cóng. Không thể sử dụng thủ công, chỉ có thể kích hoạt thông qua hành vi của Linh Thú.</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>Hơi thở nóng rực</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Sử dụng chân khí Phượng Hoàng trong cơ thể để xua tan cái lạnh. \n[color=#FF0000]Cần đạt giai đoạn trưởng thành.[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.2.DisplayName>Hỏa Nhãn Kim Tinh</PossibleMagic.2.DisplayName>
+			<PossibleMagic.2.Desc>Ban cho một đệ tử nội môn khả năng Hỏa Nhãn Kim Tinh, cho phép nhìn thấu một số vật phẩm trong đấu giá. \n[color=#FF0000]Cần đạt Linh Trí 50 để mở khóa.[/color]</PossibleMagic.2.Desc>
+			<PossibleMagic.3.DisplayName>Thần Thú May Mắn</PossibleMagic.3.DisplayName>
+			<PossibleMagic.3.Desc>Thể hiện thần uy tại một điểm đại diện, tăng sức hấp dẫn của phe mình. \n[color=#FF0000]Cần đạt Linh Trí 100 để mở khóa.[/color]</PossibleMagic.3.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]Cần Ngự Đan đạt 50.[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Cần Thuật Pháp đạt 50.[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]Cần Thuật Pháp đạt 100.[/color]</PossibleSkill.2.Desc>
+		</Text>
+	</List>
+</Texts>
+

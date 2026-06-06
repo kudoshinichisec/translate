@@ -1,0 +1,19 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Wolf_1">
+			<Prefix>Tập Linh Chi</Prefix>
+			<Suffix>Hôn</Suffix>
+			<Desc>Bí thể thiên phú của Lang Yêu, có thể tăng mạnh tỷ lệ thu được tinh hoa khi nuốt chửng, nhưng lượng tinh hoa thu được sẽ giảm mạnh.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh tỷ lệ thu được tinh hoa từ vật phẩm nuốt chửng\nGiảm mạnh lượng tinh hoa thu được từ vật phẩm nuốt chửng.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Wolf_2">
+			<Prefix>Hoang Hồn Chi</Prefix>
+			<Suffix>Thân</Suffix>
+			<Desc>Bí thể thiên phú của Lang Yêu, luyện thành thuật này có thể tăng mạnh độ bền thân thể và không sợ đau đớn.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh độ bền thân thể của người luyện thể\nTăng mạnh khả năng chịu đựng đau đớn của người luyện thể.</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>
+

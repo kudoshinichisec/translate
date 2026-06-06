@@ -1,0 +1,280 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Dan_BasePracticeDrug">
+			<DisplayName>Trúc Cơ Đan</DisplayName>
+			<Desc>Kích hoạt tiềm năng cơ thể, tạm thời tăng thần thức, căn cốt, trí tuệ lên 30%.</Desc>
+		</Text>
+		<Text Name="Modifier_Dan_JingYuan">
+			<DisplayName>Tinh Nguyên Đan</DisplayName>
+			<Desc>Dùng Tinh Nguyên Đan, trong 7 ngày tăng khả năng sản sinh tinh nguyên của cơ thể, tăng tốc độ tiêu hao độ no, tăng tỷ lệ chuyển hóa tinh nguyên.</Desc>
+		</Text>
+		<Text Name="Modifier_Dan_JingYuan2">
+			<DisplayName>Tham Chi Cửu Khiếu Hoàn</DisplayName>
+			<Desc>Dùng Tham Chi Cửu Khiếu Hoàn, trong 14 ngày tăng khả năng sản sinh tinh nguyên của cơ thể, tăng tốc độ tiêu hao độ no, tăng tỷ lệ chuyển hóa tinh nguyên.</Desc>
+		</Text>
+		<Text Name="Modifier_Dan_JingYuan3">
+			<DisplayName>Huyết Kiệt Tán</DisplayName>
+			<Desc>Dùng Huyết Kiệt Tán, trong 28 ngày tăng khả năng sản sinh tinh nguyên của cơ thể, tăng tốc độ tiêu hao độ no, tăng tỷ lệ chuyển hóa tinh nguyên.</Desc>
+		</Text>
+		<Text Name="Dan_Ling1">
+			<DisplayName>Tụ Linh Đan</DisplayName>
+			<Desc>Tăng tốc độ hồi phục linh khí lên 2000%.</Desc>
+		</Text>
+		<Text Name="Dan_Ling2">
+			<DisplayName>Tử Dương Đan</DisplayName>
+		</Text>
+		<Text Name="Dan_Ling3">
+			<DisplayName>Vạn Linh Tán</DisplayName>
+			<Desc>Tăng giới hạn linh khí lên 100000 điểm.</Desc>
+		</Text>
+		<Text Name="Dan_Defense">
+			<DisplayName>Chân Cương Đan</DisplayName>
+			<Desc>Tăng cường độ chân khí hộ thể cơ bản lên 30%.</Desc>
+		</Text>
+		<Text Name="Dan_FiveBaseFromLife">
+			<DisplayName>Ngũ Độc Ngũ Khí Nguyên Thần Đan</DisplayName>
+		</Text>
+		<Text Name="Dan_FiveBase1">
+			<DisplayName>Thông Thiên Hoàn</DisplayName>
+			<Desc>Trong 24 giờ tăng thần thức lên 30%.</Desc>
+		</Text>
+		<Text Name="Dan_FiveBase2">
+			<DisplayName>Nạp Địa Hoàn</DisplayName>
+			<Desc>Trong 24 giờ tăng căn cốt lên 30%.</Desc>
+		</Text>
+		<Text Name="Dan_FiveBase3">
+			<DisplayName>Dật Tiên Hoàn</DisplayName>
+			<Desc>Trong 24 giờ tăng sức hút lên 30%.</Desc>
+		</Text>
+		<Text Name="Dan_FiveBase4">
+			<DisplayName>Minh Thông Hoàn</DisplayName>
+			<Desc>Trong 24 giờ tăng trí tuệ lên 30%.</Desc>
+		</Text>
+		<Text Name="Dan_FiveBase5">
+			<DisplayName>Thần Hựu Hoàn</DisplayName>
+			<Desc>Trong 24 giờ tăng cơ duyên lên 30%.</Desc>
+		</Text>
+		<Text Name="Dan_PracticeRate">
+			<DisplayName>Tăng tỷ lệ Dột phá bình cảnh</DisplayName>
+		</Text>
+		<Text Name="Dan_PracticeSpeed">
+			<DisplayName>Tăng tốc độ tu luyện (Hoàng Nha)</DisplayName>
+		</Text>
+		<Text Name="Dan_HundredRefine">
+			<DisplayName>Tăng tốc độ tu luyện (Cửu Chuyển)</DisplayName>
+		</Text>
+		<Text Name="Dan_CalmDown">
+			<DisplayName>Thanh Tâm Đan</DisplayName>
+			<Desc>Dùng Thanh Tâm Đan, làm dịu tâm cảnh ở một mức độ nhất định, và trong một ngày giảm biến động tâm cảnh.</Desc>
+		</Text>
+		<Text Name="Dan_Happiness">
+			<DisplayName>Cực Lạc Đan</DisplayName>
+			<Desc>Dùng Cực Lạc Đan, trong hai ngày sẽ đắm chìm trong niềm vui, nhưng hiệu suất làm việc bị ảnh hưởng lớn.</Desc>
+		</Text>
+		<Text Name="Dan_NoHunger">
+			<DisplayName>Ẩm Khí Đan</DisplayName>
+			<Desc>Dùng Ẩm Khí Đan, trong hai ngày có được khả năng ẩm khí, tự động hồi phục độ no.</Desc>
+		</Text>
+		<Text Name="Dan_NoHunger1">
+			<DisplayName>Binh Lương Hoàn</DisplayName>
+			<Desc>Dùng Binh Lương Hoàn, trong hai ngày giảm tốc độ đói và giảm tốc độ mệt mỏi.</Desc>
+		</Text>
+		<Text Name="Dan_NoHunger2">
+			<DisplayName>Tị Cốc Đan</DisplayName>
+			<Desc>Dùng Tị Cốc Đan, giảm mạnh tốc độ tiêu thụ thức ăn và nước uống.</Desc>
+		</Text>
+		<Text Name="Dan_NoHunger3">
+			<DisplayName>Ngũ Khí Tị Cốc Đan</DisplayName>
+			<Desc>Dùng Ngũ Khí Tị Cốc Đan, giảm mạnh tốc độ tiêu thụ thức ăn và nước uống.</Desc>
+		</Text>
+		<Text Name="Dan_LostSoul">
+			<DisplayName>Nhiếp Thần Đan</DisplayName>
+			<Desc>Một phương thuốc cơ bản từ kim thạch, sau khi dùng sẽ làm giảm hoạt tính não, khiến nó rơi vào trạng thái hôn mê ba ngày ba đêm.</Desc>
+		</Text>
+		<Text Name="Dan_IncreaseLife1">
+			<DisplayName>Trường Sinh Đan</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife2">
+			<DisplayName>Huyền Tẫn Tục Mệnh Tán</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife3">
+			<DisplayName>Ngũ Cực Linh Đan</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife4">
+			<DisplayName>Tái Tạo Kim Đan</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife5">
+			<DisplayName>Tương Lai Tinh Túc Hóa Kiếp Đan</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife6">
+			<DisplayName>Trường Sinh Tuyền</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife7">
+			<DisplayName>Linh Chi</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife8">
+			<DisplayName>Tử Chi</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_Anodyne">
+			<DisplayName>Thuốc giảm đau</DisplayName>
+			<Desc>Giảm đau, hiệu quả kéo dài khoảng năm ngày.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_Mint">
+			<DisplayName>Thanh Tâm Thảo</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_EarthEssence">
+			<DisplayName>Địa Mẫu Linh Dịch</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SanHuaHuangJing">
+			<DisplayName>Tam Hoa Hoàng Tinh</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_EarthEssence1">
+			<DisplayName>Tà Mạch Huyết Tuyền</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_EarthEssence_1">
+			<DisplayName>Linh Tủy Chi</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_EarthEssence1_1">
+			<DisplayName>Huyết Tủy Chi</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_Ginseng">
+			<DisplayName>Nhân Sâm</DisplayName>
+			<Desc>Trong thời gian ngắn tăng khả năng hồi phục tự nhiên.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_RedGinseng">
+			<DisplayName>Xích Sâm</DisplayName>
+			<Desc>Trong thời gian ngắn tăng mạnh khả năng hồi phục tự nhiên.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_RedGinseng1">
+			<DisplayName>Xích Sâm (Tử)</DisplayName>
+			<Desc>Tăng giới hạn tối đa linh khí</Desc>
+		</Text>
+		<Text Name="Modifier_Item_Laxative">
+			<DisplayName>Thông Tả Hoàn</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_Laxative1">
+			<DisplayName>Suy yếu</DisplayName>
+			<Desc>Sau khi dùng Thông Tả Hoàn, rất suy yếu, hiệu suất làm việc cực kỳ thấp.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_LongXianGuo">
+			<DisplayName>Long Tiên Quả</DisplayName>
+			<Desc>Dùng Long Tiên Quả, trong nửa ngày không đói và không mệt mỏi.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_LingWater">
+			<DisplayName>Linh Sơ Lộ</DisplayName>
+			<Desc>Dùng Linh Sơ Lộ, trong thời gian ngắn tăng mạnh tốc độ hồi phục vết thương.</Desc>
+		</Text>
+		<Text Name="Dan_LingStone">
+			<DisplayName>Linh khí cộng hưởng</DisplayName>
+			<Desc>Sử dụng linh thạch tu luyện, tạo cộng hưởng với linh khí, có thể tăng tốc độ hồi phục linh khí và từ căn bản tăng tốc độ tu luyện.</Desc>
+		</Text>
+		<Text Name="Dan_LingCrystal">
+			<DisplayName>Linh khí cộng hưởng</DisplayName>
+			<Desc>Sử dụng Linh Tinh để tu luyện, cộng hưởng sâu sắc với linh khí, có thể tăng tốc độ hồi phục linh khí và từ đó nâng cao tốc độ tu luyện.</Desc>
+		</Text>
+		<Text Name="Dan_IncreaseNeckCountdown1">
+			<DisplayName>Càn Nguyên Tị Kiếp Đan</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseNeckCountdown2">
+			<DisplayName>Bích Huyết Đan Thanh</DisplayName>
+		</Text>
+		<Text Name="Dan_Fail1">
+			<DisplayName>Đan Dược Bị Hủy</DisplayName>
+			<Desc>Sau khi ăn viên đan dược kỳ lạ đó, cơ thể đột nhiên thu nhỏ lại.</Desc>
+		</Text>
+		<Text Name="Dan_Fail2">
+			<DisplayName>Đan Dược Bị Hủy</DisplayName>
+			<Desc>Sau khi ăn viên đan dược kỳ lạ đó, cơ thể đột nhiên phóng to ra.</Desc>
+		</Text>
+		<Text Name="Dan_Fail3">
+			<DisplayName>Đan Dược Bị Hủy</DisplayName>
+		</Text>
+		<Text Name="Dan_Fail4">
+			<DisplayName>Đan Dược Bị Hủy</DisplayName>
+		</Text>
+		<Text Name="Dan_Fail5">
+			<DisplayName>Đan Dược Bị Hủy</DisplayName>
+		</Text>
+		<Text Name="Dan_Soul1">
+			<DisplayName>Thần Khấp Đan</DisplayName>
+		</Text>
+		<Text Name="Dan_Soul2">
+			<DisplayName>Thông Huyền Đan</DisplayName>
+		</Text>
+		<Text Name="Dan_Soul3">
+			<DisplayName>Ngưng Phách Đan</DisplayName>
+		</Text>
+		<Text Name="Dan_Soul4">
+			<DisplayName>Nhiên Hồn Đan</DisplayName>
+			<Desc>Đốt cháy tuổi thọ, trong một canh giờ đạt được trí tuệ siêu phàm, nhưng sau đó sẽ tổn thương trí tuệ vĩnh viễn.</Desc>
+		</Text>
+		<Text Name="Dan_Soul4_D">
+			<DisplayName>Tác dụng phụ của Nhiên Hồn Đan</DisplayName>
+		</Text>
+		<Text Name="Dan_LunHui1">
+			<DisplayName>Cảm động</DisplayName>
+			<Desc>Bị ký ức của thế giới khác làm cảm động.</Desc>
+		</Text>
+		<Text Name="Dan_XianBone">
+			<DisplayName>Di cốt tiên nhân</DisplayName>
+		</Text>
+		<Text Name="Dan_XianBoneBall">
+			<DisplayName>Thần Xá Lợi</DisplayName>
+		</Text>
+		<Text Name="Dan_LingYuanZhong">
+			<DisplayName>Linh Nguyên Chủng (Dùng)</DisplayName>
+		</Text>
+		<Text Name="Dan_LingYuanZhong_Equip">
+			<DisplayName>Linh Nguyên Chủng (Trang bị)</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_YuanHunLu">
+			<DisplayName>Nguyên Hồn Lộ</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_XieHunLu">
+			<DisplayName>Tà Hồn Lộ</DisplayName>
+			<Desc>Sau khi uống Tà Hồn Lộ, ngộ tính tăng lên, khả năng học tập được cải thiện.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_XieHunLu1">
+			<DisplayName>Tà Hồn Lộ (Tổn thương)</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_YanDaoGuo">
+			<DisplayName>Diễn Đạo Quả</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_QieDaoGuo">
+			<DisplayName>Thiết Đạo Quả</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_ZaoHuaYuLu">
+			<DisplayName>Tạo Hóa Ngọc Lộ</DisplayName>
+			<Desc>Sau khi uống Tạo Hóa Ngọc Lộ, nguyên thần rơi vào trạng thái diệt tuyệt.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_ZaoHuaYuLu1">
+			<DisplayName>Hiệu quả của Tạo Hóa Ngọc Lộ</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_XianShiChongSheng">
+			<DisplayName>Thần Thức Trọng Sinh</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_XieShiChongSheng">
+			<DisplayName>Tà Thức Trọng Sinh</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_Boss_Meat">
+			<DisplayName>Huyết Nhục Thần Thú</DisplayName>
+			<Desc>Tăng giới hạn linh khí từ gốc rễ, kéo dài tuổi thọ.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_BossZhuLong_Meat">
+			<DisplayName>Nguyên Sơ Huyết Nhục</DisplayName>
+			<Desc>Giảm đạo hạnh, kéo dài tuổi thọ.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_Dan_FabaoNumAdd">
+			<DisplayName>Số lượng pháp bảo +1</DisplayName>
+			<Desc>Giới hạn tối đa pháp bảo +1</Desc>
+		</Text>
+		<Text Name="Modifier_Dan_LieShenDan">
+			<DisplayName>Liệt Thần Đan</DisplayName>
+		</Text>
+		<Text Name="Modifier_Dan_TiShen">
+			<DisplayName>Thế Thân Đan</DisplayName>
+			<Desc>Có thể trốn thoát khỏi hội đấu giá.</Desc>
+		</Text>
+	</List>
+</Texts>
+

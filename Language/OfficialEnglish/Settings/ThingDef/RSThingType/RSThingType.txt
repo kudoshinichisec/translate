@@ -1,0 +1,92 @@
+ItemName	Type
+Item_Cake	Đồ ăn
+Item_Jerky	Đồ ăn
+Item_HomeFood	Đồ ăn
+Item_DeliciousFood	Đồ ăn
+Item_DelicacyFood	Đồ ăn
+Item_LingStone	Tiền
+Item_Ginseng	Dược thảo
+Item_GanodermaLucidum	Dược thảo
+Item_MagicHerb	Dược thảo
+Item_Mint	Dược thảo
+Item_Ginkgo	Dược thảo
+Item_Healroot	Dược thảo
+Item_SmallCycle	Dược thảo
+Item_Hemostatics	Dược thảo
+Item_Plaster	Dược thảo
+Item_Anodyne	Dược thảo
+Item_StoneEssenceDrug	Dược thảo
+Item_Flour	Nguyên liệu nấu ăn
+Item_Wheat	Nguyên liệu nấu ăn
+Item_Mushroom	Nguyên liệu nấu ăn
+Item_Lotusroot	Nguyên liệu nấu ăn
+Item_Pear	Nguyên liệu nấu ăn
+Item_BoarMeat	Nguyên liệu nấu ăn
+Item_FrogMeat	Nguyên liệu nấu ăn
+Item_TurtleMeat	Nguyên liệu nấu ăn
+Item_BearMeat	Nguyên liệu nấu ăn
+Item_Beef	Nguyên liệu nấu ăn
+Item_RabbitMeat	Nguyên liệu nấu ăn
+Item_ChickenMeat	Nguyên liệu nấu ăn
+Item_WolfMeat	Nguyên liệu nấu ăn
+Item_FishMeat	Nguyên liệu nấu ăn
+Item_SnakeMeat	Nguyên liệu nấu ăn
+Item_CatMeat	Nguyên liệu nấu ăn
+Item_TigerMeat	Nguyên liệu nấu ăn
+Item_IronBlock	Vật liệu
+Item_CopperBlock	Vật liệu
+Item_SilverBlock	Vật liệu
+Item_BrownRockBlock	Vật liệu
+Item_GrayRockBlock	Vật liệu
+Item_MarbleBlock	Vật liệu
+Item_JadeBlock	Vật liệu
+Item_LingStoneBlock	Vật liệu
+Item_RoughWoodBlock	Vật liệu
+Item_HardWoodBlock	Vật liệu
+Item_LingWoodBlock	Vật liệu
+Item_WoodLeftover	Vật liệu
+Item_HardWoodLeftover	Vật liệu
+Item_ParasolWoodLeftover	Vật liệu
+Item_LingWoodLeftover	Vật liệu
+Item_BrownRockLeftover	Vật liệu
+Item_GrayRockLeftover	Vật liệu
+Item_MarbleLeftover	Vật liệu
+Item_JadeLeftover	Vật liệu
+Item_SkyStoneLeftover	Vật liệu
+Item_LingStoneLeftover	Vật liệu
+Item_LingCrystalLeftover	Vật liệu
+Item_IronRockLeftover	Vật liệu
+Item_CopperRockLeftover	Vật liệu
+Item_SilverRockLeftover	Vật liệu
+Item_DarksteelRockLeftover	Vật liệu
+Item_StarEssenceLeftover	Vật liệu
+Item_SilverGrit	Vật liệu
+Item_CopperGrit	Vật liệu
+Item_CottonCloth	Vải da
+Item_PurpleCloth	Vải da
+Item_YellowCloth	Vải da
+Item_BlueCloth	Vải da
+Item_RedCloth	Vải da
+Item_WhiteCloth	Vải da
+Item_BlackCloth	Vải da
+Item_RabbitLeather	Vải da
+Item_BearLeather	Vải da
+Item_WolfLeather	Vải da
+Item_BoarLeather	Vải da
+Item_CattleLeather	Vải da
+Item_TigerLeather	Vải da
+Item_DeepBlueCloth	Vải da
+Item_Cotton	Nguyên liệu
+Item_Cinnabar	Nguyên liệu
+Item_IronRock	Nguyên liệu
+Item_CopperRock	Nguyên liệu
+Item_SilverRock	Nguyên liệu
+Item_BrownRock	Nguyên liệu
+Item_GrayRock	Nguyên liệu
+Item_Marble	Nguyên liệu
+Item_Wood	Nguyên liệu
+Item_HardWood	Nguyên liệu
+Item_LingWood	Nguyên liệu
+Item_Shit	Nguyên liệu
+
+

@@ -1,0 +1,11 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_WaitLeave">
+			<DisplayName>Đếm Ngược Rời Đi</DisplayName>
+		</Text>
+		<Text Name="Modifier_SpringBox">
+			<DisplayName>Hộp Quà Năm Mới</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,95 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong10_a0">
+			<DisplayName>Hóa Thương Thuật</DisplayName>
+		</Text>
+		<Text Name="Gong10_a1">
+			<DisplayName>Khu Vân Quyết</DisplayName>
+		</Text>
+		<Text Name="Gong10_a3">
+			<DisplayName>Kim Ô Quán</DisplayName>
+		</Text>
+		<Text Name="Gong10_a7">
+			<DisplayName>Tiên Thiên Cương Khí</DisplayName>
+		</Text>
+		<Text Name="Gong10_b2">
+			<DisplayName>Tam Dương Chân Mạch</DisplayName>
+		</Text>
+		<Text Name="Gong10_b3">
+			<DisplayName>Ngũ Nội Dưỡng Hỏa</DisplayName>
+		</Text>
+		<Text Name="Gong10_b3_1">
+			<DisplayName>Ngũ Nội Dưỡng Hỏa</DisplayName>
+		</Text>
+		<Text Name="Gong10_b3_2">
+			<DisplayName>Ngũ Nội Dưỡng Hỏa</DisplayName>
+		</Text>
+		<Text Name="Gong10_b5">
+			<DisplayName>Ngự Chân Bí Điển</DisplayName>
+		</Text>
+		<Text Name="Gong10_b7">
+			<DisplayName>Liệt Diệm Quyết</DisplayName>
+		</Text>
+		<Text Name="Gong10_b9">
+			<DisplayName>Tịnh Hỏa Chước Tâm</DisplayName>
+		</Text>
+		<Text Name="Gong10_c0">
+			<DisplayName>Thuật Nhập Định</DisplayName>
+		</Text>
+		<Text Name="Gong10_c1">
+			<DisplayName>Linh Tức Quyết</DisplayName>
+		</Text>
+		<Text Name="Gong10_c2">
+			<DisplayName>Huyền Tẫn Trọng Sinh</DisplayName>
+		</Text>
+		<Text Name="Gong10_c3">
+			<DisplayName>Thủy Nhật Chân Quyết</DisplayName>
+		</Text>
+		<Text Name="Gong10_c3_1">
+			<DisplayName>Phần Nhật Chân Pháp</DisplayName>
+		</Text>
+		<Text Name="Gong10_c7">
+			<DisplayName>Tam Dương Xích Tâm</DisplayName>
+		</Text>
+		<Text Name="Gong10_d0">
+			<DisplayName>Phần Phong Thuật</DisplayName>
+		</Text>
+		<Text Name="Gong10_d0_1">
+			<DisplayName>Cửu Dương Thần Hỏa Giới</DisplayName>
+		</Text>
+		<Text Name="Gong10_d1">
+			<DisplayName>Mệnh Hỏa Trúc Linh</DisplayName>
+		</Text>
+		<Text Name="Gong10_d2">
+			<DisplayName>Phạt mao tẩy tủy</DisplayName>
+		</Text>
+		<Text Name="Gong10_d3">
+			<DisplayName>Tâm Hỏa</DisplayName>
+		</Text>
+		<Text Name="Gong10_d3_1">
+			<DisplayName>Tâm Viêm</DisplayName>
+		</Text>
+		<Text Name="Gong10_d5">
+			<DisplayName>Chân Hỏa Luyện Thân</DisplayName>
+		</Text>
+		<Text Name="Gong10_d5_1">
+			<DisplayName>Hỏa Chân Chi Thể</DisplayName>
+		</Text>
+		<Text Name="Gong10_d7">
+			<DisplayName>Thông Thiên Thần Hỏa</DisplayName>
+		</Text>
+		<Text Name="Gong10_d9">
+			<DisplayName>Thiên Hỏa Đồng Nhân</DisplayName>
+		</Text>
+		<Text Name="Gong10_d9_1">
+			<DisplayName>Thiên Hỏa Đồng Nhân</DisplayName>
+		</Text>
+		<Text Name="Gong10_e4">
+			<DisplayName>Thiên Đạo Thần Đan</DisplayName>
+		</Text>
+		<Text Name="Gong10_e8">
+			<DisplayName>Thiên Đạo Thần Khí</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

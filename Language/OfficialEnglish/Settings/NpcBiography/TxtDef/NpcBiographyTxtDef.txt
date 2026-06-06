@@ -1,0 +1,21 @@
+ID	Values
+
+1	Thái Cổ Kim Ô|Triều Sinh Thú|Huyền Không Oanh|Nghiệp Long|Đế Oán Điểu|Huyền Minh|Đế Giang|Hỗn Độn
+2	Thiên Phong Giáp|Phi Vân Hải|Cổ Ngự Phong|Tang Mãng Nguyên|Cửu Tiên Trấn
+3	Đông Hoang Xà Đế Tử Tán Hư|Ba Hải Đại Thánh Cự Đầu Long Vương|Kim Nguyên Đại Đế Lạc Thiên Hạc|Hắc Tuyết Đạo Kim Đàm Động Khổ Trúc Lão Nhân
+4	Hỗn Nguyên Chân Ý|Âm Dương Chân Ý|Ngũ Hành Chân Ý|Sát Lục Chân Ý
+5	Vô Sinh Quả|Bịch Thần Tường|Tịch Diệt Tâm Liên|Thái Sơ Nhân Quả
+6	Luân Hồi Chi Qua|Loạn Tinh Hải|Luân Hồi Cốc|Vô Cực Hải
+7	Đại Lương Thành|Quan Hải Thành|Hà Âm Thành|Bàn Xà Trại|Phong Thành|Cửu Hoa Thôn|Minh Sa Thôn|Hàn Sơn Trấn|Lạc Hạ Trấn|Đạo Hương Thôn|Ngũ Hoa Thôn|Lô Hư Thôn|Nam Bình Thôn
+8	Đại Lương Thành|Quan Hải Thành|Hà Âm Thành|Bàn Xà Trại|Phong Thành|Cửu Hoa Thôn|Minh Sa Thôn|Hàn Sơn Trấn|Lạc Hạ Trấn|Đạo Hương Thôn|Ngũ Hoa Thôn|Lô Hư Thôn|Nam Bình Thôn|Đan Hạ Sơn|Khôn Lôn Sơn|Thiên Cực Phong|Cửu Hoa Sơn|Long Hổ Sơn|Thục Sơn|Ngũ Liên Sơn|Bách Man Sơn|Hắc Sơn|Hợp Hoan Đảo|Đại Mạc|Nam Hoang|Đại Tuyết Nguyên|Giang Ngạn Võ Dã|Trung Nguyên|Thượng Thanh Động|Đan Hạ Tuyệt Bích|Ngũ Long Trì|Đăng Tiên Đài|Long Mạch Động Quật|Phi Vân Giáp|Tuyệt Thiên Quan|Tiềm Long Viên|Phượng Tề Nhai|Phi Lưu Bộc|Thần Mộc Lâm|Ngưng Bích Nhai|Phi Lôi Động|Tàn Hạ Động|Ngọc Tuyền Động|Kiếm Táng|Thiên Hồ|Mộc Bạch Vũ Lâm|Thiên Thi Xác|Vạn Xà Khê|Bách Thú Cốc|Vô Đáy Động|Thiên Thích Lâm|Ly Hận Hải|Độc Long Đàm|Vạn Yêu Điện|Ảo Sa Nguyên|Hỏa Huyệt|Tử Vân Cung|Thuyền Mộ|Huyền Quy Đảo|Đại Liệt Khẩu|Định Hải Phong|Hải Nhãn|Huyền Âm Ao|Kinh Ba Dương|Vạn Cổ Đào Hoa Chướng|Tà Đế Lăng|Trùng Cốc|Thiên Loa Dụ|Ngọc Kinh Đàm|Tuyết Phong Nguyên|Quế Sơn|Lô Sơn|Vân Đài Sơn|Luyện Đan Phong|Bình Đỉnh Sơn|Nguyệt Luân Sơn|Tiểu Lương Sơn|Đồng Lĩnh Sơn|Thái Nhất Di Tích|Hắc Sa Bãi
+9	Đan Hạ Động Thiên|Khôn Lôn Cung|Cực Thiên Cung|Tử Tiêu Tông|Huyền Nhất Đạo|Thanh Liên Kiếm Tông|Tư Hạ Động Thiên|Bách Man Sơn|Thất Thiên Độ|Thất Sát Ma Cung|Hợp Hoan Phái|Vạn Yêu Điện
+10	Giáp Long|Hung Phượng|Chúc Long
+11	Ngũ Sắc Kim Liên|Lăng Dã Quả|Chí Hoàng Tinh|Mộc Khô Đằng|Chu Quả
+12	Thủy Linh Căn-Ngũ Sắc Kim Liên|Kim Linh Căn-Lăng Dã Quả|Thổ Linh Căn-Chí Hoàng Tinh|Mộc Linh Căn-Mộc Khô Đằng|Hỏa Linh Căn-Chu Quả
+13	Phi|Tất Phương|Hóa Xà
+14	Đại Lương Thành|Quan Hải Thành|Hà Âm Thành|Bàn Xà Trại|Phong Thành|Cửu Hoa Thôn|Minh Sa Thôn|Hàn Sơn Trấn|Lạc Hạ Trấn|Đạo Hương Thôn|Ngũ Hoa Thôn|Lô Hư Thôn|Nam Bình Thôn
+15	Đan Hạ Động Thiên|Khôn Lôn Cung|Cực Thiên Cung|Tử Tiêu Tông|Huyền Nhất Đạo|Thanh Liên Kiếm Tông|Tư Hạ Động Thiên|Bách Man Sơn|Thất Thiên Độ|Thất Sát Ma Cung|Hợp Hoan Phái|Vạn Yêu Điện
+16	Bách Man Sơn|Thất Thiên Độ|Thất Sát Ma Cung|Hợp Hoan Phái
+17	Đan Hạ Động Thiên|Khôn Lôn Cung|Tử Tiêu Tông|Huyền Nhất Đạo|Thanh Liên Kiếm Tông|Tư Hạ Động Thiên
+
+

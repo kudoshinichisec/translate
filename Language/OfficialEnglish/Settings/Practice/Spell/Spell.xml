@@ -1,0 +1,241 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Spell_SYSLOST">
+			<DisplayName>Mô-đun bị mất</DisplayName>
+			<Desc>Vật Đánh Mất, không ai biết đây là gì.\n(Mô-đun mất).</Desc>
+		</Text>
+		<Text Name="Spell_MoveSpeed1">
+			<DisplayName>Khinh thân phù</DisplayName>
+			<Desc>Là phù chú có thể tăng tốc độ di chuyển.</Desc>
+		</Text>
+		<Text Name="Spell_TempLow1">
+			<DisplayName>Tị Hàn Phù</DisplayName>
+			<Desc>Là phù chú có thể tăng khả năng chống lạnh.</Desc>
+		</Text>
+		<Text Name="Spell_TempHigh1">
+			<DisplayName>Tị Hoả Phù</DisplayName>
+			<Desc>Là phù chú có thể tăng khả năng chống nóng.</Desc>
+		</Text>
+		<Text Name="Spell_ReadNovel">
+			<DisplayName>Dị văn phù</DisplayName>
+			<Desc>Là phù chú kỳ lạ không biết truyền từ đâu, cách vẽ rất đơn giản nhưng hiệu quả rất thần kỳ, được lưu truyền rộng rãi trong giới tu hành. Chỉ cần người đeo tập trung tâm thần vào phù chú sẽ có thể nhận được nhiều câu chuyện kỳ diệu, thư giãn tâm trạng, điều chỉnh tâm cảnh. Tuy nhiên sẽ không thể kiềm chế sự mê đắm, rất ảnh hưởng đến hiệu suất làm việc và tốc độ tu hành.</Desc>
+		</Text>
+		<Text Name="Spell_MoveSpeed2">
+			<DisplayName>Thần hành phù</DisplayName>
+			<Desc>Là phù chú có thể tăng tốc độ di chuyển, cũng có thể tăng tốc độ khi luyện tập.</Desc>
+		</Text>
+		<Text Name="Spell_RecoveryPower">
+			<DisplayName>Khư Bệnh Phù</DisplayName>
+			<Desc>Là phù chú có thể tăng khả năng tự phục hồi tự nhiên của cơ thể.</Desc>
+		</Text>
+		<Text Name="Spell_VisionRadius">
+			<DisplayName>Thiên Lý Thị Phù</DisplayName>
+			<Desc>Là phù chú có thể tăng phạm vi tầm nhìn, và tăng tốc độ phát hiện địa điểm mới khi luyện tập.</Desc>
+		</Text>
+		<Text Name="Spell_Fatigue">
+			<DisplayName>Chu Công Địch Phù</DisplayName>
+			<Desc>Là phù chú có thể tăng chất lượng giấc ngủ và làm cho người ta khó bị mệt mỏi.</Desc>
+		</Text>
+		<Text Name="Spell_Nutrition">
+			<DisplayName>Ẩm Khí Phù</DisplayName>
+			<Desc>Tăng hiệu quả uống khí bế thực.</Desc>
+		</Text>
+		<Text Name="Spell_Nutrition1">
+			<DisplayName>Tích Cốc phù</DisplayName>
+			<Desc>Giảm tốc độ tiêu hao thực phẩm.</Desc>
+		</Text>
+		<Text Name="Spell_Hide">
+			<DisplayName>Nặc tung phù</DisplayName>
+			<Desc>Có thể ở một mức độ nhất định che giấu khí tức của mình, làm cho bản thân khi ra ngoài luyện tập không dễ bị nhận diện danh tính, giảm tốc độ tăng danh vọng.</Desc>
+		</Text>
+		<Text Name="Spell_Happy">
+			<DisplayName>Trường Lạc phù</DisplayName>
+			<Desc>Làm cho tâm trạng nhẹ nhàng tốt lên, và giảm tốc độ suy giảm giá trị giải trí.</Desc>
+		</Text>
+		<Text Name="Spell_LunHui_ShenShen">
+			<DisplayName>Phù Thần Thần</DisplayName>
+			<Desc>Là phù chú kết hợp lực cầu nguyện, có thể làm cho tâm trạng tốt lên, tâm cảnh ổn định.</Desc>
+		</Text>
+		<Text Name="Spell_TempLow2">
+			<DisplayName>Thái Dương Phù</DisplayName>
+			<Desc>Là phù chú có thể tăng mạnh khả năng chống lạnh.</Desc>
+		</Text>
+		<Text Name="Spell_TempHigh2">
+			<DisplayName>Thái âm phù</DisplayName>
+			<Desc>Là phù chú có thể tăng mạnh khả năng chống nóng.</Desc>
+		</Text>
+		<Text Name="Spell_Intelligence">
+			<DisplayName>Văn Xương phù</DisplayName>
+			<Desc>Làm cho đầu óc sáng suốt, tăng khả năng học tập.</Desc>
+		</Text>
+		<Text Name="Spell_Fight">
+			<DisplayName>Võ Xương phù</DisplayName>
+			<Desc>Tăng khả năng chiến đấu, tăng khả năng chịu đau.</Desc>
+		</Text>
+		<Text Name="Spell_GlobalEfficiency">
+			<DisplayName>Thần cần phù</DisplayName>
+			<Desc>Làm cho tay chân linh hoạt, tăng hiệu suất làm việc.</Desc>
+		</Text>
+		<Text Name="Spell_MadeQualityAddValue">
+			<DisplayName>Thiên Công phù.</DisplayName>
+			<Desc>Tăng chất lượng vật phẩm chế tạo.</Desc>
+		</Text>
+		<Text Name="Spell_Yield">
+			<DisplayName>Phì nhiêu phù</DisplayName>
+			<Desc>Tăng sản lượng khi săn bắn, trồng trọt thu hoạch.</Desc>
+		</Text>
+		<Text Name="Spell_Treatment">
+			<DisplayName>Dược vương phù</DisplayName>
+			<Desc>Tăng tỷ lệ thành công và hiệu quả chữa trị.</Desc>
+		</Text>
+		<Text Name="Spell_MindState1">
+			<DisplayName>Bình tâm phù</DisplayName>
+			<Desc>Là phù chú có thể làm tâm cảnh tăng lên một chút.</Desc>
+		</Text>
+		<Text Name="Spell_DeepPracticeSpeedSpecialCoefficient1">
+			<DisplayName>Thiên Tâm phù</DisplayName>
+			<Desc>Là phù chú có thể tăng tốc độ tu luyện một chút.</Desc>
+		</Text>
+		<Text Name="Spell_MindState2">
+			<DisplayName>Động thần phù</DisplayName>
+			<Desc>Là phù chú có thể làm tâm cảnh tăng lên.</Desc>
+		</Text>
+		<Text Name="Spell_MindState2_LunHui">
+			<DisplayName>Trời thông động thần phù</DisplayName>
+			<Desc>Là phù chú phiên bản tuyệt bản do cổ tiên Viên Nhược Tuyết cải tiến ba phù Động Thần của đạo môn để lại nghìn năm trước. \n[color=#D06508]Dùng để tưởng niệm người chơi đầu tiên vẽ được phù chú chất lượng 100 trong trò chơi: Thật ra không phải ta[/color]</Desc>
+		</Text>
+		<Text Name="Spell_SpeedOfMindStateCoefficientByMoods">
+			<DisplayName>Động chân phù</DisplayName>
+			<Desc>Có thể tăng tỷ lệ đột phá bình cảnh.</Desc>
+		</Text>
+		<Text Name="Spell_DeepPracticeSpeedSpecialCoefficient2">
+			<DisplayName>Động Huyền phù</DisplayName>
+			<Desc>Có thể tăng tốc độ tu luyện.</Desc>
+		</Text>
+		<Text Name="Spell_WorldMapFlySpeed">
+			<DisplayName>Phân ảnh độn không phù</DisplayName>
+			<Desc>Có thể tăng tốc độ bay ngự kiếm đường dài.</Desc>
+		</Text>
+		<Text Name="Spell_FabaoMake_SuccessRateAddV">
+			<DisplayName>Thái thượng thông bảo phù</DisplayName>
+			<Desc>Là phù chú có thể tăng tỷ lệ thành công luyện chế pháp bảo.</Desc>
+		</Text>
+		<Text Name="Spell_FabaoMake_LingInheritRateAddV">
+			<DisplayName>Ngũ phương Linh Bảo phù</DisplayName>
+			<Desc>Có thể tăng nhẹ phẩm cấp luyện chế pháp bảo.</Desc>
+		</Text>
+		<Text Name="Spell_DanMake_SuccessRateAddV">
+			<DisplayName>Đâu Suất thần phù</DisplayName>
+			<Desc>Có thể tăng tỷ lệ thành công luyện chế đan dược.</Desc>
+		</Text>
+		<Text Name="Spell_DanMake_YieldAddP">
+			<DisplayName>Vạn hóa nhận đan phù</DisplayName>
+			<Desc>Có thể tăng nhẹ sản lượng luyện chế đan dược.</Desc>
+		</Text>
+		<Text Name="Spell_Fu">
+			<DisplayName>Vạn phúc đồ</DisplayName>
+			<Desc>Người đeo có thể tăng tâm trạng và tâm cảnh, vạn sự như ý. Chúc mừng năm mới, vạn sự như ý!</Desc>
+		</Text>
+		<Text Name="Spell_Lu">
+			<DisplayName>Vạn lộc đồ</DisplayName>
+			<Desc>Người đeo có thể thân thể nhẹ nhàng khỏe mạnh, thu hoạch tăng lên. Chúc mừng năm mới, vạn sự như ý!</Desc>
+		</Text>
+		<Text Name="Spell_Shou">
+			<DisplayName>Vạn thọ đồ</DisplayName>
+			<Desc>Người đeo có thể tăng thọ nguyên, tránh xa bệnh tật. Chúc mừng năm mới, vạn sự như ý!</Desc>
+		</Text>
+		<Text Name="Spell_Shield1">
+			<DisplayName>Huyền Giáp phù</DisplayName>
+			<Desc>Người đeo có thể tăng lực hộ thể.</Desc>
+		</Text>
+		<Text Name="Spell_Shield2">
+			<DisplayName>Thiên Giáp Phù</DisplayName>
+			<Desc>Người đeo có thể tăng cấp độ kỹ năng hộ thể.</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Jin">
+			<DisplayName>Kim giáp phù</DisplayName>
+			<Desc>Người đeo có thể tăng lực kháng tổn thương thuộc tính Kim.</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Mu">
+			<DisplayName>Mộc giáp phù</DisplayName>
+			<Desc>Người đeo có thể tăng lực kháng tổn thương thuộc tính Mộc.</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Shui">
+			<DisplayName>Thủy Giáp Phù</DisplayName>
+			<Desc>Người đeo có thể tăng lực kháng tổn thương thuộc tính Thủy.</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Huo">
+			<DisplayName>Hoả giáp phù</DisplayName>
+			<Desc>Người đeo có thể tăng lực kháng tổn thương thuộc tính Hỏa.</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Tu">
+			<DisplayName>Thổ giáp phù</DisplayName>
+			<Desc>Người đeo có thể tăng lực kháng tổn thương thuộc tính Thổ.</Desc>
+		</Text>
+		<Text Name="Spell_FaBao1">
+			<DisplayName>Lợi kiếm phù</DisplayName>
+			<Desc>Người đeo có thể tăng uy lực pháp bảo.</Desc>
+		</Text>
+		<Text Name="Spell_FaBao2">
+			<DisplayName>Thần Kiếm Phù</DisplayName>
+			<Desc>Người đeo có thể tăng cấp độ kỹ năng ngự khí.</Desc>
+		</Text>
+		<Text Name="Spell_FaBao3">
+			<DisplayName>Linh kiếm phù</DisplayName>
+			<Desc>Người đeo có thể tăng tỷ lệ hồi linh của pháp bảo.</Desc>
+		</Text>
+		<Text Name="Spell_FaBao4">
+			<DisplayName>Thánh kiếm phù</DisplayName>
+			<Desc>Người đeo có thể từ căn bản tăng uy lực pháp bảo, và toàn diện tăng khả năng pháp bảo.</Desc>
+		</Text>
+		<Text Name="Spell_FightSkill1">
+			<DisplayName>Lệ chú phù</DisplayName>
+			<Desc>Người đeo có thể tăng uy lực pháp thuật.</Desc>
+		</Text>
+		<Text Name="Spell_FightSkill2">
+			<DisplayName>Thần Chú Phù</DisplayName>
+			<Desc>Người đeo có thể tăng cấp độ kỹ năng thuật pháp.</Desc>
+		</Text>
+		<Text Name="Spell_FightSkill3">
+			<DisplayName>Linh chú phù</DisplayName>
+			<Desc>Người đeo có thể từ căn bản giảm tiêu hao linh khí của kỹ năng thuật pháp.</Desc>
+		</Text>
+		<Text Name="Spell_FightSkill4">
+			<DisplayName>Thánh chú phù</DisplayName>
+			<Desc>Người đeo có thể từ căn bản tăng uy lực pháp thuật, tiêu hao linh khí pháp thuật.</Desc>
+		</Text>
+		<Text Name="Spell_TongTian1">
+			<DisplayName>Thông thiên phù</DisplayName>
+			<Desc>Người đeo có thể tăng ngũ chiều.</Desc>
+		</Text>
+		<Text Name="Spell_TongTian2">
+			<DisplayName>Phù Chắn Trời</DisplayName>
+			<Desc>Người đeo có thể giảm đạo hạnh.</Desc>
+		</Text>
+		<Text Name="Spell_TongTian3">
+			<DisplayName>Thật lặn phù</DisplayName>
+			<Desc>Người đeo có thể tăng tiềm lực.</Desc>
+		</Text>
+		<Text Name="Spell_JieTian1">
+			<DisplayName>Tá Thiên Phù</DisplayName>
+			<Desc>Người đeo có thể tăng đạo hạnh.</Desc>
+		</Text>
+		<Text Name="Spell_GodPractice1">
+			<DisplayName>Thần cư phù</DisplayName>
+			<Desc>Người đeo có thể tăng giới hạn thần dân.</Desc>
+		</Text>
+		<Text Name="Spell_GodPractice2">
+			<DisplayName>Thần cảm giác phù</DisplayName>
+			<Desc>Người đeo có thể tăng thêm hiệu suất thu nhận tín ngưỡng của thần quốc.</Desc>
+		</Text>
+		<Text Name="Spell_GodPractice3">
+			<DisplayName>Thần uy phù</DisplayName>
+			<Desc>Người đeo có thể tăng thần tính.</Desc>
+		</Text>
+		<Text Name="Spell_GodPractice4">
+			<DisplayName>Thần ẩn phù</DisplayName>
+			<Desc>Người đeo có thể giảm thần tính.</Desc>
+		</Text>
+	</List>
+</Texts>
+

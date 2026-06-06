@@ -1,0 +1,19 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FeatureModifierBase">
+			<Desc>modifier do đặc tính tạo ra, hệ thống sử dụng, không được chỉnh sửa.</Desc>
+		</Text>
+		<Text Name="ExperienceModifierBase">
+			<Desc>modifier do trải nghiệm tạo ra, hệ thống sử dụng, không được chỉnh sửa.</Desc>
+		</Text>
+		<Text Name="FeatureModifier_DongShiZhang1">
+			<DisplayName>Khích lệ của Chủ tịch</DisplayName>
+			<Desc>Dưới ánh mắt của Chủ tịch, làm việc hăng hái hơn!</Desc>
+		</Text>
+		<Text Name="FeatureModifier_DongShiZhang2">
+			<DisplayName>Khích lệ của Chủ tịch</DisplayName>
+			<Desc>Dưới ánh mắt của Chủ tịch, làm việc hăng hái hơn!</Desc>
+		</Text>
+	</List>
+</Texts>
+

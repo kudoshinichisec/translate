@@ -1,0 +1,86 @@
+Cảnh Giới 1 Vô Thuộc thuộc tính,Tử Vô Giáp,Tử Vô Ất,Tử Vô Bính,Tử Vô Đinh,Tử Vô Mậu,Tử Vô Kỷ,Tử Vô Canh,Tử Vô Tân,Tử Vô Nhâm,Tử Vô Quý
+Cảnh Giới 1 Kim Thuộc thuộc tính,Tử Kim Giáp,Tử Kim Ất,Tử Kim Bính,Tử Kim Đinh,Tử Kim Mậu,Tử Kim Kỷ,Tử Kim Canh,Tử Kim Tân,Tử Kim Nhâm,Tử Kim Quý
+Cảnh Giới 1 Mộc Thuộc thuộc tính,Tử Mộc Giáp,Tử Mộc Ất,Tử Mộc Bính,Tử Mộc Đinh,Tử Mộc Mậu,Tử Mộc Kỷ,Tử Mộc Canh,Tử Mộc Tân,Tử Mộc Nhâm,Tử Mộc Quý
+Cảnh Giới 1 Thủy Thuộc thuộc tính,Tử Thủy Giáp,Tử Thủy Ất,Tử Thủy Bính,Tử Thủy Đinh,Tử Thủy Mậu,Tử Thủy Kỷ,Tử Thủy Canh,Tử Thủy Tân,Tử Thủy Nhâm,Tử Thủy Quý
+Cảnh Giới 1 Hỏa Thuộc thuộc tính,Tử Hỏa Giáp,Tử Hỏa Ất,Tử Hỏa Bính,Tử Hỏa Đinh,Tử Hỏa Mậu,Tử Hỏa Kỷ,Tử Hỏa Canh,Tử Hỏa Tân,Tử Hỏa Nhâm,Tử Hỏa Quý
+Cảnh Giới 1 Thổ Thuộc thuộc tính,Tử Thổ Giáp,Tử Thổ Ất,Tử Thổ Bính,Tử Thổ Đinh,Tử Thổ Mậu,Tử Thổ Kỷ,Tử Thổ Canh,Tử Thổ Tân,Tử Thổ Nhâm,Tử Thổ Quý
+Cảnh Giới 1 Hỗn Nguyên Thuộc thuộc tính,Tử Hỗn Nguyên Giáp,Tử Hỗn Nguyên Ất,Tử Hỗn Nguyên Bính,Tử Hỗn Nguyên Đinh,Tử Hỗn Nguyên Mậu,Tử Hỗn Nguyên Kỷ,Tử Hỗn Nguyên Canh,Tử Hỗn Nguyên Tân,Tử Hỗn Nguyên Nhâm,Tử Hỗn Nguyên Quý
+Cảnh Giới 2 Vô Thuộc thuộc tính,Sửu Vô Giáp,Sửu Vô Ất,Sửu Vô Bính,Sửu Vô Đinh,Sửu Vô Mậu,Sửu Vô Kỷ,Sửu Vô Canh,Sửu Vô Tân,Sửu Vô Nhâm,Sửu Vô Quý
+Cảnh Giới 2 Kim Thuộc thuộc tính,Sửu Kim Giáp,Sửu Kim Ất,Sửu Kim Bính,Sửu Kim Đinh,Sửu Kim Mậu,Sửu Kim Kỷ,Sửu Kim Canh,Sửu Kim Tân,Sửu Kim Nhâm,Sửu Kim Quý
+Cảnh Giới 2 Mộc Thuộc thuộc tính,Sửu Mộc Giáp,Sửu Mộc Ất,Sửu Mộc Bính,Sửu Mộc Đinh,Sửu Mộc Mậu,Sửu Mộc Kỷ,Sửu Mộc Canh,Sửu Mộc Tân,Sửu Mộc Nhâm,Sửu Mộc Quý
+Cảnh Giới 2 Thủy Thuộc thuộc tính,Sửu Thủy Giáp,Sửu Thủy Ất,Sửu Thủy Bính,Sửu Thủy Đinh,Sửu Thủy Mậu,Sửu Thủy Kỷ,Sửu Thủy Canh,Sửu Thủy Tân,Sửu Thủy Nhâm,Sửu Thủy Quý
+Cảnh Giới 2 Hỏa Thuộc thuộc tính,Sửu Hỏa Giáp,Sửu Hỏa Ất,Sửu Hỏa Bính,Sửu Hỏa Đinh,Sửu Hỏa Mậu,Sửu Hỏa Kỷ,Sửu Hỏa Canh,Sửu Hỏa Tân,Sửu Hỏa Nhâm,Sửu Hỏa Quý
+Cảnh Giới 2 Thổ Thuộc thuộc tính,Sửu Thổ Giáp,Sửu Thổ Ất,Sửu Thổ Bính,Sửu Thổ Đinh,Sửu Thổ Mậu,Sửu Thổ Kỷ,Sửu Thổ Canh,Sửu Thổ Tân,Sửu Thổ Nhâm,Sửu Thổ Quý
+Cảnh Giới 2 Hỗn Nguyên Thuộc thuộc tính,Sửu Hỗn Nguyên Giáp,Sửu Hỗn Nguyên Ất,Sửu Hỗn Nguyên Bính,Sửu Hỗn Nguyên Đinh,Sửu Hỗn Nguyên Mậu,Sửu Hỗn Nguyên Kỷ,Sửu Hỗn Nguyên Canh,Sửu Hỗn Nguyên Tân,Sửu Hỗn Nguyên Nhâm,Sửu Hỗn Nguyên Quý
+Cảnh Giới 3 Vô Thuộc thuộc tính,Dần Vô Giáp,Dần Vô Ất,Dần Vô Bính,Dần Vô Đinh,Dần Vô Mậu,Dần Vô Kỷ,Dần Vô Canh,Dần Vô Tân,Dần Vô Nhâm,Dần Vô Quý
+Cảnh Giới 3 Kim Thuộc thuộc tính,Dần Kim Giáp,Dần Kim Ất,Dần Kim Bính,Dần Kim Đinh,Dần Kim Mậu,Dần Kim Kỷ,Dần Kim Canh,Dần Kim Tân,Dần Kim Nhâm,Dần Kim Quý
+Cảnh Giới 3 Mộc Thuộc thuộc tính,Dần Mộc Giáp,Dần Mộc Ất,Dần Mộc Bính,Dần Mộc Đinh,Dần Mộc Mậu,Dần Mộc Kỷ,Dần Mộc Canh,Dần Mộc Tân,Dần Mộc Nhâm,Dần Mộc Quý
+Cảnh Giới 3 Thủy Thuộc thuộc tính,Dần Thủy Giáp,Dần Thủy Ất,Dần Thủy Bính,Dần Thủy Đinh,Dần Thủy Mậu,Dần Thủy Kỷ,Dần Thủy Canh,Dần Thủy Tân,Dần Thủy Nhâm,Dần Thủy Quý
+Cảnh Giới 3 Hỏa Thuộc thuộc tính,Dần Hỏa Giáp,Dần Hỏa Ất,Dần Hỏa Bính,Dần Hỏa Đinh,Dần Hỏa Mậu,Dần Hỏa Kỷ,Dần Hỏa Canh,Dần Hỏa Tân,Dần Hỏa Nhâm,Dần Hỏa Quý
+Cảnh Giới 3 Thổ Thuộc thuộc tính,Dần Thổ Giáp,Dần Thổ Ất,Dần Thổ Bính,Dần Thổ Đinh,Dần Thổ Mậu,Dần Thổ Kỷ,Dần Thổ Canh,Dần Thổ Tân,Dần Thổ Nhâm,Dần Thổ Quý
+Cảnh Giới 3 Hỗn Nguyên Thuộc thuộc tính,Dần Hỗn Nguyên Giáp,Dần Hỗn Nguyên Ất,Dần Hỗn Nguyên Bính,Dần Hỗn Nguyên Đinh,Dần Hỗn Nguyên Mậu,Dần Hỗn Nguyên Kỷ,Dần Hỗn Nguyên Canh,Dần Hỗn Nguyên Tân,Dần Hỗn Nguyên Nhâm,Dần Hỗn Nguyên Quý
+Cảnh Giới 4 Vô Thuộc thuộc tính,Mão Vô Giáp,Mão Vô Ất,Mão Vô Bính,Mão Vô Đinh,Mão Vô Mậu,Mão Vô Kỷ,Mão Vô Canh,Mão Vô Tân,Mão Vô Nhâm,Mão Vô Quý
+Cảnh Giới 4 Kim Thuộc thuộc tính,Mão Kim Giáp,Mão Kim Ất,Mão Kim Bính,Mão Kim Đinh,Mão Kim Mậu,Mão Kim Kỷ,Mão Kim Canh,Mão Kim Tân,Mão Kim Nhâm,Mão Kim Quý
+Cảnh Giới 4 Mộc Thuộc thuộc tính,Mão Mộc Giáp,Mão Mộc Ất,Mão Mộc Bính,Mão Mộc Đinh,Mão Mộc Mậu,Mão Mộc Kỷ,Mão Mộc Canh,Mão Mộc Tân,Mão Mộc Nhâm,Mão Mộc Quý
+Cảnh Giới 4 Thủy Thuộc thuộc tính,Mão Thủy Giáp,Mão Thủy Ất,Mão Thủy Bính,Mão Thủy Đinh,Mão Thủy Mậu,Mão Thủy Kỷ,Mão Thủy Canh,Mão Thủy Tân,Mão Thủy Nhâm,Mão Thủy Quý
+Cảnh Giới 4 Hỏa Thuộc thuộc tính,Mão Hỏa Giáp,Mão Hỏa Ất,Mão Hỏa Bính,Mão Hỏa Đinh,Mão Hỏa Mậu,Mão Hỏa Kỷ,Mão Hỏa Canh,Mão Hỏa Tân,Mão Hỏa Nhâm,Mão Hỏa Quý
+Cảnh Giới 4 Thổ Thuộc thuộc tính,Mão Thổ Giáp,Mão Thổ Ất,Mão Thổ Bính,Mão Thổ Đinh,Mão Thổ Mậu,Mão Thổ Kỷ,Mão Thổ Canh,Mão Thổ Tân,Mão Thổ Nhâm,Mão Thổ Quý
+Cảnh Giới 4 Hỗn Nguyên Thuộc thuộc tính,Mão Hỗn Nguyên Giáp,Mão Hỗn Nguyên Ất,Mão Hỗn Nguyên Bính,Mão Hỗn Nguyên Đinh,Mão Hỗn Nguyên Mậu,Mão Hỗn Nguyên Kỷ,Mão Hỗn Nguyên Canh,Mão Hỗn Nguyên Tân,Mão Hỗn Nguyên Nhâm,Mão Hỗn Nguyên Quý
+Cảnh Giới 5 Vô Thuộc thuộc tính,Thần Vô Giáp,Thần Vô Ất,Thần Vô Bính,Thần Vô Đinh,Thần Vô Mậu,Thần Vô Kỷ,Thần Vô Canh,Thần Vô Tân,Thần Vô Nhâm,Thần Vô Quý
+Cảnh Giới 5 Kim Thuộc thuộc tính,Thần Kim Giáp,Thần Kim Ất,Thần Kim Bính,Thần Kim Đinh,Thần Kim Mậu,Thần Kim Kỷ,Thần Kim Canh,Thần Kim Tân,Thần Kim Nhâm,Thần Kim Quý
+Cảnh Giới 5 Mộc Thuộc thuộc tính,Thần Mộc Giáp,Thần Mộc Ất,Thần Mộc Bính,Thần Mộc Đinh,Thần Mộc Mậu,Thần Mộc Kỷ,Thần Mộc Canh,Thần Mộc Tân,Thần Mộc Nhâm,Thần Mộc Quý
+Cảnh Giới 5 Thủy Thuộc thuộc tính,Thần Thủy Giáp,Thần Thủy Ất,Thần Thủy Bính,Thần Thủy Đinh,Thần Thủy Mậu,Thần Thủy Kỷ,Thần Thủy Canh,Thần Thủy Tân,Thần Thủy Nhâm,Thần Thủy Quý
+Cảnh Giới 5 Hỏa Thuộc thuộc tính,Thần Hỏa Giáp,Thần Hỏa Ất,Thần Hỏa Bính,Thần Hỏa Đinh,Thần Hỏa Mậu,Thần Hỏa Kỷ,Thần Hỏa Canh,Thần Hỏa Tân,Thần Hỏa Nhâm,Thần Hỏa Quý
+Cảnh Giới 5 Thổ Thuộc thuộc tính,Thần Thổ Giáp,Thần Thổ Ất,Thần Thổ Bính,Thần Thổ Đinh,Thần Thổ Mậu,Thần Thổ Kỷ,Thần Thổ Canh,Thần Thổ Tân,Thần Thổ Nhâm,Thần Thổ Quý
+Cảnh Giới 5 Hỗn Nguyên Thuộc thuộc tính,Thần Hỗn Nguyên Giáp,Thần Hỗn Nguyên Ất,Thần Hỗn Nguyên Bính,Thần Hỗn Nguyên Đinh,Thần Hỗn Nguyên Mậu,Thần Hỗn Nguyên Kỷ,Thần Hỗn Nguyên Canh,Thần Hỗn Nguyên Tân,Thần Hỗn Nguyên Nhâm,Thần Hỗn Nguyên Quý
+Cảnh Giới 6 Vô Thuộc thuộc tính,Tị Vô Giáp,Tị Vô Ất,Tị Vô Bính,Tị Vô Đinh,Tị Vô Mậu,Tị Vô Kỷ,Tị Vô Canh,Tị Vô Tân,Tị Vô Nhâm,Tị Vô Quý
+Cảnh Giới 6 Kim Thuộc thuộc tính,Tị Kim Giáp,Tị Kim Ất,Tị Kim Bính,Tị Kim Đinh,Tị Kim Mậu,Tị Kim Kỷ,Tị Kim Canh,Tị Kim Tân,Tị Kim Nhâm,Tị Kim Quý
+Cảnh Giới 6 Mộc Thuộc thuộc tính,Tị Mộc Giáp,Tị Mộc Ất,Tị Mộc Bính,Tị Mộc Đinh,Tị Mộc Mậu,Tị Mộc Kỷ,Tị Mộc Canh,Tị Mộc Tân,Tị Mộc Nhâm,Tị Mộc Quý
+Cảnh Giới 6 Thủy Thuộc thuộc tính,Tị Thủy Giáp,Tị Thủy Ất,Tị Thủy Bính,Tị Thủy Đinh,Tị Thủy Mậu,Tị Thủy Kỷ,Tị Thủy Canh,Tị Thủy Tân,Tị Thủy Nhâm,Tị Thủy Quý
+Cảnh Giới 6 Hỏa Thuộc thuộc tính,Tị Hỏa Giáp,Tị Hỏa Ất,Tị Hỏa Bính,Tị Hỏa Đinh,Tị Hỏa Mậu,Tị Hỏa Kỷ,Tị Hỏa Canh,Tị Hỏa Tân,Tị Hỏa Nhâm,Tị Hỏa Quý
+Cảnh Giới 6 Thổ Thuộc thuộc tính,Tị Thổ Giáp,Tị Thổ Ất,Tị Thổ Bính,Tị Thổ Đinh,Tị Thổ Mậu,Tị Thổ Kỷ,Tị Thổ Canh,Tị Thổ Tân,Tị Thổ Nhâm,Tị Thổ Quý
+Cảnh Giới 6 Hỗn Nguyên Thuộc thuộc tính,Tị Hỗn Nguyên Giáp,Tị Hỗn Nguyên Ất,Tị Hỗn Nguyên Bính,Tị Hỗn Nguyên Đinh,Tị Hỗn Nguyên Mậu,Tị Hỗn Nguyên Kỷ,Tị Hỗn Nguyên Canh,Tị Hỗn Nguyên Tân,Tị Hỗn Nguyên Nhâm,Tị Hỗn Nguyên Quý
+Cảnh Giới 7 Vô Thuộc thuộc tính,Ngọ Vô Giáp,Ngọ Vô Ất,Ngọ Vô Bính,Ngọ Vô Đinh,Ngọ Vô Mậu,Ngọ Vô Kỷ,Ngọ Vô Canh,Ngọ Vô Tân,Ngọ Vô Nhâm,Ngọ Vô Quý
+Cảnh Giới 7 Kim Thuộc thuộc tính,Ngọ Kim Giáp,Ngọ Kim Ất,Ngọ Kim Bính,Ngọ Kim Đinh,Ngọ Kim Mậu,Ngọ Kim Kỷ,Ngọ Kim Canh,Ngọ Kim Tân,Ngọ Kim Nhâm,Ngọ Kim Quý
+Cảnh Giới 7 Mộc Thuộc thuộc tính,Ngọ Mộc Giáp,Ngọ Mộc Ất,Ngọ Mộc Bính,Ngọ Mộc Đinh,Ngọ Mộc Mậu,Ngọ Mộc Kỷ,Ngọ Mộc Canh,Ngọ Mộc Tân,Ngọ Mộc Nhâm,Ngọ Mộc Quý
+Cảnh Giới 7 Thủy Thuộc thuộc tính,Ngọ Thủy Giáp,Ngọ Thủy Ất,Ngọ Thủy Bính,Ngọ Thủy Đinh,Ngọ Thủy Mậu,Ngọ Thủy Kỷ,Ngọ Thủy Canh,Ngọ Thủy Tân,Ngọ Thủy Nhâm,Ngọ Thủy Quý
+Cảnh Giới 7 Hỏa Thuộc thuộc tính,Ngọ Hỏa Giáp,Ngọ Hỏa Ất,Ngọ Hỏa Bính,Ngọ Hỏa Đinh,Ngọ Hỏa Mậu,Ngọ Hỏa Kỷ,Ngọ Hỏa Canh,Ngọ Hỏa Tân,Ngọ Hỏa Nhâm,Ngọ Hỏa Quý
+Cảnh Giới 7 Thổ Thuộc thuộc tính,Ngọ Thổ Giáp,Ngọ Thổ Ất,Ngọ Thổ Bính,Ngọ Thổ Đinh,Ngọ Thổ Mậu,Ngọ Thổ Kỷ,Ngọ Thổ Canh,Ngọ Thổ Tân,Ngọ Thổ Nhâm,Ngọ Thổ Quý
+Cảnh Giới 7 Hỗn Nguyên Thuộc thuộc tính,Ngọ Hỗn Nguyên Giáp,Ngọ Hỗn Nguyên Ất,Ngọ Hỗn Nguyên Bính,Ngọ Hỗn Nguyên Đinh,Ngọ Hỗn Nguyên Mậu,Ngọ Hỗn Nguyên Kỷ,Ngọ Hỗn Nguyên Canh,Ngọ Hỗn Nguyên Tân,Ngọ Hỗn Nguyên Nhâm,Ngọ Hỗn Nguyên Quý
+Cảnh Giới 8 Vô Thuộc thuộc tính,Vị Vô Giáp,Vị Vô Ất,Vị Vô Bính,Vị Vô Đinh,Vị Vô Mậu,Vị Vô Kỷ,Vị Vô Canh,Vị Vô Tân,Vị Vô Nhâm,Vị Vô Quý
+Cảnh Giới 8 Kim Thuộc thuộc tính,Vị Kim Giáp,Vị Kim Ất,Vị Kim Bính,Vị Kim Đinh,Vị Kim Mậu,Vị Kim Kỷ,Vị Kim Canh,Vị Kim Tân,Vị Kim Nhâm,Vị Kim Quý
+Cảnh Giới 8 Mộc Thuộc thuộc tính,Vị Mộc Giáp,Vị Mộc Ất,Vị Mộc Bính,Vị Mộc Đinh,Vị Mộc Mậu,Vị Mộc Kỷ,Vị Mộc Canh,Vị Mộc Tân,Vị Mộc Nhâm,Vị Mộc Quý
+Cảnh Giới 8 Thủy Thuộc thuộc tính,Vị Thủy Giáp,Vị Thủy Ất,Vị Thủy Bính,Vị Thủy Đinh,Vị Thủy Mậu,Vị Thủy Kỷ,Vị Thủy Canh,Vị Thủy Tân,Vị Thủy Nhâm,Vị Thủy Quý
+Cảnh Giới 8 Hỏa Thuộc thuộc tính,Vị Hỏa Giáp,Vị Hỏa Ất,Vị Hỏa Bính,Vị Hỏa Đinh,Vị Hỏa Mậu,Vị Hỏa Kỷ,Vị Hỏa Canh,Vị Hỏa Tân,Vị Hỏa Nhâm,Vị Hỏa Quý
+Cảnh Giới 8 Thổ Thuộc thuộc tính,Vị Thổ Giáp,Vị Thổ Ất,Vị Thổ Bính,Vị Thổ Đinh,Vị Thổ Mậu,Vị Thổ Kỷ,Vị Thổ Canh,Vị Thổ Tân,Vị Thổ Nhâm,Vị Thổ Quý
+Cảnh Giới 8 Hỗn Nguyên Thuộc thuộc tính,Vị Hỗn Nguyên Giáp,Vị Hỗn Nguyên Ất,Vị Hỗn Nguyên Bính,Vị Hỗn Nguyên Đinh,Vị Hỗn Nguyên Mậu,Vị Hỗn Nguyên Kỷ,Vị Hỗn Nguyên Canh,Vị Hỗn Nguyên Tân,Vị Hỗn Nguyên Nhâm,Vị Hỗn Nguyên Quý
+Cảnh Giới 9 Vô Thuộc thuộc tính,Thân Vô Giáp,Thân Vô Ất,Thân Vô Bính,Thân Vô Đinh,Thân Vô Mậu,Thân Vô Kỷ,Thân Vô Canh,Thân Vô Tân,Thân Vô Nhâm,Thân Vô Quý
+Cảnh Giới 9 Kim Thuộc thuộc tính,Thân Kim Giáp,Thân Kim Ất,Thân Kim Bính,Thân Kim Đinh,Thân Kim Mậu,Thân Kim Kỷ,Thân Kim Canh,Thân Kim Tân,Thân Kim Nhâm,Thân Kim Quý
+Cảnh Giới 9 Mộc Thuộc thuộc tính,Thân Mộc Giáp,Thân Mộc Ất,Thân Mộc Bính,Thân Mộc Đinh,Thân Mộc Mậu,Thân Mộc Kỷ,Thân Mộc Canh,Thân Mộc Tân,Thân Mộc Nhâm,Thân Mộc Quý
+Cảnh Giới 9 Thủy Thuộc thuộc tính,Thân Thủy Giáp,Thân Thủy Ất,Thân Thủy Bính,Thân Thủy Đinh,Thân Thủy Mậu,Thân Thủy Kỷ,Thân Thủy Canh,Thân Thủy Tân,Thân Thủy Nhâm,Thân Thủy Quý
+Cảnh Giới 9 Hỏa Thuộc thuộc tính,Thân Hỏa Giáp,Thân Hỏa Ất,Thân Hỏa Bính,Thân Hỏa Đinh,Thân Hỏa Mậu,Thân Hỏa Kỷ,Thân Hỏa Canh,Thân Hỏa Tân,Thân Hỏa Nhâm,Thân Hỏa Quý
+Cảnh Giới 9 Thổ Thuộc thuộc tính,Thân Thổ Giáp,Thân Thổ Ất,Thân Thổ Bính,Thân Thổ Đinh,Thân Thổ Mậu,Thân Thổ Kỷ,Thân Thổ Canh,Thân Thổ Tân,Thân Thổ Nhâm,Thân Thổ Quý
+Cảnh Giới 9 Hỗn Nguyên Thuộc thuộc tính,Thân Hỗn Nguyên Giáp,Thân Hỗn Nguyên Ất,Thân Hỗn Nguyên Bính,Thân Hỗn Nguyên Đinh,Thân Hỗn Nguyên Mậu,Thân Hỗn Nguyên Kỷ,Thân Hỗn Nguyên Canh,Thân Hỗn Nguyên Tân,Thân Hỗn Nguyên Nhâm,Thân Hỗn Nguyên Quý
+Cảnh Giới 10 Vô Thuộc thuộc tính,Dậu Vô Giáp,Dậu Vô Ất,Dậu Vô Bính,Dậu Vô Đinh,Dậu Vô Mậu,Dậu Vô Kỷ,Dậu Vô Canh,Dậu Vô Tân,Dậu Vô Nhâm,Dậu Vô Quý
+Cảnh Giới 10 Kim Thuộc thuộc tính,Dậu Kim Giáp,Dậu Kim Ất,Dậu Kim Bính,Dậu Kim Đinh,Dậu Kim Mậu,Dậu Kim Kỷ,Dậu Kim Canh,Dậu Kim Tân,Dậu Kim Nhâm,Dậu Kim Quý
+Cảnh Giới 10 Mộc Thuộc thuộc tính,Dậu Mộc Giáp,Dậu Mộc Ất,Dậu Mộc Bính,Dậu Mộc Đinh,Dậu Mộc Mậu,Dậu Mộc Kỷ,Dậu Mộc Canh,Dậu Mộc Tân,Dậu Mộc Nhâm,Dậu Mộc Quý
+Cảnh Giới 10 Thủy Thuộc thuộc tính,Dậu Thủy Giáp,Dậu Thủy Ất,Dậu Thủy Bính,Dậu Thủy Đinh,Dậu Thủy Mậu,Dậu Thủy Kỷ,Dậu Thủy Canh,Dậu Thủy Tân,Dậu Thủy Nhâm,Dậu Thủy Quý
+Cảnh Giới 10 Hỏa Thuộc thuộc tính,Dậu Hỏa Giáp,Dậu Hỏa Ất,Dậu Hỏa Bính,Dậu Hỏa Đinh,Dậu Hỏa Mậu,Dậu Hỏa Kỷ,Dậu Hỏa Canh,Dậu Hỏa Tân,Dậu Hỏa Nhâm,Dậu Hỏa Quý
+Cảnh Giới 10 Thổ Thuộc thuộc tính,Dậu Thổ Giáp,Dậu Thổ Ất,Dậu Thổ Bính,Dậu Thổ Đinh,Dậu Thổ Mậu,Dậu Thổ Kỷ,Dậu Thổ Canh,Dậu Thổ Tân,Dậu Thổ Nhâm,Dậu Thổ Quý
+Cảnh Giới 10 Hỗn Nguyên Thuộc thuộc tính,Dậu Hỗn Nguyên Giáp,Dậu Hỗn Nguyên Ất,Dậu Hỗn Nguyên Bính,Dậu Hỗn Nguyên Đinh,Dậu Hỗn Nguyên Mậu,Dậu Hỗn Nguyên Kỷ,Dậu Hỗn Nguyên Canh,Dậu Hỗn Nguyên Tân,Dậu Hỗn Nguyên Nhâm,Dậu Hỗn Nguyên Quý
+Cảnh Giới 11 Vô Thuộc thuộc tính,Tuất Vô Giáp,Tuất Vô Ất,Tuất Vô Bính,Tuất Vô Đinh,Tuất Vô Mậu,Tuất Vô Kỷ,Tuất Vô Canh,Tuất Vô Tân,Tuất Vô Nhâm,Tuất Vô Quý
+Cảnh Giới 11 Kim Thuộc thuộc tính,Tuất Kim Giáp,Tuất Kim Ất,Tuất Kim Bính,Tuất Kim Đinh,Tuất Kim Mậu,Tuất Kim Kỷ,Tuất Kim Canh,Tuất Kim Tân,Tuất Kim Nhâm,Tuất Kim Quý
+Cảnh Giới 11 Mộc Thuộc thuộc tính,Tuất Mộc Giáp,Tuất Mộc Ất,Tuất Mộc Bính,Tuất Mộc Đinh,Tuất Mộc Mậu,Tuất Mộc Kỷ,Tuất Mộc Canh,Tuất Mộc Tân,Tuất Mộc Nhâm,Tuất Mộc Quý
+Cảnh Giới 11 Thủy Thuộc thuộc tính,Tuất Thủy Giáp,Tuất Thủy Ất,Tuất Thủy Bính,Tuất Thủy Đinh,Tuất Thủy Mậu,Tuất Thủy Kỷ,Tuất Thủy Canh,Tuất Thủy Tân,Tuất Thủy Nhâm,Tuất Thủy Quý
+Cảnh Giới 11 Hỏa Thuộc thuộc tính,Tuất Hỏa Giáp,Tuất Hỏa Ất,Tuất Hỏa Bính,Tuất Hỏa Đinh,Tuất Hỏa Mậu,Tuất Hỏa Kỷ,Tuất Hỏa Canh,Tuất Hỏa Tân,Tuất Hỏa Nhâm,Tuất Hỏa Quý
+Cảnh Giới 11 Thổ Thuộc thuộc tính,Tuất Thổ Giáp,Tuất Thổ Ất,Tuất Thổ Bính,Tuất Thổ Đinh,Tuất Thổ Mậu,Tuất Thổ Kỷ,Tuất Thổ Canh,Tuất Thổ Tân,Tuất Thổ Nhâm,Tuất Thổ Quý
+Cảnh Giới 11 Hỗn Nguyên Thuộc thuộc tính,Tuất Hỗn Nguyên Giáp,Tuất Hỗn Nguyên Ất,Tuất Hỗn Nguyên Bính,Tuất Hỗn Nguyên Đinh,Tuất Hỗn Nguyên Mậu,Tuất Hỗn Nguyên Kỷ,Tuất Hỗn Nguyên Canh,Tuất Hỗn Nguyên Tân,Tuất Hỗn Nguyên Nhâm,Tuất Hỗn Nguyên Quý
+Cảnh Giới 12 Vô Thuộc thuộc tính,Hợi Vô Giáp,Hợi Vô Ất,Hợi Vô Bính,Hợi Vô Đinh,Hợi Vô Mậu,Hợi Vô Kỷ,Hợi Vô Canh,Hợi Vô Tân,Hợi Vô Nhâm,Hợi Vô Quý
+Cảnh Giới 12 Kim Thuộc thuộc tính,Hợi Kim Giáp,Hợi Kim Ất,Hợi Kim Bính,Hợi Kim Đinh,Hợi Kim Mậu,Hợi Kim Kỷ,Hợi Kim Canh,Hợi Kim Tân,Hợi Kim Nhâm,Hợi Kim Quý
+Cảnh Giới 12 Mộc Thuộc thuộc tính,Hợi Mộc Giáp,Hợi Mộc Ất,Hợi Mộc Bính,Hợi Mộc Đinh,Hợi Mộc Mậu,Hợi Mộc Kỷ,Hợi Mộc Canh,Hợi Mộc Tân,Hợi Mộc Nhâm,Hợi Mộc Quý
+Cảnh Giới 12 Thủy Thuộc thuộc tính,Hợi Thủy Giáp,Hợi Thủy Ất,Hợi Thủy Bính,Hợi Thủy Đinh,Hợi Thủy Mậu,Hợi Thủy Kỷ,Hợi Thủy Canh,Hợi Thủy Tân,Hợi Thủy Nhâm,Hợi Thủy Quý
+Cảnh Giới 12 Hỏa Thuộc thuộc tính,Hợi Hỏa Giáp,Hợi Hỏa Ất,Hợi Hỏa Bính,Hợi Hỏa Đinh,Hợi Hỏa Mậu,Hợi Hỏa Kỷ,Hợi Hỏa Canh,Hợi Hỏa Tân,Hợi Hỏa Nhâm,Hợi Hỏa Quý
+Cảnh Giới 12 Thổ Thuộc thuộc tính,Hợi Thổ Giáp,Hợi Thổ Ất,Hợi Thổ Bính,Hợi Thổ Đinh,Hợi Thổ Mậu,Hợi Thổ Kỷ,Hợi Thổ Canh,Hợi Thổ Tân,Hợi Thổ Nhâm,Hợi Thổ Quý
+Cảnh Giới 12 Hỗn Nguyên Thuộc thuộc tính,Hợi Hỗn Nguyên Giáp,Hợi Hỗn Nguyên Ất,Hợi Hỗn Nguyên Bính,Hợi Hỗn Nguyên Đinh,Hợi Hỗn Nguyên Mậu,Hợi Hỗn Nguyên Kỷ,Hợi Hỗn Nguyên Canh,Hợi Hỗn Nguyên Tân,Hợi Hỗn Nguyên Nhâm,Hợi Hỗn Nguyên Quý
+
+

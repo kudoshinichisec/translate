@@ -1,0 +1,17 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="QQ">
+			<Display>Bạn bè QQ</Display>
+			<Desc>Chia sẻ lên QQ</Desc>
+		</Text>
+		<Text Name="WeChat">
+			<Display>Bạn bè WeChat</Display>
+			<Desc>Chia sẻ lên WeChat</Desc>
+		</Text>
+		<Text Name="SaveImg">
+			<Display>Lưu hình ảnh</Display>
+			<Desc>Lưu vào cục bộ</Desc>
+		</Text>
+	</List>
+</Texts>
+

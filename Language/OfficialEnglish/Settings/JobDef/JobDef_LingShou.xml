@@ -1,0 +1,71 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="JobLsDecide">
+			<DisplayName>Do dự</DisplayName>
+		</Text>
+		<Text Name="JobEatItem2">
+			<DisplayName>Ăn uống</DisplayName>
+		</Text>
+		<Text Name="JobAtk4Fun">
+			<DisplayName>Tấn công</DisplayName>
+		</Text>
+		<Text Name="JobGoShit">
+			<DisplayName>Đi vệ sinh</DisplayName>
+		</Text>
+		<Text Name="JobLsCarry">
+			<DisplayName>Dùng pháp thuật vận chuyển</DisplayName>
+		</Text>
+		<Text Name="JobLsCutoff">
+			<DisplayName>Dùng pháp thuật chặt cây</DisplayName>
+		</Text>
+		<Text Name="JobLsMine">
+			<DisplayName>Dùng pháp thuật khai mỏ</DisplayName>
+		</Text>
+		<Text Name="JobLsCarryToBed">
+			<DisplayName>Dùng pháp thuật vận chuyển</DisplayName>
+		</Text>
+		<Text Name="JobLsCarryToDest">
+			<DisplayName>Dùng pháp thuật vận chuyển</DisplayName>
+		</Text>
+		<Text Name="JobPlayWithSelf">
+			<DisplayName>Tự giải trí</DisplayName>
+		</Text>
+		<Text Name="JobPlayWithSth">
+			<DisplayName>Chơi đùa</DisplayName>
+		</Text>
+		<Text Name="JobLsFun">
+			<DisplayName>Chơi đùa</DisplayName>
+		</Text>
+		<Text Name="JobLsHelpPlay">
+			<DisplayName>Chơi đùa</DisplayName>
+		</Text>
+		<Text Name="JobLsTrain">
+			<DisplayName>Tập luyện</DisplayName>
+		</Text>
+		<Text Name="JobLsPee">
+			<DisplayName>Tưới cây</DisplayName>
+		</Text>
+		<Text Name="JobLsCure">
+			<DisplayName>Chữa trị</DisplayName>
+		</Text>
+		<Text Name="JobLsFollow">
+			<DisplayName>Đi theo</DisplayName>
+		</Text>
+		<Text Name="JobLsFeedHim">
+			<DisplayName>Cho ăn</DisplayName>
+		</Text>
+		<Text Name="JobLsSleep">
+			<DisplayName>Ngủ</DisplayName>
+		</Text>
+		<Text Name="JobLsSleepWithNpc">
+			<DisplayName>Ngủ</DisplayName>
+		</Text>
+		<Text Name="JobLsGotoThing">
+			<DisplayName>Đi đến</DisplayName>
+		</Text>
+		<Text Name="JobConfuse">
+			<DisplayName>Mê hoặc</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

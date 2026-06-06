@@ -1,0 +1,21 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Cattle_1">
+			<Prefix>Tứ Tượng Huyền Hóa</Prefix>
+			<Suffix>Bụng</Suffix>
+			<Desc>Bí thể truyền từ tộc yêu bò, sử dụng lực Kim, Mộc, Thủy, Hỏa của bốn hành để luyện dạ dày, khiến khả năng tiêu hóa tăng mạnh.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng đáng kể cấp phẩm tối đa của vật phẩm bị luyện thể giả nuốt\nTăng đáng kể tỷ lệ nhận được tinh hoa từ vật phẩm bị luyện thể giả nuốt\nTăng đáng kể số lượng tinh hoa nhận được từ vật phẩm bị luyện thể giả nuốt\nTăng đáng kể hiệu quả tiêu thụ thực phẩm của luyện thể giả\nTăng đáng kể tỷ lệ nhận được tinh nguyên của luyện thể giả\nTăng mạnh khả năng tiêu thụ của luyện thể giả</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Cattle_2">
+			<Prefix>Quán Tinh</Prefix>
+			<Suffix>Giác</Suffix>
+			<Desc>Bí truyền thể của tộc Ngưu Yêu, bí thể tuyệt sát, tu luyện đến cực hạn có thể dẫn động lực lượng tinh tú, không gì không phá được.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình sức mạnh cơ bản của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh uy lực bí thể từ gốc rễ.</Levels.1.Desc>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,383 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="CollectionAndProcessing">
+			<Type>Phần cơ bản</Type>
+			<DisplayName>Thu thập và chế biến nguyên liệu</DisplayName>
+			<Desc>Thông qua chương hướng dẫn này, hiểu được việc thu thập và chế biến nguyên liệu cơ bản trong trò chơi.\n[color=#BC1717]Trong quá trình hướng dẫn, bạn có thể nhấp vào nút bỏ qua ở góc trên bên phải để bỏ qua phần hiện tại và tiếp tục hướng dẫn. Chúng tôi không khuyến nghị hoàn thành hướng dẫn một mạch, điều này sẽ rất buồn tẻ. Bạn có thể quay lại hướng dẫn để tra cứu nội dung tương ứng khi gặp vấn đề đặc thù trong chế độ cổ điển.[/color]</Desc>
+			<Chapters.0.DisplayName>Thu thập gỗ</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Sử dụng lệnh chặt cây</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Phát lệnh chặt cây từ mục tiêu</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Chặt hàng loạt</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Gia công nguyên liệu</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Xây dựng điểm chế biến nguyên liệu</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Gia công nguyên liệu</Chapters.1.Tasks.1>
+			<Tasks.2.TaskDesc>Nhấp vào lệnh chặt cây để vào trạng thái chọn mục tiêu chặt cây</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Nhấp vào cây được chỉ định để phát hành lệnh chặt cây</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Nhấn nút hủy để hủy trạng thái chọn mục tiêu đốn cây</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>Nhấn nút chuyển tốc độ góc dưới phải để chuyển sang trạng thái tăng tốc cao nhất</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Nhấn nút chuyển tốc độ góc dưới phải để chuyển sang trạng thái tăng tốc cao nhất</Tasks.7.TaskDesc>
+			<Tasks.9.TaskDesc>Chờ cho việc chặt cây hoàn tất</Tasks.9.TaskDesc>
+			<Tasks.11.TaskDesc>Nhấn vào một cây khác, chọn cây này, thanh trạng thái cây sẽ hiện ở phía dưới</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Nhấp vào lệnh chặt cây để vào trạng thái chặt cây</Tasks.12.TaskDesc>
+			<Tasks.12.UiData.Name>Chặt</Tasks.12.UiData.Name>
+			<Tasks.13.TaskDesc>Chờ cho việc chặt cây hoàn tất</Tasks.13.TaskDesc>
+			<Tasks.17.TaskDesc>Nhấp vào lệnh chặt cây để vào trạng thái chọn mục tiêu chặt cây</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Kéo chuột trong khu vực mục tiêu để phát hành lệnh chặt cây hàng loạt</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Nhấn nút xác nhận để phát lệnh</Tasks.19.TaskDesc>
+			<Tasks.21.TaskDesc>Chờ cho việc chặt cây hoàn tất</Tasks.21.TaskDesc>
+			<Tasks.23.TipsData.Desc>Trong bài học này, tập trung vào việc thu thập gỗ. Ngoài gỗ, cách thu thập các nguyên liệu khác như khoáng sản, kim loại, thực phẩm cũng tương tự. Bạn có thể trải nghiệm trong quá trình chơi.</Tasks.23.TipsData.Desc>
+			<Tasks.25.TaskDesc>Nhấn nút menu góc trái dưới để mở menu lựa chọn</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Nhấn nút Xây dựng trong menu để mở trang Xây dựng</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Nhấp vào phân loại công việc để vào trang xây dựng công việc</Tasks.27.TaskDesc>
+			<Tasks.27.UiData.Name>Công</Tasks.27.UiData.Name>
+			<Tasks.28.TaskDesc>Nhấp vào điểm chế biến nguyên liệu để vào trạng thái đặt xây dựng</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Đặt điểm chế biến nguyên liệu vào vị trí được hệ thống chỉ định</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Xác nhận xây dựng</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Thoát chế độ xây dựng</Tasks.31.TaskDesc>
+			<Tasks.33.TaskDesc>Đóng Bảng Xây Dựng</Tasks.33.TaskDesc>
+			<Tasks.36.TaskDesc>Chọn điểm chế biến nguyên liệu, thanh trạng thái của công trình này sẽ hiển thị ở phía dưới</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Nhấp vào nút sản xuất để vào trang chế tạo</Tasks.37.TaskDesc>
+			<Tasks.37.UiData.Name>SảnXuất</Tasks.37.UiData.Name>
+			<Tasks.38.TaskDesc>Nhấp vào gỗ để thêm gỗ vào danh sách chế tạo</Tasks.38.TaskDesc>
+			<Tasks.39.TaskDesc>Nhấp vào lặp lại 10 lần</Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>Nhấp vào nút đóng để đóng trang chế tạo</Tasks.40.TaskDesc>
+			<Tasks.41.TaskDesc>Chờ cho việc chế tạo gỗ hoàn tất</Tasks.41.TaskDesc>
+			<Tasks.43.TipsData.Desc>Việc chế biến nguyên liệu thường dựa vào các công trình liên quan. Điểm chế biến nguyên liệu được đề cập trong hướng dẫn chỉ là công trình chế biến cơ bản nhất. Khi trò chơi tiến triển, bạn sẽ mở khóa các công trình chế biến nguyên liệu chuyên nghiệp hơn như trạm chặt củi, bàn thợ đá, lò luyện kim, giúp chế biến nguyên liệu hiệu quả hơn.</Tasks.43.TipsData.Desc>
+		</Text>
+		<Text Name="BuildRoom">
+			<Type>Phần cơ bản</Type>
+			<DisplayName>Xây dựng phòng</DisplayName>
+			<Desc>Thông qua chương hướng dẫn này, bạn sẽ hiểu cơ bản về xây dựng phòng trong trò chơi.\n[color=#BC1717]Trong quá trình hướng dẫn, bạn có thể nhấn vào nút bỏ qua ở góc trên bên phải để bỏ qua phần hiện tại và tiếp tục hướng dẫn. Chúng tôi không khuyến khích hoàn thành tất cả hướng dẫn một mạch, vì điều này sẽ rất buồn tẻ. Bạn có thể quay lại mục hướng dẫn để tra cứu nội dung liên quan khi gặp vấn đề cụ thể trong chế độ cổ điển.[/color]</Desc>
+			<Chapters.0.DisplayName>Lên kế hoạch phòng</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Xây dựng phòng</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Đặt lối vào cho phòng</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Đặt đồ nội thất</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Đặt vật trang trí</Chapters.0.Tasks.3>
+			<Chapters.0.Tasks.4>Chờ xây dựng hoàn tất</Chapters.0.Tasks.4>
+			<Chapters.1.DisplayName>Phân bổ phòng và các thuộc tính liên quan</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Cài đặt quyền sở hữu phòng</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Xem thuộc tính phòng</Chapters.1.Tasks.1>
+			<Tasks.1.TaskDesc>Nhấn nút tìm kiếm mục tiêu</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Chọn phần Nguyên liệu để xem thông tin vật tư hiện tại</Tasks.2.TaskDesc>
+			<Tasks.2.UiData.Name>Nguyên liệu</Tasks.2.UiData.Name>
+			<Tasks.3.TipsData.Desc>Chúng ta đã có đủ vật liệu, bây giờ cần sử dụng chúng để xây dựng nhà ở cho nhân vật.</Tasks.3.TipsData.Desc>
+			<Tasks.4.TaskDesc>Đóng bảng tìm kiếm mục tiêu</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Nhấn nút menu góc trái dưới để mở menu lựa chọn</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Nhấn nút Xây dựng trong menu để mở trang Xây dựng</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Nhấp vào tường để vào trạng thái đặt xây dựng</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Kéo chuột để đặt tường vào vị trí được hệ thống chỉ định</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Thông qua chế độ Đặt Đơn, đặt tường vào vị trí được hệ thống chỉ định</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Chọn chế độ xóa, để lại khoảng trống cho việc xây cửa</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Nhấp để xóa tường</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Nhấp để xóa tường</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Xác Nhận Xóa</Tasks.13.TaskDesc>
+			<Tasks.16.TaskDesc>Nhấp vào cửa để vào trạng thái đặt xây dựng</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Thông qua việc nhấp vào chế độ, đặt cánh cửa ở vị trí được hệ thống gợi ý.</Tasks.17.TaskDesc>
+			<Tasks.20.TaskDesc>Nhấp vào trang Sinh hoạt để vào phân loại công trình Sinh hoạt</Tasks.20.TaskDesc>
+			<Tasks.20.UiData.Name>Sinh hoạt</Tasks.20.UiData.Name>
+			<Tasks.21.TaskDesc>Nhấp vào giường để vào trạng thái đặt xây dựng</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Đặt giường vào vị trí được hệ thống chỉ định</Tasks.22.TaskDesc>
+			<Tasks.25.TaskDesc>Nhấp vào trang trang trí để vào phân loại công trình trang trí</Tasks.25.TaskDesc>
+			<Tasks.25.UiData.Name>Trang trí</Tasks.25.UiData.Name>
+			<Tasks.26.TaskDesc>Nhấp vào đèn dầu để vào trạng thái đặt xây dựng</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Đặt đèn dầu vào vị trí được hệ thống chỉ định</Tasks.27.TaskDesc>
+			<Tasks.32.TaskDesc>Nhấn nút chuyển tốc độ góc dưới phải để chuyển sang trạng thái tăng tốc cao nhất</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>Nhấn nút chuyển tốc độ góc dưới phải để chuyển sang trạng thái tăng tốc cao nhất</Tasks.33.TaskDesc>
+			<Tasks.35.TaskDesc>Chờ tất cả công trình xây dựng hoàn tất</Tasks.35.TaskDesc>
+			<Tasks.37.TipsData.Desc>Thông qua hướng dẫn lên kế hoạch phòng, bạn có thể lên kế hoạch cho các phòng khác theo nhu cầu thực tế của mình. Tuy nhiên, cần lưu ý rằng diện tích tối đa của phòng là 400 ô, tối thiểu là 3 ô.</Tasks.37.TipsData.Desc>
+			<Tasks.39.TaskDesc>Nhấp vào giường trong phòng</Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>Nhấp vào chỉ định quyền sở hữu</Tasks.40.TaskDesc>
+			<Tasks.40.UiData.Name>Chỉ định quyền sở hữu</Tasks.40.UiData.Name>
+			<Tasks.41.TaskDesc>Nhấp vào nhân vật đầu tiên để phân bổ giường cho anh ta</Tasks.41.TaskDesc>
+			<Tasks.42.TaskDesc>Xác nhận phân bổ quyền sở hữu giường</Tasks.42.TaskDesc>
+			<Tasks.44.TaskDesc>Nhấp vào khu vực trong phòng để chọn phòng</Tasks.44.TaskDesc>
+			<Tasks.45.TipsData.Desc>Bạn có thể đặt tên cho phòng từ đây.</Tasks.45.TipsData.Desc>
+			<Tasks.46.TipsData.Desc>Bạn có thể xem nhiệt độ hiện tại của phòng từ đây.</Tasks.46.TipsData.Desc>
+			<Tasks.47.TipsData.Desc>Bạn có thể xem ảnh hưởng của phòng từ đây.</Tasks.47.TipsData.Desc>
+			<Tasks.48.TipsData.Desc>Bạn có thể xem bố cục của phòng từ đây.</Tasks.48.TipsData.Desc>
+			<Tasks.49.TipsData.Desc>Bạn có thể xem mức độ thẩm mỹ của phòng từ đây.</Tasks.49.TipsData.Desc>
+			<Tasks.50.TipsData.Desc>Có phòng ở là một trong những nhu cầu cơ bản nhất của các đệ tử. Việc cung cấp phòng ở thoải mái cho các đệ tử rất quan trọng trong trò chơi.</Tasks.50.TipsData.Desc>
+		</Text>
+		<Text Name="ExploreMap">
+			<Type>Phần cơ bản</Type>
+			<DisplayName>Khám phá bản đồ</DisplayName>
+			<Desc>Thông qua chương hướng dẫn này, bạn sẽ hiểu cơ bản về khám phá bản đồ trong trò chơi.\n[color=#BC1717]Trong quá trình hướng dẫn, bạn có thể nhấn vào nút bỏ qua ở góc trên bên phải để bỏ qua phần hiện tại và tiếp tục hướng dẫn. Chúng tôi không khuyến khích hoàn thành tất cả hướng dẫn một mạch, vì điều này sẽ rất buồn tẻ. Bạn có thể quay lại mục hướng dẫn để tra cứu nội dung liên quan khi gặp vấn đề cụ thể trong chế độ cổ điển.[/color]</Desc>
+			<Chapters.0.DisplayName>Lần khám phá đầu tiên</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Phát hành lệnh khám phá</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Xem các sinh vật và rương được khám phá</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Lần khám phá thứ hai</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Tiếp tục khám phá</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Xem đất và khoáng sản được khám phá</Chapters.1.Tasks.1>
+			<Chapters.2.DisplayName>Lần khám phá thứ ba</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Tiếp tục khám phá</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Xem thực vật được khám phá</Chapters.2.Tasks.1>
+			<Tasks.2.TaskDesc>Nhấn nút khám phá bên dưới</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Nhấp vào khu vực sương mù ở góc dưới bên trái để phát hành nhiệm vụ khám phá</Tasks.3.TaskDesc>
+			<Tasks.6.TaskDesc>Nhấn nút chuyển tốc độ góc dưới phải để chuyển sang trạng thái tăng tốc cao nhất</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Nhấn nút chuyển tốc độ góc dưới phải để chuyển sang trạng thái tăng tốc cao nhất</Tasks.7.TaskDesc>
+			<Tasks.9.TaskDesc>Chờ hoàn thành lệnh khám phá</Tasks.9.TaskDesc>
+			<Tasks.11.TaskDesc>Nhấp vào một hòm hàng được khám phá</Tasks.11.TaskDesc>
+			<Tasks.12.TipsData.Desc>Thông qua khám phá, Bạn có thể tìm thấy một số vật liệu. Nhấn nút tương tác để mở chúng.</Tasks.12.TipsData.Desc>
+			<Tasks.12.TipsData.Name>Tìm kiếm</Tasks.12.TipsData.Name>
+			<Tasks.13.TaskDesc>Nhấp vào một con thỏ được khám phá</Tasks.13.TaskDesc>
+			<Tasks.14.TipsData.Desc>Tìm thấy một số động vật hoang dã. Có thể săn bắn hoặc thuần hóa chúng để lấy tài nguyên.</Tasks.14.TipsData.Desc>
+			<Tasks.16.TipsData.Desc>Thông qua khám phá bản đồ, Bạn có thể tìm thấy một số vật liệu hoặc động vật hữu ích. Bạn có thể thu thập các vật liệu này trong giai đoạn đầu của trò chơi, còn động vật có thể được săn bắt hoặc nuôi.</Tasks.16.TipsData.Desc>
+			<Tasks.20.TaskDesc>Nhấp vào lệnh thám hiểm</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Nhấp vào khu vực sương mù ở góc trên bên phải để phát hành nhiệm vụ khám phá</Tasks.21.TaskDesc>
+			<Tasks.23.TaskDesc>Chờ hoàn thành lệnh khám phá</Tasks.23.TaskDesc>
+			<Tasks.25.TaskDesc>Nhấp vào mạch khoáng sản được khám phá</Tasks.25.TaskDesc>
+			<Tasks.26.TipsData.Desc>Tìm thấy một mạch khoáng sản chứa quặng hiếm. Có thể khai thác khi cần thiết.</Tasks.26.TipsData.Desc>
+			<Tasks.27.TaskDesc>Xem thông tin đất đai.</Tasks.27.TaskDesc>
+			<Tasks.28.TipsData.Desc>Đây là một vùng đất màu mỡ, có thể dùng để trồng trọt.</Tasks.28.TipsData.Desc>
+			<Tasks.30.TipsData.Desc>Thông qua khám phá bản đồ, Bạn có thể tìm thấy một số khoáng sản hoặc đất màu mỡ. Bạn có thể khai thác hoặc canh tác khi cần khoáng sản hoặc nông trường.</Tasks.30.TipsData.Desc>
+			<Tasks.34.TaskDesc>Nhấp vào lệnh thám hiểm</Tasks.34.TaskDesc>
+			<Tasks.35.TaskDesc>Nhấp vào khu vực sương mù ở góc trên bên trái để phát hành nhiệm vụ khám phá</Tasks.35.TaskDesc>
+			<Tasks.37.TaskDesc>Chờ hoàn thành lệnh khám phá</Tasks.37.TaskDesc>
+			<Tasks.40.TaskDesc>Nhấp vào cây bạch quả khổng lồ được khám phá</Tasks.40.TaskDesc>
+			<Tasks.41.TipsData.Desc>Cây bạch quả khổng lồ không chỉ đẹp mắt mà còn tự nhiên tập trung linh khí. Đây là một nguồn tài nguyên hiếm tốt cho việc tu luyện giai đoạn đầu.</Tasks.41.TipsData.Desc>
+			<Tasks.42.TaskDesc>Nhấp vào hoa sen được khám phá</Tasks.42.TaskDesc>
+			<Tasks.43.TipsData.Desc>Trong giai đoạn đầu của trò chơi, hoa sen trong vùng nước là một nguồn thực phẩm giá rẻ.</Tasks.43.TipsData.Desc>
+			<Tasks.45.TipsData.Desc>Bạn sử dụng chức năng khám phá để dần dần khám phá từng góc bản đồ, phát hiện vật liệu, đất, động vật và các tài nguyên mới.</Tasks.45.TipsData.Desc>
+		</Text>
+		<Text Name="BaseSave">
+			<Type>Phần cơ bản</Type>
+			<DisplayName>Sinh tồn cơ bản</DisplayName>
+			<Desc>Thông qua chương hướng dẫn này, hiểu được các phương thức sinh tồn cơ bản trong trò chơi.\n[color=#BC1717]Trong quá trình hướng dẫn, bạn có thể nhấp vào nút bỏ qua ở góc trên bên phải để bỏ qua phần hiện tại và tiếp tục hướng dẫn. Chúng tôi không khuyến nghị hoàn thành hướng dẫn một mạch, điều này sẽ rất buồn tẻ. Bạn có thể quay lại hướng dẫn để tra cứu nội dung tương ứng khi gặp vấn đề đặc thù trong chế độ cổ điển.[/color]</Desc>
+			<Chapters.0.DisplayName>Lấy nguồn nước</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Xây dựng giếng nước</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Cách săn bắn</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Sử dụng lệnh săn bắn trong khay nhân vật</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Sử dụng lệnh săn bắn trong khay con mồi</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Phát lệnh săn bắn hàng loạt</Chapters.1.Tasks.2>
+			<Chapters.2.DisplayName>Cách canh tác</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Phân vùng nông trường</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Chọn cây trồng</Chapters.2.Tasks.1>
+			<Tasks.1.TaskDesc>Nhấn nút menu góc trái dưới để mở menu lựa chọn</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Nhấn nút Xây dựng trong menu để mở trang Xây dựng</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Nhấp vào phân loại công việc để vào trang xây dựng công việc</Tasks.3.TaskDesc>
+			<Tasks.3.UiData.Name>Công</Tasks.3.UiData.Name>
+			<Tasks.4.TaskDesc>Nhấp vào giếng nước</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Đặt giếng nước vào vị trí được hệ thống chỉ định</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Xác nhận xây dựng</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Thoát chế độ xây dựng</Tasks.7.TaskDesc>
+			<Tasks.9.TaskDesc>Đóng Bảng Xây Dựng</Tasks.9.TaskDesc>
+			<Tasks.11.TaskDesc>Chờ hoàn thành giếng nước</Tasks.11.TaskDesc>
+			<Tasks.13.TipsData.Desc>Giếng nước cung cấp nguồn nước sạch cho nhân vật. Nước cũng có thể được lưu trữ trong bồn nước để sử dụng khi cần thiết.</Tasks.13.TipsData.Desc>
+			<Tasks.16.TaskDesc>Nhấn vào nút săn bắn phía dưới</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Nhấp vào gà mái ở góc trên bên phải để săn bắn gà mái</Tasks.17.TaskDesc>
+			<Tasks.20.TaskDesc>Nhấp vào con thỏ gần đó</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Nhấp vào chỉ định săn bắn</Tasks.21.TaskDesc>
+			<Tasks.21.UiData.Name>Săn</Tasks.21.UiData.Name>
+			<Tasks.25.TaskDesc>Nhấn vào nút săn bắn phía dưới</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Kéo chuột trong khu vực mục tiêu để phát hành lệnh săn bắn hàng loạt</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Nhấn nút xác nhận để phát lệnh</Tasks.27.TaskDesc>
+			<Tasks.29.TaskDesc>Nhấn nút chuyển tốc độ góc dưới phải để chuyển sang trạng thái tăng tốc cao nhất</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Nhấn nút chuyển tốc độ góc dưới phải để chuyển sang trạng thái tăng tốc cao nhất</Tasks.30.TaskDesc>
+			<Tasks.32.TaskDesc>Chờ hoàn thành săn bắn</Tasks.32.TaskDesc>
+			<Tasks.34.TipsData.Desc>Thông qua săn bắn, Bạn có thể nhanh chóng lấy được tài nguyên thực phẩm. Tuy nhiên, số lượng động vật có hạn và sinh sản chậm. Nếu muốn có nguồn thực phẩm ổn định, Bạn vẫn cần canh tác.</Tasks.34.TipsData.Desc>
+			<Tasks.36.TaskDesc>Nhấn nút menu góc trái dưới để mở menu lựa chọn</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Nhấn nút Xây dựng trong menu để mở trang Xây dựng</Tasks.37.TaskDesc>
+			<Tasks.38.TaskDesc>Nhấp vào trang khu vực</Tasks.38.TaskDesc>
+			<Tasks.38.UiData.Name>Khu vực</Tasks.38.UiData.Name>
+			<Tasks.39.TaskDesc>Nhấp vào nông trường</Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>Lên kế hoạch một nông trường trên vùng đất màu mỡ được chỉ định</Tasks.40.TaskDesc>
+			<Tasks.41.TaskDesc>Thoát chế độ xây dựng</Tasks.41.TaskDesc>
+			<Tasks.43.TaskDesc>Đóng Bảng Xây Dựng</Tasks.43.TaskDesc>
+			<Tasks.46.TaskDesc>Chọn nông trường</Tasks.46.TaskDesc>
+			<Tasks.47.TaskDesc>Nhấp vào nút tương tác để chọn cây trồng</Tasks.47.TaskDesc>
+			<Tasks.47.UiData.Name>Trồng cây</Tasks.47.UiData.Name>
+			<Tasks.48.TaskDesc>Người chơi có thể nhấn vào lúa mì để xem thông tin liên quan đến trồng trọt.</Tasks.48.TaskDesc>
+			<Tasks.49.TipsData.Desc>Xem thông tin liên quan về lúa mì</Tasks.49.TipsData.Desc>
+			<Tasks.50.TaskDesc>Chọn thực vật rồi nhấn xác nhận</Tasks.50.TaskDesc>
+			<Tasks.52.TipsData.Desc>Trong trò chơi, có nhiều loại nguyên liệu thực phẩm. Không chỉ có thể trồng cây trên đất mà còn có thể trồng cây dưới nước.</Tasks.52.TipsData.Desc>
+		</Text>
+		<Text Name="StrongArea">
+			<Type>Phần cơ bản</Type>
+			<DisplayName>Lên kế hoạch kho</DisplayName>
+			<Desc>Thông qua chương hướng dẫn này, bạn sẽ hiểu cơ bản về quy hoạch kho trong trò chơi.\n[color=#BC1717]Trong quá trình hướng dẫn, bạn có thể nhấn vào nút bỏ qua ở góc trên bên phải để bỏ qua phần hiện tại và tiếp tục hướng dẫn. Chúng tôi không khuyến khích hoàn thành tất cả hướng dẫn một mạch, vì điều này sẽ rất buồn tẻ. Bạn có thể quay lại mục hướng dẫn để tra cứu nội dung liên quan khi gặp vấn đề cụ thể trong chế độ cổ điển.[/color]</Desc>
+			<Chapters.0.DisplayName>Lên kế hoạch kho đầu tiên</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Phân vùng kho</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Lọc kho</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Lên kế hoạch kho thứ hai</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Lên kế hoạch kho</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Lọc kho</Chapters.1.Tasks.1>
+			<Chapters.2.DisplayName>Điều chỉnh kho nhiệt độ thấp</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Xem nhiệt độ kho</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Đặt vật dụng làm mát</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Kiểm tra lại nhiệt độ kho</Chapters.2.Tasks.2>
+			<Tasks.1.TipsData.Desc>Khi lượng vật liệu thu được ngày càng nhiều, việc vật liệu rải rác khắp bản đồ sẽ gây khó khăn cho Bạn trong việc sử dụng. Lúc này, cần sử dụng chức năng kho để phân loại và quản lý vật liệu.</Tasks.1.TipsData.Desc>
+			<Tasks.2.TipsData.Desc>Đầu tiên, chúng ta lên kế hoạch một khu vực công cụ vật liệu ở trung tâm bản đồ. Bằng cách này, khi mở rộng về các hướng khác nhau, việc lấy công cụ và vật liệu sẽ thuận tiện hơn.</Tasks.2.TipsData.Desc>
+			<Tasks.3.TaskDesc>Nhấn nút menu góc trái dưới để mở menu lựa chọn</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Nhấn nút Xây dựng trong menu để mở trang Xây dựng</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Nhấp vào trang khu vực</Tasks.5.TaskDesc>
+			<Tasks.5.UiData.Name>Khu vực</Tasks.5.UiData.Name>
+			<Tasks.6.TaskDesc>Nhấp vào kho để vào trạng thái lên kế hoạch kho</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Lên kế hoạch một kho trên vùng đất được chỉ định</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Thoát chế độ xây dựng</Tasks.8.TaskDesc>
+			<Tasks.10.TaskDesc>Đóng Bảng Xây Dựng</Tasks.10.TaskDesc>
+			<Tasks.13.TaskDesc>Chọn kho</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Nhấn nút lọc kho để mở trang phân loại kho</Tasks.14.TaskDesc>
+			<Tasks.14.UiData.Name>Lọc kho</Tasks.14.UiData.Name>
+			<Tasks.15.TipsData.Desc>Có thể sử dụng trang lọc kho để thiết lập chi tiết các loại vật phẩm, thuộc tính ngũ hành, phẩm cấp, chất lượng có thể lưu trữ trong kho. Lưu ý rằng khi nhiều kho được phân vùng cùng nhau, việc lọc của một kho sẽ không áp dụng cho các kho khác.</Tasks.15.TipsData.Desc>
+			<Tasks.16.TaskDesc>Nhấp vào loại tiêu thụ để hủy tiêu thụ.</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Nhấn nút đóng, đóng trang này</Tasks.17.TaskDesc>
+			<Tasks.19.TipsData.Desc>Một số vật liệu sẽ dần dần bị hỏng theo thời gian. Để bảo quản những vật liệu này, chúng ta cần lên kế hoạch một kho nhiệt độ thấp.</Tasks.19.TipsData.Desc>
+			<Tasks.21.TipsData.Desc>Tiếp theo, chúng ta lên kế hoạch một khu vực lưu trữ thực phẩm gần bếp. Bằng cách này, việc lấy thực phẩm khi nấu ăn sẽ hiệu quả hơn. Đồng thời, có thể tận dụng tính chất kín của phòng để điều chỉnh nhiệt độ, thuận tiện cho việc bảo quản thực phẩm.</Tasks.21.TipsData.Desc>
+			<Tasks.22.TaskDesc>Nhấn nút menu góc trái dưới để mở menu lựa chọn</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Nhấn nút Xây dựng trong menu để mở trang Xây dựng</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>Nhấp vào trang khu vực</Tasks.24.TaskDesc>
+			<Tasks.24.UiData.Name>Khu vực</Tasks.24.UiData.Name>
+			<Tasks.25.TaskDesc>Nhấp vào kho để vào trạng thái lên kế hoạch kho</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Trong khu vực được chỉ định, Bạn kéo chuột để phân vùng một kho</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Thoát chế độ xây dựng</Tasks.27.TaskDesc>
+			<Tasks.29.TaskDesc>Đóng Bảng Xây Dựng</Tasks.29.TaskDesc>
+			<Tasks.32.TaskDesc>Chọn kho</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>Nhấp vào nút lọc kho phía dưới để mở trang lọc kho</Tasks.33.TaskDesc>
+			<Tasks.33.UiData.Name>Lọc kho</Tasks.33.UiData.Name>
+			<Tasks.34.TaskDesc>Nhấp vào loại công cụ để hủy công cụ.</Tasks.34.TaskDesc>
+			<Tasks.35.TaskDesc>Nhấp vào loại khác để hủy các loại khác.</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Nhấp vào loại nguyên liệu để hủy nguyên liệu.</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Nhấp vào loại trang bị để hủy trang bị.</Tasks.37.TaskDesc>
+			<Tasks.38.TaskDesc>Nhấp vào loại tu luyện để hủy tu luyện.</Tasks.38.TaskDesc>
+			<Tasks.39.TaskDesc>Nhấn nút đóng, đóng trang này</Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>Nhấn nút chuyển tốc độ góc dưới phải để chuyển sang trạng thái tăng tốc cao nhất</Tasks.40.TaskDesc>
+			<Tasks.41.TaskDesc>Nhấn nút chuyển tốc độ góc dưới phải để chuyển sang trạng thái tăng tốc cao nhất</Tasks.41.TaskDesc>
+			<Tasks.43.TaskDesc>Chờ một thời gian, các đệ tử sẽ phân loại và lưu trữ vật phẩm.</Tasks.43.TaskDesc>
+			<Tasks.45.TipsData.Desc>Khi kho lưu trữ quá nhiều vật phẩm, có thể mở rộng và lên kế hoạch các kho khác nhau để quản lý chi tiết hơn, giúp Bạn dễ dàng xem thông tin dự trữ vật liệu.</Tasks.45.TipsData.Desc>
+			<Tasks.47.TaskDesc>Nhấp đúp để chọn phòng có chứa Kho 2</Tasks.47.TaskDesc>
+			<Tasks.48.TipsData.Desc>Vì phòng có tính chất kín, có thể đặt nguồn nhiệt trong phòng để điều chỉnh nhiệt độ phòng.</Tasks.48.TipsData.Desc>
+			<Tasks.50.TaskDesc>Chọn giá để đồ</Tasks.50.TaskDesc>
+			<Tasks.51.TaskDesc>Nhấp vào đặt</Tasks.51.TaskDesc>
+			<Tasks.51.UiData.Name>Đặt vật phẩm</Tasks.51.UiData.Name>
+			<Tasks.52.TaskDesc>Nhấp vào khoáng hàn tinh</Tasks.52.TaskDesc>
+			<Tasks.53.TaskDesc>Xác nhận đặt</Tasks.53.TaskDesc>
+			<Tasks.54.TaskDesc>Chọn một giá để đồ khác</Tasks.54.TaskDesc>
+			<Tasks.55.TaskDesc>Nhấp vào đặt</Tasks.55.TaskDesc>
+			<Tasks.55.UiData.Name>Đặt vật phẩm</Tasks.55.UiData.Name>
+			<Tasks.56.TaskDesc>Nhấp vào khoáng hàn tinh</Tasks.56.TaskDesc>
+			<Tasks.57.TaskDesc>Xác nhận đặt</Tasks.57.TaskDesc>
+			<Tasks.58.TaskDesc>Chờ hoàn thành đặt vật phẩm</Tasks.58.TaskDesc>
+			<Tasks.60.TaskDesc>Nhấp đúp để chọn phòng có chứa Kho 2</Tasks.60.TaskDesc>
+			<Tasks.61.TaskDesc>Đợi 5 giây, quan sát sự thay đổi nhiệt độ phòng</Tasks.61.TaskDesc>
+			<Tasks.62.TipsData.Desc>Nhiệt độ phòng giảm. Phòng càng lớn, việc điều chỉnh nhiệt độ càng khó khăn, cần nhiều nguồn nhiệt hơn.</Tasks.62.TipsData.Desc>
+			<Tasks.64.TipsData.Desc>Bằng cách này, chúng ta đã phân loại lưu trữ thực phẩm và các nguyên liệu khác. Khi trò chơi tiến triển, có thể phát sinh nhu cầu phân loại chi tiết hơn, tất cả đều có thể thực hiện thông qua chức năng lọc kho.</Tasks.64.TipsData.Desc>
+		</Text>
+		<Text Name="MemberExpansion">
+			<Type>Phần cơ bản</Type>
+			<DisplayName>Mở rộng thành viên</DisplayName>
+			<Desc>Thông qua chương hướng dẫn này, bạn sẽ hiểu cơ bản về mở rộng thành viên trong trò chơi.\n[color=#BC1717]Trong quá trình hướng dẫn, bạn có thể nhấn vào nút bỏ qua ở góc trên bên phải để bỏ qua phần hiện tại và tiếp tục hướng dẫn. Chúng tôi không khuyến khích hoàn thành tất cả hướng dẫn một mạch, vì điều này sẽ rất buồn tẻ. Bạn có thể quay lại mục hướng dẫn để tra cứu nội dung liên quan khi gặp vấn đề cụ thể trong chế độ cổ điển.[/color]</Desc>
+			<Chapters.0.DisplayName>Chấp nhận thành viên mới tham gia</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Xem sự kiện tiếp nhận người tị nạn</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Ban hành chỉ thị tiếp nhận</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Sắp xếp công việc cho thành viên mới</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Phân công công việc phù hợp</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Cung cấp công cụ</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Trang bị công cụ</Chapters.1.Tasks.2>
+			<Chapters.2.DisplayName>Đáp ứng nhu cầu của thành viên mới</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Xem nhu cầu</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Chỉ định giường và phòng</Chapters.2.Tasks.1>
+			<Tasks.1.TaskDesc>Chờ sự kiện yêu cầu tiếp nhận người tị nạn xuất hiện</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Nhấp vào sự kiện để xác nhận</Tasks.2.TaskDesc>
+			<Tasks.3.TipsData.Desc>Trong quá trình chơi, Bạn sẽ gặp sự kiện yêu cầu tiếp nhận người tị nạn. Đây là cơ hội tốt để mở rộng quy mô của mình. Tuy nhiên, việc tăng dân số quá nhanh có thể gây áp lực lên cơ sở hạ tầng, cung cấp thực phẩm và các khía cạnh khác, cần được cân nhắc hợp lý.</Tasks.3.TipsData.Desc>
+			<Tasks.5.TaskDesc>Chọn người tị nạn</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Nhấp vào nút thu nhận trên bảng nhân vật</Tasks.6.TaskDesc>
+			<Tasks.6.UiData.Name>Nhận nuôi</Tasks.6.UiData.Name>
+			<Tasks.7.TaskDesc>Nhấn nút chuyển tốc độ góc dưới phải để chuyển sang trạng thái tăng tốc cao nhất</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Nhấn nút chuyển tốc độ góc dưới phải để chuyển sang trạng thái tăng tốc cao nhất</Tasks.8.TaskDesc>
+			<Tasks.10.TaskDesc>Chờ nhân viên của Bạn tiếp nhận nhân vật đó</Tasks.10.TaskDesc>
+			<Tasks.12.TipsData.Desc>Bạn đã thêm một nhân vật mới. Mỗi nhân vật đều có thế mạnh riêng, giờ hãy mở bảng phân công công việc và điều chỉnh để các nhân vật phát huy sở trường của mình.</Tasks.12.TipsData.Desc>
+			<Tasks.14.TaskDesc>Nhấn nút menu góc trái dưới để mở menu lựa chọn</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Nhấp để mở bảng phân công công việc</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Nhấn giữ vào mục để xem năng lực của nhân vật đối với công việc đó, nên chọn người có năng lực cao nhất đảm nhận công việc này.</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Vì nhân vật đầu tiên có khả năng y thuật cao nhất, hãy nhấp vào vị trí y thuật của nhân vật thứ ba để hủy bỏ. </Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Vì nhân vật thứ ba có khả năng làm đá cao nhất, hãy nhấp vào vị trí làm đá của nhân vật đầu tiên để hủy bỏ.</Tasks.18.TaskDesc>
+			<Tasks.20.TaskDesc>Đóng trang này</Tasks.20.TaskDesc>
+			<Tasks.21.TipsData.Desc>Bạn đã phân công công việc cho các nhân vật xong, cung cấp công cụ phù hợp cho người lao động có thể nâng cao hiệu quả làm việc đáng kể.</Tasks.21.TipsData.Desc>
+			<Tasks.23.TaskDesc>Chọn điểm thủ công, thanh trạng thái của tòa nhà sẽ hiển thị bên dưới</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>Nhấp vào sản xuất</Tasks.24.TaskDesc>
+			<Tasks.24.UiData.Name>SảnXuất</Tasks.24.UiData.Name>
+			<Tasks.25.TaskDesc>Chế tạo một cái cuốc mỏ</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Chế tạo một cái cuốc mỏ</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Đóng cửa sổ sản xuất</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Chờ cuốc mỏ được chế tạo thành công</Tasks.28.TaskDesc>
+			<Tasks.30.TaskDesc>Chọn nhân vật cần cuốc mỏ</Tasks.30.TaskDesc>
+			<Tasks.32.TaskDesc>Nhấp vào nút tương tác trang bị</Tasks.32.TaskDesc>
+			<Tasks.32.UiData.Name>Trang bị</Tasks.32.UiData.Name>
+			<Tasks.33.TaskDesc>Nhấp vào cuốc mỏ</Tasks.33.TaskDesc>
+			<Tasks.34.TaskDesc>Nhấp tăng số lượng</Tasks.34.TaskDesc>
+			<Tasks.35.TaskDesc>Xác nhận trang bị</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Chờ nhân vật trang bị xong cuốc mỏ</Tasks.36.TaskDesc>
+			<Tasks.38.TipsData.Desc>Sắp xếp công việc phù hợp cho đệ tử mới gia nhập sẽ giúp nâng cao hiệu quả công việc tổng thể của môn phái. Khi phân công công việc khác nhau, cần cung cấp các công cụ khác nhau cho đệ tử để nâng cao hiệu quả công việc cá nhân.</Tasks.38.TipsData.Desc>
+			<Tasks.40.TipsData.Desc>Nếu nhu cầu của nhân vật không được đáp ứng, tâm trạng của họ sẽ bị ảnh hưởng nghiêm trọng, dẫn đến giảm hiệu quả công việc, thậm chí lười biếng. Giờ hãy xem nhân vật mới gia nhập có nhu cầu gì nhé.</Tasks.40.TipsData.Desc>
+			<Tasks.41.TaskDesc>Chọn nhân vật mới</Tasks.41.TaskDesc>
+			<Tasks.42.TaskDesc>Nhấn để mở bảng nhân vật</Tasks.42.TaskDesc>
+			<Tasks.43.TaskDesc>Nhấp vào tab cảm xúc</Tasks.43.TaskDesc>
+			<Tasks.44.TipsData.Desc>Nhân vật cần phòng, hãy sắp xếp một phòng trống cho họ.</Tasks.44.TipsData.Desc>
+			<Tasks.44.TipsData.Name>Cần một căn phòng</Tasks.44.TipsData.Name>
+			<Tasks.45.TaskDesc>Đóng bảng nhân vật</Tasks.45.TaskDesc>
+			<Tasks.47.TaskDesc>Nhấp vào giường trong phòng</Tasks.47.TaskDesc>
+			<Tasks.48.TaskDesc>Nhấp vào chỉ định quyền sở hữu</Tasks.48.TaskDesc>
+			<Tasks.48.UiData.Name>Chỉ định quyền sở hữu</Tasks.48.UiData.Name>
+			<Tasks.49.TaskDesc>Nhấp vào nhân vật đầu tiên để phân bổ giường cho anh ta</Tasks.49.TaskDesc>
+			<Tasks.50.TaskDesc>Xác nhận phân bổ quyền sở hữu giường</Tasks.50.TaskDesc>
+			<Tasks.52.TipsData.Desc>Theo dõi cảm xúc của nhân vật và đáp ứng nhu cầu của họ để môn phái hoạt động hiệu quả hơn. Trong quá trình chơi, ngoài việc chờ đợi người tị nạn đến, Bạn cũng có thể sau khi thành lập môn phái, cử đệ tử nội môn ra ngoài tìm kiếm đệ tử có duyên hoặc tham gia vào một số sự kiện đặc biệt để chiêu mộ đệ tử. Nội dung nâng cao này yêu cầu Bạn khám phá trong trò chơi.</Tasks.52.TipsData.Desc>
+		</Text>
+		<Text Name="Treatment">
+			<Type>Phần cơ bản</Type>
+			<DisplayName>Chữa trị ngoại môn</DisplayName>
+			<Desc>Thông qua chương hướng dẫn này, bạn sẽ hiểu cơ bản về cách cứu chữa trong trò chơi.\n[color=#BC1717]Trong quá trình hướng dẫn, bạn có thể nhấn vào nút bỏ qua ở góc trên bên phải để bỏ qua phần hiện tại và tiếp tục hướng dẫn. Chúng tôi không khuyến khích hoàn thành tất cả hướng dẫn một mạch, vì điều này sẽ rất buồn tẻ. Bạn có thể quay lại mục hướng dẫn để tra cứu nội dung liên quan khi gặp vấn đề cụ thể trong chế độ cổ điển.[/color]</Desc>
+			<Chapters.0.DisplayName>Dự trữ và chế tạo dược phẩm</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Xem dự trữ dược phẩm</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Sắp xếp y thuật</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Chế tạo dược phẩm</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Chữa trị đệ tử bị thương</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Xem thương tích</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Thiết lập ưu tiên đặc biệt</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Xem lại thương tích</Chapters.1.Tasks.2>
+			<Tasks.1.TaskDesc>Nhấn nút tìm kiếm mục tiêu</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Chọn phần dược vật để xem thông tin vật tư hiện tại</Tasks.2.TaskDesc>
+			<Tasks.2.UiData.Name>Dược phẩm</Tasks.2.UiData.Name>
+			<Tasks.3.TipsData.Desc>Trong trò chơi, mỗi loại dược phẩm đều có tác dụng riêng, chẳng hạn như kim sang dược chữa trị vết thương ngoài da, tiếp cốt cao chữa trị tổn thương xương, tiểu hoàn đan chữa trị tổn thương nội tạng, v.v. Khi dự trữ dược phẩm của môn phái không đủ, có thể không kịp thời chữa trị cho đệ tử bị thương, vì vậy Bạn cần chú ý đến dự trữ dược phẩm.</Tasks.3.TipsData.Desc>
+			<Tasks.4.TaskDesc>Đóng giao diện mục tiêu</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>Nhấn nút menu góc trái dưới để mở menu lựa chọn</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Nhấp để mở bảng phân công công việc</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Người chơi có thể ấn giữ chức vụ lang trung để xem các yêu cầu kỹ năng liên kết, cũng như các công việc liên quan.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Vì đệ tử thứ hai có khả năng y thuật cao nhất, hãy chọn họ làm y thuật và nhấp kích hoạt. </Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Nhấp vào x để đóng trang này</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Close this page.</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Nhấp vào bàn chế thuốc</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Nhấp vào nút tương tác sản xuất của bàn chế thuốc</Tasks.13.TaskDesc>
+			<Tasks.13.UiData.Name>SảnXuất</Tasks.13.UiData.Name>
+			<Tasks.14.TaskDesc>Nhấp vào Kim Thương Dược</Tasks.14.TaskDesc>
+			<Tasks.15.TipsData.Desc>Xem hướng dẫn chế tạo và hiệu quả của Kim sang dược</Tasks.15.TipsData.Desc>
+			<Tasks.16.TaskDesc>Nhấp sản xuất một phần kim sang dược</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Nhấp đóng bảng sản xuất của bàn chế thuốc</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Nhấn nút chuyển tốc độ góc dưới phải để chuyển sang trạng thái tăng tốc cao nhất</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Nhấn nút chuyển tốc độ góc dưới phải để chuyển sang trạng thái tăng tốc cao nhất</Tasks.19.TaskDesc>
+			<Tasks.21.TaskDesc>Chờ kim sang dược được sản xuất xong</Tasks.21.TaskDesc>
+			<Tasks.23.TipsData.Desc>Trong trò chơi, tài nguyên thảo dược tự nhiên trên bản đồ có hạn, vì vậy Bạn có thể lên kế hoạch trước một khu vực trồng thuốc để đảm bảo nguồn cung cấp thảo dược.</Tasks.23.TipsData.Desc>
+			<Tasks.26.TaskDesc>Nhấp bên phải để mở giao diện tin nhắn</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Nhấn vào Tin nhắn Nhân vật bị thương</Tasks.27.TaskDesc>
+			<Tasks.29.TaskDesc>Đóng giao diện tin nhắn</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Nhấp để mở bảng nhân vật của nhân vật bị thương</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Nhấp vào tab sức khỏe</Tasks.31.TaskDesc>
+			<Tasks.32.TaskDesc>Người chơi có thể nhấn giữ vào khu vực Nhiễm trùng nặng để xem sự thay đổi của thương tích.</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>Người chơi có thể bấm vào khu vực [Xương đùi trái] để xem loại hình và ảnh hưởng của vị trí bị thương.</Tasks.33.TaskDesc>
+			<Tasks.34.TaskDesc>Nhấp đóng bảng sức khỏe</Tasks.34.TaskDesc>
+			<Tasks.36.TaskDesc>Nhấn nút menu góc trái dưới để mở menu lựa chọn</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Nhấp để mở bảng phân công công việc</Tasks.37.TaskDesc>
+			<Tasks.38.TaskDesc>Nhấp kích hoạt vị trí y thuật. </Tasks.38.TaskDesc>
+			<Tasks.39.TaskDesc>Nhấp ưu tiên đặc biệt, mở menu thả xuống </Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>Nhấp chọn y thuật và đặt vị trí này là ưu tiên đặc biệt </Tasks.40.TaskDesc>
+			<Tasks.41.TaskDesc>Đóng trang này</Tasks.41.TaskDesc>
+			<Tasks.42.TaskDesc>Chờ cứu chữa hoàn tất</Tasks.42.TaskDesc>
+			<Tasks.43.TipsData.Desc>Khi đệ tử ở vị trí y thuật bị thương, có thể xảy ra tình huống không ai cứu chữa đệ tử. Bạn có thể đặt một đệ tử khác làm y thuật, điều chỉnh cấu trúc công việc và ưu tiên đặc biệt kịp thời, hoặc ngắt hành động hiện tại để cứu chữa đệ tử bị thương.</Tasks.43.TipsData.Desc>
+			<Tasks.45.TaskDesc>Nhấp chọn đệ tử bị thương</Tasks.45.TaskDesc>
+			<Tasks.46.TaskDesc>Nhấp để mở bảng nhân vật của nhân vật bị thương</Tasks.46.TaskDesc>
+			<Tasks.47.TaskDesc>Nhấp vào tab sức khỏe</Tasks.47.TaskDesc>
+			<Tasks.48.TaskDesc>Chúng ta có thể thấy xu hướng thương tích đang cải thiện, điều đó cho thấy đệ tử đã được chữa trị hiệu quả.</Tasks.48.TaskDesc>
+			<Tasks.50.TipsData.Desc>Trong trò chơi cũng có những vật phẩm khác có thể nâng cao hiệu quả chữa trị, chẳng hạn như bùa chú, châm cứu, v.v. Tất cả những điều này cần Bạn khám phá và tìm hiểu sâu hơn về trò chơi.</Tasks.50.TipsData.Desc>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,29 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Reader">
+			<DisplayName>Người đọc sách</DisplayName>
+			<Desc>Người này được giáo dục tốt, có thể hiểu rõ những nội dung khó hiểu.</Desc>
+		</Text>
+		<Text Name="Craftsman">
+			<DisplayName>Thợ thủ công</DisplayName>
+			<Desc>Người này khéo tay, làm đồ nhanh và tốt.</Desc>
+		</Text>
+		<Text Name="CraftsmanEX">
+			<DisplayName>Cương Phổ Lạp Ái Hảo Giả</DisplayName>
+			<Desc>Người này đam mê Gundam, nhờ đó có đôi tay khéo léo, làm đồ nhanh và tốt.</Desc>
+		</Text>
+		<Text Name="Artist">
+			<DisplayName>Nghệ sĩ</DisplayName>
+			<Desc>Người này có cảm xúc phong phú và tâm hồn nhạy cảm, có trí tưởng tượng phi thường bẩm sinh.</Desc>
+		</Text>
+		<Text Name="Warrior">
+			<DisplayName>Chiến binh</DisplayName>
+			<Desc>Người này là một chiến binh bẩm sinh, có thể chịu đựng đau đớn và luôn giữ được sự bình tĩnh.</Desc>
+		</Text>
+		<Text Name="DeepPotential">
+			<DisplayName>Thông minh</DisplayName>
+			<Desc>Người này bẩm sinh thông minh, dễ dàng tu luyện hơn người khác.</Desc>
+		</Text>
+	</List>
+</Texts>
+

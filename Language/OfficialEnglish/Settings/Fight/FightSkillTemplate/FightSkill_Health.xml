@@ -1,0 +1,23 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="THealthSkill">
+			<DisplayName>Kỹ năng hồi phục</DisplayName>
+		</Text>
+		<Text Name="HealthSkill_Gong1_1">
+			<DisplayName>Thiên Thủy Hóa Thương Thuật</DisplayName>
+		</Text>
+		<Text Name="HealthSkill_Gong1_2">
+			<DisplayName>Thiên Nhất Chân Pháp</DisplayName>
+		</Text>
+		<Text Name="HealthSkill_Gong4_1">
+			<DisplayName>Hồi Xuân Quyết</DisplayName>
+		</Text>
+		<Text Name="HealthSkill_Gong9_1">
+			<DisplayName>Luân hồi nghịch chuyển</DisplayName>
+		</Text>
+		<Text Name="HealthSkill_Gong9_2">
+			<DisplayName>Luân hồi nghịch chuyển·Bí</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

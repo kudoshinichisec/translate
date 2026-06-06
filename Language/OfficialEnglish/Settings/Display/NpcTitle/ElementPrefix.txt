@@ -1,0 +1,9 @@
+Vô Thuộc Tính,Thái Hư,Quy Nguyên,Diễn Đạo,Chân Vô,Vạn Huyễn,Vô Trần,Tàng Đạo,Ngũ Phương,Ngũ Sắc,Thái Sơ,Hỗn Độn,Hỗn Nguyên,Càn Khôn
+Kim Hệ,Canh Kim,Tân Kim,Phích Lịch,Chấn Lôi,Huyền Kim,Thiên Kim,Trảm Thiên,Đoạn Thủy,Phi Điện,Oanh Lôi,Tử Điện,Vạn Kiếm,Vạn Nhận,Bôn Lôi
+Mộc Hệ,Giáp Mộc,Ất Mộc,Bích Quang,Trường Sinh,Thương Thúy,Thương Mãng,Hồi Xuân,Trường Thanh,Lâm Trung,Phi Hoa,Kinh Lâm,Lạc Mộc,Ngự Mộc
+Thủy Hệ,Nhâm Thủy,Quý Thủy,Ngưng Quang,Kinh Ba,Nghịch Lãng,Nháo Hải,Kinh Đào,Phiên Giang,Đạo Hải,Lạc Vũ,Quán Hải,Giá Lãng,Ngự Thủy,Băng Tuyết,Hàn Băng
+Hỏa Hệ,Bính Hỏa,Đinh Hỏa,Xích Viêm,Thiên Hỏa,Bôn Liệt,Phần Nhật,Nhiên Hồn,Tử Hỏa,Tịch Hỏa,Bích Hỏa,Phi Hỏa,Thôn Hỏa,Liệt Diễm
+Thổ Hệ,Mậu Thổ,Kỷ Thổ,Khôn Nguyên,Đằng Nhạc,Trấn Nhạc,Hành Cương,Vạn Lý,Thiên Lĩnh,Thiết Bích,Giá Sơn,Bàn Sơn,Ngũ Nhạc,Tam Sơn
+Hỗn Nguyên,Hỗn Độn
+
+

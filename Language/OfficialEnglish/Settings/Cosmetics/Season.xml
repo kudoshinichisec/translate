@@ -1,0 +1,173 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="TheGate">
+			<CosmeticsDatas.0.Display>Bia đá môn phái</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình tượng Tượng đá môn phái kinh điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Bia đá Tinh Anh</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình tượng bia đá môn phái uy nghi lộng lẫy, chỉ dành cho vinh dự của Nhóm Tinh Anh Công Lược.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="LsDog">
+			<CosmeticsDatas.0.Display>Bánh Hoa Cổ Điển</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh bình thường Hoa Quyển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Yêu hóa</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh chiếc bánh hoa cuốn hóa yêu của thế giới vạn yêu.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_JiaShan2">
+			<CosmeticsDatas.0.Display>Giả Sơn-Điệp Chướng</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình tượng kinh điển của giả sơn</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Núi giả - Song Long</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình tượng giả sơn uy nghi lộng lẫy, chỉ dành cho vinh dự của Nhóm Tinh Anh Công Lược.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_Tower">
+			<CosmeticsDatas.0.Display>Tháp trấn</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình tượng tháp trấn kinh điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Thuận buồm xuôi gió</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình tượng chuông rồng trấn áp tà khí, ngụ ý mưa thuận gió hòa.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_BigTripod">
+			<CosmeticsDatas.0.Display>Đỉnh</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình tượng đại đỉnh kinh điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Bầu linh</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình dáng linh hồ tự nhiên, biểu tượng của mốc đặt trước</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_ColdHole">
+			<CosmeticsDatas.0.Display>Lò đan Huyền Băng</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh kinh điển của Lò đan Huyền Băng</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Phục Long</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình tượng lò đan cổ kính, thần quang nội liễm, là biểu tượng của cột mốc đặt trước</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_StoneMan">
+			<CosmeticsDatas.0.Display>Tượng Cự Linh</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình tượng Tượng điêu khắc Cự Linh kinh điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Tượng điêu khắc Thần Tướng</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình tượng tượng thần tướng toàn thân giáp trụ oai phong lẫm liệt, biểu tượng cho cột mốc đặt trước</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_BigSwordPillar">
+			<CosmeticsDatas.0.Display>Kiếm trận hộ sơn</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh kinh điển của trận kiếm hộ sơn</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Trảm Long</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh thanh kiếm khổng lồ cổ đại bị phong ấn nhiều lớp.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="IncenseTripod">
+			<CosmeticsDatas.0.Display>Lư hương</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh kinh điển của Đỉnh đốt hương</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Tử Kim Lô</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh lò Tử Kim được coi là báu vật của Đạo môn.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_BingFengDiaoSu">
+			<CosmeticsDatas.0.Display>Băng Phượng Điêu Tố</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình tượng Tượng điêu khắc Băng Phượng kinh điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Phượng Vương</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Tượng Phượng hoàng lộng lẫy sang trọng.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_QingTongLong">
+			<CosmeticsDatas.0.Display>Thanh Đồng Long Tượng</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình tượng Tượng điêu khắc rồng đồng kinh điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Kỳ lân</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh cao lớn và quý phái của Kỳ lân.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Item_HorseFromJY_Boar">
+			<CosmeticsDatas.0.Display>Linh khế cổ điển: Heo</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình tượng kinh điển của linh khế</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Yêu lợn rừng</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình dạng linh khế đặc biệt thế giới Vạn Yêu.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_XiaoDanLu1">
+			<CosmeticsDatas.0.Display>Tiểu Đan Lô</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh kinh điển Lò Đan nhỏ</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Phục Long</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình tượng lò đan cổ kính, thần quang nội liễm, là biểu tượng của cột mốc đặt trước</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Build_TheBigGate">
+			<CosmeticsDatas.0.Display>Cổng chính môn phái</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh cổng môn phái kinh điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Phường Phù Long</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Trang trí sơn môn cổ kính, đại diện cho lời xin lỗi chân thành nhất.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="WuDangXuanWuDeng">
+			<CosmeticsDatas.0.Display>Đèn linh Huyền Vũ</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh kinh điển của đèn linh Huyền Vũ</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Linh đăng Phổ Hiền</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Biểu tượng nguyện hạnh, bạch tượng sáu ngà thể hiện uy linh.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Item_Other_PuppetTest">
+			<CosmeticsDatas.0.Display>Thế thân</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình tượng Thay Thế Kinh Điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Quỷ rối</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình thay thế của Vạn Yêu chi thế, cảm ơn mỗi Người chơi đã ủng hộ《Đại Tu Tiên Mô Phỏng Khí》!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Bed">
+			<CosmeticsDatas.0.Display>Giường</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh giường cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Tụ Vân</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh giường đơn trong thế giới Vạn Yêu, cảm ơn từng người chơi đã ủng hộ 《Đạo Trường Tiên》!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="DoubleBed">
+			<CosmeticsDatas.0.Display>Giường đôi</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh kinh điển của Giường đôi</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Tịch sát</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh giường đôi trong thế giới Vạn Yêu, cảm ơn từng người chơi đã ủng hộ 《Đạo Trường Tiên》!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="WaterTank">
+			<CosmeticsDatas.0.Display>Chum nước</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình tượng kinh điển của vò nước</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Bát cảnh</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình Chum nước của Vạn Yêu chi thế, cảm ơn mỗi Người chơi đã ủng hộ《Đại Tu Tiên Mô Phỏng Khí》!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Candlestick">
+			<CosmeticsDatas.0.Display>Đèn dầu</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình tượng kinh điển của đèn dầu</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Chim cư trú</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình Đèn dầu của Vạn Yêu chi thế, cảm ơn mỗi Người chơi đã ủng hộ《Đại Tu Tiên Mô Phỏng Khí》!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_MagicCushion">
+			<CosmeticsDatas.0.Display>Pháp tọa</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình tượng pháp tọa kinh điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Yêu ấn</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình Pháp tọa của Vạn Yêu chi thế, cảm ơn mỗi Người chơi đã ủng hộ《Đại Tu Tiên Mô Phỏng Khí》!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="DanStove">
+			<CosmeticsDatas.0.Display>Lò đan</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh kinh điển Lò Đan</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Yêu diễm</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình Lò đan của Vạn Yêu chi thế, cảm ơn mỗi Người chơi đã ủng hộ《Đại Tu Tiên Mô Phỏng Khí》!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Cushion">
+			<CosmeticsDatas.0.Display>Bồ đoàn</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình tượng kinh điển của bồ đoàn</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Vảy xoay</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình Bồ đoàn của Vạn Yêu chi thế, cảm ơn mỗi Người chơi đã ủng hộ《Đại Tu Tiên Mô Phỏng Khí》!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_BigCenser">
+			<CosmeticsDatas.0.Display>Lư hương</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh kinh điển Lư Hương</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Trấn Nhạc</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình Lư hương của Vạn Yêu chi thế, cảm ơn mỗi Người chơi đã ủng hộ《Đại Tu Tiên Mô Phỏng Khí》!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="StreetLight">
+			<CosmeticsDatas.0.Display>Cột đèn</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình tượng kinh điển của cột đèn</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Ẩm Quang</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình Cột đèn của Vạn Yêu chi thế, cảm ơn mỗi Người chơi đã ủng hộ《Đại Tu Tiên Mô Phỏng Khí》!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="SmallTable">
+			<CosmeticsDatas.0.Display>Bàn</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình tượng bàn kinh điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Ngọc án</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình Bàn của Vạn Yêu chi thế, cảm ơn mỗi Người chơi đã ủng hộ《Đại Tu Tiên Mô Phỏng Khí》!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Table">
+			<CosmeticsDatas.0.Display>Bàn vuông nhỏ</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh kinh điển của bàn vuông nhỏ</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Linh vân</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh bàn vuông nhỏ trong thế giới Vạn Yêu, cảm ơn từng người chơi đã ủng hộ 《Đạo Trường Tiên》!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_ItemShelf">
+			<CosmeticsDatas.0.Display>Kệ đồ</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình tượng kệ để đồ kinh điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Điểm giáng</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh kệ đồ trong thế giới Vạn Yêu, cảm ơn từng người chơi đã ủng hộ 《Đạo Trường Tiên》!</CosmeticsDatas.1.Desc>
+		</Text>
+	</List>
+</Texts>
+

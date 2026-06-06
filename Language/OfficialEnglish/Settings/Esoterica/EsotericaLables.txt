@@ -1,0 +1,41 @@
+ID	Desc	MidName
+
+1	Tăng cường sức mạnh pháp bảo	Phá Diệt
+2	Tăng cường khả năng hồi khí của pháp bảo	Súc Thần
+3	Giảm thời gian giữa các đợt tấn công của pháp bảo	Tấn Kích
+4	Tăng cường giá trị tối đa linh khí của pháp bảo	Hỗn Nguyên
+5	Tăng cường sức công phá của pháp bảo	Thiên Quân
+6	Tăng cường tốc độ của pháp bảo	Tấn Ảnh
+7	Tăng cường độ linh hoạt của pháp bảo	Viên Chuyển
+8	Tăng cường khả năng chống va chạm của pháp bảo	Khôn Nguyên
+9	Tăng cường chiều dài đuôi của pháp bảo	Duệ Ảnh
+2000	Giảm tiêu hao pháp lực khi thi triển thuật pháp	Quy Tàng
+2001	Giảm thời gian thi triển thuật pháp	Cấp Tụng
+2002	Tăng cường sức mạnh của thuật pháp	Băng Thiên
+2003	Giảm tiêu hao pháp lực của thuật pháp	Quy Tàng
+2004	Học được kỹ năng chiến đấu	Pháp Chú
+3001	Tăng cường giá trị cơ bản của lá chắn	Điện Cơ
+3002	Tăng cường khả năng phòng thủ của lá chắn	Kim Cương
+4001	Tăng cường tốc độ luyện chế đan dược	Diệu Thủ
+4002	Tăng cường tỷ lệ thành công khi luyện chế đan dược	Thần Nông
+4003	Tăng cường sản lượng khi luyện chế đan dược	Ốc Dã
+5001	Tăng cường tốc độ luyện chế pháp bảo	Quỷ Thủ
+5002	Tăng cường tỷ lệ thành công khi luyện chế pháp bảo	Đa Bảo
+5003	Tăng cường phẩm cấp khi luyện chế pháp bảo	Trác Ngọc
+5004	Tăng cường chất lượng khi luyện chế pháp bảo	Bách Luyện
+6001	Tăng cường thần thức	Thần Thị
+6002	Tăng cường căn cốt	Quy Tổ
+6003	Tăng cường hiệu quả hấp thụ khí	Tịch Cốc
+6004	Tăng cường tỷ lệ thu được tinh nguyên	Thao Thiết
+6005	Giảm tiêu hao mệt mỏi	Khí Nhiếp
+6006	Tăng cường phục hồi mệt mỏi	Kình Thôn
+6007	Tăng cường tuổi thọ	Thần Quy, Vạn Cổ, Trường Thanh
+6008	Tăng cường khả năng chịu đựng đau đớn	Quyết Ý
+6009	Nâng cao tâm lý	Thanh Tâm
+7001	Tăng cường khả năng ngộ tính	Thông Tuệ
+7002	Tăng cường sức hấp dẫn	Nhiếp Thần
+7003	Tăng cường cơ duyên	Thần Hữu
+7004	Giảm tiêu hao giải trí	Phật Tâm
+7005	Tăng cường thu được giải trí	Hợp Nhất
+
+

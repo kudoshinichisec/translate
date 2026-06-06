@@ -1,0 +1,51 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Talk_BaiMan">
+			<Hate.0>Sao lúc nào cũng là ngươi?</Hate.0>
+			<Hate.1>Ngươi đến đây để làm gì? Xin ăn à?</Hate.1>
+			<Hate.2>Ta cứ tưởng mình nhìn thấy một con heo, hóa ra là ngươi.</Hate.2>
+			<Hate.3>Hóa ra ngươi vẫn còn sống sao?</Hate.3>
+			<Normal.0>Ta còn việc khác, ngươi có thể nhanh lên được không?</Normal.0>
+			<Normal.1>Nhanh lên, đừng chậm chạp nữa.</Normal.1>
+			<Like.0>A, huynh đệ, ngươi đến rồi, muốn làm gì đây? Cứ tự nhiên.</Like.0>
+			<Like.1>Hóa ra là ngươi, vào vào, ngồi đi.</Like.1>
+			<Like.2>Ôi trời, gió nào đưa ngươi tới đây vậy?</Like.2>
+			<Submiss.0>(Chắp tay) Ngài đến rồi, muốn gì cứ nói, ta sẽ giúp ngài?</Submiss.0>
+			<Submiss.1>Ngài cần gì, cứ chọn thoải mái, giá cả thì dễ nói.</Submiss.1>
+			<Submiss.2>Ôi trời, là ngài sao. Không không không, ta không có ý nói ngài già, mời ngài.</Submiss.2>
+			<ValueableTrade.0>Ngài thật khách sáo, giá cả đã vượt xa giá trị rồi.</ValueableTrade.0>
+			<ValueableTrade.1>Giá cao như vậy, cảm giác như mình vừa kiếm được món hời.</ValueableTrade.1>
+			<TryOkTrade.0>Ừm, có vẻ như chúng ta có thể giao dịch.</TryOkTrade.0>
+			<TryOkTrade.1>Cũng được, ta chấp nhận.</TryOkTrade.1>
+			<TryOkTrade.2>Ừm, điều kiện như vậy ta không thể từ chối.</TryOkTrade.2>
+			<NoTrade.0>Không được, điều này quá thiệt thòi cho ta.</NoTrade.0>
+			<NoTrade.1>Ta thấy không được.</NoTrade.1>
+			<NoTrade.2>Không thể nào.</NoTrade.2>
+			<NoTrade.3>Ngươi có biết giá trị của thứ này không?</NoTrade.3>
+			<OkTrade.0>Ôi trời, không tệ đâu, giao dịch thành công!</OkTrade.0>
+			<OkTrade.1>Ừm, ta rất hài lòng với giao dịch này.</OkTrade.1>
+			<GiftLike.0>A, không tệ, rất hợp ý ta.</GiftLike.0>
+			<GiftLike.1>Ngươi biết ta thích thứ này, có vẻ chúng ta là người hữu duyên.</GiftLike.1>
+			<Task.0>Ôi trời, đến đúng lúc thật đấy.</Task.0>
+			<Task.1>Được cứu rồi, được cứu rồi, cảm ơn trước nhé.</Task.1>
+			<TaskNeed.0>Thứ này không tệ, nhưng chúng ta vẫn thiếu một chút, có thể cho thêm không?</TaskNeed.0>
+			<TaskNeed.1>Thật sự cảm ơn ngươi, nhưng có thể giúp thêm chút nữa không? Chỉ thiếu một chút thôi.</TaskNeed.1>
+			<LowValueGift.0>Đây là rác rưởi gì vậy?</LowValueGift.0>
+			<LowValueGift.1>Hử? Thứ này đem cho chó còn không thèm.</LowValueGift.1>
+			<LowValueGift.2>(Ném xuống đất) Này này, A Hoàng à, ngươi có thích thứ này không?</LowValueGift.2>
+			<MidValueGift.0>Thứ này cũng được, nhưng tặng chúng ta thì tạm thời cũng không dùng được.</MidValueGift.0>
+			<MidValueGift.1>(Gật đầu) Cũng được, nhưng chúng ta không vì thế mà có thiện cảm với ngươi đâu.</MidValueGift.1>
+			<MidValueGift.2>(Nụ cười cứng ngắc) Thứ này không tệ, ta sẽ chia cho các đệ tử, nhưng thật lòng ta không thay đổi cách nhìn về ngươi.</MidValueGift.2>
+			<MidValueGift.3>Ngươi là một người tốt!</MidValueGift.3>
+			<HighValueGift.0>Đồ tốt đấy. Nhưng ta sẽ không vì thế mà đánh giá cao ngươi hơn.</HighValueGift.0>
+			<HighValueGift.1>Thật hào phóng, bản tôn nhận lấy nhé, haha. Tuy vật này quý giá, nhưng đối với ta không có gì đặc biệt.</HighValueGift.1>
+			<HighValueGift.2>Ngươi thật sự rộng rãi. Tuy nhiên, vật phẩm hiếm có như vậy, đưa cho ta cũng không dùng được lắm.</HighValueGift.2>
+			<NoEnoughFriendPoint.0>Không được, mặt mũi của ngươi chưa đủ lớn.</NoEnoughFriendPoint.0>
+			<NoEnoughFriendPoint.1>Ngươi đang mơ sao? Ta nợ ngươi nhân tình à?</NoEnoughFriendPoint.1>
+			<Invalid.0>Ngươi là ai? Mở miệng đã đòi mua thứ này?</Invalid.0>
+			<Invalid.1>Ngươi có biết giá trị của mình không? Chúng ta thân thiết lắm sao?</Invalid.1>
+			<Invalid.2>Quan hệ của chúng ta chưa tốt đến mức này đâu.</Invalid.2>
+		</Text>
+	</List>
+</Texts>
+

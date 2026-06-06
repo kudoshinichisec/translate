@@ -1,0 +1,35 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SpellEsoterica_1">
+			<DisplayName>Tam Động Ngọc Hàm</DisplayName>
+			<Desc>Bí truyền của Đạo môn, ghi chép ba loại phù lục có lợi lớn cho tu hành.</Desc>
+			<EffectDesc>Mở khóa Phù đồ:\nĐộng Thần Phù\nĐộng Huyền Phù\nĐộng Chân Phù</EffectDesc>
+		</Text>
+		<Text Name="SpellEsoterica_2">
+			<DisplayName>Ngũ Khí Thần Phù Kinh</DisplayName>
+			<Desc>Bí sách ghi chép năm loại phù lục nội môn.</Desc>
+			<EffectDesc>Mở khóa Phù đồ:\nPhân Ảnh Độn Không Phù\nNgũ Phương Linh Bảo Phù\nVạn Hóa Thừa Đan Phù\nThiên Tâm Phù\nNinh Tâm Phù</EffectDesc>
+		</Text>
+		<Text Name="SpellEsoterica_3">
+			<DisplayName>Lục Sắc Ngũ Phương Thần Phù Kim Thư</DisplayName>
+			<Desc>Ghi chép sáu loại phù lục phổ biến và thực dụng, có tác dụng lớn đối với phàm nhân.</Desc>
+			<EffectDesc>Mở khóa Phù đồ:\nThần Hành Phù\nDược Sư Khứ Bệnh Phù\nThiên Lý Thần Thị Phù\nChu Công Tẩy Thần Phù\nBế Cốc Phù\nẨm Khí Phù\nTrường Lạc Phù</EffectDesc>
+		</Text>
+		<Text Name="SpellEsoterica_4">
+			<DisplayName>Ngự Đế Phù Văn Thư</DisplayName>
+			<Desc>Điển tịch phù lục bí truyền của hoàng thất, thu thập từ các tiên gia được phong qua các triều đại.</Desc>
+			<EffectDesc>Mở khóa Phù đồ:\nThái Dương Phù\nThái Âm Phù\nVăn Xương Phù\nVõ Xương Phù\nThần Cần Phù\nThiên Công Phù\nPhong Nhiêu Phù\nDược Vương Phù</EffectDesc>
+		</Text>
+		<Text Name="SpellEsoterica_5">
+			<DisplayName>Thái Bình Phù Lục Yếu Sách</DisplayName>
+			<Desc>Bộ sưu tập phù lục tương đối đầy đủ, bao gồm hầu hết các loại phù chú phổ biến.</Desc>
+			<EffectDesc>Mở khóa Phù đồ:\nChu Công Tẩy Thần Phù\nBế Cốc Phù\nTrường Lạc Phù\nThái Dương Phù\nThái Âm Phù\nThần Cần Phù\nThiên Công Phù\nPhong Nhiêu Phù\nDược Vương Phù</EffectDesc>
+		</Text>
+		<Text Name="SpellEsoterica_6">
+			<DisplayName>Nghênh Xuân Đồ Sách</DisplayName>
+			<Desc>Bí sách thần bí đến từ dị giới, ghi chép nhiều phong tục văn hóa từ một quốc gia vĩ đại.</Desc>
+			<EffectDesc>Mở khóa Phù đồ:\nVạn Phúc Đồ\nVạn Lộc Đồ\nVạn Thọ Đồ\nMở khóa Kiến trúc:\nĐèn lồng-Vạn Hóa An\nĐèn lồng-Tứ Hải Đồng\nMái nhà-Nghênh Xuân\nMái nhà-Nạp Phúc\nPháo hoa-Long Ca</EffectDesc>
+		</Text>
+	</List>
+</Texts>
+

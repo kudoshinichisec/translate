@@ -1,0 +1,47 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_HorseBase" sParam="Item">
+			<Item.FabaoSuffix>Quyển, Đồ, Khế</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_HorseFromJY_Rabbit" sParam="Item">
+			<ThingName>Linh Khế: Thỏ</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Chicken" sParam="Item">
+			<ThingName>Linh Khế: Trĩ</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Wolf" sParam="Item">
+			<ThingName>Linh Khế: Sói</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Snake" sParam="Item">
+			<ThingName>Linh Khế: Rắn</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Boar" sParam="Item">
+			<ThingName>Linh Khế: Lợn</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Bear" sParam="Item">
+			<ThingName>Linh Khế: Gấu</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Frog" sParam="Item">
+			<ThingName>Linh Khế: Ếch</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Turtle" sParam="Item">
+			<ThingName>Linh Khế: Rùa</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Cat" sParam="Item">
+			<ThingName>Linh Khế: Mèo</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Cattle" sParam="Item">
+			<ThingName>Linh Khế: Bò</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Tiger" sParam="Item">
+			<ThingName>Linh Khế: Hổ</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromLuShu" sParam="Item">
+			<ThingName>Linh Khế: Lộc Thục</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromFei" sParam="Item">
+			<ThingName>Linh Khế: Phi</ThingName>
+		</Text>
+	</List>
+</Texts>
+

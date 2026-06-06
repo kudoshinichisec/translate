@@ -1,0 +1,4 @@
+Đại Năng Nam Hậu Chuế,Tẩu,Công,Hầu,Đế,Thiên Đế,Ma Đế,Vương,Quân,Công Tử,Thiếu Gia,Lang Quân,Thư Sinh,Tiên Sinh,Cư Sĩ,Tán Nhân,Khách,Nhân Đồ,Tôn Giả,Sát Thần,Chân Nhân,Kiếm Tôn,Pháp Vương,Thần Kiếm,Đại Vu,Tôn Thánh,Tôn Vương,Cung Chủ,Tà Đế,Tà Vương,Bá Vương,Huyết Ma,Thiên Ma,Tà Ma
+Đại Năng Nữ Hậu Chuế,Tiên Tử,Nương Tử,Ngọc Nữ,Thánh Cô,Cư Sĩ,Tán Nhân,Khách,Yêu Nữ,Ma Nữ,Nhân Đồ,Nương Tử,Đế,Nữ Đế,Thiên Đế,Ma Đế,Tôn Giả,Sát Thần,Chân Nhân,Kiếm Tôn,Pháp Vương,Thần Kiếm,Đại Vu,Tôn Thánh,Tôn Vương,Cung Chủ,Tà Đế,Tà Vương,Bá Vương,Huyết Ma,Thiên Ma,Tà Ma
+
+

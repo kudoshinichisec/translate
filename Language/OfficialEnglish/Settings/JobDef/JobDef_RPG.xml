@@ -1,0 +1,53 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="JobAIPathMove">
+			<DisplayName>Di chuyển</DisplayName>
+		</Text>
+		<Text Name="JobRPGAIFree">
+			<DisplayName>Dạo chơi</DisplayName>
+		</Text>
+		<Text Name="JobRPGAIStay">
+			<DisplayName>Dừng lại</DisplayName>
+		</Text>
+		<Text Name="JobRPGAIRoute">
+			<DisplayName>Tuần tra</DisplayName>
+		</Text>
+		<Text Name="JobRPGAIPatrol">
+			<DisplayName>Lang thang</DisplayName>
+		</Text>
+		<Text Name="JobRPGPlayerMove">
+			<DisplayName>Di chuyển</DisplayName>
+		</Text>
+		<Text Name="JobRPGOpt">
+			<DisplayName>Di chuyển</DisplayName>
+		</Text>
+		<Text Name="JobRPGMine">
+			<DisplayName>Khai thác mỏ</DisplayName>
+		</Text>
+		<Text Name="JobRPGCutoff">
+			<DisplayName>Chặt</DisplayName>
+		</Text>
+		<Text Name="JobRPGPickup">
+			<DisplayName>Nhặt lên</DisplayName>
+		</Text>
+		<Text Name="JobRPGEat">
+			<DisplayName>Ăn uống</DisplayName>
+		</Text>
+		<Text Name="JobRPGDialog">
+			<DisplayName>Đối thoại</DisplayName>
+		</Text>
+		<Text Name="JobRPGEquip">
+			<DisplayName>Trang bị</DisplayName>
+		</Text>
+		<Text Name="JobRPGPassiveMove">
+			<DisplayName>Di chuyển</DisplayName>
+		</Text>
+		<Text Name="JobRPGMoveTo">
+			<DisplayName>Di chuyển đến</DisplayName>
+		</Text>
+		<Text Name="JobRPGSlaughter">
+			<DisplayName>Giết mổ</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

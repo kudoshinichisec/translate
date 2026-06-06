@@ -1,0 +1,21 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="JueSeJiNeng">
+			<DisplayName>Kiểm tra kỹ năng nhân vật</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong1_Test">
+			<DisplayName>Giá trị tiêu chuẩn hậu kỳ của nhân vật</DisplayName>
+		</Text>
+		<Text Name="Boss_Player_Test">
+			<DisplayName>Giá trị kiểm tra nhân vật</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong_Test">
+			<DisplayName>Giao Long</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong_LongNu_Test">
+			<DisplayName>Long nộ</DisplayName>
+			<Desc>Yêu long bước vào trạng thái tức giận, tất cả thuộc tính tăng lên.</Desc>
+		</Text>
+	</List>
+</Texts>
+

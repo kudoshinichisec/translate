@@ -1,0 +1,238 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Story_BoxFind1">
+			<DisplayName>Tìm kiếm rương</DisplayName>
+			<Desc>[NAME] phát hiện một chiếc rương cũ kỹ, cẩn thận tìm kiếm và phát hiện không ít vật dụng hữu ích.</Desc>
+		</Text>
+		<Text Name="Story_BoxFind2">
+			<DisplayName>Tìm kiếm thi thể</DisplayName>
+			<Desc>[NAME] cẩn thận tìm kiếm thi thể, phát hiện phần lớn đồ vật đã mục nát, chỉ còn binh khí mang theo là có thể sử dụng.</Desc>
+		</Text>
+		<Text Name="Story_BoxFind3">
+			<DisplayName>Tìm kiếm thi thể</DisplayName>
+			<Desc>    [NAME] cẩn thận tìm kiếm thi thể, từ đó thi thể phát ra một tia sáng chui vào đầu [NAME]. [NAME] ngạc nhiên phát hiện trong trí nhớ của mình bỗng có thêm nhiều pháp môn tu luyện.</Desc>
+		</Text>
+		<Text Name="Story_BoxFind4">
+			<DisplayName>Tìm kiếm thi thể</DisplayName>
+			<Desc>[NAME] cẩn thận tìm kiếm thi thể, phát hiện phần lớn đồ vật đã mục nát, chỉ còn binh khí mang theo là có thể sử dụng.</Desc>
+		</Text>
+		<Text Name="Story_Item_StoneBox">
+			<DisplayName>Hộp đá</DisplayName>
+			<Desc>Hộp đá mà vị đạo sĩ thần bí đã ban cho các ngươi, kích thước khoảng một thước vuông, không bị thuỷ hoả xâm phạm, cực kỳ kỳ diệu. Vỏ ngoài thỉnh thoảng phát sáng, không giống vật phàm.</Desc>
+			<Selections.0.Display>Mở bằng tay không</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_StoneBox1">
+			<DisplayName>Hộp đá</DisplayName>
+			<Desc>Hộp mà thợ săn Trương Nhị Oa ở Nam Bình Thôn lấy được từ một thi thể dưới chân Nguyệt Luân Sơn chính là bảo hộp chế tác theo phong cách của môn phái Thái Nhất. Trên vỏ hộp in dấu một thanh kiếm dài giao với một bầu rượu, hóa ra là dấu ấn độc môn của nhị sư huynh. Trong đầu [NAME] bỗng hiện lên hình ảnh và dáng vẻ của nhị sư huynh, lòng không khỏi đau xót.</Desc>
+			<Selections.0.Display>Mở</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_StoneBox2">
+			<DisplayName>Hộp đá cổ xưa</DisplayName>
+			<Desc>Hộp đá được khai quật từ trong núi đá, trông có vẻ đã có niên đại, không biết bên trong chứa thứ gì.</Desc>
+			<Selections.0.Display>Mở</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_E_FaBaoBox">
+			<DisplayName>Bảo hộp Thái Nhất</DisplayName>
+			<Desc>Trong đêm diệt môn, ngươi phát hiện cấm pháp của khí lô bị phá, không đành lòng nhìn bảo vật của môn phái bị cướp sạch, liều mình xông vào, mang theo vài món pháp bảo quý giá trong hộp.</Desc>
+			<Selections.0.Display>Mở</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_E_DanBox">
+			<DisplayName>Bảo hộp Thái Nhất</DisplayName>
+			<Desc>Trong đêm diệt môn, ngươi phát hiện cấm pháp của dược lô bị phá, không đành lòng nhìn bảo vật của môn phái bị cướp sạch, liều mình xông vào, mang theo vài bình đan dược quý giá trong hộp.</Desc>
+			<Selections.0.Display>Mở</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_E_MiJiBox">
+			<DisplayName>Bảo hộp Thái Nhất</DisplayName>
+			<Desc>Trong đêm diệt môn, ngươi phát hiện cấm pháp của tàng kinh lâu bị phá, không đành lòng nhìn bảo vật của môn phái bị cướp sạch, liều mình xông vào, mang theo vài cuốn bí tịch quý giá trong hộp.</Desc>
+			<Selections.0.Display>Mở</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_E_FuBox">
+			<DisplayName>Bảo hộp Thái Nhất</DisplayName>
+			<Desc>Trong đêm diệt môn, ngươi phát hiện cấm pháp của phòng Vân Lục bị phá, không đành lòng nhìn bảo vật của môn phái bị cướp sạch, liều mình xông vào, mang theo vài tấm phù lục quý giá trong hộp.</Desc>
+			<Selections.0.Display>Mở</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_LunHui_Box1">
+			<DisplayName>Hộp phù chú thần kỳ</DisplayName>
+			<Desc>Hộp phù chú thần kỳ mà phu nhân Lục mang theo bên mình, trong đó chứa ba tấm phù chú thần kỳ.</Desc>
+			<Selections.0.Display>Mở</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_LunHui_Box2">
+			<DisplayName>Hộp thần phù</DisplayName>
+			<Desc>Hộp thần phù mà Dương Thụ mang theo bên mình, trong đó chứa một tấm phù chú tuyệt phẩm.</Desc>
+			<Selections.0.Display>Mở</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_ZuShiZhiCi">
+			<DisplayName>Ban thưởng của tổ sư</DisplayName>
+			<Desc>Ban thưởng của tổ sư, trong đó chứa bảo vật quý giá.</Desc>
+			<Selections.0.Display>Mở</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_BenYuan">
+			<DisplayName>Luyện hóa bản nguyên thiên đạo</DisplayName>
+			<Desc>Luyện hóa bản nguyên thiên đạo cần tu luyện công pháp cùng hệ đến cảnh giới cao nhất mới có thể thành công. Đạo hạnh càng cao, khả năng luyện hóa thành công càng lớn. Tuy nhiên, hành động này đi ngược thiên hòa, nếu thất bại sẽ chịu tổn thương nặng nề, tăng thêm thiên khiển. Có muốn luyện hóa bản nguyên thiên đạo không?</Desc>
+			<Selections.0.Display>Luyện hóa</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Item_SuoYingZhiJuan">
+			<DisplayName>Cuộn sách thu nhỏ</DisplayName>
+			<Desc>Ghi chép hình ảnh thu nhỏ của mọi sinh linh từ khi trời đất khai sinh đến nay. Nếu biết được tên thật của sinh linh tương ứng, có thể triệu hồi và hiện thực hóa từ cuộn sách này. Đây là một trong mười hai món hỗn độn linh bảo được sinh ra khi trời đất mở ra.</Desc>
+			<Selections.0.Display>Từ bỏ</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_BossSoulItem">
+			<DisplayName>Tham ngộ</DisplayName>
+			<Desc>[NAME] cố gắng tìm kiếm một số thông tin hữu ích từ đó.</Desc>
+			<Selections.0.Display>Vận chuyển nguyên thần</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_OldSchool_Letter">
+			<DisplayName>Lá thư thần bí</DisplayName>
+			<Desc>Trong lúc chạy trốn trong đêm diệt môn, vị tu sĩ thần bí đã cứu các ngươi khỏi hiểm cảnh để lại một lá thư.</Desc>
+			<Selections.0.Display>Đọc</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Boss_FengYin">
+			<DisplayName>Xem xét</DisplayName>
+			<Desc>Vật này trông không có gì đặc biệt, không biết có bí ẩn gì bên trong.</Desc>
+			<Selections.0.Display>Xem xét</Selections.0.Display>
+			<Selections.1.Display>Phá hủy</Selections.1.Display>
+			<Selections.2.Display>Từ bỏ</Selections.2.Display>
+		</Text>
+		<Text Name="Story_Item_Boss_FengYin1">
+			<DisplayName>Phá hủy</DisplayName>
+			<Desc>[NAME] tuy không cảm nhận được vật này có nguy hiểm gì, nhưng khi cố gắng phá hủy nó, lại bản năng cảm nhận được một nỗi sợ hãi không thể diễn tả... Dường như sẽ mang lại hậu quả đáng sợ. Thật sự muốn phá hủy nó chứ? (Phá hủy vật này sẽ triệu hồi thú cổ xưa, nếu không chuẩn bị kỹ lưỡng, có thể dẫn đến diệt môn, xin hãy suy nghĩ kỹ.)</Desc>
+			<Selections.0.Display>Phá hủy</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Item_Boss_FengYin2">
+			<DisplayName>Phá hủy</DisplayName>
+			<Desc>[NAME] đã phá hủy vật này, nhưng không có chuyện gì xảy ra.</Desc>
+			<Selections.0.Display>Đã hiểu</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Eat_StrangeMush">
+			<DisplayName>Nếm thử</DisplayName>
+			<Desc>[NAME] tò mò nếm thử cây nấm kỳ lạ này.</Desc>
+			<Selections.0.Display>Mạo hiểm ăn thử</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Item_ZhenTu">
+			<DisplayName>Tham ngộ</DisplayName>
+			<Desc>[NAME] cố gắng tham ngộ trận đồ huyền bí này.</Desc>
+			<Selections.0.Display>Tham ngộ trận đồ</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Portia_YijieZhiWu">
+			<DisplayName>Xem xét vật này</DisplayName>
+			<Desc>[NAME] cố gắng xem xét vật này.</Desc>
+			<Selections.0.Display>Xem xét vật này</Selections.0.Display>
+			<Selections.1.Display>Giải phong ấn</Selections.1.Display>
+			<Selections.2.Display>Từ bỏ</Selections.2.Display>
+		</Text>
+		<Text Name="Story_Item_Portia_YijieZhiWu1">
+			<DisplayName>Xem xét vật này</DisplayName>
+			<Desc>[NAME] cảm nhận phong ấn của vật này dường như rất quen thuộc, trước đây dường như đã tiếp xúc với phương pháp này.</Desc>
+			<Selections.0.Display>Xem xét kỹ lưỡng</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Portia_YijieZhiWu2">
+			<DisplayName>Tiêu tán hoàn toàn</DisplayName>
+			<Desc>Sau khi thông tin thần niệm được phát hết, vật từ dị giới này bắt đầu bị thiên đạo của thế giới này bài xích và dần hóa thành tro bụi tiêu tán.</Desc>
+			<Selections.0.Display>Xem xét kỹ lưỡng</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_GodPractice_MiJuan">
+			<DisplayName>Cuộn mật cổ đại</DisplayName>
+			<Desc>Đây là một cuộn mật truyền từ thời thượng cổ, không biết ghi chép nội dung gì bên trong.</Desc>
+			<Selections.0.Display>Đọc</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_GodPractice_MiJuan_1">
+			<DisplayName>Học tập</DisplayName>
+			<Desc>Ghi chép các trang sách mà thần tu cổ đại dùng để ngưng luyện một số thần tích đặc biệt.</Desc>
+			<Selections.0.Display>Đọc</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_God_Guard">
+			<DisplayName>Luyện hóa</DisplayName>
+			<Desc>[NAME] cố gắng luyện hóa vật này.</Desc>
+			<Selections.0.Display>Đọc</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_GodPractice_MiJuan_2">
+			<DisplayName>Giải phong ấn</DisplayName>
+			<Desc>[NAME] cố gắng giải phong ấn của vật này.</Desc>
+			<Selections.0.Display>Giải phong ấn</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Gong12">
+			<DisplayName>Tra cứu mật quyển</DisplayName>
+			<Desc>[NAME] cẩn thận nghiên cứu mật quyển.</Desc>
+			<Selections.0.Display>Nhận được công pháp</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Body_Gong_2">
+			<DisplayName>Tra cứu mật quyển</DisplayName>
+			<Desc>[NAME] cẩn thận nghiên cứu mật quyển.</Desc>
+			<Selections.0.Display>Nhận được công pháp</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Body_Gong_5">
+			<DisplayName>Tra cứu mật quyển</DisplayName>
+			<Desc>[NAME] cẩn thận nghiên cứu mật quyển.</Desc>
+			<Selections.0.Display>Nhận được công pháp</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_God_GongAll">
+			<DisplayName>Tra cứu bảo lục</DisplayName>
+			<Desc>[NAME] tra cứu bảo lục.</Desc>
+			<Selections.0.Display>Nhận được công pháp</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_SpringBox">
+			<DisplayName>Hàng tết</DisplayName>
+			<Desc>Cố gắng mở vật này.</Desc>
+			<Selections.0.Display>Mở</Selections.0.Display>
+		</Text>
+		<Text Name="Story_ZhuLongXuYuan_1">
+			<DisplayName>Cầu mong một cuộc sống phú quý</DisplayName>
+			<Desc>Do ảnh hưởng của thiên đạo từ dị giới, thiên đạo của thế giới này cũng xảy ra một số thay đổi tạm thời. Thậm chí hóa thân của đạo âm dương là Chúc Long cũng không còn cuồng loạn, và rất hứng thú với một loại kim loại hình tròn gọi là đồng xu từ dị giới. Đồng xu này tập trung nhiều khát vọng về sự phú quý, Chúc Long có thể dựa vào sức mạnh tâm nguyện trên vật này để hiện thực hóa cho ngươi một cuộc sống phú quý.</Desc>
+			<Selections.0.Display>Một lượng lớn linh thạch</Selections.0.Display>
+			<Selections.1.Display>Một lượng lớn thực phẩm</Selections.1.Display>
+			<Selections.2.Display>Một lượng lớn gỗ</Selections.2.Display>
+			<Selections.3.Display>Một lượng lớn khoáng thạch</Selections.3.Display>
+			<Selections.4.Display>Một lượng lớn quặng sắt</Selections.4.Display>
+			<Selections.5.Display>Không cần, ta kính thiên đạo mà không mong báo đáp!</Selections.5.Display>
+		</Text>
+		<Text Name="Story_ZhuLongXuYuan_2">
+			<DisplayName>Cầu mong linh đan diệu dược</DisplayName>
+			<Desc>Do ảnh hưởng của thiên đạo từ dị giới, thiên đạo của thế giới này cũng xảy ra một số thay đổi tạm thời. Thậm chí hóa thân của đạo âm dương là Chúc Long cũng không còn cuồng loạn, và rất hứng thú với một loại kim loại hình tròn gọi là đồng xu từ dị giới. Đồng xu này tập trung nhiều khát vọng về sức khỏe, Chúc Long có thể dựa vào sức mạnh tâm nguyện trên vật này để hiện thực hóa một số linh đan diệu dược cho ngươi.</Desc>
+			<Selections.0.Display>Một viên thần dược kim linh</Selections.0.Display>
+			<Selections.1.Display>Một viên thần dược mộc linh</Selections.1.Display>
+			<Selections.2.Display>Một viên thần dược thủy linh</Selections.2.Display>
+			<Selections.3.Display>Một viên thần dược hỏa linh</Selections.3.Display>
+			<Selections.4.Display>Một viên thần dược thổ linh</Selections.4.Display>
+			<Selections.5.Display>Mười lăm phần linh mộc huyết kiệt</Selections.5.Display>
+			<Selections.6.Display>Ba phần linh dịch địa mẫu</Selections.6.Display>
+			<Selections.7.Display>Một viên tạo hóa thần đan</Selections.7.Display>
+			<Selections.8.Display>Một bộ kéo dài tuổi thọ thần đan</Selections.8.Display>
+			<Selections.9.Display>Một viên thiên đạo thần đan</Selections.9.Display>
+			<Selections.10.Display>Không cần, ta kính thiên đạo mà không mong báo đáp!</Selections.10.Display>
+		</Text>
+		<Text Name="Story_ZhuLongXuYuan_3">
+			<DisplayName>Cầu mong tiên giáp linh y</DisplayName>
+			<Desc>Do ảnh hưởng của thiên đạo từ dị giới, thiên đạo của thế giới này cũng xảy ra một số thay đổi tạm thời. Thậm chí hóa thân của đạo âm dương là Chúc Long cũng không còn cuồng loạn, và rất hứng thú với một loại kim loại hình tròn gọi là đồng xu từ dị giới. Đồng xu này tập trung nhiều khát vọng về y phục mới, Chúc Long có thể dựa vào sức mạnh tâm nguyện trên vật này để hiện thực hóa một bộ tiên giáp linh y cho ngươi.</Desc>
+			<Selections.0.Display>Y phục giúp bảo vệ toàn thân</Selections.0.Display>
+			<Selections.1.Display>Y phục giúp ngưng pháp thi triển thuật</Selections.1.Display>
+			<Selections.2.Display>Y phục giúp điều khiển vật dụng và hợp khí</Selections.2.Display>
+			<Selections.3.Display>Y phục giúp che giấu thiên đạo</Selections.3.Display>
+			<Selections.4.Display>Y phục giúp trừ ma tĩnh tâm</Selections.4.Display>
+			<Selections.5.Display>Váy giúp bảo vệ toàn thân</Selections.5.Display>
+			<Selections.6.Display>Váy giúp ngưng pháp thi triển thuật</Selections.6.Display>
+			<Selections.7.Display>Váy giúp điều khiển vật dụng và hợp khí</Selections.7.Display>
+			<Selections.8.Display>Váy giúp che giấu thiên đạo</Selections.8.Display>
+			<Selections.9.Display>Váy giúp trừ ma tĩnh tâm</Selections.9.Display>
+			<Selections.10.Display>Không cần, ta kính thiên đạo mà không mong báo đáp!</Selections.10.Display>
+		</Text>
+		<Text Name="Story_Item_ChunYangWuJiGong">
+			<DisplayName>Lĩnh ngộ bí kíp</DisplayName>
+			<Desc>Cố gắng lĩnh ngộ bí kíp này.</Desc>
+			<Selections.0.Display>Tu luyện chính</Selections.0.Display>
+			<Selections.1.Display>Nghịch luyện</Selections.1.Display>
+			<Selections.2.Display>Thôi bỏ</Selections.2.Display>
+		</Text>
+		<Text Name="Story_Item_SupplyBox">
+			<DisplayName>Hộp tiếp tế</DisplayName>
+			<Desc>Đây là một chiếc hộp tinh xảo, ánh sáng lưu ly thật phi phàm.</Desc>
+			<Selections.0.Display>Cẩn thận mở</Selections.0.Display>
+			<Selections.1.Display>Đập vỡ trực tiếp</Selections.1.Display>
+			<Selections.2.Display>Mở</Selections.2.Display>
+			<Selections.3.Display>Thôi bỏ</Selections.3.Display>
+		</Text>
+	</List>
+</Texts>
+

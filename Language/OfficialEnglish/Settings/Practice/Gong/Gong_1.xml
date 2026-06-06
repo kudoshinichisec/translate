@@ -1,0 +1,50 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_1_Shui">
+			<DisplayName>Thái Hòa Thập Lục Động Thiên</DisplayName>
+			<Desc>Một trong năm chân quyết Ngũ Hành trấn phái của Thái Nhất Môn, chia thành bốn đại cảnh giới, mười sáu cửa ải, chú trọng tiến hành tuần tự. Tu luyện công pháp này tuy tiến cảnh không nhanh, nhưng nhờ dễ nhập môn, từng bước củng cố căn cơ, tu vi dần dần tăng lên, lâu dài có thể hy vọng thành tiên.</Desc>
+			<SelectDesc>Công pháp này chú trọng tiến hành tuần tự, nổi danh nhờ căn cơ sâu dày, tuy nhiên khi kết đan phải chịu lễ rửa tội của sơ kiếp. Có nên chọn tu luyện công pháp này hay không?</SelectDesc>
+			<Stages.0.DisplayName>Ngưng khí kỳ</Stages.0.DisplayName>
+			<Stages.0.Desc>Cảnh giới nhập môn tu hành, cần khổ công tĩnh tâm ngồi thiền, do đó người càng thông minh, suy nghĩ trong đầu càng nhiều, càng khó vượt qua cửa ải này.</Stages.0.Desc>
+			<Stages.0.Necks.0.DisplayName>Nhiếp Tư</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>Trong khi ngồi thiền, cố gắng thu nhiếp tâm viên ý mã, khiến suy nghĩ không phân tán. [color=#D06508]\nNút thắt này càng có ngộ tính cao, càng khó vượt qua.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Nội Chiếu</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>Trên cơ sở Nhiếp Tư, tiến thêm một bước để cảm nhận sự thay đổi bên trong cơ thể, như người mù sờ vật, cảm nhận trạng thái của nội tạng. [color=#D06508]\nNút thắt này càng có ngộ tính cao, càng khó vượt qua.[/color]</Stages.0.Necks.1.Desc>
+			<Stages.0.Necks.2.DisplayName>Khí Động</Stages.0.Necks.2.DisplayName>
+			<Stages.0.Necks.2.Desc>Công phu nội thị dần sâu hơn, trong khi ngồi thiền tìm kiếm tia khí cảm đầu tiên, đây chính là khởi đầu của luyện tinh hóa khí, gọi là Sơ Niệm. [color=#D06508]\nNút thắt này khí cảm càng thấp, càng khó vượt qua. \nThất bại trong việc đột phá có thể bị thương.[/color]</Stages.0.Necks.2.Desc>
+			<Stages.0.Necks.3.DisplayName>Chu Thiên</Stages.0.Necks.3.DisplayName>
+			<Stages.0.Necks.3.Desc>Tu hành bước vào cảnh giới này, cần dần lớn mạnh chân khí, đồng thời dẫn dắt nó thông qua Tam Quan Tam Điền, khai thông Nhâm Đốc Nhị Mạch, tạo thành vòng tuần hoàn. Đây gọi là Chu Thiên.</Stages.0.Necks.3.Desc>
+			<Stages.1.DisplayName>Kết đan kỳ</Stages.1.DisplayName>
+			<Stages.1.Desc>Đây là cảnh giới thứ hai trong tu hành, cần tính mệnh giao tu, thủy hỏa tương tế, chỉ để kết thành một hạt Kim Đan.</Stages.1.Desc>
+			<Stages.1.Necks.0.DisplayName>Huyền Quan</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>Mở Huyền Quan, giao tiếp với trời đất. Tiên phàm từ đây chia biệt.</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Quy Hồ</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.1.Desc>Chân khí tràn đầy khắp cơ thể, đạt đến cảnh giới viên mãn.</Stages.1.Necks.1.Desc>
+			<Stages.1.Necks.2.DisplayName>Lò Đỉnh</Stages.1.Necks.2.DisplayName>
+			<Stages.1.Necks.2.Desc>Đảo ngược ngũ tạng, đốt cháy tuổi thọ, lấy ngực bụng làm đỉnh, tim làm hỏa, thận làm thủy, đúc thành lò kết đan. [color=#D06508]\nNút thắt này căn cốt càng thấp, càng khó vượt qua. \nThất bại trong việc đột phá có thể bị thương.[/color]</Stages.1.Necks.2.Desc>
+			<Stages.1.Necks.3.DisplayName>Ngưng Đan</Stages.1.Necks.3.DisplayName>
+			<Stages.1.Necks.3.Desc>Tinh khí thần hợp nhất, kết thành Kim Đan, đặt nền móng cho đạo cơ.</Stages.1.Necks.3.Desc>
+			<Stages.2.DisplayName>Chân Đan Kỳ</Stages.2.DisplayName>
+			<Stages.2.Desc>Cảnh giới thứ ba trong tu hành, thuần khí hóa mềm, có thể như trẻ sơ sinh chăng? Cảnh giới này thấu hiểu chân ngã, mới đạt được tiêu dao.</Stages.2.Desc>
+			<Stages.2.Necks.0.DisplayName>Sơ Kiếp</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>Kim Đan vừa thành, thiên giáng lôi kiếp ngăn trở thành đạo.</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Kết Thai</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.1.Desc>Phản chiếu Kim Đan, chân ngã xuất hiện từ Kim Đan, như thể cơ thể con người khởi đầu, từ không đến có dần dần ngưng tụ. [color=#D06508]\nNút thắt này ngộ tính càng thấp, càng khó vượt qua.[/color]</Stages.2.Necks.1.Desc>
+			<Stages.2.Necks.2.DisplayName>Thai Động</Stages.2.Necks.2.DisplayName>
+			<Stages.2.Necks.2.Desc>Nuôi dưỡng chân ngã, dần lớn mạnh, rục rịch muốn động. [color=#D06508]Nút thắt này căn cốt càng thấp, càng khó vượt qua.[/color]</Stages.2.Necks.2.Desc>
+			<Stages.2.Necks.3.DisplayName>Nguyên Anh</Stages.2.Necks.3.DisplayName>
+			<Stages.2.Necks.3.Desc>Tự phong thần thông, trong sự quy về bản nguyên, Nguyên Anh xuất hiện, phá vỡ lồng giam của thân xác, đây gọi là cảnh giới Địa Tiên.</Stages.2.Necks.3.Desc>
+			<Stages.3.DisplayName>Đại Thừa Kỳ</Stages.3.DisplayName>
+			<Stages.3.Desc>Cảnh giới thứ tư trong tu hành, Nguyên Anh ở cảnh giới này trải qua lễ rửa tội của lôi kiếp hóa thành thuần dương, có thể thoát xác phàm, phi thăng thành tiên.</Stages.3.Desc>
+			<Stages.3.Necks.0.DisplayName>Luyện Thần</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>Lấy Thái âm chi tức của Địa Mẫu luyện thành Nguyên Thần, khiến nó trưởng thành.</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Xuất Khiếu</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.1.Desc>Tự mở Thiên Môn, thoát xác mà ra, tiêu dao trời đất. [color=#D06508]\nĐột phá nút thắt này sẽ làm tổn thọ lớn, cần chú ý.[/color]</Stages.3.Necks.1.Desc>
+			<Stages.3.Necks.2.DisplayName>Đắc Thiên</Stages.3.Necks.2.DisplayName>
+			<Stages.3.Necks.2.Desc>Lấy Nguyên Thần lĩnh hội huyền diệu của Thiên Đạo, một khi vượt qua cửa ải này, sẽ đối diện trực tiếp với thiên kiếp. [color=#D06508]\nNút thắt này rất khó vượt qua, không có kinh nghiệm cộng thêm.[/color]</Stages.3.Necks.2.Desc>
+			<Stages.3.Necks.3.DisplayName>Phi thăng</Stages.3.Necks.3.DisplayName>
+			<Stages.3.Necks.3.Desc>Phản phệ từ trời đất đến, vượt qua kiếp nạn tiên lộ trong tầm mắt, ngược lại tro bụi tan biến.</Stages.3.Necks.3.Desc>
+		</Text>
+	</List>
+</Texts>
+

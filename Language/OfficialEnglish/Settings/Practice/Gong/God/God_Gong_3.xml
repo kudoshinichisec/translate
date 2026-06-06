@@ -1,0 +1,22 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="God_Gong_3">
+			<DisplayName>U Minh Thập Phương Thái Ất Cứu Khổ Kinh</DisplayName>
+			<Desc>Thuật tu hành thần đạo đã bị đoạn tuyệt từ thời thượng cổ, là pháp môn tập hợp tín ngưỡng chúng sinh để thành tựu thần tính. Pháp thần tu đều đại đồng tiểu dị, truyền thừa khác biệt chỉ ở linh dẫn thần tính khác nhau, có thể dẫn động các linh thiên đạo khác nhau bảo hộ. "U Minh Thập Phương Thái Ất Cứu Khổ Kinh" là truyền thừa của U Tổ, tu luyện pháp này có thể mượn linh dẫn của Cửu U, triệu tập linh chúng U Minh Thập Phương bảo hộ, thiên về đạo phòng ngự.</Desc>
+			<SelectDesc>Đạo tu hành tín ngưỡng khác với tu hành Kim Đan truyền thống, pháp này hoàn toàn dựa vào tín ngưỡng của chúng sinh để tu hành. Tu hành tín ngưỡng tuy không yêu cầu thiên tư, nhưng nếu muốn đạt đến đỉnh cao, cần ngộ tính cực cao, có muốn lựa chọn tu luyện công pháp này không?</SelectDesc>
+			<Stages.0.DisplayName>Khổ Hành</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Khiêm Tâm</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Truyền đạo</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Khai Phá</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Thần quốc</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Sắc Lệnh: Quỷ Sai</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Sắc Lệnh: Quỷ Tướng</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Sắc Lệnh: Vô Thường</Stages.2.Necks.2.DisplayName>
+			<Stages.2.Necks.3.DisplayName>Sắc Lệnh: Phán Quan</Stages.2.Necks.3.DisplayName>
+			<Stages.2.Necks.4.DisplayName>Thoát Phàm</Stages.2.Necks.4.DisplayName>
+			<Stages.3.DisplayName>Viên mãn</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Vô Thượng</Stages.3.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>
+

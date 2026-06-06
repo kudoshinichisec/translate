@@ -1,0 +1,76 @@
+房间	Phòng
+兔皮薄衣衫	Áo mỏng da thỏ
+紫布休闲下裳	Quần thư giãn vải tím
+蓝布薄衣衫	Áo mỏng vải xanh
+白布薄下裳	Quần mỏng vải trắng
+大理石剑	Kiếm Đá Cẩm Thạch
+灰石伐木斧	Rìu chặt gỗ đá xám
+灵木矿镐	Cuốc khoáng linh mộc
+木矿镐	Cuốc mỏ
+木墙	Tường gỗ
+木门	Mộc Môn
+木床	Giường gỗ
+灵石炉灶	Bếp Lò Linh Thạch
+梧桐木桌子	Bàn ngô đồng thần mộc
+梧桐木墙	Tường ngô đồng thần mộc
+梧桐木门	Cửa ngô đồng thần mộc
+灵石置物台	Kệ đặt linh thạch
+母兔子	Thỏ cái
+公鸡	Gà trống
+雄龟	Rùa đực
+雌龟	Rùa cái
+雄青蛙	Ếch đực
+雌青蛙	Ếch cái
+梁	Lương
+菊	Cúc
+新家园	Tổ ấm mới
+采矿	Khai thác mỏ
+野外的水	Nước từ tự nhiên
+双元	Song nguyên
+伟	Vĩ
+弘	Hoằng
+新柔	Tân Nhu
+欧阳	Âu Dương
+寻雪	Tầm Tuyết
+双	Song
+元	Nguyên
+梁菊	Lương Cúc
+安	An
+郑	Trịnh
+依凝	Y Ngưng
+萧	Tiêu
+瑞	Thụy
+佟	Đông
+紫雅	Tử Nhã
+扫地	Quét dọn.
+存档写入完成	Hoàn tất ghi lưu trữ
+梁菊感到危险	Lương Cúc cảm thấy nguy hiểm
+药物储量不足	Dự trữ thuốc không đủ
+食物储量不足	Dự trữ thực phẩm không đủ
+梁菊需要开采工具	Lương Cúc cần dụng cụ khai thác
+双元需要砍伐工具	Song Nguyên cần công cụ chặt cây
+天火心光诀	Thiên Hỏa Tâm Quang Quyết
+燃魂九极咒	Nhiên Hồn Cửu Cực Chú
+朱雀金刚	Chu Tước Kim Cương
+造化不坏神雷	Tạo Hóa Bất Hoại Thần Lôi
+迅影秘法	Bí pháp tấn ảnh
+少量的	Một chút
+混元决	Hỗn Nguyên
+混元密卷	Hỗn Nguyên Mật Quyển
+圆转秘诀	Viên Chuyển Bí Quyết
+黄芽迅击	Hoàng Nha Tấn Kích
+中量的	Vừa
+赤炎迅击秘法	Xích Diễm Tấn Kích Bí Pháp
+黄庭混元宝典	Hoàng Đình Hỗn Nguyên Bảo Điển
+真丹蓄神剑诀	Chân Đơn Trữ Thần Kiếm Quyết
+神佑典	Điển Thần Hữu
+景氏摄神要诀	Yếu Quyết Nhiếp Thần Cảnh Thị
+紫火神佑典	Điển Thần Hộ Tử Hỏa
+大量的	Số lượng lớn
+丙火摄神书	Bính Hỏa Nhiếp Thần Thư
+过去庄严琢玉秘传	Quá Khứ Trang Nghiêm Trác Ngọc Bí Truyền
+海量的	Cực lớn
+再造形神之术	Tái Tạo Hình Thần Thuật
+南海清心神功	Nam Hải Thanh Tâm Thần Công
+
+

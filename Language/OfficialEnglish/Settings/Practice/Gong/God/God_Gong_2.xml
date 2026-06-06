@@ -1,0 +1,28 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="God_Gong_2">
+			<DisplayName>Chư Thiên Bát Bộ Thành Tựu Pháp</DisplayName>
+			<Desc>Thuật tu hành thần đạo đã bị đoạn tuyệt từ thời thượng cổ, là pháp môn tập hợp tín ngưỡng chúng sinh để thành tựu thần tính. Pháp thần tu đều đại đồng tiểu dị, truyền thừa khác biệt chỉ ở linh dẫn thần tính khác nhau, có thể dẫn động các linh thiên đạo khác nhau bảo hộ. "Chư Thiên Bát Bộ Thành Tựu Pháp" là truyền thừa của Tây Phương Thiên Ngoại Thiên, tu luyện pháp này có thể mượn linh dẫn của chư thiên, triệu tập linh chúng Bát Bộ bảo hộ, thiên về thuật pháp chi đạo.</Desc>
+			<SelectDesc>Đạo tu hành tín ngưỡng khác với tu hành Kim Đan truyền thống, pháp này hoàn toàn dựa vào tín ngưỡng của chúng sinh để tu hành. Tu hành tín ngưỡng tuy không yêu cầu thiên tư, nhưng nếu muốn đạt đến đỉnh cao, cần ngộ tính cực cao, có muốn lựa chọn tu luyện công pháp này không?</SelectDesc>
+			<Stages.0.DisplayName>Khổ Hành</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Khiêm Tâm</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Truyền đạo</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Khai Phá</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Diệu Văn</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Sắc Lệnh: Càn Đạt Bà</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Sắc Lệnh: Khẩn Na La</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Sắc Lệnh: Già Lâu La</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>Hung Lệ</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Sắc Lệnh: Ma Hô La Già</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Sắc Lệnh: Dạ Xoa</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.2.DisplayName>Sắc Lệnh: A Tu La</Stages.3.Necks.2.DisplayName>
+			<Stages.4.DisplayName>Chí Cao</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Sắc Lệnh: Long Vương</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Sắc Lệnh: Thiên Nhân</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.2.DisplayName>Thoát Phàm</Stages.4.Necks.2.DisplayName>
+			<Stages.5.DisplayName>Viên mãn</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Vô Thượng</Stages.5.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>
+

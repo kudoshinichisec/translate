@@ -1,0 +1,86 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Point_FarmBase">
+			<DisplayName>Ruộng</DisplayName>
+		</Text>
+		<Text Name="Point_MineBase">
+			<DisplayName>Mỏ</DisplayName>
+		</Text>
+		<Text Name="Point_LumberBase">
+			<DisplayName>Xưởng Gỗ</DisplayName>
+		</Text>
+		<Text Name="Point_LingBase">
+			<DisplayName>Mỏ Linh Thạch</DisplayName>
+		</Text>
+		<Text Name="Point_CentralPlains4">
+			<DisplayName>Ngũ Hoa Thôn</DisplayName>
+		</Text>
+		<Text Name="Point_CentralPlains2">
+			<DisplayName>Luyện Đan Phong</DisplayName>
+		</Text>
+		<Text Name="Point_CentralPlains5">
+			<DisplayName>Lô Khư Thôn</DisplayName>
+		</Text>
+		<Text Name="Point_CentralPlains1">
+			<DisplayName>Vân Đài Sơn</DisplayName>
+		</Text>
+		<Text Name="Point_CentralPlains3">
+			<DisplayName>Bình Đỉnh Sơn</DisplayName>
+		</Text>
+		<Text Name="Point_BirthPlace12">
+			<DisplayName>Nguyệt Luân Sơn</DisplayName>
+		</Text>
+		<Text Name="Point_BirthPlace14">
+			<DisplayName>Đồng Lăng Sơn</DisplayName>
+		</Text>
+		<Text Name="Point_BirthPlace15">
+			<DisplayName>Diễn Võ Trường</DisplayName>
+		</Text>
+		<Text Name="Point_BirthPlace13">
+			<DisplayName>Tiểu Lương Sơn</DisplayName>
+		</Text>
+		<Text Name="Point_BirthPlace11">
+			<DisplayName>Nam Bình Thôn</DisplayName>
+		</Text>
+		<Text Name="Point_FertileField3">
+			<DisplayName>Đạo Hương Thôn</DisplayName>
+		</Text>
+		<Text Name="Point_FertileField4">
+			<DisplayName>Quế Sơn</DisplayName>
+		</Text>
+		<Text Name="Point_FertileField5">
+			<DisplayName>Lư Sơn</DisplayName>
+		</Text>
+		<Text Name="Point_FertileField1">
+			<DisplayName>Hàn Sơn Trấn</DisplayName>
+		</Text>
+		<Text Name="Point_FertileField2">
+			<DisplayName>Lạc Hà Trấn</DisplayName>
+		</Text>
+		<Text Name="Point_Desert2">
+			<DisplayName>Huyễn Sa Nguyên</DisplayName>
+		</Text>
+		<Text Name="Point_Desert4">
+			<DisplayName>Minh Sa Thôn</DisplayName>
+		</Text>
+		<Text Name="Point_Desert3">
+			<DisplayName>Hỏa Huyệt</DisplayName>
+		</Text>
+		<Text Name="Point_Snowfield1">
+			<DisplayName>Thiên Loa Dục</DisplayName>
+		</Text>
+		<Text Name="Point_Snowfield3">
+			<DisplayName>Tuyết Phong Nguyên</DisplayName>
+		</Text>
+		<Text Name="Point_Snowfield2">
+			<DisplayName>Ngọc Tinh Đàm</DisplayName>
+		</Text>
+		<Text Name="Point_SouthForest1">
+			<DisplayName>Mê chướng đào hoa vạn cổ</DisplayName>
+		</Text>
+		<Text Name="Point_SouthForest3">
+			<DisplayName>Trùng Cốc</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

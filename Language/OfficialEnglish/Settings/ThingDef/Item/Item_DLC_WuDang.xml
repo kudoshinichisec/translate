@@ -1,0 +1,78 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_WuDang_HuangJing" sParam="Item">
+			<ThingName>Hoàng Tinh</ThingName>
+			<Desc>Một loại linh dược, vị ngọt và ngon miệng, dùng để ăn vừa có thể no bụng, vừa bổ dưỡng cơ thể. Tiên gia cho rằng thuộc loại chi thảo, vì hấp thụ tinh túy của đất mẹ, nên gọi là Hoàng Tinh.</Desc>
+			<Item.FabaoSuffix>Quả, Châu, Hoàn, Cầu</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WuDang_HuangJingFen" sParam="Item">
+			<ThingName>Hoàng Tinh Phấn</ThingName>
+			<Desc>Hoàng Tinh sau khi phơi khô được nghiền thành bột, bản thân cũng có một số tính chất dược liệu, nhưng chủ yếu dùng để chế tạo đan dược.</Desc>
+			<Item.FabaoSuffix>Cát, bụi, bột, khí độc</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponFuChen" sParam="Item">
+			<ThingName>Phất Trần</ThingName>
+			<Desc>Một cây phất trần, mang phong thái tiên phong đạo cốt.</Desc>
+			<Item.FabaoSuffix>Mềm, Phất</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponDaoSword" sParam="Item">
+			<ThingName>Kiếm Đạo</ThingName>
+			<Desc>Một thanh kiếm chuyên dùng để làm pháp, có tương thích tốt với pháp lực.</Desc>
+			<Item.FabaoSuffix>Kiếm</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_XuanTianShangDiPai" sParam="Item">
+			<ThingName>Thẻ Thánh Huyền Thiên Thượng Đế</ThingName>
+			<Desc>Bảng khắc danh hiệu Thánh Đế Huyền Thiên, mang theo có thể nhận được sự che chở của Thánh Đế Huyền Thiên, tăng cường cơ hội và tâm trạng.</Desc>
+			<Item.FabaoSuffix>Bảng</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Dan_WuQiNoHunger2" sParam="Item">
+			<ThingName>Ngũ Khí Tị Cốc Đan</ThingName>
+			<Desc>Đan dược bí truyền của núi Võ Đang. So với đan dược bình thường, hiệu quả kéo dài hơn, lên đến ba mươi ngày.</Desc>
+		</Text>
+		<Text Name="Item_Dan_SanHuaHuangJing" sParam="Item">
+			<ThingName>Tam Hoa Hoàng Tinh Hoàn</ThingName>
+			<Desc>Đan dược bí truyền của núi Võ Đang. Dùng để cố định tăng giới hạn linh khí. Mặc dù đan này tương đối ít giá trị đối với các tu sĩ có tu vi cao, nhưng rất phù hợp để xây dựng nền tảng cho đệ tử mới nhập môn. Dùng nhiều lần, hiệu quả sẽ giảm đi đáng kể.</Desc>
+		</Text>
+		<Text Name="Item_MiBao_ZhenWuDangMoShenJian" sParam="Item">
+			<ThingName>Thần Kiếm Trừ Ma Chân Võ</ThingName>
+			<Desc>Chân Võ Đại Đế còn gọi là Đạo Ma Thiên Tôn, thanh kiếm này chính là bảo vật mà ngài sử dụng để quét sạch quần ma. Kiếm dài hai thước bảy tấc, thân kiếm được ta luyện từ ngọc thạch, lại được luyện nhập Đạo Ma Chân Pháp, do đó thân kiếm tỏa ra ánh sáng hào hùng. Một khi điều khiển sẽ hóa thành tia sét dài một trượng, không có vật gì cản nổi.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Mang theo vật này và tiêu diệt 1 con Xà Yêu nguyên thần.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.ActiveCondition.1.des>Mang theo vật này và tiêu diệt 1 con Lang Yêu nguyên thần.</Item.Fabao.ActiveCondition.1.des>
+			<Item.Fabao.ActiveCondition.2.des>Mang theo vật này và tiêu diệt 1 con Hùng Yêu nguyên thần.</Item.Fabao.ActiveCondition.2.des>
+			<Item.Fabao.ActiveCondition.3.des>Mang theo vật này và tiêu diệt 1 con Quy Yêu nguyên thần.</Item.Fabao.ActiveCondition.3.des>
+			<Item.Fabao.ActiveCondition.4.des>Mang theo vật này và tiêu diệt 1 con Trư Yêu nguyên thần.</Item.Fabao.ActiveCondition.4.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Tấn công dị tộc (không phải nhân tộc) có thể gây sát thương gấp 3 lần.</Item.Fabao.SpecialAbility.0.Desc>
+			<Item.Fabao.SpecialAbility.1.Desc>Trang bị nhân tộc có thể gây sát thương gấp 3 lần.</Item.Fabao.SpecialAbility.1.Desc>
+		</Text>
+		<Text Name="Item_MiBao_ZiXiaoChi" sParam="Item">
+			<ThingName>Tuyệt Cảnh Tiềm Năng</ThingName>
+			<Desc>Bảo vật bí truyền của phái Võ Đang, thân thước được điêu khắc từ thiên trụ thạch hoàn chỉnh, lại luyện nhập 7 hơi thở thiên kiếp theo thế Bắc Đẩu thành vân văn khắc trên thước, sau đó trải qua 7 lần thiên kiếp ta luyện mà thành. Một khi luyện thành có thể mượn sức mạnh thiên đạo để đo lường công nghiệp của chúng sinh.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Mang theo bảo vật vượt qua 7 lần thiên kiếp phi thăng.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Mỗi lần tấn công gây sát thương dựa trên chênh lệch đạo hạnh của hai bên. Mỗi 1 điểm chênh lệch đạo hạnh tăng 1% sát thương. </Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Fish_SkySnake" sParam="Item">
+			<ThingName>Tiên Thiên Phản Chiếu</ThingName>
+			<Desc>Lươn đặc biệt sống trong biển mây. Thịt nhẹ như không khí, thực ra là vì cơ thể nó chứa đầy linh khí.</Desc>
+			<Item.FabaoSuffix>Mềm, Cá, Gai</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Fish_SkyFish" sParam="Item">
+			<ThingName>Cơ Năng Kích Hóa</ThingName>
+			<Desc>Cá chép sống trong mây, chỉ xuất hiện vào ban đêm.</Desc>
+		</Text>
+		<Text Name="Fish_SkyCrab" sParam="Item">
+			<ThingName>Yêu Thực Tạng Khí</ThingName>
+			<Desc>Cua sống trong biển mây, cơ thể cực kỳ cứng rắn, nghe nói chúng ăn sét trong mây.</Desc>
+		</Text>
+		<Text Name="Item_XuanWuEgg" sParam="Item">
+			<ThingName>Ngọc Linh Huyền Vũ</ThingName>
+			<StoryBnts.0.Name>Xem xét</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Xem Ngọc Linh Huyền Vũ.</StoryBnts.0.Desc>
+			<Desc>Linh ngọc do phái Võ Đang tặng, dường như là một trong bộ vật phẩm.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_ZhenWuShenNian" sParam="Item">
+			<ThingName>Linh Dẫn Chân Võ</ThingName>
+			<Desc>Một chút linh dẫn của Chân Võ Đại Đế, có thể dựa vào đó để xây dựng tượng Chân Võ Đại Đế.</Desc>
+		</Text>
+	</List>
+</Texts>
+

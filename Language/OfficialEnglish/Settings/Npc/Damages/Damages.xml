@@ -1,0 +1,215 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Shit">
+			<DisplayName>Mùi hôi thối</DisplayName>
+		</Text>
+		<Text Name="BurnScar">
+			<DisplayName>Sẹo bỏng</DisplayName>
+		</Text>
+		<Text Name="Scar">
+			<DisplayName>Sẹo</DisplayName>
+		</Text>
+		<Text Name="Osteodynia">
+			<DisplayName>Đau xương</DisplayName>
+		</Text>
+		<Text Name="DeformedSkeleton">
+			<DisplayName>Xương biến dạng</DisplayName>
+		</Text>
+		<Text Name="ViscusInjury">
+			<DisplayName>Nội tạng tổn thương cũ</DisplayName>
+		</Text>
+		<Text Name="Deaf">
+			<DisplayName>Bệnh tai</DisplayName>
+		</Text>
+		<Text Name="MeridianBlocking">
+			<DisplayName>Tắc nghẽn</DisplayName>
+		</Text>
+		<Text Name="Palpitation">
+			<DisplayName>Hồi hộp</DisplayName>
+		</Text>
+		<Text Name="Poisoning1">
+			<DisplayName>Trúng độc (nhẹ)</DisplayName>
+		</Text>
+		<Text Name="Poisoning2">
+			<DisplayName>Trúng độc (vừa)</DisplayName>
+		</Text>
+		<Text Name="Poisoning3">
+			<DisplayName>Trúng độc (nặng)</DisplayName>
+		</Text>
+		<Text Name="BloodFreezing1">
+			<DisplayName>Rối loạn đông máu (nhẹ)</DisplayName>
+		</Text>
+		<Text Name="BloodFreezing2">
+			<DisplayName>Rối loạn đông máu (nặng)</DisplayName>
+		</Text>
+		<Text Name="Cold1">
+			<DisplayName>Phong tà (nhẹ)</DisplayName>
+		</Text>
+		<Text Name="Cold2">
+			<DisplayName>Phong tà (nặng)</DisplayName>
+		</Text>
+		<Text Name="Fracture1">
+			<DisplayName>Nứt nẻ</DisplayName>
+		</Text>
+		<Text Name="Fracture2">
+			<DisplayName>Gãy xương</DisplayName>
+		</Text>
+		<Text Name="Fracture3">
+			<DisplayName>Nứt xương</DisplayName>
+		</Text>
+		<Text Name="Fracture4">
+			<DisplayName>Vỡ vụn</DisplayName>
+		</Text>
+		<Text Name="Fabao_CutOff">
+			<DisplayName>Chém đứt</DisplayName>
+		</Text>
+		<Text Name="FightSkill_Disintegrate">
+			<DisplayName>Gãy vụn</DisplayName>
+		</Text>
+		<Text Name="Corrosion">
+			<DisplayName>Ăn mòn</DisplayName>
+		</Text>
+		<Text Name="ForgLick">
+			<DisplayName>Ướt sũng</DisplayName>
+		</Text>
+		<Text Name="Boil">
+			<DisplayName>Nhọt</DisplayName>
+		</Text>
+		<Text Name="Toothache">
+			<DisplayName>Đau răng</DisplayName>
+		</Text>
+		<Text Name="Faint">
+			<DisplayName>Ngất xỉu</DisplayName>
+		</Text>
+		<Text Name="Hemorrhoids">
+			<DisplayName>Bệnh trĩ</DisplayName>
+		</Text>
+		<Text Name="HemorrhoidsEX">
+			<DisplayName>Trĩ vĩnh viễn</DisplayName>
+		</Text>
+		<Text Name="Frostbite1">
+			<DisplayName>Tê cóng (nhẹ)</DisplayName>
+		</Text>
+		<Text Name="Frostbite2">
+			<DisplayName>Tê cóng (vừa)</DisplayName>
+		</Text>
+		<Text Name="Frostbite3">
+			<DisplayName>Tê cóng (nặng)</DisplayName>
+		</Text>
+		<Text Name="Scald1">
+			<DisplayName>Bỏng (nhẹ)</DisplayName>
+		</Text>
+		<Text Name="Scald2">
+			<DisplayName>Bỏng (vừa)</DisplayName>
+		</Text>
+		<Text Name="Scald3">
+			<DisplayName>Bỏng (nặng)</DisplayName>
+		</Text>
+		<Text Name="Bruise1">
+			<DisplayName>Bầm tím (nhẹ)</DisplayName>
+		</Text>
+		<Text Name="Bruise2">
+			<DisplayName>Bầm tím (vừa)</DisplayName>
+		</Text>
+		<Text Name="Bruise3">
+			<DisplayName>Bầm tím (nặng)</DisplayName>
+		</Text>
+		<Text Name="Infection">
+			<DisplayName>Nhiễm trùng nặng</DisplayName>
+		</Text>
+		<Text Name="Cut1">
+			<DisplayName>Cắt rách (nhẹ)</DisplayName>
+		</Text>
+		<Text Name="Cut2">
+			<DisplayName>Cắt rách (vừa)</DisplayName>
+		</Text>
+		<Text Name="Cut3">
+			<DisplayName>Cắt rách (nặng)</DisplayName>
+		</Text>
+		<Text Name="Puncture">
+			<DisplayName>Đâm xuyên</DisplayName>
+		</Text>
+		<Text Name="Fabao_Tear">
+			<DisplayName>Xé toạc</DisplayName>
+		</Text>
+		<Text Name="FightSkill_Evaporate">
+			<DisplayName>Bốc hơi</DisplayName>
+		</Text>
+		<Text Name="Deterioration">
+			<DisplayName>Biến dạng</DisplayName>
+		</Text>
+		<Text Name="VisceralRupture">
+			<DisplayName>Rách nát</DisplayName>
+		</Text>
+		<Text Name="VisceralCut">
+			<DisplayName>Cắt rách</DisplayName>
+		</Text>
+		<Text Name="Destroy">
+			<DisplayName>Phá hủy</DisplayName>
+		</Text>
+		<Text Name="Wound">
+			<DisplayName>Vết thương</DisplayName>
+		</Text>
+		<Text Name="FrostbiteInside">
+			<DisplayName>Tê cóng</DisplayName>
+		</Text>
+		<Text Name="SnakeVenom">
+			<DisplayName>Nọc độc rắn</DisplayName>
+		</Text>
+		<Text Name="DiseaseBreath">
+			<DisplayName>Hơi thở dịch bệnh</DisplayName>
+		</Text>
+		<Text Name="HolyJudgement">
+			<DisplayName>Linh lực xâm nhiễm</DisplayName>
+		</Text>
+		<Text Name="FirebiteInside">
+			<DisplayName>Say nắng</DisplayName>
+		</Text>
+		<Text Name="FoodDamage">
+			<DisplayName>Thiếu ăn</DisplayName>
+		</Text>
+		<Text Name="WaterDamage">
+			<DisplayName>Thiếu nước</DisplayName>
+		</Text>
+		<Text Name="GuanyinDamage">
+			<DisplayName>Ăn đất</DisplayName>
+		</Text>
+		<Text Name="AbdominalDistention">
+			<DisplayName>Chướng bụng</DisplayName>
+		</Text>
+		<Text Name="AbdominalPain">
+			<DisplayName>Đau bụng</DisplayName>
+		</Text>
+		<Text Name="SysTooTired">
+			<DisplayName>Quá Mệt Mỏi</DisplayName>
+		</Text>
+		<Text Name="DevilBlood_LianHun">
+			<DisplayName>Nỗi đau luyện hồn</DisplayName>
+		</Text>
+		<Text Name="Anaesthesia">
+			<DisplayName>Gây mê</DisplayName>
+		</Text>
+		<Text Name="TEST_FULL">
+			<DisplayName>Thử nghiệm tổn thương</DisplayName>
+		</Text>
+		<Text Name="Puppet_Abrasion">
+			<DisplayName>Mài mòn</DisplayName>
+		</Text>
+		<Text Name="SYS_LOST">
+			<DisplayName>Mất mô-đun</DisplayName>
+		</Text>
+		<Text Name="BloodFeed">
+			<DisplayName>Tinh huyết</DisplayName>
+		</Text>
+		<Text Name="LsBiteLighty">
+			<DisplayName>Cắn nhẹ</DisplayName>
+		</Text>
+		<Text Name="LsBite">
+			<DisplayName>Cắn mạnh</DisplayName>
+		</Text>
+		<Text Name="Pollinosis">
+			<DisplayName>Dị ứng phấn hoa</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

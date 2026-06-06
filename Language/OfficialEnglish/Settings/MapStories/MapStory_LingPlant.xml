@@ -1,0 +1,40 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Story_LingZhi_YunYangBegin">
+			<DisplayName>Bắt đầu nuôi dưỡng</DisplayName>
+			<Desc>Do [NAME] được [HENAME] nuôi dưỡng, có điều gì đó đặc biệt đã xảy ra.</Desc>
+			<Selections.0.Display>Xem xét</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_YunYangEnd">
+			<DisplayName>Hoàn thành nuôi dưỡng</DisplayName>
+			<Desc>Do [NAME] hoàn thành việc nuôi dưỡng [HENAME], có điều gì đó đặc biệt đã xảy ra.</Desc>
+			<Selections.0.Display>Xem xét</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_Chance">
+			<DisplayName>Linh tính bất ngờ</DisplayName>
+			<Desc>Trong quá trình phát triển, linh tính của [NAME] bỗng nhiên có chút cảm ứng.</Desc>
+			<Selections.0.Display>Xem xét</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_Grow">
+			<DisplayName>Linh thực trưởng thành</DisplayName>
+			<Desc>[NAME] là linh căn trời đất, khi cây trưởng thành, khí tức trời đất bỗng động, có điều gì đó đặc biệt đã xảy ra.</Desc>
+			<Selections.0.Display>Xem xét</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_Ripe">
+			<DisplayName>Linh thực chín muồi</DisplayName>
+			<Desc>[NAME] là linh căn trời đất, khi cây chín muồi, trời đất bỗng cảm ứng, có điều gì đó đặc biệt đã xảy ra.</Desc>
+			<Selections.0.Display>Xem xét</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_LingSha">
+			<DisplayName>Linh sát cực điểm</DisplayName>
+			<Desc>Tính chất linh sát của [NAME] được tích tụ đến cực điểm, có điều gì đó đã xảy ra.</Desc>
+			<Selections.0.Display>Xem xét</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_Attack">
+			<DisplayName>Kẻ địch xâm lược</DisplayName>
+			<Desc>Linh căn trời đất chín muồi, chắc chắn sẽ có tai kiếp, hãy chuẩn bị sẵn sàng.</Desc>
+			<Selections.0.Display>Xem xét</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>
+

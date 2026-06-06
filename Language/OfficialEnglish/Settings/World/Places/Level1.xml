@@ -1,0 +1,96 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Place_Level1Base">
+			<Desc>Mẫu địa cấp 1</Desc>
+		</Text>
+		<Text Name="Place_DanXia">
+			<DisplayName>Đan Hà Sơn</DisplayName>
+			<Desc>Danh sơn thiên hạ, một trong mười động tiên của Đạo môn, nơi đặt sơn môn động tiên Đan Hà. Núi có thế núi hùng vĩ trang nghiêm, kỳ vĩ tráng lệ, nổi tiếng với cảnh sắc tuyệt đẹp của vách đá Đan Hà lúc hoàng hôn. Đan Hà Sơn nổi tiếng với nhân sâm cổ, tương truyền trong núi có một nơi kỳ diệu gọi là Ngũ Long Trì, nơi trồng rễ linh năm màu của động tiên Đan Hà. </Desc>
+		</Text>
+		<Text Name="Place_KunLun">
+			<DisplayName>Côn Luân Sơn</DisplayName>
+			<Desc>Thánh cảnh vô song từ ngàn xưa, tiên sơn số một thiên hạ, là nguồn gốc long mạch của Thần Châu, cũng là động tiên đứng đầu trong mười động tiên của Đạo môn: nơi đặt động tiên Ngọc Hư Côn Luân Cung. Côn Luân Sơn đặc sản khoáng thạch, còn có sản xuất Thiên Trụ Thạch. Trong núi có một hang động thông thẳng đến long mạch, nghe nói Côn Luân Cung trồng rễ linh Trở Hoàng Tinh trong hang động long mạch này.</Desc>
+		</Text>
+		<Text Name="Place_TianJi">
+			<DisplayName>Thiên Cực Phong</DisplayName>
+			<Desc>Núi Thiên Cực cao vạn nhẫn, một ngọn núi cô độc, đâm thẳng lên trời. Tông phái bí ẩn ẩn thế Cực Thiên Cung tọa lạc trên đỉnh Thiên Cực Phong. Cực Thiên Cung hành sự chính tà lẫn lộn, đệ tử dưới môn đều là mỹ nam mỹ nữ, khi hành tẩu giang hồ thường khiến tu sĩ tranh nhau theo đuổi. Thiên Cực Phong nổi tiếng với Thanh Tâm Thảo, trên đỉnh núi có một tuyệt địa gọi là Phi Vân Giản, nghe nói Cực Thiên Cung có rễ linh Lăng Nha Quả trồng trên vách đá tuyệt địa này.</Desc>
+		</Text>
+		<Text Name="Place_JiuHua">
+			<DisplayName>Cửu Hoa Sơn</DisplayName>
+			<Desc>Cửu Hoa Sơn với chín đỉnh núi chồng chéo ẩn hiện, thế núi u tịch, là nơi đặt động tiên Tử Tiêu Tông trong mười động tiên của Đạo môn. Tương truyền thời cổ đại có tiên nhân cưỡi rồng phượng lên trời từ Cửu Hoa Sơn. Trong núi có nhiều sản xuất đá chất lượng cao, thậm chí có người từng khai thác được Ngọc Thần Ngàn Cạnh trong núi, trở thành câu chuyện thú vị.</Desc>
+		</Text>
+		<Text Name="Place_LongHu">
+			<DisplayName>Long Hổ Sơn</DisplayName>
+			<Desc>Danh sơn Đạo giáo ở trung nguyên, từ xưa văn nhân tài tử không ngừng lui tới, còn có môn phái danh môn chính phái Huyền Nhất Đạo tọa lạc tại đây. Tương truyền trong nơi ẩn mật của Long Hổ Sơn có một rừng thần mộc, trong đó linh mộc thần tài không thiếu, Long Hổ Sơn trồng rễ linh Mộc Khô Đằng tại đây.</Desc>
+		</Text>
+		<Text Name="Place_Shu">
+			<DisplayName>Thục Sơn</DisplayName>
+			<Desc>Kỳ sơn số một thiên hạ, thế núi hiểm trở kỳ dị, khỉ vượn khó qua, một trong mười động tiên của Đạo môn: động tiên Thanh Liên tọa lạc ngoài mây sâu của Thục Sơn. Thục Sơn từ xưa khó khăn, thường sinh rồng rắn dị thú, nổi tiếng với khoáng sản tốt và suối nổi tiếng, thường dùng để rèn kiếm thành tuyệt phẩm. Tương truyền tiên nhân của Thanh Liên Kiếm Tông từng nhận được giống tiên của một trong năm thần dược là Chu Quả, trồng trên vách đá ngưng bích của linh mạch Thục Sơn.</Desc>
+		</Text>
+		<Text Name="Place_WuLian">
+			<DisplayName>Ngũ Liên Sơn</DisplayName>
+			<Desc>Tọa lạc ở biên giới phía tây, núi có năm đỉnh, từ xa nhìn như hoa sen đón gió, nên gọi là Ngũ Liên Sơn, một trong mười động tiên của Đạo môn: động tiên Tê Hà lập phái tại đây. Ngũ Liên Sơn nổi tiếng với suối thánh Thiên Trì, trong núi có nhiều linh tuyền chi thảo, Tê Hà Phái tận dụng địa lợi, thuật luyện đan của họ rất nổi tiếng trong giới tu hành.</Desc>
+		</Text>
+		<Text Name="Place_BaiMan">
+			<DisplayName>Bách Man Sơn</DisplayName>
+			<Desc>Đạo trường của ma giáo phương tây, là một ngọn núi đá cao lớn, trên núi ít sinh vật, phủ đầy một loại cây độc tên Huyết Kinh Cức, từ xa đã nghe mùi tanh nồng. Bách Man Sơn nhiều sinh độc trùng rắn bọ cạp, thích hợp nhất cho việc tu luyện Bách Độc Chân Kinh của ma giáo phương tây.</Desc>
+		</Text>
+		<Text Name="Place_XianKong">
+			<DisplayName>Hãm Không Sơn</DisplayName>
+			<Desc>Một kỳ sơn biên giới Thần Châu, trong núi có một hang động không đáy, thông đến vỏ trái đất, được coi là con đường tắt dẫn đến lòng đất mẹ, nên bị một tà giáo thờ địa mẫu tên Thất Thiên Ổ chiếm làm tổng đàn. Hãm Không Sơn thế núi thấp, vì khí từ trường vỏ trái đất rò rỉ từ hang động không đáy thu hút, thường có sao băng rơi xuống đây.</Desc>
+		</Text>
+		<Text Name="Place_Hei">
+			<DisplayName>Hắc Sơn</DisplayName>
+			<Desc>Nơi tọa lạc của Thất Sát Ma Cung của ma giáo phương bắc, được mệnh danh là ma quật số một thiên hạ, pháp quyết trấn phái Thất Sát Kiếm Quyết có lực sát phạt vô song. Hắc Sơn có ba đỉnh núi, ba núi tựa vào nhau thành thế Tam Tài, được Thất Sát Đại Pháp lợi dụng thế trận luyện thành một đại trận, quỷ thần khó phạm. Qua nhiều năm, chính tà hai phái đã xảy ra nhiều trận chiến lớn trong dãy Hắc Sơn, đến nay vẫn có thể thấy xương cốt sót lại trong Thất Sát Đại Trận.</Desc>
+		</Text>
+		<Text Name="Place_HeHuan">
+			<DisplayName>Hợp Hoan Đảo</DisplayName>
+			<Desc>Đại bản doanh của ma giáo phương đông, là một thánh địa tiên cảnh trên biển đông, linh khí dồi dào. Hợp Hoan Giáo khổ tâm quản lý trăm năm, xây dựng trận Lục Dục Đào Hoa quanh đảo trong vòng 50 dặm, thường có ngư dân phàm nhân lạc vào trận, bị ma pháp mê hoặc, trở thành lò luyện công. Đệ tử Hợp Hoan Đảo phần lớn trẻ mãi không già, có người suy đoán Hợp Hoan Đảo có một nguồn suối linh dịch địa mẫu.</Desc>
+		</Text>
+		<Text Name="Place_Desert">
+			<DisplayName>Đại Mạc</DisplayName>
+			<Desc>Sa mạc rộng lớn vô tận, dưới cát vàng không đếm xuể là những di tích bí ẩn, truyền thuyết rằng Vạn Yêu Điện thần bí nằm sâu trong sa mạc tây hoang.</Desc>
+		</Text>
+		<Text Name="Place_SouthForest">
+			<DisplayName>Nam Hoang</DisplayName>
+			<Desc>Miền nam hoang dã của Thần Châu, quanh năm độc khí lan tràn, rắn rết chuột kiến hoành hành. Truyền thuyết rằng Nam Hoang có một tuyệt địa gọi là Cốc Trùng, trong đó trùng độc khí độc lan tràn, rất nguy hiểm, nhưng môi trường nóng ẩm đặc biệt thích hợp cho thần dược Mộc Khô Đằng sinh trưởng. Lại có truyền thuyết rằng, ngàn năm trước lăng mộ của giáo tổ ma giáo phương nam Tà Đế nằm sâu trong Nam Hoang.</Desc>
+		</Text>
+		<Text Name="Place_Snowfield">
+			<DisplayName>Đại Tuyết Nguyên</DisplayName>
+			<Desc>Tuyết nguyên rộng lớn vô tận của Bắc Cảnh, trong băng tuyết là những dãy núi rừng thông hiếm thấy dấu chân người, nhiều nhân sâm cổ và ngọc đẹp, nhưng khai thác khó khăn. Nghe nói sâu trong tuyết nguyên có một linh tuyền Ngọc Tinh Đàm không bao giờ đóng băng, trong đó có rễ linh ngũ sắc kim liên sinh trưởng.</Desc>
+		</Text>
+		<Text Name="Place_FertileField">
+			<DisplayName>Giang Ngạn Ốc Dã</DisplayName>
+			<Desc>Đồng bằng màu mỡ ven sông lớn, dân cư đông đúc, sản lượng lương thực phong phú. Phía đông đồng bằng có một ngọn núi tên Lư Sơn, thế núi kỳ lạ, truyền thuyết trên vách đá có rễ linh Lăng Nha Quả sinh trưởng, không rõ thật giả.</Desc>
+		</Text>
+		<Text Name="Place_CentralPlains">
+			<DisplayName>Trung Nguyên</DisplayName>
+			<Desc>Cao nguyên miền trung, dân cư đông đúc, sản xuất nhiều loại cây trồng, danh sơn thánh địa nhiều vô kể, trong đó có một ngọn núi gọi là Luyện Đan Phong, là nơi Y Tiên ngày xưa trồng rễ linh Trở Hoàng Tinh.</Desc>
+		</Text>
+		<Text Name="Place_SouthMount">
+			<DisplayName>Lĩnh Nam</DisplayName>
+			<Desc>Lĩnh Nam nằm ở phía nam, ít người sinh sống, có nhiều tài nguyên chưa được khai thác. Nguyên Thái Nhất Môn từng tọa lạc tại đây, phần lớn dân chúng cũng thờ phụng họ.</Desc>
+		</Text>
+		<Text Name="Place_HeYinCity">
+			<DisplayName>Hà Âm Thành</DisplayName>
+			<Desc>Thành lớn xây dựng ven sông lớn, nhờ tài nguyên phong phú, cư dân không lo ăn mặc, từ đó phát triển văn hóa đậm đà. Cũng vì vậy, cư dân nơi đây thường tư duy linh hoạt, không gò bó.</Desc>
+		</Text>
+		<Text Name="Place_HuCity">
+			<DisplayName>Quan Hải Thành</DisplayName>
+			<Desc>Thành lớn xây dựng bên bờ biển đông, giao thông phát triển, thương mại phồn thịnh, dân cư rất đông đúc. Người Quan Hải Thành phần lớn làm thương mại, những trải nghiệm này khiến họ tinh thông quan sát, thần thức nhạy bén.</Desc>
+		</Text>
+		<Text Name="Place_PanSheCity">
+			<DisplayName>Bàn Xà Trại</DisplayName>
+			<Desc>Cửa ngõ của rừng Nam Hoang, cũng là thành lớn nhất Nam Hoang. Phong tục Bàn Xà Trại kính trọng đất trời, cư dân nơi đây thường có phúc duyên lớn.</Desc>
+		</Text>
+		<Text Name="Place_ShanCity">
+			<DisplayName>Phong Thành</DisplayName>
+			<Desc>Thành lớn miền trung nam, nằm trên đường trọng yếu, xây dựng dựa vào núi, phát triển nhờ giao thương. Người Phong Thành thẳng thắn, dễ dàng chiếm được thiện cảm của người khác, có sức hút độc đáo.</Desc>
+		</Text>
+		<Text Name="Place_DaLiangCity">
+			<DisplayName>Đại Lương Thành</DisplayName>
+			<Desc>Thành lớn biên giới phía tây, xây dựng trên giao điểm của trung nguyên và sa mạc trên vùng đất Gobi. Nơi này nổi tiếng với khoáng sản, đá xây dựng, từ xưa dân phong mạnh mẽ, cư dân thường khỏe mạnh.</Desc>
+		</Text>
+	</List>
+</Texts>
+

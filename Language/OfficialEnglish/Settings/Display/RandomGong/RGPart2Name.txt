@@ -1,0 +1,9 @@
+Thông Dụng Danh Từ Thông Dụng,Phòng Thỏ,Tinh Mã,Mão Kê,Hư Thử,Tâm Hồ,Trương Lộc,Tất Ô,Nguy Yến,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kim Danh Từ,Bạch Hổ,Lôi Diên,Kháng Long,Quỷ Dương,Lâu Cẩu,Kim Ngưu,,,,,,,,,,,
+Mộc Danh Từ,Thanh Long,Dực Kiêu,Khuê Lang,Giác Giao,Tỉnh Ngạn,Đấu Giải,,,,,,,,,,,
+Thủy Danh Từ,Huyền Vũ,Tu Xà,Cơ Báo,Chẩn Dẫn,Tham Viên,Bích Dư,,,,,,,,,,,
+Hỏa Danh Từ,Chu Tước,Sí Hoàng,Vĩ Hổ,Dực Xà,Tuy Hầu,Thất Trư,,,,,,,,,,,
+Thổ Danh Từ,Kỳ Lân,Địa Long,Để Hạc,Liễu Chương,Vị Trĩ,Nữ Bức,,,,,,,,,,,
+Hỗn Độn Danh Từ Thông Dụng,Đế Giang
+
+

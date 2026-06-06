@@ -1,0 +1,217 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Esoterica_ZhenFa_1">
+			<DisplayName>Thái Nhất Trận Pháp Kỷ Yếu</DisplayName>
+			<Desc>Bí sách nhập môn trận pháp của Thái Nhất Môn, ghi chép nguyên mẫu của các trận pháp phổ biến, giúp người mới học thực hành bố trí và biến hóa trận pháp.\nNguyên mẫu trận pháp là nền tảng của mọi trận pháp, có thể kết hợp với bất kỳ trận pháp cao cấp nào khác. Dù sử dụng nguyên trận nhãn làm kết nối sẽ không nhận được hiệu ứng tăng cường bổ sung, nhưng ít nhất có thể đảm bảo trận pháp hoàn chỉnh và vận hành được.</Desc>
+			<EffectDesc>Tăng nhẹ khả năng chịu tải của trận pháp, mở khóa Trận Xu: Nguyên Trận Xu - Gian (Khoảng Cách), Nguyên Trận Xu - Tác (Dây Thừng), Nguyên Trận Xu - Khuyết (Thiếu Hụt), Nguyên Trận Xu - Toàn (Toàn Bộ), mở khóa Trận Nhãn: Nguyên Trận Nhãn - Kết (Nút Thắt), Nguyên Trận Nhãn - Đối (Đối Lập), Nguyên Trận Nhãn - Cách (Ngăn Cách), Nguyên Trận Nhãn - Tinh (Gộp), Nguyên Trận Nhãn - Đoạn (Đứt Gãy), Nguyên Trận Nhãn - Thác (Sai Lệch), Nguyên Trận Nhãn - Lạc (Rơi Xuống), Nguyên Trận Nhãn - Lâm (Đến Gần)</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_2">
+			<DisplayName>Đồ Lục Trận Pháp Tứ Ngự Thái Nhất</DisplayName>
+			<Desc>Bí sách trận pháp do môn phái Thái Nhất truyền lại, các trận nhãn và trận trục đều lấy từ những điển tịch kinh điển của giới tu hành. Tư tưởng kết trận chú trọng cân bằng, thích ứng cực mạnh.</Desc>
+			<EffectDesc>Tăng nhẹ khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nẨn Phong Huyền Cương\nChú Ẩn Pháp\nÝ Kiếm Hợp\nuẩn trung pháp ấn\nngưng hóa chân cương\ntịch chuyển huyền nhận\nCân Bằng Chư Vực\nMở khóa trận nhãn:\nKiếm\nPháp\nCương\nNhẫn\nCương\nỨng Hợp\nKiếm Cương\nKiếm Nhẫn\nPháp Cương\nPháp Nhẫn\nẨn Phong\nChú Ẩn</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_3">
+			<DisplayName>Đồ Lục Trận Hình Linh Vạn Thú</DisplayName>
+			<Desc>Bí sách trận pháp lưu truyền từ cổ đại đến nay, lấy ý niệm từ linh hình của vạn thú mà thành trận, cực kỳ huyền diệu.</Desc>
+			<EffectDesc>Tăng nhẹ khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nHạt Vĩ Phúc Giáp\nXà Tức Phi Lân\nquy vĩ phụ kiếm\nquy hình ánh chú\nquy giáp kết nham\nphượng ngâm hạc lệ\nlôi vân xuyên long\nhuyền hải đằng giao\nMở khóa trận nhãn:\nKiếm\nPháp\nCương\nNhẫn\nHạt Vĩ\nXà Tức\nNgạc Vẫn\nLong Ca\nQuy Hình\nHạc Kiếm\nThận pháp</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_4">
+			<DisplayName>Trung Nguyên Sơn Thuần Cực Trận Đồ</DisplayName>
+			<Desc>Bí sách trận pháp của môn phái trận pháp nổi tiếng Trung Nguyên thời Trung Cổ. Tư tưởng tu hành của Trung Nguyên chú trọng đạo cực thuần, trận pháp của môn phái này cũng theo tư tưởng đó, xuyên suốt từ đầu đến cuối.</Desc>
+			<EffectDesc>Tăng nhẹ khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nÝ Kiếm Hợp\nuẩn trung pháp ấn\nngưng hóa chân cương\ntịch chuyển huyền nhận\nchư kiếm chi xu\nvạn pháp chi xu\nChân Cương Chi Xu\nhuyền nhận chi xu\nMở khóa trận nhãn:\nKiếm\nPháp\nCương\nNhẫn\nlệ kiếm\nngưng pháp\ntrọng cương\nhợp nhận\nÝ Kiếm\nẤn Pháp\nChân Cương\nHuyền Nhẫn</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_5">
+			<DisplayName>pháp thiên hiệu địa quy nguyên trận pháp bí lục</DisplayName>
+			<Desc>Bí sách trận pháp lĩnh ngộ từ tự nhiên, xuất hiện từ thời thượng cổ, nguồn gốc không rõ, ít được truyền thừa trong giới tu hành, cực kỳ huyền diệu.</Desc>
+			<EffectDesc>Tăng nhẹ khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nnhận vũ tùng châm\nchú văn tùng phong\ncổ mộc ẩn thứ\nkhô chi tàng linh\nlão tùng cầm nham\nba đào định phong\nphong vân hằng pháp\nthần phong triệt địa\nthánh chú phi sa\nMở khóa trận nhãn:\nKiếm\nPháp\nCương\nNhẫn\ntùng châm\nCổ Văn\nđằng giáp</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_6">
+			<DisplayName>Trận Thần Tiên Thiên Hà Lạc: Tổng Cương</DisplayName>
+			<Desc>Bí pháp trận pháp lấy ý niệm từ huyền cơ của bát quái mà bố trận, lĩnh ngộ đạo tiên thiên Hà Lạc, đã thất truyền trong thời đại hiện tại.</Desc>
+			<EffectDesc>Tăng khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nThiên Địa Hòa Hợp\nPhong Lôi Ứng Trung\nÂm Cực Sinh Dương\nDương Cực Hóa Âm\nHuyền Âm Chi Đạo\nChí Dương Chi Đạo\nmở khóa Trận Nhãn: Thiên\nĐịa\nThủy\nHỏa\nLôi\nPhong\nSơn\nTrạch.</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_7">
+			<DisplayName>Trận Thần Tiên Thiên Hà Lạc: Thiên Càn</DisplayName>
+			<Desc>Bí pháp trận pháp lấy ý niệm từ huyền cơ của bát quái mà bố trận, lĩnh ngộ đạo tiên thiên Hà Lạc, đã thất truyền trong thời đại hiện tại.</Desc>
+			<EffectDesc>Tăng khả năng chịu tải của trận pháp\nMở khóa trận nhãn:\nCàn\nThái\nĐại Tráng\nĐại Súc\nĐại Hữu\nNhu\nQuải\nTiểu Súc</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_8">
+			<DisplayName>Trận Thần Tiên Thiên Hà Lạc: Địa Khôn</DisplayName>
+			<Desc>Bí pháp trận pháp lấy ý niệm từ huyền cơ của bát quái mà bố trận, lĩnh ngộ đạo tiên thiên Hà Lạc, đã thất truyền trong thời đại hiện tại.</Desc>
+			<EffectDesc>Tăng khả năng chịu tải của trận pháp\nMở khóa trận nhãn:\nPhủ\nKhôn\nDu\nBác\nTiến\nTỉ\nThụy\nQuan</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_9">
+			<DisplayName>Trận Thần Tiên Thiên Hà Lạc: Sấm Chấn</DisplayName>
+			<Desc>Bí pháp trận pháp lấy ý niệm từ huyền cơ của bát quái mà bố trận, lĩnh ngộ đạo tiên thiên Hà Lạc, đã thất truyền trong thời đại hiện tại.</Desc>
+			<EffectDesc>Tăng cường khả năng chịu tải của trận pháp\nmở khóa Trận Nhãn: Vô Vọng\nPhục\nChấn\nDi\nPhệ Hạp\nTruân\nTùy\nÍch</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_10">
+			<DisplayName>Trận Thần Tiên Thiên Hà Lạc: Phong Tốn</DisplayName>
+			<Desc>Bí pháp trận pháp lấy ý niệm từ huyền cơ của bát quái mà bố trận, lĩnh ngộ đạo tiên thiên Hà Lạc, đã thất truyền trong thời đại hiện tại.</Desc>
+			<EffectDesc>Tăng cường khả năng chịu tải của trận pháp\nmở khóa Trận Nhãn: Cấu\nThăng\nHằng\nCổ\nĐỉnh\nTỉnh\nĐại Quá\nTốn.</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_11">
+			<DisplayName>Trận Thần Tiên Thiên Hà Lạc: Thuỷ Khảm</DisplayName>
+			<Desc>Bí pháp trận pháp lấy ý niệm từ huyền cơ của bát quái mà bố trận, lĩnh ngộ đạo tiên thiên Hà Lạc, đã thất truyền trong thời đại hiện tại.</Desc>
+			<EffectDesc>Tăng cường khả năng chịu tải của trận pháp\nmở khóa Trận Nhãn: Tụng\nSư\nGiải\nMông\nVị Tế\nKhảm\nKhốn\nHoán.</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_12">
+			<DisplayName>Trận Thần Tiên Thiên Hà Lạc: Hoả Ly</DisplayName>
+			<Desc>Bí pháp trận pháp lấy ý niệm từ huyền cơ của bát quái mà bố trận, lĩnh ngộ đạo tiên thiên Hà Lạc, đã thất truyền trong thời đại hiện tại.</Desc>
+			<EffectDesc>Tăng cường khả năng chịu tải của trận pháp\nmở khóa Trận Nhãn: Đồng Nhân\nMinh Di\nPhong\nBí\nLy\nKý Tế\nCách\nGia Nhân</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_13">
+			<DisplayName>Trận Thần Tiên Thiên Hà Lạc: Sơn Cấn</DisplayName>
+			<Desc>Bí pháp trận pháp lấy ý niệm từ huyền cơ của bát quái mà bố trận, lĩnh ngộ đạo tiên thiên Hà Lạc, đã thất truyền trong thời đại hiện tại.</Desc>
+			<EffectDesc>Tăng cường khả năng chịu tải của trận pháp\nmở khóa Trận Nhãn: Độn\nKhiêm\nTiểu Quá\nCấn\nLữ\nKiển\nHàm\nTiệm.</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_14">
+			<DisplayName>Trận Thần Tiên Thiên Hà Lạc: Đầm Đoài</DisplayName>
+			<Desc>Bí pháp trận pháp lấy ý niệm từ huyền cơ của bát quái mà bố trận, lĩnh ngộ đạo tiên thiên Hà Lạc, đã thất truyền trong thời đại hiện tại.</Desc>
+			<EffectDesc>Tăng cường khả năng chịu tải của trận pháp\nmở khóa Trận Nhãn: Lý\nLâm\nQuy Muội\nTổn\nKhuê\nTiết\nĐoái\nTrung Phu</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_15">
+			<DisplayName>Trận Thần Tiên Thiên Hà Lạc: Giải Thích Ma Đế</DisplayName>
+			<Desc>Ma Đế Phó Bích Không với thiên tư tuyệt đại đã tái biên tiên trận thiên Hà Lạc, sáng tạo các trận nhãn biến trận, mở rộng lớn ứng dụng của đạo trận pháp. Đây là tác phẩm tuyệt đại kế thừa và sáng tạo.</Desc>
+			<EffectDesc>Tăng lớn khả năng chịu tải của trận pháp\nTăng quy mô trận pháp\nMở khóa trận nhãn:\nHai Mươi Bốn Trận Tiên Thiên Biến Trận Thần Nhãn</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_16">
+			<DisplayName>Hóa Trận Đạo Thiên: Nhật nguyệt chi đạo</DisplayName>
+			<Desc>Bí pháp trận pháp lĩnh ngộ từ đạo trời đất.</Desc>
+			<EffectDesc>Tăng lớn khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\n Chu kỳ Nhật Nguyệt\nMở khóa trận nhãn:\nNhật Trung Thiên (Mặt trời giữa trời)\nNhật Trung Lôi (Mặt trời giữa sấm sét)\nNhật Trung Thủy (Mặt trời giữa nước)\nNhật Trung Sơn (Mặt trời giữa núi)\nNguyệt Trung Địa (Mặt trăng giữa đất)\nNguyệt Trung Phong (Mặt trăng giữa gió)\nNguyệt Trung Hỏa (Mặt trăng giữa lửa)\nNguyệt Trung Trạch (Mặt trăng giữa đầm lầy)</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_17">
+			<DisplayName>Hóa Trận Đạo Thiên: Đạo Âm Dương</DisplayName>
+			<Desc>Bí pháp trận pháp lĩnh ngộ từ đạo trời đất.</Desc>
+			<EffectDesc>Tăng lớn khả năng chịu tải của trận pháp\nMở khóa trận trục:\nÂm Dương Tiêu Trưởng (Suy Giảm và Tăng Trưởng của Âm Dương)\nMở khóa trận nhãn:\nDương Sinh Thiên (Dương sinh ra trời)\nDương Sinh Lôi (Dương sinh ra sấm sét)\nDương Sinh Thủy (Dương sinh ra nước)\nDương Sinh Sơn (Dương sinh ra núi)\nÂm Sinh Địa (Âm sinh ra đất)\nÂm Sinh Phong (Âm sinh ra gió)\nÂm Sinh Hỏa (Âm sinh ra lửa)\nÂm Sinh Trạch (Âm sinh ra đầm lầy)</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_18">
+			<DisplayName>Hóa Trận Đạo Thiên: Đạo Vũ Trụ</DisplayName>
+			<Desc>Bí pháp trận pháp lĩnh ngộ từ đạo trời đất.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nVũ Trụ Khai Tịch (Khai Mở Vũ Trụ)\nMở khóa Trận Nhãn:\nVũ Hóa Thiên (Vũ biến thành trời)\nVũ Hóa Lôi (Vũ biến thành sấm sét)i\nVũ Hóa Thủy (Vũ biến thành nước)\nVũ Hóa Sơn (Vũ biến thành núi)\nTrụ Hóa Địa (Trụ biến thành đất)\nTrụ Hóa Phong (Trụ biến thành gió)\nTrụ Hóa Hỏa (Trụ biến thành lửa)\nTrụ Hóa Trạch (Trụ biến thành đầm lầy)</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_19">
+			<DisplayName>Thiên Đạo Hóa Trận: Đạo Khởi Thủy</DisplayName>
+			<Desc>Bí pháp trận pháp lĩnh ngộ từ đạo trời đất.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nMở khóa Trận Thủ:\nKhởi Thủy Luân Chuyển(Vận Hành Không Ngừng)\nMở khóa Trận Nhãn:\nKhởi Tại Thiên(Khởi Đầu Ở Trời)\nKhởi Tại Lôi(Khởi Đầu Ở Sấm Sét)\nKhởi Tại Thủy(Khởi Đầu Ở Nước)\nKhởi Tại Sơn(Khởi Đầu Ở Núi)\nKết Tại Địa(Kết Thúc Ở Đất)\nKết Tại Phong(Kết Thúc Ở Gió)\nKết Tại Hỏa(Kết Thúc Ở Lửa)\nKết Tại Trạch(Kết Thúc Ở Đầm Lầy)</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_20">
+			<DisplayName>Thiên Đạo Hóa Trận: Đạo Sinh Diệt</DisplayName>
+			<Desc>Bí pháp trận pháp lĩnh ngộ từ đạo trời đất.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nSinh Diệt Vạn Vật\nMở khóa Trận Nhãn:\nSinh Đồng Thiên\nSinh Đồng Lôi\nSinh Đồng Thủy\nSinh Đồng Sơn\nDiệt Đồng Địa\nDiệt Đồng Phong\nDiệt Đồng Hỏa\nDiệt Đồng Trạch</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_21">
+			<DisplayName>Thiên Đạo Hóa Trận: Đạo Tạo Hóa</DisplayName>
+			<Desc>Bí pháp trận pháp lĩnh ngộ từ đạo trời đất.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nTạo Hóa Huyền Cơ\nMở khóa Trận Nhãn:\nTạo Vi Thiên\nTạo Vi Lôi\nTạo Vi Thủy\nTạo Vi Sơn\nHóa Vi Địa\nHóa Vi Phong\nHóa Vi Hỏa\nHóa Vi Trạch</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_22">
+			<DisplayName>Hồng Mông Chi Trận: Thiên Địa Khai Tịch</DisplayName>
+			<Desc>Bí pháp trận pháp lĩnh ngộ từ đạo trời đất.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nHồng Mông\nMở khóa Trận Nhãn:\nThiên Địa Khai Tịch</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_23">
+			<DisplayName>Hồng Mông Chi Trận: Thời Không Diễn Sinh</DisplayName>
+			<Desc>Bí pháp trận pháp lĩnh ngộ từ đạo trời đất.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nHồng Mông\nMở khóa Trận Nhãn:\nThời Không Diễn Sinh</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_24">
+			<DisplayName>Hồng Mông Chi Trận: Vạn Linh Sinh Phát</DisplayName>
+			<Desc>Bí pháp trận pháp lĩnh ngộ từ đạo trời đất.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nHồng Mông\nMở khóa Trận Nhãn:\nVạn Linh Sinh Phát</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_25">
+			<DisplayName>Hồng Mông Chi Trận: Thiên Địa Quy Tịch</DisplayName>
+			<Desc>Bí pháp trận pháp lĩnh ngộ từ đạo trời đất.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nHồng Mông\nMở khóa Trận Nhãn:\nThiên Địa Quy Tịch</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_26">
+			<DisplayName>Hồng Mông Chi Trận: Thời Không Tận Suy</DisplayName>
+			<Desc>Bí pháp trận pháp lĩnh ngộ từ đạo trời đất.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nHồng Mông\nMở khóa Trận Nhãn:\nThời Không Tận Suy</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_27">
+			<DisplayName>Hồng Mông Chi Trận: Vạn Vật Lụi Diệt</DisplayName>
+			<Desc>Bí pháp trận pháp lĩnh ngộ từ đạo trời đất.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nHồng Mông\nMở khóa Trận Nhãn:\nVạn Vật Lụi Diệt</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_Suit1">
+			<DisplayName>Trận pháp Tru Tiên</DisplayName>
+			<Desc>Ghi chép bí phổ trận đồ của Tru Tiên Kiếm Trận, truyền thuyết rằng đây là trận sát đầu tiên của thời thượng cổ, không gì không diệt, không gì không phá.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nTăng quy mô trận pháp\nMở khóa Thượng Cổ Trận Đồ:\nTru Tiên Kiếm Trận</EffectDesc>
+			<ZhenShapes.0.Name>Trận pháp Tru Tiên</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Trận sát đầu tiên từ khi Vũ Trụ Khai Tịch, trận đồ triển khai hóa thành bốn cổng cờ, trên mỗi cổng treo một thanh kiếm, bao quanh trung tâm. Dưới sự thúc đẩy của nguyên linh, bốn kiếm cùng lúc rung động, trận trung kiếm khí tung hoành, ngay cả vạn kiếp chân tiên cũng khó tồn tại.</ZhenShapes.0.Descript>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_Suit2">
+			<DisplayName>Bắc Đẩu Chân Võ Sát Ma Đại Trận</DisplayName>
+			<Desc>Ghi chép bí phổ trận đồ của Bắc Đẩu Chân Võ Sát Ma Trận, truyền thuyết rằng trận này có thể dẫn Bắc Đẩu Phá Vọng Thần Quang, sở hữu lực lượng tiêu diệt ma quỷ thấu suốt mọi thứ.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nTăng quy mô trận pháp\nMở khóa Thượng Cổ Trận Đồ:\nBắc Đẩu Chân Võ Sát Ma Đại Trận</EffectDesc>
+			<ZhenShapes.0.Name>Bắc Đẩu Chân Võ Sát Ma Đại Trận</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Truyền thuyết rằng đây là tiên trận truyền từ Chân Võ Đãng Ma Đại Đế của Cửu Trùng Thiên Tiên Cảnh, trận này có thể dẫn lực lượng của Thất Tinh Tinh Tú ngưng tụ Bắc Đẩu Phá Vọng Thần Quang, sát ma diệt yêu, vạn tà tránh xa.</ZhenShapes.0.Descript>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_Suit3">
+			<DisplayName>Thiên Địa Ngũ Phương Bất Diệt Trận</DisplayName>
+			<Desc>Ghi chép bí phổ trận đồ của Thiên Địa Ngũ Phương Bất Diệt Trận, truyền thuyết rằng trận này có thể bố trí kết giới bất diệt bằng cờ Thiên Địa Ngũ Phương, bảo vệ chu thiên vạn giới.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nTăng quy mô trận pháp\nMở khóa Thượng Cổ Trận Đồ:\nThiên Địa Ngũ Phương Bất Diệt Trận</EffectDesc>
+			<ZhenShapes.0.Name>Thiên Địa Ngũ Phương Bất Diệt Trận</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Đại trận được bố trí dựa trên năm cờ sinh ra từ khai thiên lập địa, phía bắc là Chân Võ Tạc Điêu, phía nam là Ly Địa Diễm Quang, chính giữa là Mậu Kỷ Hạnh Hoàng, phía tây là Tố Sắc Vân Giới, phía đông là Thanh Liên Bảo Sắc. Ngũ hành hội tụ có thể bố trí Thiên Địa Ngũ Phương Bất Diệt Giới, vạn pháp tránh xa, không gì có thể xâm nhập.</ZhenShapes.0.Descript>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_Suit4">
+			<DisplayName>Chư Thiên Lục Ngự Hành Pháp Nghi Quỹ</DisplayName>
+			<Desc>Ghi chép bí phổ trận đồ tổng thể của Chư Thiên Lục Ngự Nghi Quỹ, truyền thuyết rằng trận này là trận linh khí của Lục Ngự Đình Cung Thiên Đình, bố trí có thể biến nhân gian như tiên cảnh, khiến tâm thần con người trở nên thanh minh không lo âu.</Desc>
+			<EffectDesc>Tăng cường khả năng chịu tải của trận pháp\nMở khóa Thượng Cổ Trận Đồ:\nChư Thiên Lục Ngự Hành Pháp Nghi Quỹ</EffectDesc>
+			<ZhenShapes.0.Name>Chư Thiên Lục Ngự Hành Pháp Nghi Quỹ</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Nghi quỹ hành pháp của Lục Ngự Thiên Đình, bố trí trận này có thể triển khai Chư Thiên Lục Ngự Thanh Linh Thắng Cảnh, biến phàm gian thành tiên cảnh, khiến tâm thần con người trở nên thanh minh không lo âu.</ZhenShapes.0.Descript>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_Suit5">
+			<DisplayName>Cửu Ngự Phú Long Hình Trận</DisplayName>
+			<Desc>Bí phổ trận đồ ghi chép về Cửu Ngự Phú Long Hình Trận, tương truyền đây là trận pháp Ngự Long, khi bày trận có thể mượn sức mạnh của long hồn để thi triển những thần thông trận pháp vô cùng mạnh mẽ.</Desc>
+			<EffectDesc>Tăng cường khả năng chịu tải của trận pháp\nMở khóa Trận Đồ Thượng Cổ:\nCửu Ngự Phú Long Hình Trận</EffectDesc>
+			<ZhenShapes.0.Name>Cửu Ngự Phú Long Hình Trận</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Một trận pháp kỳ lạ được bố trí dựa trên thân thể của giao long, tương truyền đây là trận pháp Ngự Long, khi bày trận có thể mượn sức mạnh của long hồn để thi triển những thần thông trận pháp vô cùng mạnh mẽ.</ZhenShapes.0.Descript>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_Suit6">
+			<DisplayName>Chân Phượng Vũ Kiếm Trận</DisplayName>
+			<Desc>Bí phổ trận đồ ghi chép về Chân Phượng Vũ Kiếm Trận, tương truyền đây là trận pháp Ngự Phượng, khi bày trận có thể mượn sức mạnh của phượng hồn để thi triển những thần thông trận pháp vô cùng mạnh mẽ.</Desc>
+			<EffectDesc>Tăng cường khả năng chịu tải của trận pháp\nMở khóa Trận Đồ Thượng Cổ:\nChân Phượng Vũ Kiếm Trận</EffectDesc>
+			<ZhenShapes.0.Name>Chân Phượng Vũ Kiếm Trận</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Một trận pháp kỳ lạ được bố trí dựa trên thân thể của hung phượng, tương truyền đây là trận pháp Ngự Phượng, khi bày trận có thể mượn sức mạnh của phượng hồn để thi triển những thần thông trận pháp vô cùng mạnh mẽ.</ZhenShapes.0.Descript>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_Suit7">
+			<DisplayName>Âm Dương Nhị Hành Thần Trận</DisplayName>
+			<Desc>Bí phổ trận đồ ghi chép về Âm Dương Nhị Hành Thần Trận, tương truyền trận pháp này vận dụng đạo lý âm dương để bố trí, âm dương chuyển hóa, vô cùng linh hoạt.</Desc>
+			<EffectDesc>Tăng cường khả năng chịu tải của trận pháp\nMở khóa Trận Đồ Thượng Cổ:\nÂm Dương Nhị Hành Thần Trận</EffectDesc>
+			<ZhenShapes.0.Name>Âm Dương Nhị Hành Thần Trận</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Một trận pháp được tổng kết từ sự luân chuyển của âm dương trong trời đất, tương truyền trận pháp này vận dụng đạo lý âm dương để bố trí, âm dương chuyển hóa, vô cùng linh hoạt.</ZhenShapes.0.Descript>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_Suit8">
+			<DisplayName>Tam Âm Tam Tuyệt Trận</DisplayName>
+			<Desc>Bí phổ trận đồ ghi chép về Tam Âm Tam Tuyệt Trận, tương truyền trận pháp này tụ hợp thuần âm chi lực mà thành, nhờ đó mà uy lực đại tăng.</Desc>
+			<EffectDesc>Tăng cường khả năng chịu tải của trận pháp\nMở khóa Trận Đồ Thượng Cổ:\nTam Âm Tam Tuyệt Trận</EffectDesc>
+			<ZhenShapes.0.Name>Tam Âm Tam Tuyệt Trận</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Một trận pháp được bố trí dựa trên ý nghĩa thuần âm của thiên, địa, nhân tam tài, tương truyền trận pháp này có thể tụ hợp thuần âm chi lực trong thiên hạ, nhờ đó mà uy lực đại tăng.</ZhenShapes.0.Descript>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_Suit9">
+			<DisplayName>Bát Môn Huyền Kim Thiên Kiếp Kiếm Trận</DisplayName>
+			<Desc>Bí phổ trận đồ ghi chép về Bát Môn Thiên Kiếp Kiếm Trận, tương truyền trận pháp này dựa trên lý lẽ của bát môn mà thành, có thể tiến công giết địch, có thể lui về phòng thủ, vô cùng huyền diệu.</Desc>
+			<EffectDesc>Tăng cường khả năng chịu tải của trận pháp\nMở khóa Trận Đồ Thượng Cổ:\nBát Môn Huyền Kim Thiên Kiếp Kiếm Trận</EffectDesc>
+			<ZhenShapes.0.Name>Bát Môn Huyền Kim Thiên Kiếp Kiếm Trận</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Tương truyền trận pháp này dựa trên lý lẽ của bát môn mà thành, có thể tiến công giết địch, có thể lui về phòng thủ, vô cùng huyền diệu.</ZhenShapes.0.Descript>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_Suit10">
+			<DisplayName>Tiên Thiên Giáp Ất Mộc Thần Trận</DisplayName>
+			<Desc>Bí phổ trận đồ ghi chép về Tiên Thiên Giáp Ất Mộc Thần Trận, tương truyền trận pháp này có thể đánh thức sinh khí trong trời đất, phục hồi vạn vật.</Desc>
+			<EffectDesc>Nâng cao khả năng chịu tải của trận pháp\nMở khóa Trận đồ Thượng cổ:\nTiên Thiên Giáp Ất Mộc Thần Trận</EffectDesc>
+			<ZhenShapes.0.Name>Tiên Thiên Giáp Ất Mộc Thần Trận</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Tụ tập nguyên tinh Tiên Thiên Giáp Ất Mộc thành trận, truyền thuyết rằng trận này có thể đánh thức khí sinh phát trong trời đất, hồi sinh vạn vật.</ZhenShapes.0.Descript>
+		</Text>
+		<Text Name="Esoterica_ZhenFa_Suit11">
+			<DisplayName>Ngũ Phong Trấn Quy Hư</DisplayName>
+			<Desc>Bí phổ trận đồ ghi chép về Ngũ Phong Trấn Quy Hư, truyền thuyết rằng trận này có thể dùng hình dạng ngũ phong để trấn giữ một phương, kiên cố không thể phá.</Desc>
+			<EffectDesc>Nâng cao khả năng chịu tải của trận pháp\nMở khóa Trận đồ Thượng cổ:\nNgũ Phong Trấn Quy Hư</EffectDesc>
+			<ZhenShapes.0.Name>Ngũ Phong Trấn Quy Hư</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Dùng thần tủy của Quy Hư Ngũ Thần Phong để tạo trận, truyền thuyết rằng trận này có thể dùng hình dạng ngũ phong để trấn giữ một phương, kiên cố không thể phá.</ZhenShapes.0.Descript>
+		</Text>
+	</List>
+</Texts>
+

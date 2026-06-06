@@ -1,0 +1,14 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="TFabaoSkill">
+			<DisplayName>Tăng cường pháp bảo</DisplayName>
+		</Text>
+		<Text Name="FabaoSkill_Gong3_1">
+			<DisplayName>Thần Kiếm Cộng Minh</DisplayName>
+		</Text>
+		<Text Name="FabaoSkill_Gong8_1">
+			<DisplayName>Kiếm sát cực bắc</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

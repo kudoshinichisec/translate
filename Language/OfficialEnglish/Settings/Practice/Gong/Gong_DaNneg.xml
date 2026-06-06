@@ -1,0 +1,33 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_DaNeng">
+			<DisplayName>Công Pháp Chưa Biết</DisplayName>
+			<Desc>Pháp môn độc nhất truyền từ thượng cổ, không được người ngoài biết đến.</Desc>
+			<Stages.0.DisplayName>Chưa Biết</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Chưa Biết</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Chưa Biết</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Chưa Biết</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Chưa Biết</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Chưa Biết</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Chưa Biết</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Chưa Biết</Stages.3.Necks.0.DisplayName>
+			<Stages.4.DisplayName>Chưa Biết</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Chưa Biết</Stages.4.Necks.0.DisplayName>
+			<Stages.5.DisplayName>Chưa Biết</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Chưa Biết</Stages.5.Necks.0.DisplayName>
+			<Stages.6.DisplayName>Chưa Biết</Stages.6.DisplayName>
+			<Stages.6.Necks.0.DisplayName>Chưa Biết</Stages.6.Necks.0.DisplayName>
+			<Stages.7.DisplayName>Chưa Biết</Stages.7.DisplayName>
+			<Stages.7.Necks.0.DisplayName>Chưa Biết</Stages.7.Necks.0.DisplayName>
+			<Stages.8.DisplayName>Chưa Biết</Stages.8.DisplayName>
+			<Stages.8.Necks.0.DisplayName>Chưa Biết</Stages.8.Necks.0.DisplayName>
+			<Stages.9.DisplayName>Chưa Biết</Stages.9.DisplayName>
+			<Stages.9.Necks.0.DisplayName>Chưa Biết</Stages.9.Necks.0.DisplayName>
+			<Stages.10.DisplayName>Chưa Biết</Stages.10.DisplayName>
+			<Stages.10.Necks.0.DisplayName>Chưa Biết</Stages.10.Necks.0.DisplayName>
+			<Stages.11.DisplayName>Chưa Biết</Stages.11.DisplayName>
+			<Stages.11.Necks.0.DisplayName>Chưa Biết</Stages.11.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>
+

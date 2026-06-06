@@ -1,0 +1,27 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Ls_XuanWuShield">
+			<DisplayName>Huyền giáp hộ thể</DisplayName>
+			<Desc>Tăng mạnh linh khí hộ thuẫn và độ bền bí thể của một đồng minh.</Desc>
+		</Text>
+		<Text Name="Ls_XuanWuBreak">
+			<DisplayName>Chân Vũ phá thể</DisplayName>
+			<Desc>Giảm mạnh linh khí hộ thuẫn và độ bền bí thể của một kẻ địch.</Desc>
+		</Text>
+		<Text Name="Ls_XuanWuWater">
+			<DisplayName>Thuật sóng trào</DisplayName>
+		</Text>
+		<Text Name="LsXuanWuFire">
+			<DisplayName>Thiên phẫn</DisplayName>
+		</Text>
+		<Text Name="Ls_XuanWuForm">
+			<DisplayName>Hình dạng quy giáp</DisplayName>
+			<Desc>Tăng độ ổn định của trận pháp đồng minh và nhận một linh cơ trận pháp. Phải sử dụng trong trận pháp chiến đấu.</Desc>
+		</Text>
+		<Text Name="Ls_XuanWuDefac">
+			<DisplayName>Hình dạng du ly</DisplayName>
+			<Desc>Làm lộ trận nhãn của trận pháp địch.</Desc>
+		</Text>
+	</List>
+</Texts>
+

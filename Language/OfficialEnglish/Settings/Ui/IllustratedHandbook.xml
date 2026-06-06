@@ -1,0 +1,179 @@
+<Helps>
+  <List>
+	<Help Name="Long" Type="Icon" Def="Boss_Long">
+		<Title>Giao Long</Title>
+		<Icon>ui/Other/bosstujian3</Icon>
+	</Help>
+	<Help Name="Long_P1" Root="Long" Type="Content">
+		<Title>Hình thái phục hồi</Title>
+		<Text><![CDATA[
+		  [color=#9e6404]Thủy Mạch Bạo Phát:[/color]
+Ngọc Long kích thích thủy mạch ngầm bùng nổ, gây sát thương cho mục tiêu và biến một khu vực thành nước nông.
+  [color=#9e6404]Yêu Lôi Thủy Quái:[/color]
+Ngọc Long ngưng tụ sức mạnh của Thủy Quái thành Yêu Lôi, gây sát thương cho mục tiêu.
+  [color=#9e6404]Gọi Đàn Thú:[/color]
+Sử dụng uy lực của rồng để áp chế những con thú xung quanh tấn công.
+  [color=#9e6404]Ngưng Tinh Thủy:[/color]
+Khi linh khí của Ngọc Long nhỏ hơn 75%, sẽ hấp thụ hơi nước trên toàn bản đồ, gia tăng sức mạnh Thủy Linh cho bản thân và chuyển sang hình thái Thần Long.
+				
+		]]></Text>
+	</Help>
+	<Help Name="Long_P2" Root="Long" Type="Content">
+		<Title>Hình thái chân long</Title>
+		<Text><![CDATA[
+		  [color=#9e6404]Thủy Mạch Bạo Phát:[/color]
+Ngọc Long kích thích thủy mạch ngầm bùng nổ, gây sát thương cho mục tiêu và biến một khu vực thành nước nông.
+  [color=#9e6404]Yêu Lôi Thủy Quái:[/color]
+Ngọc Long ngưng tụ sức mạnh của Thủy Quái thành Yêu Lôi, gây sát thương cho nhiều mục tiêu.
+  [color=#9e6404]Long Hấp Thuật:[/color]
+Ngọc Long hít một hơi thật sâu, làm cho độ ẩm của tất cả nhân vật đối địch trên bản đồ nhanh chóng giảm đi, và gia tăng sức mạnh Thủy Linh cho bản thân.
+  [color=#9e6404]Phản Tác:[/color]
+Ngọc Long đánh dấu một nhân vật trong một khoảng thời gian, sau khi thời gian kết thúc, một nửa linh khí tối đa của pháp bảo sẽ bùng nổ phản tác, gây sát thương lớn cho tất cả nhân vật trong phạm vi 5 ô quanh mục tiêu bị đánh dấu. Nếu thuộc tính pháp bảo bị Ngọc Long khắc chế, hiệu ứng sẽ gấp đôi, ngược lại sẽ giảm một nửa.
+  [color=#9e6404]Gọi Đàn Thú:[/color]
+Sử dụng uy lực của rồng để áp chế những con thú xung quanh tấn công.
+  [color=#9e6404]Biến Huyết Thiên Yêu:[/color]
+Ngọc Long luyện hóa tất cả xác chết trong cảnh, phục hồi bản thân và gia tăng sức mạnh Thủy Linh.
+			
+		]]></Text>
+	</Help>
+	<Help Name="Long_Secret" Root="Long" Type="Content">
+		<Title>Bí văn giao long</Title>
+		<Text><![CDATA[
+		  [color=#9e6404]Chân thủy chi thân:[/color]
+Ngọc Long là thân thể Thủy Chân Chính, nhận nhiều sát thương thuộc tính Thổ, ít sát thương thuộc tính Thuỷ, rất ít sát thương thuộc tính Hoả, hấp thụ sát thương thuộc tính Kim.
+  [color=#9e6404]Long nộ:[/color]
+Khi cơn bão được xua tan, Ngọc Long sẽ tiêu hao một lượng lớn sức mạnh Thủy Linh, bước vào trạng thái thịnh nộ, tăng tất cả thuộc tính, kéo dài 120 giây.
+Khi cơn thịnh nộ kết thúc, Ngọc Long sẽ triệu hồi lại cơn bão và gây sát thương lớn cho những nhân vật đã xua tan cơn bão trước đó. Nếu thuộc tính của nhân vật bị Ngọc Long khắc chế, hiệu ứng sẽ gấp đôi, ngược lại sẽ giảm một nửa.
+  [color=#9e6404]Hàn Ngục:[/color]
+Khi các bộ phận của giao long bị phá hủy, nó sẽ phun ra một luồng khí lạnh đến vị trí của nhân vật ở khu vực bị phá hủy. Luồng khí này kéo dài trong nhiều tháng và khu vực xung quanh sẽ rơi vào tình trạng giá lạnh.
+[color=#9e6404]Đầm lầy: [/color]
+Khi sức mạnh của linh thuỷ tích tụ đầy đủ 100 lớp, giao long sẽ biến nó thành một sức mạnh hủy diệt bùng nổ, khu vực xung quanh sẽ bị tiêu diệt hoàn toàn, biến thành vùng nước, trong đó tất cả sinh vật đều chết.
+[color=#9e6404]Chân Long chi trảo: [/color]
+Khi giao long chuyển sang hình thái chân chính, móng vuốt của nó sẽ được bao phủ bởi sức mạnh chân chính, trở nên không thể bị phá hủy.
+[color=#9e6404]Hộ thể long giáp: [/color]
+Giao long vốn có hộ thể giáp khí, các bộ phận của nó khó bị phá hủy. Chỉ khi nó nổi giận, khí hộ thể mới tập trung vào cơ thể, các bộ phận khác mới trở nên yếu ớt.
+[color=#9e6404]Long Chi Nghịch Lân: [/color]
+Sau khi giao long nổi giận ba lần, vảy ngược của nó sẽ lộ ra.
+				
+				
+		]]></Text>
+	</Help>
+	
+	<Help Name="Feng" Type="Icon" Def="Boss_Feng">
+	<Title>Phượng hung</Title>
+	<Icon>ui/Other/bosstujian2</Icon>
+	</Help>
+	<Help Name="Feng_P1" Root="Feng" Type="Content">
+		<Title>Hình thái liệt diễm</Title>
+		<Text><![CDATA[	
+		  [color=#9e6404]Hỏa Tức Hồng Luyện: [/color]
+Phượng hoàng ác phun ra liệt hỏa, gây sát thương liên tục cho mục tiêu và có khả năng đốt cháy bề mặt xung quanh.
+[color=#9e6404]Dung Đoạn: [/color]
+Phượng hoàng ác đánh dấu một nhân vật trong một khoảng thời gian, sau khi thời gian kết thúc, gây ra lượng sát thương khổng lồ trong phạm vi 2 ô xung quanh, sát thương được chia sẻ giữa tất cả sinh linh trong phạm vi đó. Nếu thuộc tính của nhân vật bị đánh dấu bị phượng hoàng ác khắc chế, sát thương sẽ tăng gấp đôi.
+[color=#9e6404]Thôn Hỏa: [/color]
+Phượng hoàng ác hít một hơi thật sâu, hấp thụ tất cả ngọn lửa trên bản đồ, phục hồi linh khí của bản thân dựa trên số lượng lửa, và nhận được sức mạnh linh hoả.
+[color=#9e6404]Chân Hỏa Bạo Phát: [/color]
+Khi sức mạnh linh hoả tích tụ đầy đủ 100 lớp, phượng hoàng ác sẽ chuyển sang hình thái chân hỏa, và phóng ra mười sáu chiếc Hoả Linh Vũ do mình giao ước để hỗ trợ chiến đấu.
+		 ]]></Text>
+	</Help>
+	<Help Name="Feng_P2" Root="Feng" Type="Content">
+		<Title>Trạng thái chân diễm</Title>
+		<Text><![CDATA[	
+		  [color=#9e6404]Duy trì chân hỏa [/color]
+Phượng hoàng ác sẽ liên tục tiêu hao sức mạnh linh hoả để duy trì hình thái chân hỏa của mình. Khi sức mạnh linh hoả cạn kiệt, phượng hoàng ác sẽ rút lui khỏi hình thái chân hỏa và cố gắng thu hồi Hoả Linh Vũ, mỗi lần thu hồi một chiếc Hoả Linh Vũ, bản thân phục hồi 10% linh khí.
+[color=#9e6404]Chân Diễm Chi Tức [/color]
+Phượng hoàng ác phun ra ngọn lửa hình quạt lớn, gây sát thương cho các nhân vật trong phạm vi và có khả năng đốt cháy bề mặt.
+[color=#9e6404]Dung Đoạn chân hỏa: [/color]
+Phượng hoàng ác đánh dấu tất cả các tu sĩ thuộc kim thuộc tính, sau khi thời gian kết thúc, gây ra lượng sát thương khổng lồ trong phạm vi 2 ô xung quanh, sát thương được chia sẻ giữa tất cả sinh linh trong phạm vi đó. Nếu thuộc tính của nhân vật bị đánh dấu bị phượng hoàng ác khắc chế, sát thương sẽ tăng gấp đôi. Nếu không có tu sĩ kim thuộc tính, sẽ ngẫu nhiên đánh dấu một nhân vật để phát động Dung Đoạn.
+[color=#9e6404]Thôn Hỏa: [/color]
+Phượng hoàng ác hít một hơi thật sâu, hấp thụ tất cả ngọn lửa trên bản đồ, phục hồi linh khí của bản thân dựa trên số lượng Hoả, và nhận được sức mạnh linh hoả.
+[color=#9e6404]Thái Dương Chi Tinh: [/color]
+Phượng hoàng ác phóng ra tinh thể chân hỏa của mình, nâng cao nhiệt độ toàn bộ khu vực, cố gắng biến toàn bộ bản đồ thành đất cháy.
+		 ]]></Text>
+	</Help>
+	<Help Name="Feng_Secret" Root="Feng" Type="Content">
+		<Title>Bí văn hung phượng</Title>
+		<Text><![CDATA[	
+		  [color=#9e6404]Thân thể chân hỏa: [/color]
+Phượng hoàng ác là thân thể chân hỏa, chịu nhiều sát thương thuộc Thuỷ, ít sát thương thuộc Hoả, rất ít sát thương thuộc kim, hấp thụ sát thương thuộc mộc.
+[color=#9e6404]Phượng Nộ Cửu Tiêu [/color]
+Khi thời tiết chuyển sang mưa, phượng hoàng ác sẽ rơi vào cơn giận, ngừng tất cả hành động, ngay lập tức phun ra ba ngọn lửa mạnh mẽ tấn công bề mặt xung quanh. Đồng thời gây ra lượng sát thương lớn cho tất cả kẻ thù trong phạm vi. Ngọn lửa sẽ ưu tiên tấn công khu vực có thuộc tính Hoả và Thuỷ đậm đặc. Sau khi phượng hoàng ác phát động Phượng Nộ Cửu Tiêu, nó sẽ ngay lập tức phát động một lần Thôn Hỏa, sau đó giải tán mây mưa và khóa thời tiết ở trạng thái nắng gắt trong một khoảng thời gian nhất định.
+[color=#9e6404]Chước Chi Đồng [/color]
+Khi các bộ phận của phượng hoàng ác bị phá hủy, nó sẽ hội tụ toàn bộ sức mạnh chân hỏa, dùng Chước Chi Đồng nhìn chằm chằm vào nhân vật ở bộ phận bị phá hủy, gây ra sát thương ngày càng cao. Trong quá trình này, cơ thể của phượng hoàng ác cũng sẽ trở nên yếu ớt do thiếu phòng thủ.
+[color=#9e6404]Tái sinh [/color]
+Sau khi phượng hoàng ác chết sẽ tái sinh thành trứng phượng hoàng ác, trong vòng bốn mươi chín ngày hấp thụ linh khí để cố gắng hồi sinh. Trong khoảng thời gian này, nếu linh khí của trứng phượng hoàng ác cạn kiệt, phượng hoàng sẽ hoàn toàn chết; nếu linh khí của trứng phượng hoàng ác đầy đủ, phượng hoàng sẽ tái sinh, nếu sau bốn mươi chín ngày trứng phượng hoàng ác vẫn chưa hấp thụ đủ linh khí, phượng hoàng cũng sẽ hoàn toàn chết.
+[color=#9e6404]Hỏa linh chi dực [/color]
+Khi phượng hoàng ác ở hình thái Hoả, do đôi cánh được bảo vệ bởi lông linh hoả, vì vậy gần như không thể bị phá hủy. Chỉ khi vào hình thái chân hỏa, phóng ra Hoả Linh Vũ, đôi cánh mới có thể bị phá hủy.
+[color=#9e6404]Thái Dương Chi Tinh: [/color]
+Thái Dương Chi Tinh của phượng hoàng ác là tinh hoa toàn thân của nó, loại bỏ các pháp bảo thuộc Thuỷ, các pháp bảo khác không thể gây sát thương cho nó.
+		 ]]></Text>
+	</Help>
+	
+	<Help Name="ZhuLong" Type="Icon" Def="Boss_ZhuLong">
+	<Title>Chúc Long</Title>
+	<Icon>ui/Other/bosstujian1</Icon>
+	</Help>
+	<Help Name="ZhuLong_P1" Root="ZhuLong" Type="Content">
+		<Title>Hình thái bạch trú</Title>
+		<Text><![CDATA[	
+		  [color=#9e6404]Bạch Trú Chi Thần: [/color]
+Chúc long hiện ra dưới hình thái dương, sẽ tăng thêm 1 lớp hơi thở dương mỗi 6 giây. Hơi thở dương ở giai đoạn chuyển tiếp sẽ chuyển đổi thành lượng tương đương hơi thở huyền âm.
+[color=#9e6404]Tội nghiệt chi lôi: [/color]
+Chúc long kích hoạt thần lực, phát ra sấm sét dương chứa đầy nghiệp lực, gây sát thương cho nhân vật, và tạm thời khiến mục tiêu tăng 2 điểm thiên khiển. Thiên khiển của mục tiêu càng cao, sát thương càng lớn.
+[color=#9e6404]Hỏa diệm long tức: [/color]
+Chúc Long phun ra một luồng hỏa long mạnh mẽ về một hướng, kẻ thù bị phun trúng sẽ tạo ra một [Hình Long Thiện Niệm] và chịu tổn thương. Mức độ thiên khiển của mục tiêu càng cao, sát thương càng lớn.
+  [color=#9e6404]Thiên Đạo Xét Xử: [/color]
+Giải phóng lên mục tiêu có thiên khiển thấp nhất, gây ra lượng sát thương lớn, nếu thiên khiển của mục tiêu cao hơn 50, sẽ khiến toàn thân linh khí bùng nổ, trực tiếp bị thương nặng và mất đi chiến lực. Linh khí bùng nổ cũng sẽ phát nổ, gây hủy hoại cho khu vực xung quanh 3 ô và bị Chúc Long hấp thụ, cộng thêm 20 tầng Đến Dương Chi Khí.
+  [color=#9e6404]Nghiệp Lực Hóa Hình: [/color]
+Khi Đến Dương Chi Khí đạt 100 tầng, giải phóng Nghiệp Lực Hóa Hình, tạo ra [Hình Long Thiện Niệm] cho tất cả đệ tử nội môn.
+  [color=#9e6404]Âm Dương Chi Nộ: [/color]
+Khi trứng của Chúc Long bị phá hủy, Chúc Long tức giận làm rối loạn Âm Dương Đạo, gây sát thương cho tất cả kẻ thù, và ấp tất cả [Âm chi noãn] chưa bị áp chế, sau đó bay lên, tạo ra ba [Dương chi noãn] trên đường đi, cuối cùng hiện ra dưới hình thái ban ngày. Trong quá trình chuyển đổi Âm Dương, Chúc Long nhận được 50 tầng Huyền Âm Chi Khí, sự gia tăng thiên khiển do Sát Nghiệp Chi Lôi mang lại cho người chơi cũng sẽ được xóa bỏ.
+  [color=#9e6404]Hình Long Thiện Niệm: [/color]
+Chúc Long tạo ra ảo ảnh vào ban ngày, liên tục hồi phục linh khí cho Chúc Long. Hàm lượng linh khí của ảo ảnh liên quan đến sức mạnh phép thuật và thiên khiển của nhân vật tại thời điểm tạo ra. Mức độ thiên khiển của mục tiêu càng cao, giá trị càng mạnh.
+  [color=#9e6404]Dương chi noãn: [/color]
+Khi Chúc Long phát động Âm Dương Chi Nộ, sẽ ấp tất cả [Dương chi noãn] trong cảnh, những kẻ phục vụ rồng tạo ra từ đó sẽ là mối đe dọa lớn. [Dương chi noãn] cần có phong thủy đại hung để áp chế.
+				
+				
+		 ]]></Text>
+	</Help>
+	<Help Name="ZhuLong_P2" Root="ZhuLong" Type="Content">
+		<Title>Hình thái ám dạ</Title>
+		<Text><![CDATA[	
+		 [color=#9e6404]Vĩnh Dạ Chi Thần: [/color]
+Chúc Long hiện ra dưới hình thái Âm, sẽ cộng dồn 1 tầng Huyền Âm Chi Khí mỗi 6 giây. Huyền Âm Chi Khí sẽ chuyển hóa thành Đến Dương Chi Khí tương ứng trong giai đoạn cắt.
+  [color=#9e6404]Thần Niệm Chi Lôi: [/color]
+Chúc Long kích hoạt thần lực, phát ra lôi âm tấn công thần niệm, gây tổn thương cho nhân vật và tạm thời làm giảm tâm trạng mục tiêu 2 điểm. Tâm trạng mục tiêu càng thấp, sát thương càng cao.
+  [color=#9e6404]Tâm Ma Long Tử: [/color]
+Chúc Long phun ra một luồng hỏa long mạnh mẽ về một hướng, kẻ thù bị phun trúng sẽ tạo ra một [Hình Long Ác Niệm] và chịu tổn thương. Mức độ tâm trạng của mục tiêu càng thấp, sát thương càng cao.
+  [color=#9e6404]Ác Niệm Chi Tuyến: [/color]
+Giải phóng lên mục tiêu có tâm trạng cao nhất, gây ra lượng sát thương lớn, nếu tâm trạng của mục tiêu thấp hơn 30, sẽ khiến toàn thân linh khí bùng nổ, trực tiếp bị thương nặng và mất đi chiến lực. Linh khí bùng nổ cũng sẽ phát nổ, gây hủy hoại cho khu vực xung quanh 3 ô và bị Chúc Long hấp thụ, cộng thêm 20 tầng Huyền Âm Chi Khí.
+  [color=#9e6404]Tâm Ma Hóa Hình: [/color]
+Khi Huyền Âm Chi Khí đạt 100 tầng, giải phóng Tâm Ma Hóa Hình, tạo ra [Hình Long Ác Niệm] cho tất cả đệ tử nội môn.
+  [color=#9e6404]Âm Dương Chi Nộ: [/color]
+Khi trứng của Chúc Long bị phá hủy, Chúc Long tức giận làm rối loạn Âm Dương Đạo, gây sát thương cho tất cả kẻ thù, và ấp tất cả [Âm chi noãn] chưa bị áp chế, sau đó bay lên, tạo ra ba [Dương chi noãn] trên đường đi, cuối cùng hiện ra dưới hình thái ban ngày. Trong quá trình chuyển đổi Âm Dương, Chúc Long nhận được 50 tầng Đến Dương Chi Khí, sự gia tăng tâm trạng do Thần Niệm Chi Lôi mang lại cho người chơi cũng sẽ được xóa bỏ.
+  [color=#9e6404]Hình Long Ác Niệm: [/color]
+Chúc Long tạo ra ảo ảnh vào ban đêm, có thể phát ra bảo bối để tấn công. Hàm lượng linh khí của ảo ảnh liên quan đến sức mạnh bảo bối và tâm trạng của nhân vật tại thời điểm tạo ra. Mức độ tâm trạng của mục tiêu càng thấp, sức mạnh càng mạnh.
+  [color=#9e6404]Âm chi noãn: [/color]
+Khi Chúc Long phát động Âm Dương Chi Nộ, sẽ ấp tất cả [Âm chi noãn] trong cảnh, những kẻ phục vụ rồng tạo ra từ đó sẽ là mối đe dọa lớn. [Âm chi noãn] cần có phong thủy đại cát để áp chế.
+				
+				
+		 ]]></Text>
+	</Help>
+	<Help Name="ZhuLong_Secret" Root="ZhuLong" Type="Content">
+		<Title>Bí văn chúc long</Title>
+		<Text><![CDATA[	
+		  [color=#9e6404]Âm Dương Hóa Thân: [/color]
+Chúc Long là hóa thân của Âm Dương Đạo giữa trời đất. Trong hình thái ban ngày, chỉ có sát thương thuộc Âm (Kim Thủy) mới có hiệu lực, sát thương thuộc Dương (Hỏa Mộc) sẽ bị hấp thụ. Trong hình thái ban đêm, chỉ có sát thương thuộc Dương (Hỏa Mộc) mới có hiệu lực, sát thương thuộc Âm (Kim Thủy) sẽ bị hấp thụ. Sát thương thuộc Thổ mặc dù không bị ảnh hưởng bởi giai đoạn, nhưng chỉ có thể gây ra sát thương nhỏ.
+  [color=#9e6404]Thiên Đạo Chi Nộ - Tâm Linh Già Tráo: [/color]
+Khi mắt rồng bị phá hủy trong hình thái ban đêm, Chúc Long sẽ nhờ vào Thiên Đạo Chi Nộ, phát động Tâm Linh Che Mặt lên nhân vật phá hủy mắt rồng, khiến người phá hủy mắt rồng trong một năm tâm trạng giảm 100 điểm. Nếu vượt qua Tâm Linh Che Mặt, tâm trạng sẽ vĩnh viễn tăng 20 điểm.
+  [color=#9e6404]Thiên Đạo Chi Nộ - Nghiệp Hỏa Quấn Quanh: [/color]
+Khi mắt rồng bị phá hủy trong hình thái ban ngày, Chúc Long sẽ nhờ vào Thiên Đạo Chi Nộ, phát động Nghiệp Hỏa Quấn Quanh lên nhân vật phá hủy mắt rồng, khiến người phá hủy mắt rồng trong một năm thiên khiển tăng 1000 điểm. Nếu vượt qua Nghiệp Hỏa Quấn Quanh, thiên khiển sẽ vĩnh viễn giảm 200 điểm.
+  [color=#9e6404]Thiên Đạo Chi Lân: [/color]
+Chúc Long có một chiếc Thiên Đạo Chi Lân ở giữa trán, chỉ xuất hiện sau khi Chúc Long phát động hai lần Âm Dương Chi Nộ.
+  [color=#9e6404]Hỗn Độn Chi Ngọc: [/color]
+Hỗn Độn Chi Ngọc là nguồn sức mạnh của Chúc Long, chỉ khi phá hủy đôi mắt, đánh bại Thiên Lân, Hỗn Độn Chi Ngọc mới xuất hiện tại vị trí của Thiên Lân.
+		 ]]></Text>
+	</Help>
+</List>
+</Helps>
+

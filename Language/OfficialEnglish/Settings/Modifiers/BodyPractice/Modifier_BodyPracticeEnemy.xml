@@ -1,0 +1,35 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_BodyPractice_Boss_BaseValue">
+			<DisplayName>Thuộc tính bảo đảm của thể tu đại năng</DisplayName>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_BaseFightValue">
+			<DisplayName>Thuộc tính bảo đảm chiến đấu của thể tu đại năng</DisplayName>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_Atk">
+			<DisplayName>Uy</DisplayName>
+			<Desc>Thể bí mật của người này có thể phá núi lấp biển, uy lực vô cùng.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_Def">
+			<DisplayName>Nhẫn</DisplayName>
+			<Desc>Thể bí mật của người này không gì có thể phá, kiên nhẫn vô cùng.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_Dodge">
+			<DisplayName>Tránh</DisplayName>
+			<Desc>Người này hành động nhanh nhẹn, linh hoạt không dấu vết.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_CatchFabao">
+			<DisplayName>Đoạt</DisplayName>
+			<Desc>Người này có kỹ năng tinh tế, rất giỏi trong việc trấn áp pháp bảo.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_ArmorPenetration">
+			<DisplayName>Xuyên</DisplayName>
+			<Desc>Người này vận lực khéo léo, rất giỏi trong việc xuyên thủng lá chắn linh khí gây tổn thương.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_Strong">
+			<DisplayName>Khỏe</DisplayName>
+			<Desc>Thể chất của người này vô cùng mạnh mẽ, tinh thần cũng cực kỳ kiên cường, không sợ đau đớn.</Desc>
+		</Text>
+	</List>
+</Texts>
+

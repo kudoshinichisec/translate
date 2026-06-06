@@ -1,0 +1,56 @@
+<SpecialNames>
+  <List>
+	<SpecialItem Name="Item_FunPainting">
+		<None>
+			<li Name="Cung Nhạc Đồ" Desc="" />
+			<li Name="Khê Sơn Hành Lữ Đồ" Desc="" />
+			<li Name="Tảo Xuân Đồ" Desc="" />
+			<li Name="Sơn Chá Cức Tước Đồ" Desc="" />
+			<li Name="Song Hỉ Đồ" Desc="" />
+			<li Name="Vạn Hác Tùng Phong" Desc="" />
+			<li Name="Song Tùng Đồ" Desc="" />
+		</None>	
+	</SpecialItem>
+	
+	<SpecialItem Name="Item_FunMusic">
+		<None>
+			<li Name="Cao Sơn Lưu Thủy" Desc="" />
+			<li Name="Quảng Lăng Tán" Desc="" />
+			<li Name="Ngư Tiều Vấn Đáp" Desc="" />
+			<li Name="Hồ Già Thập Bát Phách" Desc="" />
+			<li Name="Dương Xuân Bạch Tuyết" Desc="" />
+			<li Name="Bình Sa Lạc Nhạn" Desc="" />
+			<li Name="Tịch Dương Tiêu Cổ" Desc="" />
+			<li Name="Thập Diện Mai Phục" Desc="" />
+			<li Name="Hán Cung Thu Nguyệt" Desc="" />
+			<li Name="Mai Hoa Tam Lộng" Desc="" />
+		</None>	
+	</SpecialItem>
+	
+	<SpecialItem Name="Item_FunChess">
+		<None>
+			<li Name="Ẩu Huyết Phổ" Desc="" />
+			<li Name="Đặng Ngải Khai Thục" Desc="" />
+			<li Name="Trấn Thần Đầu" Desc="" />
+			<li Name="Vân Khởi Thành Hà Các" Desc="" />
+			<li Name="Động Đình Thu Nguyệt" Desc="" />
+			<li Name="Bộ Nguyệt Thế" Desc="" />
+			<li Name="Tam Tinh Nhập Vân" Desc="" />
+			<li Name="Thiên Tằng Bảo Các" Desc="" />
+			<li Name="Bạch Long Xuất Thủy" Desc="" />
+			<li Name="Bát Thánh Cầm Yêu" Desc="" />
+			<li Name="Vạn Thọ Đồ" Desc="" />
+			<li Name="Trường Sinh Đồ" Desc="" />
+			<li Name="Kim Minh Đồ" Desc="" />
+			<li Name="Hữu Thần Đồ" Desc="" />
+			<li Name="Thượng Thanh Đồ" Desc="" />
+			<li Name="Thiên Thanh Đồ" Desc="" />
+			<li Name="Quỳnh Lâm Đồ" Desc="" />
+			<li Name="Lễ Tuyền Đồ" Desc="" />
+			<li Name="Bảo Chân Đồ" Desc="" />
+			<li Name="Ngộ Tiên Đồ" Desc="" />
+		</None>	
+	</SpecialItem>
+</List>
+</SpecialNames>
+

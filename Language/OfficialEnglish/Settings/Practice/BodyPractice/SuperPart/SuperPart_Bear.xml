@@ -1,0 +1,23 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Bear_1">
+			<Prefix>Hỗn Thiên Khí</Prefix>
+			<Suffix>Nội Tạng</Suffix>
+			<Desc>Bí thể truyền từ dòng máu Hùng Yêu thời cổ đại, sử dụng lực thiên kiếp để luyện tim và phổi, khi luyện thành có thể tạo ra chân khí không ngừng.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình khả năng hồi phục chân khí của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh khả năng hồi phục chân khí của bí thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng cực mạnh khả năng hồi phục chân khí của bí thể</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Bear_2">
+			<Prefix>Chống Trời Phá Diệt</Prefix>
+			<Suffix>Vuốt</Suffix>
+			<Desc>Bí thể truyền từ dòng máu Hùng Yêu thời cổ đại, sử dụng lực phá diệt trong thiên kiếp để luyện hai vuốt, có sức mạnh phá diệt vạn tượng.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng cực mạnh sức mạnh cơ bản của bí thể</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>
+

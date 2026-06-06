@@ -1,0 +1,91 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="MeatBase" sParam="Item">
+			<Item.FabaoSuffix>Mê, Mạc, Đà</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BoarMeat" sParam="Item">
+			<ThingName>Thịt lợn rừng</ThingName>
+			<Desc>Thịt lợn rừng.</Desc>
+		</Text>
+		<Text Name="Item_FrogMeat" sParam="Item">
+			<ThingName>Thịt ếch</ThingName>
+			<Desc>Thịt ếch</Desc>
+		</Text>
+		<Text Name="Item_TurtleMeat" sParam="Item">
+			<ThingName>Thịt rùa</ThingName>
+			<Desc>Thịt rùa</Desc>
+		</Text>
+		<Text Name="Item_BearMeat" sParam="Item">
+			<ThingName>Thịt gấu</ThingName>
+			<Desc>Thịt gấu.</Desc>
+		</Text>
+		<Text Name="Item_Beef" sParam="Item">
+			<ThingName>Thịt bò</ThingName>
+			<Desc>Thịt bò.</Desc>
+		</Text>
+		<Text Name="Item_RabbitMeat" sParam="Item">
+			<ThingName>Thịt thỏ</ThingName>
+			<Desc>Thịt thỏ.</Desc>
+		</Text>
+		<Text Name="Item_ChickenMeat" sParam="Item">
+			<ThingName>Thịt gà</ThingName>
+			<Desc>Thịt gà.</Desc>
+		</Text>
+		<Text Name="Item_WolfMeat" sParam="Item">
+			<ThingName>Thịt sói</ThingName>
+			<Desc>Thịt sói.</Desc>
+		</Text>
+		<Text Name="Item_FishMeat" sParam="Item">
+			<ThingName>Thịt cá</ThingName>
+			<Desc>Thịt cá.</Desc>
+		</Text>
+		<Text Name="Item_SnakeMeat" sParam="Item">
+			<ThingName>Thịt rắn</ThingName>
+			<Desc>Thịt rắn.</Desc>
+		</Text>
+		<Text Name="Item_CatMeat" sParam="Item">
+			<ThingName>Thịt mèo</ThingName>
+			<Desc>Thịt mèo.</Desc>
+		</Text>
+		<Text Name="Item_TigerMeat" sParam="Item">
+			<ThingName>Thịt hổ</ThingName>
+			<Desc>Thịt hổ.</Desc>
+		</Text>
+		<Text Name="Item_ChickenEgg" sParam="Item">
+			<ThingName>Trứng gà</ThingName>
+			<Desc>Một quả trứng gà.</Desc>
+			<Item.FabaoSuffix>Trứng, Châu, Cầu, Noãn</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SnakeEgg" sParam="Item">
+			<ThingName>Trứng rắn</ThingName>
+			<Desc>Một quả trứng rắn.</Desc>
+			<Item.FabaoSuffix>Trứng, Châu, Cầu, Noãn</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_TurtleEgg" sParam="Item">
+			<ThingName>Trứng rùa</ThingName>
+			<Desc>Một quả trứng rùa.</Desc>
+			<Item.FabaoSuffix>Trứng, Châu, Cầu, Noãn</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_LongEgg" sParam="Item">
+			<ThingName>Giao Long Đích Noãn</ThingName>
+			<Desc>Một quả Giao Long Đích Noãn chưa nở, rõ ràng có dấu hiệu sự sống bên trong. Để ấp nở cần nhiệt độ dưới -200 độ, linh khí cực kỳ dày đặc, rất thích hợp ở nơi thuộc tính thủy.</Desc>
+			<Item.FabaoSuffix>Trứng, Châu, Cầu, Noãn</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_FengEgg" sParam="Item">
+			<ThingName>Phượng Hoàng Đích Noãn</ThingName>
+			<Desc>Một quả Phượng Hoàng Đích Noãn chưa nở, rõ ràng có dấu hiệu sự sống bên trong. Để ấp nở cần nhiệt độ trên 300 độ, linh khí cực kỳ dày đặc, rất thích hợp ở nơi thuộc tính hỏa.</Desc>
+			<Item.FabaoSuffix>Trứng, Châu, Cầu, Noãn</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_FengEggChange" sParam="Item">
+			<ThingName>Phượng Hoàng Đích Noãn</ThingName>
+			<Desc>Đang thức tỉnh...</Desc>
+			<Item.FabaoSuffix>Trứng, Châu, Cầu, Noãn</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_JiaolongChange" sParam="Item">
+			<ThingName>Giao Long Đích Noãn</ThingName>
+			<Desc>Đang thức tỉnh...</Desc>
+			<Item.FabaoSuffix>Trứng, Châu, Cầu, Noãn</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,55 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FightSkillEsoterica_1">
+			<DisplayName>Tiên Thiên Cương Khí</DisplayName>
+			<Desc>Pháp thuật nhập môn của tu sĩ, tụ chân khí vào lòng bàn tay rồi phát ra tấn công mục tiêu.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bí thuật: Tiên Thiên Cương Khí[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_2">
+			<DisplayName>Liệt Diệm Quyết</DisplayName>
+			<Desc>Điều động linh năng hệ hỏa trong thiên địa, thiêu đốt mục tiêu mãnh liệt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bí thuật: Liệt Diệm Quyết[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_3">
+			<DisplayName>Canh Kim Thần Lôi</DisplayName>
+			<Desc>Điều động linh năng hệ kim trong thiên địa, hóa thành Canh Kim Thần Lôi tấn công mục tiêu.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bí thuật: Canh Kim Thần Lôi[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_4">
+			<DisplayName>Nguyên Từ Diệt Tuyệt Thần Quang</DisplayName>
+			<Desc>Phát ra một tia thần quang nhanh như chớp, tiêu diệt nguyên thần của mục tiêu.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bí thuật: Diệt Tuyệt Thần Quang[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_Gong1_1">
+			<DisplayName>Thiên Thủy Hóa Thương Thuật</DisplayName>
+			<Desc>Dẫn động lực lượng Quý Thủy trong thiên địa, hồi phục linh khí cho tất cả đồng minh.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bí thuật: Thiên Thủy Hóa Thương Thuật[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_Gong3_1">
+			<DisplayName>Thần Kiếm Cộng Minh</DisplayName>
+			<Desc>Làm cộng hưởng nguyên thần của bản thân với pháp bảo, tăng cường đáng kể uy lực của pháp bảo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bí thuật: Thần Kiếm Cộng Minh[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_Gong4_1">
+			<DisplayName>Ngọc Thanh Thái Hư Thần Lôi</DisplayName>
+			<Desc>Dẫn động Ngọc Thanh Thái Hư Thần Lôi hỗn nguyên, gây sát thương lớn cho tất cả mục tiêu đối địch.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bí thuật: Ngọc Thanh Thái Hư Thần Lôi[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_Gong4_2">
+			<DisplayName>Hậu Thổ Chi Thuẫn</DisplayName>
+			<Desc>Tăng cường hiệu quả linh khí hộ thuẫn cho tất cả đồng minh.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bí thuật: Hậu Thổ Chi Thuẫn[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_Gong4_3">
+			<DisplayName>Hồi Xuân Quyết</DisplayName>
+			<Desc>Kêu gọi hơi thở của Mộc, hồi phục linh khí cho bản thân.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bí thuật: Hồi Xuân Quyết[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_Gong9_1">
+			<DisplayName>Nghịch Chuyển Luân Hồi</DisplayName>
+			<Desc>Sử dụng lực lượng luân hồi, hồi phục linh khí của bản thân một cách đáng kể.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bí thuật: Luân Hồi Nghịch Chuyển[/color][/size]</EffectDesc>
+		</Text>
+	</List>
+</Texts>
+

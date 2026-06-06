@@ -1,0 +1,50 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_2_Mu">
+			<DisplayName>Kỷ Dần Cửu Xung Đa Bảo Chân Giải</DisplayName>
+			<Desc>Bí truyền của Thượng Thanh Linh Bảo Thiên Tôn, là bí pháp trấn phái của núi Đan Hà, chân quyết luyện bảo vô thượng của Đạo môn. Pháp này không dành cho người không có thiên phú xuất chúng. Hiểu được pháp này có thể luyện vạn vật thành pháp bảo. Tu luyện chia làm năm trọng thiên, mười lăm cung. Khi tu luyện viên mãn có thể phi thăng thành tiên, siêu thoát phàm trần.</Desc>
+			<SelectDesc>Công pháp này giỏi về thuật luyện khí, nhưng không giỏi trong con đường chiến đấu. Có muốn chọn tu luyện công pháp này không?</SelectDesc>
+			<Stages.0.DisplayName>Vô Tưởng Thiên</Stages.0.DisplayName>
+			<Stages.0.Desc>Trọng thiên thứ nhất, trong cảnh giới vô tưởng tìm được tiên thiên linh quang, mở ra đại đạo tu tiên, nên gọi là Vô Tưởng Thiên.</Stages.0.Desc>
+			<Stages.0.Necks.0.DisplayName>Ngũ Tâm Cung</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>Ngồi tĩnh tọa với tư thế ngũ tâm triều thiên, chia một tâm thành năm tâm, vận chuyển khí huyết. [color=#D06508]\nBình cảnh này càng cao ngộ tính, càng khó đột phá.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Ngũ Khí Cung</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>Tĩnh sinh động, dưới sự sôi trào của khí huyết, cảm nhận ngũ khí tự nhiên sinh ra trong huyết mạch, theo khí huyết lưu chuyển mà lớn mạnh. [color=#D06508]\nBình cảnh này gốc rễ càng thấp, càng khó đột phá.\nĐột phá thất bại có thể bị thương.[/color]</Stages.0.Necks.1.Desc>
+			<Stages.0.Necks.2.DisplayName>Triều Nguyên Cung</Stages.0.Necks.2.DisplayName>
+			<Stages.0.Necks.2.Desc>Dùng thần niệm đưa ngũ khí quy về khí hải, lặp lại quá trình này, tu vi dần dần thâm sâu. [color=#D06508]\nBình cảnh này cần thử đi thử lại, mới có thể dần dần đột phá.[/color]</Stages.0.Necks.2.Desc>
+			<Stages.1.DisplayName>Trường Sinh Thiên</Stages.1.DisplayName>
+			<Stages.1.Desc>Trọng thiên thứ hai, tu thành cảnh giới này thì thành tựu kim đan, thần thông, thọ nguyên tăng mạnh, nên gọi là Trường Sinh Thiên.</Stages.1.Desc>
+			<Stages.1.Necks.0.DisplayName>Động Huyền Cung</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>Dùng linh khí phá cửa Huyền Quan Tử Phủ, kết nối trời đất. Tiên phàm từ đây chia hai. [color=#D06508]\nBình cảnh này cần thử đi thử lại, mới có thể dần dần đột phá.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Dương Hòa Cung</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.1.Desc>Dùng nguyên khí của bản thân, dẫn linh khí trời đất, pháp lực ngày một thâm hậu. [color=#D06508]\nBình cảnh này gốc rễ càng thấp, càng khó đột phá.\nĐột phá thất bại có thể bị thương.[/color]</Stages.1.Necks.1.Desc>
+			<Stages.1.Necks.2.DisplayName>Kim Linh Cung</Stages.1.Necks.2.DisplayName>
+			<Stages.1.Necks.2.Desc>Tinh khí thần hợp nhất, kết thành Kim Đan, đặt nền móng cho đạo cơ.</Stages.1.Necks.2.Desc>
+			<Stages.2.DisplayName>Tạo Hóa Thiên</Stages.2.DisplayName>
+			<Stages.2.Desc>Trọng thiên thứ ba, ở cảnh giới này lĩnh ngộ tính của vạn vật trời đất, mượn đá núi khác để mài ngọc của mình. Đặt nền móng cho sự ra đời của Nguyên Anh.</Stages.2.Desc>
+			<Stages.2.Necks.0.DisplayName>Hỏa Chân Cung</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>Dùng cảnh giới kim đan thúc phát tam vị chân hỏa, nung chảy vạn vật. [color=#D06508]\nBình cảnh này gốc rễ càng thấp, càng khó đột phá.\nĐột phá thất bại có thể bị thương.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Vạn Tượng Cung</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.1.Desc>Nhập hồng trần, dùng tam vị chân hỏa để chiêm ngưỡng sự kỳ diệu của vạn vật, nắm rõ trong lòng.</Stages.2.Necks.1.Desc>
+			<Stages.2.Necks.2.DisplayName>Diệu Thành Cung</Stages.2.Necks.2.DisplayName>
+			<Stages.2.Necks.2.Desc>Tĩnh tọa bế quan mười hai canh giờ, trong cảnh định dung hòa những gì đã thấy và học, tu luyện đến đây, thuật luyện khí đã có chút thành tựu, diệu lý của Nguyên Anh cũng có thu hoạch.</Stages.2.Necks.2.Desc>
+			<Stages.3.DisplayName>Thuần Dương Thiên</Stages.3.DisplayName>
+			<Stages.3.Desc>Trọng thiên thứ tư, dùng chân hỏa rèn luyện kim đan, minh tâm kiến tính, thành tựu thượng thanh thuần dương nguyên anh, nên gọi là Thuần Dương Thiên.</Stages.3.Desc>
+			<Stages.3.Necks.0.DisplayName>Nhiếp Ngộ Cung</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>Cảm ngộ chân ngã, một điểm linh quang của kim đan hiện ra. [color=#D06508]\nBình cảnh này cần thử đi thử lại, mới có thể dần dần đột phá.[/color]</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Chân Thai Cung</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.1.Desc>Ôn dưỡng kim đan, lớn mạnh chân ngã. [color=#D06508]\nBình cảnh này cần thử đi thử lại, mới có thể dần dần đột phá.[/color]</Stages.3.Necks.1.Desc>
+			<Stages.3.Necks.2.DisplayName>Thần Anh Cung</Stages.3.Necks.2.DisplayName>
+			<Stages.3.Necks.2.Desc>Kim đan phá vỡ, Nguyên Anh xuất hiện.</Stages.3.Necks.2.Desc>
+			<Stages.4.DisplayName>Vũ Dư Thiên</Stages.4.DisplayName>
+			<Stages.4.Desc>Trọng thiên thứ năm, vượt qua lôi kiếp cuối cùng, thành tựu thuần dương thượng thanh nguyên thần, phi thăng Vũ Dư Thiên.</Stages.4.Desc>
+			<Stages.4.Necks.0.DisplayName>Tiêu Dao Cung</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>Dùng nguyên khí luyện ngưng nguyên thần, khiến nó xuất khiếu không trở ngại, đạt được tiêu dao. [color=#D06508]\nĐột phá bình cảnh này sẽ tổn hao lớn tuổi thọ, cần chú ý.[/color]</Stages.4.Necks.0.Desc>
+			<Stages.4.Necks.1.DisplayName>Định Kiếp Cung</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.1.Desc>Lấy Nguyên Thần lĩnh hội huyền diệu của Thiên Đạo, một khi vượt qua cửa ải này, sẽ đối diện trực tiếp với thiên kiếp. [color=#D06508]\nNút thắt này rất khó vượt qua, không có kinh nghiệm cộng thêm.[/color]</Stages.4.Necks.1.Desc>
+			<Stages.4.Necks.2.DisplayName>Tử Vi Cung</Stages.4.Necks.2.DisplayName>
+			<Stages.4.Necks.2.Desc>Thoát thai phàm, phi thăng thành tiên.</Stages.4.Necks.2.Desc>
+		</Text>
+	</List>
+</Texts>
+

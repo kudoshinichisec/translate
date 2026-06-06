@@ -1,0 +1,41 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="1">
+			<Display>Phi thăng: {0} người</Display>
+		</Text>
+		<Text Name="2">
+			<Display>Luyện chế pháp bảo: {0} lần</Display>
+		</Text>
+		<Text Name="3">
+			<Display>Vẽ bùa: {0} lần</Display>
+		</Text>
+		<Text Name="4">
+			<Display>Tiêu diệt: {0} sinh linh</Display>
+		</Text>
+		<Text Name="5">
+			<Display>Thông qua thư sách học được: {0} bí kíp</Display>
+		</Text>
+		<Text Name="6">
+			<Display>Thời gian Phi thăng nhanh nhất: ngày thứ {0}</Display>
+		</Text>
+		<Text Name="7">
+			<Display>Luyện đan: {0} lần</Display>
+		</Text>
+		<Text Name="8">
+			<Display>Rèn luyện: {0} lần</Display>
+		</Text>
+		<Text Name="9">
+			<Display>Nấu ăn: {0} lần</Display>
+		</Text>
+		<Text Name="10">
+			<Display>Điểm thành tựu: {0}</Display>
+		</Text>
+		<Text Name="11">
+			<Display>Tổng số đệ tử nội môn đã chết: {0} người</Display>
+		</Text>
+		<Text Name="12">
+			<Display>Tự mình phát hiện {0} địa điểm mới trong Lịch luyện</Display>
+		</Text>
+	</List>
+</Texts>
+

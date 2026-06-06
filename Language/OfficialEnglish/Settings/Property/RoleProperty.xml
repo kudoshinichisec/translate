@@ -1,0 +1,134 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LeadExperienceAddtion">
+			<DisplayName>Tăng điểm kinh nghiệm.</DisplayName>
+		</Text>
+		<Text Name="BaseWorkSpeed">
+			<DisplayName>Tốc độ làm việc cơ bản.</DisplayName>
+			<DisplayValue>{0} điểm/giây</DisplayValue>
+			<Desc>Tốc độ làm việc cơ bản của nhân vật, hoàn thành bao nhiêu công việc mỗi giây.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="BaseEmotionAddV">
+			<DisplayName>Giá trị cơ bản của tâm trạng.</DisplayName>
+			<DisplayValue>{0} điểm</DisplayValue>
+			<Desc>Giá trị cơ bản của tâm trạng nhân vật.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
+		</Text>
+		<Text Name="MaxAge">
+			<DisplayName>Thọ nguyên</DisplayName>
+			<DisplayValue>{0} năm</DisplayValue>
+			<Desc>Tuổi thọ tối đa mà nhân vật có thể đạt được.</Desc>
+		</Text>
+		<Text Name="AgeCostSpeed">
+			<DisplayName>Tốc độ hao mòn tuổi thọ.</DisplayName>
+			<Desc>Tốc độ hao mòn tự nhiên của tuổi thọ nhân vật.</Desc>
+		</Text>
+		<Text Name="VisionRadius">
+			<DisplayName>Phạm vi cảm nhận.</DisplayName>
+			<DisplayValue>{0:N2} mét</DisplayValue>
+			<Desc>Phạm vi cảm nhận môi trường xung quanh của nhân vật.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
+		</Text>
+		<Text Name="MoveSpeed">
+			<DisplayName>Tốc độ di chuyển</DisplayName>
+			<DisplayValue>{0:N2} mét/giây</DisplayValue>
+			<Desc>Tốc độ di chuyển của nhân vật.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
+		</Text>
+		<Text Name="ComfyTMin">
+			<DisplayName>Nhiệt độ thoải mái tối thiểu.</DisplayName>
+			<Desc>Nhiệt độ tối thiểu mà nhân vật cảm thấy thoải mái.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
+		</Text>
+		<Text Name="ComfyTMax">
+			<DisplayName>Nhiệt độ thoải mái tối đa.</DisplayName>
+			<Desc>Nhiệt độ tối đa mà nhân vật cảm thấy thoải mái.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
+		</Text>
+		<Text Name="ToleranceTMin">
+			<DisplayName>Nhiệt độ giới hạn tối thiểu.</DisplayName>
+			<Desc>Nhiệt độ tối thiểu không ảnh hưởng đến sức khỏe của nhân vật.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
+		</Text>
+		<Text Name="ToleranceTMax">
+			<DisplayName>Nhiệt độ giới hạn tối đa.</DisplayName>
+			<Desc>Nhiệt độ tối đa không ảnh hưởng đến sức khỏe của nhân vật.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
+		</Text>
+		<Text Name="RecoveryPower">
+			<DisplayName>Khả năng tự phục hồi.</DisplayName>
+			<DisplayValue>{0}％/giây</DisplayValue>
+			<Desc>Tốc độ tự phục hồi thương tổn của nhân vật.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
+		</Text>
+		<Text Name="PainTolerance">
+			<DisplayName>Giới hạn chịu đau.</DisplayName>
+			<Desc>Mức độ chịu đựng đau đớn của nhân vật.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
+		</Text>
+		<Text Name="IntelligenceSkillEXPConstant">
+			<DisplayName>Tốc độ học tập.</DisplayName>
+			<Desc>Tốc độ nhân vật nhận được kinh nghiệm từ thực tiễn, cũng ảnh hưởng đến tốc độ nhận thức của người tu luyện pháp kim đan.</Desc>
+			<FunctionKind>Thuộc Tính Tu Luyện.</FunctionKind>
+		</Text>
+		<Text Name="EmotionAmplificationFactor">
+			<DisplayName>Hệ số phóng đại cảm xúc.</DisplayName>
+		</Text>
+		<Text Name="FavourChangeSpeedRate">
+			<DisplayName>Tốc độ thay đổi độ yêu thích.</DisplayName>
+		</Text>
+		<Text Name="NightmareHappenPercent">
+			<DisplayName>Tỷ lệ xảy ra ác mộng.</DisplayName>
+			<Desc>Tỷ lệ xảy ra ác mộng khi nhân vật ngủ.</Desc>
+		</Text>
+		<Text Name="NiceDreamHappenPercent">
+			<DisplayName>Tỷ lệ xảy ra giấc mơ đẹp.</DisplayName>
+			<Desc>Tỷ lệ xảy ra giấc mơ đẹp khi nhân vật ngủ.</Desc>
+		</Text>
+		<Text Name="FatigueConsumeConstant">
+			<DisplayName>Tăng tiêu hao tinh lực.</DisplayName>
+			<Desc>Tỷ lệ tiêu hao tinh lực của nhân vật.</Desc>
+		</Text>
+		<Text Name="FatigueRecoveryConstant">
+			<DisplayName>Giá trị tăng bổ sung tinh lực</DisplayName>
+			<Desc>Tỷ lệ bổ sung tinh lực của nhân vật.</Desc>
+		</Text>
+		<Text Name="NutritionConsumeConstant">
+			<DisplayName>Tăng tiêu hao thực phẩm.</DisplayName>
+			<Desc>Tỷ lệ tiêu hao thực phẩm của nhân vật.</Desc>
+		</Text>
+		<Text Name="NutritionRecoveryConstant">
+			<DisplayName>Giá trị tăng bổ sung thức ăn</DisplayName>
+			<Desc>Tỷ lệ bổ sung thực phẩm của nhân vật.</Desc>
+		</Text>
+		<Text Name="WaterConsumeConstant">
+			<DisplayName>Tăng tiêu hao nước uống.</DisplayName>
+			<Desc>Tỷ lệ tiêu hao nước uống của nhân vật.</Desc>
+		</Text>
+		<Text Name="WaterRecoveryConstant">
+			<DisplayName>Giá trị tăng bổ sung nước uống</DisplayName>
+			<Desc>Tỷ lệ bổ sung nước uống của nhân vật.</Desc>
+		</Text>
+		<Text Name="HappyConsumeConstant">
+			<DisplayName>Tăng tiêu hao giải trí.</DisplayName>
+			<Desc>Tỷ lệ tiêu hao giải trí của nhân vật.</Desc>
+		</Text>
+		<Text Name="HappyRecoveryConstant">
+			<DisplayName>Giá trị tăng bổ sung giải trí</DisplayName>
+			<Desc>Tỷ lệ bổ sung giải trí của nhân vật.</Desc>
+		</Text>
+		<Text Name="PracticeFoodConsumeConstant">
+			<DisplayName>Tăng tiêu hao tinh nguyên.</DisplayName>
+			<Desc>Tỷ lệ tiêu hao tinh nguyên của nhân vật.</Desc>
+		</Text>
+		<Text Name="PracticeFoodRecoveryConstant">
+			<DisplayName>Giá trị tăng bổ sung tinh nguyên</DisplayName>
+			<Desc>Tỷ lệ bổ sung tinh nguyên của nhân vật.</Desc>
+		</Text>
+		<Text Name="MagicDamageRecoveryPowerAddV">
+			<DisplayName>Khả năng tự phục hồi thương tổn nội môn.</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,235 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Practice">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang tu luyện, đột nhiên rất nhớ nhà.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang tu luyện, trong đầu đột nhiên hiện lên hình ảnh của [obj_friend].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang tu luyện, đột nhiên cảm thấy [obj_nearthing] bên cạnh thật thú vị…</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang tu luyện, đột nhiên muốn ăn [obj_food].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang tu luyện, đột nhiên nhớ đến [obj_relation] của mình.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang tu luyện, đột nhiên suy nghĩ miên man.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang tu luyện, đột nhiên rơi nước mắt.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang tu luyện, đột nhiên cảm thấy khó chịu không rõ lý do.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang tu luyện, đột nhiên muốn đến [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] xem thử.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang tu luyện, cảm thấy cuộc sống như thế này thật tốt.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang tu luyện, cảm thấy người tu hành tuy tốt, nhưng thực sự cũng không dễ dàng.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang tu luyện, đột nhiên muốn xuống núi rèn luyện một phen.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang tu luyện, bị cảm xúc [rand_lable=obj_badmood,obj_goodmood] ảnh hưởng, có chút không thể tĩnh tâm.</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang tu luyện, không khỏi lo lắng liệu có thể đột phá được bình cảnh [obj_neck] hay không.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang tu luyện, cảm thán sâu sắc rằng [obj_gong] thực sự là thâm sâu rộng lớn.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang tu luyện, không kìm được mà nghi ngờ liệu mình có thực sự phù hợp với việc tu luyện [obj_gong] hay không.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang tu luyện, đột nhiên nghi ngờ rằng cuốn bí kíp [obj_esoterica] này có vấn đề hay không.</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang tu luyện, không kìm được mà cảm thán rằng cuốn bí kíp [obj_esoterica] này thực sự được viết rất tinh tế.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang tu luyện, không biết vì sao lại muốn điều khiển [obj_fabao] để thử cảm giác.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang tu luyện, không biết vì sao lại muốn ăn một viên [obj_dan] để thử mùi vị.</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang tu luyện, không biết vì sao lại muốn sử dụng kiếm đâm [obj_friend] vài nhát.</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang tu luyện, đột nhiên nhớ đến phòng tu hành của [obj_goodschool].</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang tu luyện, đột nhiên muốn đấu một trận với người của [obj_badschool].</Events.23.Story>
+		</Text>
+		<Text Name="Brokening">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], đột nhiên rất nhớ nhà.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], hình ảnh của [obj_friend] bất chợt hiện lên trong đầu.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], đột nhiên cảm thấy thứ [obj_nearthing] bên cạnh rất thú vị...</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], đột nhiên muốn ăn [obj_food].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], đột nhiên nhớ đến [obj_relation] của mình.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], đột nhiên suy nghĩ miên man.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], đột nhiên rơi nước mắt.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], đột nhiên cảm thấy bực bội không rõ lý do.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], đột nhiên muốn đến [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] để xem thử.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], cảm thấy cuộc sống như thế này thật tốt.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], cảm thấy người tu hành tuy tốt, nhưng thực sự cũng không dễ dàng.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], đột nhiên muốn xuống núi rèn luyện một phen.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], bị cảm xúc [rand_lable=obj_badmood,obj_goodmood] ảnh hưởng, có chút không thể tĩnh tâm.</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], không khỏi lo lắng liệu có thể đột phá được bình cảnh [obj_neck] hay không.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], cảm thán sâu sắc rằng [obj_gong] thực sự là thâm sâu rộng lớn.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], không kìm được mà nghi ngờ liệu mình có thực sự phù hợp với việc tu luyện [obj_gong] này hay không.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], đột nhiên nghi ngờ rằng cuốn bí kíp [obj_esoterica] này có vấn đề hay không.</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], không kìm được mà cảm thán rằng cuốn bí kíp [obj_esoterica] này thực sự được viết rất tinh tế.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], không biết vì sao lại muốn điều khiển [obj_fabao] để thử cảm giác.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], không biết vì sao lại muốn ăn một viên [obj_dan] để thử mùi vị.</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], không biết vì sao lại muốn sử dụng kiếm đâm [obj_friend] vài nhát.</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], đột nhiên nhớ đến phòng tu hành của [obj_goodschool].</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], đột nhiên muốn đấu một trận với người của [obj_badschool].</Events.23.Story>
+		</Text>
+		<Text Name="BrokenFailed">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], vì cảm xúc [rand_lable=obj_badmood,obj_goodmood] mà tâm thần thất thủ, cuối cùng thất bại, vô cùng tiếc nuối.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], vì đột nhiên nhớ đến quê hương mà tâm thần không yên, cuối cùng thất bại, vô cùng tiếc nuối.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], vì đột nhiên bị phân tâm bởi [obj_nearthing] bên cạnh mà công sức đổ bể, vô cùng tiếc nuối.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], vì đột nhiên muốn ăn [obj_food] mà tâm cảnh rối loạn, cuối cùng dẫn đến thất bại, vô cùng tiếc nuối.</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], vì đột nhiên nhớ đến [obj_relation] của mình mà tâm thần dao động, cuối cùng dẫn đến thất bại, vô cùng tiếc nuối.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], dòng suy nghĩ bất chợt tràn về, cuối cùng dẫn đến thất bại, vô cùng tiếc nuối.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], vì lo lắng liệu có thể đột phá bình cảnh hay không, dẫn đến thất bại, vô cùng tiếc nuối.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang đột phá bình cảnh [obj_neck], vì đột nhiên nghi ngờ bản thân mà dẫn đến thất bại, vô cùng tiếc nuối.</Events.8.Story>
+		</Text>
+		<Text Name="Golding">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang kết thành Kim Đan Đại Đạo, đột nhiên rất nhớ nhà.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang kết thành Kim Đan Đại Đạo, hình ảnh của [obj_friend] bất chợt hiện lên trong đầu.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang kết thành Kim Đan Đại Đạo, đột nhiên cảm thấy thứ [obj_nearthing] bên cạnh rất thú vị...</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang kết thành Kim Đan Đại Đạo, đột nhiên muốn ăn [obj_food].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang kết thành Kim Đan Đại Đạo, đột nhiên nhớ đến [obj_relation] của mình.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang kết thành Kim Đan Đại Đạo, đột nhiên suy nghĩ miên man.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang kết thành Kim Đan Đại Đạo, đột nhiên rơi nước mắt.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang kết thành Kim Đan Đại Đạo, đột nhiên cảm thấy bực bội không rõ lý do.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang kết thành Kim Đan Đại Đạo, đột nhiên muốn đến [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] để xem thử.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang kết thành Kim Đan Đại Đạo, cảm thấy cuộc sống như thế này thật tốt.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi kết đan đạo Kim Đan, cảm thấy người tu hành thật tốt, nhưng thực sự cũng không dễ dàng.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi kết đan đạo Kim Đan, bỗng muốn xuống núi trải nghiệm một phen.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi kết đan đạo Kim Đan, bị cảm xúc [rand_lable=obj_badmood,obj_goodmood] ảnh hưởng, có chút không thể tĩnh tâm.</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi kết đan đạo Kim Đan, không khỏi lo lắng liệu có thể phá vỡ nút thắt [obj_neck] hay không.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi kết đan đạo Kim Đan, cảm thán sâu sắc rằng [obj_gong] thực sự là rộng lớn và sâu sắc.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi kết đan đạo Kim Đan, không kìm được hoài nghi liệu mình có phù hợp để tu luyện công pháp [obj_gong] này hay không.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi kết đan đạo Kim Đan, bỗng nghi ngờ liệu cuốn bí kíp [obj_esoterica] này có vấn đề gì không.</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi kết đan đạo Kim Đan, không kìm được cảm thán rằng cuốn bí kíp [obj_esoterica] này thực sự được viết rất tinh tế.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi kết đan đạo Kim Đan, không hiểu sao lại muốn điều khiển [obj_fabao], thử cảm giác.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi kết đan đạo Kim Đan, không hiểu sao lại muốn ăn một viên [obj_dan], thử hương vị.</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi kết đan đạo Kim Đan, không hiểu sao lại muốn dùng kiếm đâm [obj_friend] hai nhát.</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi kết đan đạo Kim Đan, bỗng nhớ đến phòng tu luyện của [obj_goodschool].</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi kết đan đạo Kim Đan, bỗng muốn đánh một trận với người của [obj_badschool].</Events.23.Story>
+		</Text>
+		<Text Name="Thundering">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi độ kiếp, bỗng rất nhớ nhà.</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi độ kiếp, trong đầu bỗng hiện lên hình ảnh của [obj_friend].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi độ kiếp, bỗng cảm thấy thứ bên cạnh [obj_nearthing] thật thú vị...</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi độ kiếp, bỗng muốn ăn [obj_food].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi độ kiếp, bỗng nhớ đến [obj_relation] của mình.</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi độ kiếp, bỗng suy nghĩ miên man.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi độ kiếp, bỗng rơi nước mắt.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi độ kiếp, bỗng cảm thấy vô cớ bực bội.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi độ kiếp, bỗng muốn đến [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] để xem thử.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi độ kiếp, cảm thấy cuộc sống như vậy thật tốt.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi độ kiếp, cảm thấy người tu hành thật tốt, nhưng thực sự cũng không dễ dàng.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi độ kiếp, bỗng muốn xuống núi trải nghiệm một phen.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi độ kiếp, bị cảm xúc [rand_lable=obj_badmood,obj_goodmood] ảnh hưởng, có chút không thể tĩnh tâm.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi độ kiếp, không khỏi lo lắng liệu có thể phá vỡ nút thắt [obj_neck] hay không.</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi độ kiếp, cảm thán sâu sắc rằng [obj_gong] thực sự là rộng lớn và sâu sắc.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi độ kiếp, không kìm được hoài nghi liệu mình có phù hợp để tu luyện công pháp [obj_gong] này hay không.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi độ kiếp, bỗng nghi ngờ liệu cuốn bí kíp [obj_esoterica] này có vấn đề gì không.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi độ kiếp, không kìm được cảm thán rằng cuốn bí kíp [obj_esoterica] này thực sự được viết rất tinh tế.</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi độ kiếp, không hiểu sao lại muốn điều khiển [obj_fabao], thử cảm giác.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi độ kiếp, không hiểu sao lại muốn ăn một viên [obj_dan], thử hương vị.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi độ kiếp, không hiểu sao lại muốn dùng kiếm đâm [obj_friend] hai nhát.</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi độ kiếp, bỗng nhớ đến phòng tu luyện của [obj_goodschool].</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi độ kiếp, bỗng muốn đánh một trận với người của [obj_badschool].</Events.22.Story>
+		</Text>
+		<Text Name="RefiningDan">
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi luyện chế [obj], bỗng rất nhớ nhà.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi luyện chế [obj], trong đầu bỗng hiện lên hình ảnh của [obj_friend].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi luyện chế [obj], bỗng cảm thấy thứ bên cạnh [obj_nearthing] thật thú vị...</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi luyện chế [obj], bỗng muốn ăn [obj_food].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi luyện chế [obj], bỗng nhớ đến [obj_relation] của mình.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi luyện chế [obj], bỗng suy nghĩ miên man.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi luyện chế [obj], bỗng rơi nước mắt.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi luyện chế [obj], bỗng cảm thấy vô cớ bực bội.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi luyện chế [obj], bỗng muốn đến [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] để xem thử.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi luyện chế [obj], cảm thấy cuộc sống như vậy thật tốt.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi luyện chế [obj], cảm thấy người tu hành thật tốt, nhưng thực sự cũng không dễ dàng.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi luyện chế [obj], bỗng muốn xuống núi trải nghiệm một phen.</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi luyện chế [obj], bị cảm xúc [rand_lable=obj_badmood,obj_goodmood] ảnh hưởng, có chút không thể tĩnh tâm.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi luyện chế [obj], không khỏi lo lắng liệu có thể phá vỡ nút thắt [obj_neck] hay không.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi luyện chế [obj], cảm thán sâu sắc rằng [obj_gong] thực sự là rộng lớn và sâu sắc.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi luyện chế [obj], không kìm được hoài nghi liệu mình có phù hợp để tu luyện công pháp [obj_gong] này hay không.</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi luyện chế [obj], bỗng nghi ngờ liệu cuốn bí kíp [obj_esoterica] này có vấn đề gì không.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi luyện chế [obj], không kìm được cảm thán rằng cuốn bí kíp [obj_esoterica] này thực sự được viết rất tinh tế.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi luyện chế [obj], không hiểu sao lại muốn điều khiển [obj_fabao], thử cảm giác.</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi luyện chế [obj], không hiểu sao lại muốn ăn một viên [obj_dan], thử hương vị.</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi luyện chế [obj], không hiểu sao lại muốn dùng kiếm đâm [obj_friend] hai nhát.</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi luyện chế [obj], bỗng nhớ đến phòng tu luyện của [obj_goodschool].</Events.23.Story>
+			<Events.24.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện chế [obj], đột nhiên muốn đấu một trận với người của [obj_badschool].</Events.24.Story>
+		</Text>
+		<Text Name="RefiningDanFailed">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện chế [obj], vì tâm trạng [rand_lable=obj_badmood,obj_goodmood] mà mất tập trung, cuối cùng thất bại, thật đáng tiếc.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện chế [obj], vì đột nhiên nhớ quê nhà mà tâm trí không yên, cuối cùng thất bại, thật đáng tiếc.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện chế [obj], vì bị phân tâm bởi [obj_nearthing] ở bên cạnh mà thất bại, thật đáng tiếc.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện chế [obj], vì đột nhiên muốn ăn [obj_food] mà tâm trạng rối loạn, cuối cùng thất bại, thật đáng tiếc.</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện chế [obj], vì đột nhiên nhớ đến [obj_relation] của mình mà tâm trí dao động, cuối cùng thất bại, thật đáng tiếc.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện chế [obj], những suy nghĩ bất chợt trào dâng, cuối cùng dẫn đến thất bại, thật đáng tiếc.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện chế [obj], vì lo lắng liệu có thể đột phá được bình cảnh hay không, dẫn đến thất bại, thật đáng tiếc.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện chế [obj], vì đột nhiên hoài nghi bản thân mà dẫn đến thất bại, thật đáng tiếc.</Events.8.Story>
+		</Text>
+		<Text Name="Refining">
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, đột nhiên rất nhớ nhà.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, hình ảnh của [obj_friend] bất chợt hiện lên trong đầu.</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, đột nhiên cảm thấy [obj_nearthing] bên cạnh rất thú vị...</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, đột nhiên muốn ăn [obj_food].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, đột nhiên nhớ đến [obj_relation] của mình.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, suy nghĩ bỗng chốc ngổn ngang.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, đột nhiên rơi nước mắt.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, đột nhiên cảm thấy bực bội khó hiểu.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, đột nhiên muốn đến [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] xem thử.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, cảm thấy cuộc sống như vậy thật đẹp.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, cảm thấy làm người tu hành tuy tốt, nhưng thực sự cũng không dễ dàng.</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, đột nhiên muốn xuống núi trải nghiệm một chút.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, bị ảnh hưởng bởi tâm trạng [rand_lable=obj_badmood,obj_goodmood], khó mà tĩnh tâm.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, không khỏi lo lắng liệu có thể đột phá bình cảnh [obj_neck] hay không.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, cảm thán sâu sắc rằng [obj_gong] thực sự là sâu rộng vô tận.</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, không khỏi nghi ngờ liệu mình có phù hợp để tu luyện công pháp [obj_gong] này hay không.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, đột nhiên nghi ngờ liệu bí kíp [obj_esoterica] này có vấn đề hay không.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, không khỏi cảm thán rằng bí kíp [obj_esoterica] này thực sự được viết rất tinh tế.</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, không hiểu sao lại muốn điều khiển [obj_fabao] để thử cảm giác.</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, không hiểu sao lại muốn ăn một viên [obj_dan], thử xem mùi vị ra sao.</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, không hiểu sao lại muốn dùng kiếm đâm [obj_friend] vài nhát.</Events.23.Story>
+			<Events.24.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, đột nhiên nhớ đến phòng tu luyện của [obj_goodschool].</Events.24.Story>
+			<Events.25.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, đột nhiên muốn đấu một trận với người của [obj_badschool].</Events.25.Story>
+		</Text>
+		<Text Name="RefiningFailed">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, vì tâm trạng [rand_lable=obj_badmood,obj_goodmood] mà mất tập trung, cuối cùng thất bại, thật đáng tiếc.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, vì đột nhiên nhớ quê nhà mà tâm trí không yên, cuối cùng thất bại, thật đáng tiếc.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, vì bị phân tâm bởi [obj_nearthing] ở bên cạnh mà thất bại, thật đáng tiếc.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, vì đột nhiên muốn ăn [obj_food] mà tâm trạng rối loạn, cuối cùng thất bại, thật đáng tiếc.</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, vì đột nhiên nhớ đến [obj_relation] của mình mà tâm trí dao động, cuối cùng thất bại, thật đáng tiếc.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, những suy nghĩ bất chợt trào dâng, cuối cùng dẫn đến thất bại, thật đáng tiếc.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, vì lo lắng liệu có thể đột phá được bình cảnh hay không, dẫn đến thất bại, thật đáng tiếc.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc luyện [obj] thành pháp bảo, vì đột nhiên hoài nghi bản thân mà dẫn đến thất bại, thật đáng tiếc.</Events.8.Story>
+		</Text>
+		<Text Name="PaintCharm">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc vẽ [obj], đột nhiên rất nhớ nhà.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc vẽ [obj], hình ảnh của [obj_friend] bất chợt hiện lên trong đầu.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc vẽ [obj], đột nhiên cảm thấy [obj_nearthing] bên cạnh rất thú vị...</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc vẽ [obj], đột nhiên muốn ăn [obj_food].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc vẽ [obj], đột nhiên nhớ đến [obj_relation] của mình.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc vẽ [obj], suy nghĩ bỗng chốc ngổn ngang.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc vẽ [obj], đột nhiên rơi nước mắt.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc vẽ [obj], đột nhiên cảm thấy bực bội khó hiểu.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc vẽ [obj], đột nhiên muốn đến [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] xem thử.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc vẽ [obj], cảm thấy cuộc sống như vậy thật đẹp.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc vẽ [obj], cảm thấy làm người tu hành tuy tốt, nhưng thực sự cũng không dễ dàng.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc vẽ [obj], đột nhiên muốn xuống núi trải nghiệm một chút.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc vẽ [obj], bị ảnh hưởng bởi tâm trạng [rand_lable=obj_badmood,obj_goodmood], khó mà tĩnh tâm.</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc vẽ [obj], không khỏi lo lắng liệu có thể đột phá bình cảnh [obj_neck] hay không.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] trong lúc vẽ [obj], cảm thán sâu sắc rằng [obj_gong] thực sự là sâu rộng vô tận.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang vẽ [obj], không kìm được mà nghi ngờ liệu mình có phù hợp để tu luyện công pháp [obj_gong] này không.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang vẽ [obj], đột nhiên nghi ngờ liệu bí kíp [obj_esoterica] này có vấn đề không.</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang vẽ [obj], không kìm được mà cảm thán rằng bí kíp [obj_esoterica] này quả thực rất tinh tế.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang vẽ [obj], không biết vì sao lại muốn thử điều khiển [obj_fabao] để cảm nhận cảm giác.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang vẽ [obj], không biết vì sao lại muốn ăn một viên [obj_dan] để thử mùi vị.</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang vẽ [obj], không biết vì sao lại muốn dùng kiếm đâm [obj_friend] hai nhát.</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang vẽ [obj], đột nhiên nhớ đến phòng tu luyện của [obj_goodschool].</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang vẽ [obj], đột nhiên muốn đánh một trận với người của [obj_badschool].</Events.23.Story>
+		</Text>
+		<Text Name="CastMagic">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang thi triển [obj], đột nhiên rất nhớ nhà.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang thi triển [obj], hình ảnh của [obj_friend] bất ngờ hiện lên trong đầu.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang thi triển [obj], đột nhiên cảm thấy vật bên cạnh [obj_nearthing] rất thú vị...</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang thi triển [obj], đột nhiên muốn ăn [obj_food].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang thi triển [obj], đột nhiên nhớ đến [obj_relation] của mình.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang thi triển [obj], đột nhiên suy nghĩ miên man.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang thi triển [obj], đột nhiên rơi nước mắt.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang thi triển [obj], đột nhiên cảm thấy bực bội không rõ lý do.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang thi triển [obj], đột nhiên muốn đến [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] để xem thử.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang thi triển [obj], cảm thấy cuộc sống như thế này thật tốt đẹp.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang thi triển [obj], cảm thấy người tu hành tuy tốt nhưng thực sự cũng không dễ dàng.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang thi triển [obj], đột nhiên muốn xuống núi để trải nghiệm một chút.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang thi triển [obj], bị cảm xúc [rand_lable=obj_badmood,obj_goodmood] ảnh hưởng, khó mà giữ tâm tĩnh lặng.</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang thi triển [obj], không khỏi lo lắng liệu có thể vượt qua nút thắt [obj_neck] hay không.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang thi triển [obj], cảm thán sâu sắc rằng [obj_gong] thực sự là rộng lớn và uyên thâm.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang thi triển [obj], không kìm được mà nghi ngờ liệu mình có phù hợp để tu luyện công pháp [obj_gong] này không.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang thi triển [obj], đột nhiên nghi ngờ liệu bí kíp [obj_esoterica] này có vấn đề không.</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang thi triển [obj], không kìm được mà cảm thán rằng bí kíp [obj_esoterica] này quả thực rất tinh tế.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang thi triển [obj], không biết vì sao lại muốn thử điều khiển [obj_fabao] để cảm nhận cảm giác.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang thi triển [obj], không biết vì sao lại muốn ăn một viên [obj_dan] để thử mùi vị.</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang thi triển [obj], không biết vì sao lại muốn dùng kiếm đâm [obj_friend] hai nhát.</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang thi triển [obj], đột nhiên nhớ đến phòng tu luyện của [obj_goodschool].</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] khi đang thi triển [obj], đột nhiên muốn đánh một trận với người của [obj_badschool].</Events.23.Story>
+		</Text>
+	</List>
+</Texts>
+

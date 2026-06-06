@@ -1,0 +1,65 @@
+房间	Phòng
+农田	Ruộng
+灵植影响范围	Phạm vi ảnh hưởng linh thực
+鹿蜀皮薄衣衫	Áo mỏng da Lộc Thục
+鹿蜀皮薄下裳	Hạ Thường Da Lộc Thục mỏng
+寒精长枪	Hàn Tinh Trường Thương
+寒晶角料	Tinh hàn vụn
+凝光千魂碎	Ngưng Quang Thiên Hồn Toái
+玄铁角料	Huyền thiết vụn
+落樱七杀钉	Đinh Thất Sát Hoa Anh Đào
+灵晶弓	Linh Tinh Cung
+落影千魂弓	Cung Lạc Ảnh Thiên Hồn
+书	Sách
+苍莽五色简	Thương Mãng Ngũ Sắc Giản
+佩戴者可以提高抵御土属性伤害之力。	Người đeo có thể tăng lực kháng tổn thương thuộc tính Thổ.
+土甲符	Thổ giáp phù
+佩戴者可以提高道行。	Người đeo có thể tăng đạo hạnh.
+借天符	Tá Thiên Phù
+可以轻微提高炼制丹药的产量。	Có thể tăng nhẹ sản lượng luyện chế đan dược.
+万化承丹符	Vạn hóa nhận đan phù
+鹿蜀皮休闲下裳	Da lộc thục Hưu Nhàn Hạ Thường
+灵木锤	Gỗ linh mộc
+莲藕	Ngó sen
+凝光千光藕	Ngưng Quang Thiên Quang Ngẫu
+牛皮	Da bò
+戊己屠魔罩	Mậu Kỷ Đồ Ma Che
+可以提高移动速度的符咒。	Là phù chú có thể tăng tốc độ di chuyển.
+轻身符	Phù nhẹ thân
+可以略微提高修炼速度。	Là phù chú có thể tăng tốc độ tu luyện một chút.
+天心符	Thiên Tâm phù
+佩戴者可以提高法宝回灵倍率。	Người đeo có thể tăng tỷ lệ hồi linh của pháp bảo.
+灵剑符	Linh kiếm phù
+角色出生点	Điểm sinh nhân vật
+逻辑点	Điểm logic
+圣火	Thánh hỏa
+灵石长明兽神灯	Linh thạch Trường Minh Thú Thần Đăng
+火铜墙	Hoả Đồng Tường
+火铜长明兽神灯	Đèn Thần Thú Đồng Đỏ Trường Minh
+火铜门	Hoả Đồng Môn
+火铜异首兽型炉	Lò hình thú dị thủ đồng đỏ
+火铜地母祭灯	Đèn tế Hỏa Đồng Địa Mẫu
+火铜鼎	Hoả Đồng đỉnh
+乱界	Loạn giới
+冤孽	Oan nghiệt
+巫马	Vu Mã
+裕	Dụ
+权	Quyền
+慕儿	Mộ Nhi
+司空	Ti Không
+时	Thì
+储	Trữ
+晓凡	Hiểu Phàm
+谢	Tạ
+健	Cường tráng
+赤霄宫燃灵诀	Xích Tiêu Cung Nhiên Linh Quyết
+逆浪落花神雷	Nghịch Lãng Lạc Hoa thần lôi
+长生陨星神雷	Trường Sinh Vẫn Tinh Thần Lôi
+太上清心诀	Thái Thượng Thanh Tâm Quyết
+戊己九极咒	Mậu Kỷ Cửu Cực Chú
+庚金震地诀	Canh Kim Chấn Địa Quyết
+御神飞星诀	Quyết Ngự Thần Phi Tinh
+你是何人？此处乃圣火宫禁地，速速离去！否则格杀勿论？	Ngươi là ai? Đây là cấm địa của Thánh Hỏa Cung, mau rời đi! Bằng không sẽ bị xử tử!
+如此恣意妄为！如此骄纵轻狂！哪怕此界将灭，吾等也将在最后时光捍卫圣火之尊严。	Thật là ngạo mạn! Thật là kiêu căng phóng túng! Dù thế giới này sắp diệt, chúng ta cũng sẽ bảo vệ sự tôn nghiêm của Thánh hỏa đến phút cuối cùng.
+
+

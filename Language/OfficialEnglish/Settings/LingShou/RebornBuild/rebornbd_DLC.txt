@@ -1,0 +1,5 @@
+race	bdtag	desc
+LsPandaXian	PandaStone	Với Thiên Mạc Tu Tu là anh em, là một trong những con nhỏ tuổi nhất. Sau khi sinh ra, cơ thể bị khuyết tật, nhờ nhận được tinh hoa sinh mệnh của anh trai mà sống sót, mặc dù vẫn không thể tu luyện, nhưng đã nhận được linh khí của trời đất, hóa thành thân thú linh.
+LsPandaXiu	PandaStone	Với Thiên Mạc Tiên Tiên là anh em, là một trong những con lớn tuổi hơn. Sau khi sinh ra, vì cứu em trai mà đã chuyển giao tinh hoa sinh mệnh của bản thân, vì vậy trí tuệ và cơ thể không còn có thể tự phát triển, nhưng cũng vì thế mà có thể mượn một phần năng lực của Tiên Tiên để chiến đấu.
+
+

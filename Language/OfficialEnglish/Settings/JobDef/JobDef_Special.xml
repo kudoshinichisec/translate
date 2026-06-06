@@ -1,0 +1,32 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="JobFreePatrol">
+			<DisplayName>Tuần tra</DisplayName>
+		</Text>
+		<Text Name="JobFreeFollow">
+			<DisplayName>Đi theo</DisplayName>
+		</Text>
+		<Text Name="JobFollow">
+			<DisplayName>Đi theo</DisplayName>
+		</Text>
+		<Text Name="JobGoOutspread">
+			<DisplayName>Nhậm chức chủ trì</DisplayName>
+		</Text>
+		<Text Name="JobLeaveOutspread">
+			<DisplayName>Từ chức trở về</DisplayName>
+		</Text>
+		<Text Name="JobGoOutsMember">
+			<DisplayName>Trở thành đệ tử</DisplayName>
+		</Text>
+		<Text Name="JobSpringXiaoYao">
+			<DisplayName>Tiểu yêu tuần du</DisplayName>
+		</Text>
+		<Text Name="JobSpringXiaoYaoEscape">
+			<DisplayName>Hoảng sợ bỏ chạy</DisplayName>
+		</Text>
+		<Text Name="JobDiMuWish">
+			<DisplayName>Đi ước nguyện</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

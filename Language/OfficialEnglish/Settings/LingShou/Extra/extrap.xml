@@ -1,0 +1,95 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Fat">
+			<RaceExtra.0.Lv.0.SName>Gầy</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.Desc>Trông rất gầy. Tốc độ di chuyển tăng lên đáng kể.</RaceExtra.0.Lv.0.Desc>
+			<RaceExtra.0.Lv.1.SName>Gầy</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.Desc>Trông hơi gầy. Tốc độ di chuyển tăng nhẹ.</RaceExtra.0.Lv.1.Desc>
+			<RaceExtra.0.Lv.2.SName>Cân đối</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.2.Desc>Trông không béo cũng không gầy.</RaceExtra.0.Lv.2.Desc>
+			<RaceExtra.0.Lv.3.SName>Mập</RaceExtra.0.Lv.3.SName>
+			<RaceExtra.0.Lv.3.Desc>Trông hơi mập, giá trị tối đa của Linh Khí tăng một chút, nhưng tốc độ di chuyển giảm.</RaceExtra.0.Lv.3.Desc>
+			<RaceExtra.0.Lv.4.SName>Béo</RaceExtra.0.Lv.4.SName>
+			<RaceExtra.0.Lv.4.Desc>Trông rất béo, giá trị tối đa của Linh Khí tăng mạnh nhưng tốc độ di chuyển cũng giảm đáng kể.</RaceExtra.0.Lv.4.Desc>
+		</Text>
+		<Text Name="Stronger">
+			<RaceExtra.0.Lv.0.SName>Xương</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.Desc>Chỉ còn da bọc xương, không có nhiều cơ bắp, tiêu hao pháp thuật giảm đáng kể.</RaceExtra.0.Lv.0.Desc>
+			<RaceExtra.0.Lv.1.SName>Xương</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.Desc>Không có nhiều cơ bắp, tiêu hao pháp thuật giảm nhẹ.</RaceExtra.0.Lv.1.Desc>
+			<RaceExtra.0.Lv.2.SName>Trung bình</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.2.Desc>Trông không vạm vỡ cũng không gầy gò.</RaceExtra.0.Lv.2.Desc>
+			<RaceExtra.0.Lv.3.SName>Khỏe</RaceExtra.0.Lv.3.SName>
+			<RaceExtra.0.Lv.3.Desc>Trông rất khỏe mạnh, Nội Đan tăng nhẹ.</RaceExtra.0.Lv.3.Desc>
+			<RaceExtra.0.Lv.4.SName>Cường tráng</RaceExtra.0.Lv.4.SName>
+			<RaceExtra.0.Lv.4.Desc>Trông rất cường tráng, Nội Đan tăng mạnh.</RaceExtra.0.Lv.4.Desc>
+		</Text>
+		<Text Name="Justice">
+			<RaceExtra.0.Lv.0.SName>Sát tính lạnh lẽo</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.Desc>Sát tính lạnh lẽo, độ bền của lá chắn giảm mạnh, cường độ pháp thuật và sức mạnh tấn công Nội Đan tăng đáng kể.</RaceExtra.0.Lv.0.Desc>
+			<RaceExtra.0.Lv.1.SName>Sát tính cô đọng</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.Desc>Sát tính cô đọng, độ bền của lá chắn giảm nhẹ, cường độ pháp thuật và sức mạnh tấn công Nội Đan tăng nhẹ.</RaceExtra.0.Lv.1.Desc>
+			<RaceExtra.0.Lv.2.SName>Không có</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.2.Desc>Không có sự khác biệt rõ rệt giữa Linh và Sát.</RaceExtra.0.Lv.2.Desc>
+			<RaceExtra.0.Lv.3.SName>Linh tính dồi dào</RaceExtra.0.Lv.3.SName>
+			<RaceExtra.0.Lv.3.Desc>Có một chút Linh tính. Độ bền của lá chắn tăng nhẹ, cường độ pháp thuật và sức mạnh tấn công Nội Đan giảm.</RaceExtra.0.Lv.3.Desc>
+			<RaceExtra.0.Lv.4.SName>Linh tính tràn đầy</RaceExtra.0.Lv.4.SName>
+			<RaceExtra.0.Lv.4.Desc>Có rất nhiều Linh tính. Độ bền của lá chắn tăng mạnh, cường độ pháp thuật và sức mạnh tấn công Nội Đan giảm đáng kể.</RaceExtra.0.Lv.4.Desc>
+			<RaceExtra.1.Lv.0.SName>Sát tính lạnh lẽo</RaceExtra.1.Lv.0.SName>
+			<RaceExtra.1.Lv.0.Desc>Sát tính lạnh lẽo, độ bền của lá chắn giảm mạnh, cường độ pháp thuật và sức mạnh tấn công Nội Đan tăng đáng kể. Tốc độ tiêu hao thức ăn và nước uống tăng mạnh, nhưng hiệu quả hấp thụ dinh dưỡng cũng giảm đáng kể.</RaceExtra.1.Lv.0.Desc>
+			<RaceExtra.1.Lv.1.SName>Sát tính cô đọng</RaceExtra.1.Lv.1.SName>
+			<RaceExtra.1.Lv.1.Desc>Sát tính cô đọng, độ bền của lá chắn giảm nhẹ, cường độ pháp thuật và sức mạnh tấn công Nội Đan tăng nhẹ. Tốc độ tiêu hao thức ăn và nước uống tăng, nhưng hiệu quả hấp thụ dinh dưỡng cũng giảm.</RaceExtra.1.Lv.1.Desc>
+			<RaceExtra.1.Lv.2.SName>Sát tính mờ nhạt</RaceExtra.1.Lv.2.SName>
+			<RaceExtra.1.Lv.2.Desc>Mang theo một chút sát khí.</RaceExtra.1.Lv.2.Desc>
+			<RaceExtra.1.Lv.3.SName>Linh tính mờ nhạt</RaceExtra.1.Lv.3.SName>
+			<RaceExtra.1.Lv.3.Desc>Mang theo một chút linh tính.</RaceExtra.1.Lv.3.Desc>
+			<RaceExtra.1.Lv.4.SName>Linh tính dồi dào</RaceExtra.1.Lv.4.SName>
+			<RaceExtra.1.Lv.4.Desc>Linh tính dồi dào. Độ bền của lá chắn tăng nhẹ, cường độ pháp thuật và sức mạnh tấn công Nội Đan giảm. Tốc độ tiêu hao thức ăn và nước uống giảm, nhưng hiệu quả hấp thụ dinh dưỡng tăng.</RaceExtra.1.Lv.4.Desc>
+			<RaceExtra.1.Lv.5.SName>Linh tính tràn đầy</RaceExtra.1.Lv.5.SName>
+			<RaceExtra.1.Lv.5.Desc>Linh tính tràn đầy. Độ bền của lá chắn tăng mạnh, cường độ pháp thuật và sức mạnh tấn công Nội Đan giảm đáng kể. Tốc độ tiêu hao thức ăn và nước uống giảm đáng kể, nhưng hiệu quả hấp thụ dinh dưỡng tăng mạnh.</RaceExtra.1.Lv.5.Desc>
+		</Text>
+		<Text Name="NeiDan">
+			<RaceExtra.0.Lv.2.SpecialAbility.0.Desc>Khi tấn công kẻ địch có 1% cơ hội gây thêm sát thương bằng 30% Linh Khí hiện tại của mục tiêu.</RaceExtra.0.Lv.2.SpecialAbility.0.Desc>
+			<RaceExtra.1.Lv.2.SpecialAbility.0.Desc>Mỗi 9 lần tấn công sẽ kích hoạt một pháp thuật lên kẻ địch.</RaceExtra.1.Lv.2.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="GrowPercent">
+			<RaceExtra.0.Lv.0.SName>Long</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.Desc>Một phần nhỏ sức mạnh của Rồng.</RaceExtra.0.Lv.0.Desc>
+			<RaceExtra.0.Lv.1.SName>Long</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.Desc>Một phần sức mạnh của Rồng.</RaceExtra.0.Lv.1.Desc>
+			<RaceExtra.0.Lv.2.SName>Long</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.2.Desc>Sức mạnh Rồng thức tỉnh hoàn toàn.</RaceExtra.0.Lv.2.Desc>
+			<RaceExtra.1.Lv.0.SName>Phượng</RaceExtra.1.Lv.0.SName>
+			<RaceExtra.1.Lv.0.Desc>Một phần nhỏ sức mạnh của Phượng.</RaceExtra.1.Lv.0.Desc>
+			<RaceExtra.1.Lv.1.SName>Phượng</RaceExtra.1.Lv.1.SName>
+			<RaceExtra.1.Lv.1.Desc>Một phần sức mạnh của Phượng.</RaceExtra.1.Lv.1.Desc>
+			<RaceExtra.1.Lv.2.SName>Phượng</RaceExtra.1.Lv.2.SName>
+			<RaceExtra.1.Lv.2.Desc>Sức mạnh Phượng thức tỉnh hoàn toàn.</RaceExtra.1.Lv.2.Desc>
+			<RaceExtra.2.Lv.0.SName>Hồ</RaceExtra.2.Lv.0.SName>
+			<RaceExtra.2.Lv.0.Desc>Một phần nhỏ sức mạnh của Hồ.</RaceExtra.2.Lv.0.Desc>
+			<RaceExtra.2.Lv.1.SName>Hồ</RaceExtra.2.Lv.1.SName>
+			<RaceExtra.2.Lv.1.Desc>Một phần sức mạnh của Hồ.</RaceExtra.2.Lv.1.Desc>
+			<RaceExtra.2.Lv.2.SName>Hồ</RaceExtra.2.Lv.2.SName>
+			<RaceExtra.2.Lv.2.Desc>Sức mạnh Hồ thức tỉnh hoàn toàn.</RaceExtra.2.Lv.2.Desc>
+			<RaceExtra.3.Lv.0.SName>Chó</RaceExtra.3.Lv.0.SName>
+			<RaceExtra.3.Lv.0.Desc>Một phần nhỏ sức mạnh của Chó.</RaceExtra.3.Lv.0.Desc>
+			<RaceExtra.3.Lv.1.SName>Chó</RaceExtra.3.Lv.1.SName>
+			<RaceExtra.3.Lv.1.Desc>Một phần sức mạnh của Chó.</RaceExtra.3.Lv.1.Desc>
+			<RaceExtra.3.Lv.2.SName>Chó</RaceExtra.3.Lv.2.SName>
+			<RaceExtra.3.Lv.2.Desc>Sức mạnh Chó thức tỉnh hoàn toàn.</RaceExtra.3.Lv.2.Desc>
+			<RaceExtra.4.Lv.0.SName>Mạc</RaceExtra.4.Lv.0.SName>
+			<RaceExtra.4.Lv.0.Desc>Sức mạnh Âm Dương bị thiếu hụt.</RaceExtra.4.Lv.0.Desc>
+			<RaceExtra.4.Lv.1.SName>Mạc</RaceExtra.4.Lv.1.SName>
+			<RaceExtra.4.Lv.1.Desc>Sức mạnh Âm Dương không hoàn chỉnh.</RaceExtra.4.Lv.1.Desc>
+			<RaceExtra.4.Lv.2.SName>Mạc</RaceExtra.4.Lv.2.SName>
+			<RaceExtra.4.Lv.2.Desc>Sức mạnh Âm Dương thức tỉnh hoàn toàn.</RaceExtra.4.Lv.2.Desc>
+			<RaceExtra.5.Lv.0.SName>Huyền Vũ</RaceExtra.5.Lv.0.SName>
+			<RaceExtra.5.Lv.0.Desc>Sức mạnh Huyền Vũ bị thiếu hụt.</RaceExtra.5.Lv.0.Desc>
+			<RaceExtra.5.Lv.1.SName>Huyền Vũ</RaceExtra.5.Lv.1.SName>
+			<RaceExtra.5.Lv.1.Desc>Sức mạnh Huyền Vũ không hoàn chỉnh.</RaceExtra.5.Lv.1.Desc>
+			<RaceExtra.5.Lv.2.SName>Huyền Vũ</RaceExtra.5.Lv.2.SName>
+			<RaceExtra.5.Lv.2.Desc>Sức mạnh Huyền Vũ hoàn chỉnh.</RaceExtra.5.Lv.2.Desc>
+		</Text>
+	</List>
+</Texts>
+

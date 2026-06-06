@@ -1,0 +1,29 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="WanJie_DanBase" sParam="Item">
+			<Item.FabaoSuffix>Ngọc, hoàn, cầu</Item.FabaoSuffix>
+		</Text>
+		<Text Name="WanJie_ClothesBase" sParam="Item">
+			<Item.FabaoSuffix>Áo, Giáp, Che, Áo Choàng</Item.FabaoSuffix>
+		</Text>
+		<Text Name="WanJie_TrousersBase" sParam="Item">
+			<Item.FabaoSuffix>Áo, Giáp, Che, Áo Choàng</Item.FabaoSuffix>
+		</Text>
+		<Text Name="WanJie_BowBase" sParam="Item">
+			<Item.FabaoSuffix>Cung</Item.FabaoSuffix>
+		</Text>
+		<Text Name="WanJie_KnifeBase" sParam="Item">
+			<Item.FabaoSuffix>Nhận</Item.FabaoSuffix>
+		</Text>
+		<Text Name="WanJie_LanceBase" sParam="Item">
+			<Item.FabaoSuffix>Thương</Item.FabaoSuffix>
+		</Text>
+		<Text Name="WanJie_HalbertBase" sParam="Item">
+			<Item.FabaoSuffix>Búa</Item.FabaoSuffix>
+		</Text>
+		<Text Name="WanJie_AxeRingBase" sParam="Item">
+			<Item.FabaoSuffix>Vòng</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>
+

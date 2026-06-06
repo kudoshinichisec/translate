@@ -1,0 +1,335 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Sleep">
+			<Desc>Ngủ</Desc>
+		</Text>
+		<Text Name="EatWeight">
+			<Desc>Ăn theo kế hoạch</Desc>
+		</Text>
+		<Text Name="EatShit">
+			<Desc>Ăn phân</Desc>
+		</Text>
+		<Text Name="EatEssence">
+			<Desc>Ăn thiên tài địa bảo</Desc>
+		</Text>
+		<Text Name="EatDrug">
+			<Desc>Ăn đan dược</Desc>
+		</Text>
+		<Text Name="EatWheat">
+			<Desc>Ăn lúa mì</Desc>
+		</Text>
+		<Text Name="EatDryMeat">
+			<Desc>Ăn thịt khô</Desc>
+		</Text>
+		<Text Name="EatPear">
+			<Desc>Ăn lê</Desc>
+		</Text>
+		<Text Name="EatMeat">
+			<Desc>Ăn thịt sống</Desc>
+		</Text>
+		<Text Name="EatCook">
+			<Desc>Ăn thức ăn chín</Desc>
+		</Text>
+		<Text Name="BiteBuilding">
+			<Desc>Tấn công công trình</Desc>
+		</Text>
+		<Text Name="BiteClothes">
+			<Desc>Tấn công quần áo</Desc>
+		</Text>
+		<Text Name="BiteOuter">
+			<Desc>Tấn công cửa ngoài</Desc>
+		</Text>
+		<Text Name="BiteInner">
+			<Desc>Tấn công cửa trong</Desc>
+		</Text>
+		<Text Name="BiteVisitor">
+			<Desc>Tấn công khách viếng thăm</Desc>
+		</Text>
+		<Text Name="BiteIncoming">
+			<Desc>Tấn công khách đến</Desc>
+		</Text>
+		<Text Name="BiteExpel">
+			<Desc>Tấn công người phàm lạ</Desc>
+		</Text>
+		<Text Name="AtkEnemy">
+			<Desc>Tấn công kẻ địch</Desc>
+		</Text>
+		<Text Name="ShitAtShitPlace">
+			<Desc>Đi vệ sinh tại điểm xả thải</Desc>
+		</Text>
+		<Text Name="ShitAtPlants">
+			<Desc>Đi vệ sinh bên cạnh cây cối</Desc>
+		</Text>
+		<Text Name="ShitAtDogHouse">
+			<Desc>Đi vệ sinh gần tổ</Desc>
+		</Text>
+		<Text Name="ShitAtStorage">
+			<Desc>Đi vệ sinh trong kho</Desc>
+		</Text>
+		<Text Name="ShitOnBed">
+			<Desc>Đi vệ sinh trên giường</Desc>
+		</Text>
+		<Text Name="ShitInFarm">
+			<Desc>Đi vệ sinh trong ruộng</Desc>
+		</Text>
+		<Text Name="CarryOuterToBed">
+			<Desc>Chăm sóc đệ tử</Desc>
+		</Text>
+		<Text Name="CarryOuterToDest">
+			<Desc>Vận chuyển người ngoại môn bất tỉnh</Desc>
+		</Text>
+		<Text Name="CarryInnerToDest">
+			<Desc>Vận chuyển người nội môn bất tỉnh</Desc>
+		</Text>
+		<Text Name="CarryVisitorToDest">
+			<Desc>Vận chuyển khách viếng thăm bất tỉnh</Desc>
+		</Text>
+		<Text Name="CarryEnemyToDest">
+			<Desc>Vận chuyển kẻ địch bất tỉnh</Desc>
+		</Text>
+		<Text Name="CarryIncomingToDest">
+			<Desc>Vận chuyển khách đến bất tỉnh</Desc>
+		</Text>
+		<Text Name="CarryEnemyBodyToDest">
+			<Desc>Vận chuyển xác kẻ địch</Desc>
+		</Text>
+		<Text Name="CarryVisitorBodyToDest">
+			<Desc>Vận chuyển xác khách viếng thăm</Desc>
+		</Text>
+		<Text Name="CarryIncomingBodyToDest">
+			<Desc>Vận chuyển xác khách đến</Desc>
+		</Text>
+		<Text Name="CarryOuterBodyToDest">
+			<Desc>Vận chuyển xác người ngoại môn</Desc>
+		</Text>
+		<Text Name="CarryInnerBodyToDest">
+			<Desc>Vận chuyển xác người nội môn</Desc>
+		</Text>
+		<Text Name="CarryMortalToDest">
+			<Desc>Vận chuyển người phàm bất tỉnh</Desc>
+		</Text>
+		<Text Name="CarryMortalBodyToDest">
+			<Desc>Vận chuyển xác người phàm</Desc>
+		</Text>
+		<Text Name="HelpCarry">
+			<Desc>Sắp xếp đồ đạc</Desc>
+		</Text>
+		<Text Name="HelpTimber">
+			<Desc>Chặt</Desc>
+		</Text>
+		<Text Name="HelpMine">
+			<Desc>Khai mỏ</Desc>
+		</Text>
+		<Text Name="HelpFind">
+			<Desc>Thu thập đồ vật</Desc>
+		</Text>
+		<Text Name="HelpKill">
+			<Desc>Giết mổ</Desc>
+		</Text>
+		<Text Name="HelpPlant">
+			<Desc>Tưới nước</Desc>
+		</Text>
+		<Text Name="CureFreeze">
+			<Desc>Chữa trị tê cóng</Desc>
+		</Text>
+		<Text Name="CureHot">
+			<Desc>Chữa trị say nắng</Desc>
+		</Text>
+		<Text Name="HelpCook">
+			<Desc>Nấu ăn</Desc>
+		</Text>
+		<Text Name="HeatEndure">
+			<Desc>Làm mát</Desc>
+		</Text>
+		<Text Name="ColdEndure">
+			<Desc>Nhiệt độ lò</Desc>
+		</Text>
+		<Text Name="HelpPlay">
+			<Desc>Chơi cùng</Desc>
+		</Text>
+		<Text Name="PlayToy">
+			<Desc>Chơi đồ vật</Desc>
+		</Text>
+		<Text Name="TrainQiGan">
+			<Desc>Huấn luyện linh khí</Desc>
+		</Text>
+		<Text Name="TrainNeiDan">
+			<Desc>Huấn luyện điều khiển đan</Desc>
+		</Text>
+		<Text Name="TrainHuTi">
+			<Desc>Huấn luyện bảo vệ cơ thể</Desc>
+		</Text>
+		<Text Name="TrainLingZhi">
+			<Desc>Huấn luyện linh trí</Desc>
+		</Text>
+		<Text Name="TrainShuFa">
+			<Desc>Huấn luyện pháp thuật</Desc>
+		</Text>
+		<Text Name="AtkDizzyOuter">
+			<Desc>Tấn công người ngoại môn bất tỉnh</Desc>
+		</Text>
+		<Text Name="AtkDizzyInner">
+			<Desc>Tấn công người nội môn bất tỉnh</Desc>
+		</Text>
+		<Text Name="AtkDizzyComing">
+			<Desc>Tấn công khách đến bất tỉnh</Desc>
+		</Text>
+		<Text Name="AtkDizzyVisitor">
+			<Desc>Tấn công khách viếng thăm bất tỉnh</Desc>
+		</Text>
+		<Text Name="AtkDizzyExpel">
+			<Desc>Tấn công người phàm bất tỉnh</Desc>
+		</Text>
+		<Text Name="FeedTongXie">
+			<Desc>Cho uống Thông Tiết Tán</Desc>
+		</Text>
+		<Text Name="HealInner">
+			<Desc>Chữa trị vết thương</Desc>
+		</Text>
+		<Text Name="Lay">
+			<Desc>Thổi gió</Desc>
+		</Text>
+		<Text Name="Pee">
+			<Desc>Đi tiểu</Desc>
+		</Text>
+		<Text Name="FastCook">
+			<Desc>Nấu ăn</Desc>
+		</Text>
+		<Text Name="CureInner">
+			<Desc>Chữa trị vết thương</Desc>
+		</Text>
+		<Text Name="HelpPlantD">
+			<Desc>Đi tiểu</Desc>
+		</Text>
+		<Text Name="ESkill">
+			<Desc>Dùng pháp thuật đối địch</Desc>
+		</Text>
+		<Text Name="FSkill">
+			<Desc>Dùng pháp thuật hỗ trợ Bằng Hữu</Desc>
+		</Text>
+		<Text Name="Feed_Item_Dan_Happiness">
+			<Desc>Cho uống đan cực lạc</Desc>
+		</Text>
+		<Text Name="Feed_Item_Dan_PracticeSpeed">
+			<Desc>Cho uống đan vàng non</Desc>
+		</Text>
+		<Text Name="Feed_Item_Dan_CalmDown">
+			<Desc>Cho uống đan thanh tâm</Desc>
+		</Text>
+		<Text Name="Feed_Item_LingStone">
+			<Desc>Cho uống linh thạch</Desc>
+		</Text>
+		<Text Name="Feed_Item_LingCrystal">
+			<Desc>Cho uống linh tinh</Desc>
+		</Text>
+		<Text Name="Eat_Item_SnakeGallbladder">
+			<Desc>Ăn mật rắn</Desc>
+		</Text>
+		<Text Name="Eat_Item_BearGallbladder">
+			<Desc>Ăn mật gấu</Desc>
+		</Text>
+		<Text Name="Eat_Item_RedGinseng">
+			<Desc>Ăn Xích Tham</Desc>
+		</Text>
+		<Text Name="Eat_Item_PurpleGanodermaLucidum">
+			<Desc>Ăn Tử Chi</Desc>
+		</Text>
+		<Text Name="Eat_Item_TuEssence">
+			<Desc>Ăn Giả Hoàng Tinh</Desc>
+		</Text>
+		<Text Name="Eat_Item_HuoEssence">
+			<Desc>Ăn Chu Quả</Desc>
+		</Text>
+		<Text Name="Eat_Item_ShuiEssence">
+			<Desc>Ăn Ngũ sắc Kim Liên</Desc>
+		</Text>
+		<Text Name="Eat_Item_JinEssence">
+			<Desc>Ăn Lang Gia Quả</Desc>
+		</Text>
+		<Text Name="Eat_Item_MuEssence">
+			<Desc>Ăn Mộc Khô Đằng</Desc>
+		</Text>
+		<Text Name="Eat_Item_LifeStream">
+			<Desc>Ăn Trường Sinh Tuyền</Desc>
+		</Text>
+		<Text Name="Eat_Item_LongEgg">
+			<Desc>Ăn Giao Long Đích Noãn</Desc>
+		</Text>
+		<Text Name="Eat_Item_FengEgg">
+			<Desc>Ăn Phượng Hoàng Đích Noãn</Desc>
+		</Text>
+		<Text Name="Eat_Item_DragonShit">
+			<Desc>Ăn Thiên Long Sa</Desc>
+		</Text>
+		<Text Name="Eat_Item_Jiaozi">
+			<Desc>Ăn bánh bao</Desc>
+		</Text>
+		<Text Name="Eat_Item_BossFeng_Meat">
+			<Desc>Ăn Hung Phượng Huyết Nhục</Desc>
+		</Text>
+		<Text Name="Eat_Item_BossLong_Meat">
+			<Desc>Ăn Giao Long Huyết Nhục</Desc>
+		</Text>
+		<Text Name="Eat_Item_BossZhuLong_Meat">
+			<Desc>Ăn Nguyên Sơ Huyết Nhục</Desc>
+		</Text>
+		<Text Name="Eat_Item_Cake">
+			<Desc>Ăn bánh mì</Desc>
+		</Text>
+		<Text Name="Eat_Item_MonsterBlood">
+			<Desc>Ăn Yêu Linh Huyết</Desc>
+		</Text>
+		<Text Name="Eat_Item_EarthEssence">
+			<Desc>Ăn Địa Mẫu linh dịch</Desc>
+		</Text>
+		<Text Name="Eat_Item_SilverGrit">
+			<Desc>Ăn Hàn Tinh Sa</Desc>
+		</Text>
+		<Text Name="Eat_Item_CopperGrit">
+			<Desc>Ăn Hỏa Đồng Sa</Desc>
+		</Text>
+		<Text Name="Eat_Item_Cinnabar">
+			<Desc>Ăn chu sa</Desc>
+		</Text>
+		<Text Name="Eat_Item_LingMuXueJie">
+			<Desc>Ăn Linh Mộc Huyết Kiệt</Desc>
+		</Text>
+		<Text Name="Eat_Item_EarthEssence_1">
+			<Desc>Ăn Linh Tủy Chi</Desc>
+		</Text>
+		<Text Name="Eat_Item_EarthEssence1_1">
+			<Desc>Ăn Huyết Tủy Chi</Desc>
+		</Text>
+		<Text Name="Eat_Item_Healroot">
+			<Desc>Ăn thảo dược</Desc>
+		</Text>
+		<Text Name="Eat_Item_Mint">
+			<Desc>Ăn Thanh Tâm Thảo</Desc>
+		</Text>
+		<Text Name="Eat_Item_MagicHerb">
+			<Desc>Ăn Linh Tiên Thảo</Desc>
+		</Text>
+		<Text Name="Eat_Item_Laxative">
+			<Desc>Ăn Thông Tiết Tán</Desc>
+		</Text>
+		<Text Name="Eat_Item_BambooShoot">
+			<Desc>Ăn Trúc Duẩn</Desc>
+		</Text>
+		<Text Name="Eat_Item_Bamboo">
+			<Desc>Ăn tre</Desc>
+		</Text>
+		<Text Name="FakeEatItem">
+			<Desc>Ăn uống</Desc>
+		</Text>
+		<Text Name="Eat_Item_Dan_SanHuaHuangJing">
+			<Desc>Ăn Tam Hoa Hoàng Tinh Hoàn</Desc>
+		</Text>
+		<Text Name="Eat_Item_WuDang_HuangJingFen">
+			<Desc>Ăn Hoàng Tinh Phấn</Desc>
+		</Text>
+		<Text Name="Eat_Item_Dan_WuQiNoHunger2">
+			<Desc>Ăn Ngũ Khí Tịch Cốc Đan</Desc>
+		</Text>
+	</List>
+</Texts>
+

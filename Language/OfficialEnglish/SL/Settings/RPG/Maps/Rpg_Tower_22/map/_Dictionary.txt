@@ -1,0 +1,50 @@
+蜚皮薄衣衫	Da phi Bạc Y Sam
+蜚皮修行下裳	Phi Bì Tu Hành Hạ Sam
+天柱石长枪	Thiên Trụ Thạch Thương Dài
+角色出生点	Điểm sinh nhân vật
+逻辑点	Điểm logic
+灵石七杀神碑	Linh Thạch Thất Sát Thần Bia
+上古残迹	Di tích cổ đại
+上古残骸	Di hài cổ đại
+灵石巨兽骨雕	Linh thạch Cự Thú Cốt Điêu
+虬	Cầu
+胤	Dẫn
+身躯	Thân mình
+混元臂·左	Cánh tay Hỗn Nguyên - trái
+混元臂·右	Hỗn nguyên Cánh Tay·Phải
+天盾腿·左	Thiên thuẫn chân·trái
+天盾腿·右	Thiên Thuẫn Chân·Phải
+六合玄通尺	Thước Huyền Thông Lục Hợp
+撼渊腿·左	Chân Hãm Uyên·Trái
+两界通圣手·左	Lưỡng Giới Thông Thánh Thủ - Trái
+无形手·左	Vô Hình Tay·Trái
+无形手·右	Vô Hình Tay·Phải
+焚神掌·左	Chưởng thiêu thần·Trái
+冻魄掌·右	Đông Phách Chưởng · Hữu
+千触邪臂	Thiên Xúc Tà Tí
+玄龟甲	Giáp Huyền Quy
+六御摘雷手·右	Lục Ngự Trích Lôi Thủ · Hữu
+吞灵灭劫圈	Thôn Linh Diệt Kiếp Hoàn
+妖御玄鳞	Yêu Ngự Huyền Lân
+虚化之体	Hư Hóa Chi Thể
+洞真之体	Động Chân Chi Thể
+外骨邪甲	Ngoại cốt tà giáp
+真阳玲珑心	Tâm Linh Lung Chân Dương
+玄阴琉璃心	Huyền Âm Lưu Ly Tâm
+天龙脊	Thiên Long Tích
+蛮神心	Tâm Man Thần
+蛮极战意	Man Cực Chiến Ý
+八极之眼	Bát Cực Chi Nhãn
+太虚妖识	Thái Hư Yêu Thức
+万兽归息	Vạn Thú Quy Tức
+缪	Mâu
+行	Hành
+许	Hứa
+羽倾	Vũ Khuynh
+云	Vân
+武	Vũ
+不朽的痛苦	Nỗi đau bất tử
+不朽？不过是末日的开端，永翳的阴影，毁灭的前驱……	Bất hủ? Chỉ là khởi đầu tận thế, bóng tối vĩnh hằng, điềm báo của sự tiêu vong..
+成为不朽就意味着一切的衰亡……这个轮回，就从你开始！	Trở thành Bất Hủ nghĩa là mọi thứ đều suy tàn... Luân hồi này, bắt đầu từ ngươi!
+
+

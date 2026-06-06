@@ -1,0 +1,32 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Level1">
+			<DisplayName>Nhất Kiếp Chân Tiên</DisplayName>
+		</Text>
+		<Text Name="Level2">
+			<DisplayName>Nhị Kiếp Chân Tiên</DisplayName>
+		</Text>
+		<Text Name="Level3">
+			<DisplayName>Tam Kiếp Chân Tiên</DisplayName>
+		</Text>
+		<Text Name="Level4">
+			<DisplayName>Tứ Kiếp Chân Tiên</DisplayName>
+		</Text>
+		<Text Name="Level5">
+			<DisplayName>Ngũ Kiếp Chân Tiên</DisplayName>
+		</Text>
+		<Text Name="Level6">
+			<DisplayName>Lục Kiếp Chân Tiên</DisplayName>
+		</Text>
+		<Text Name="Level7">
+			<DisplayName>Thất Kiếp Chân Tiên</DisplayName>
+		</Text>
+		<Text Name="Level8">
+			<DisplayName>Bát Kiếp Chân Tiên</DisplayName>
+		</Text>
+		<Text Name="Level9">
+			<DisplayName>Cửu Kiếp Chân Tiên</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsPandaXian">
+			<PossibleMagic.0.DisplayName>Hòa hợp vạn vật</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>Hy sinh sự phát triển và Linh Trí của bản thân để khiến một con vật gia nhập phe mình. \n[color=#FF0000]Cần đạt Linh Trí 50.[/color]</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>Đại sứ Tiên Giới</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Hy sinh sự phát triển và dinh dưỡng của bản thân để đến một môn phái, tăng mạnh quan hệ giữa môn phái đó và môn phái của mình. \n[color=#FF0000]Cần trưởng thành đạt giai đoạn trưởng thành.[/color]</PossibleMagic.1.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]Cần Thuật Pháp đạt 50.[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Cần Thuật Pháp đạt 100.[/color]</PossibleSkill.1.Desc>
+		</Text>
+		<Text Name="LsPandaXiu">
+			<PossibleSkill.0.Desc>[color=#FF0000]Cần Thuật Pháp đạt 50.[/color]</PossibleSkill.0.Desc>
+		</Text>
+	</List>
+</Texts>
+

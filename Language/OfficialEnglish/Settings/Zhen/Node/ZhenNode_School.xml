@@ -1,0 +1,38 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ZhenMainNode_School_1">
+			<DisplayName>Trận trục Đan Hà</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_2">
+			<DisplayName>Trận trục Côn Lôn</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_3">
+			<DisplayName>Trận trục Cực Thiên</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_4">
+			<DisplayName>Trận trục Tử Tiêu</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_5">
+			<DisplayName>Trận trục Chính Nhất</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_6">
+			<DisplayName>Trận trục Thanh Liên</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_7">
+			<DisplayName>Trận trục Tê Hà</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_8">
+			<DisplayName>Trận trục Bách Man</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_9">
+			<DisplayName>Trận trục Thất Thiên</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_10">
+			<DisplayName>Trận trục Thất Sát</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_11">
+			<DisplayName>Trận trục Hợp Hoan</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

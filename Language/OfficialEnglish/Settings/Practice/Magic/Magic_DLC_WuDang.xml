@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsCalmHeart">
+			<DisplayName>Tĩnh Tâm Nạp Khí</DisplayName>
+			<Desc>Thi triển lên một nhân vật phe ngươi, giúp họ không cần ăn uống và không mệt mỏi trong 3 ngày, nhưng di chuyển chậm hơn.</Desc>
+			<TargetDesc>Vui lòng chọn một Nhân vật đồng minh</TargetDesc>
+		</Text>
+		<Text Name="LsShapeshift">
+			<DisplayName>Đạo Ý Tề Thiên</DisplayName>
+			<Desc>Trì hoãn kiếp hóa hình của một nhân vật phe ngươi, nhưng tiêu hao tuổi thọ của họ.</Desc>
+			<TargetDesc>Hãy chọn một nhân vật đồng minh có hóa hình thiên kiếp</TargetDesc>
+		</Text>
+		<Text Name="LsLingWater">
+			<DisplayName>Linh Thổ Tiên Thiên</DisplayName>
+			<Desc>Hy sinh sự phát triển và dinh dưỡng của bản thân, biến một khu vực thành linh thổ, nhưng sẽ khiến vùng xung quanh trở thành thủy vực bình thường.</Desc>
+			<TargetDesc>Vui lòng chọn một vùng đất trống.</TargetDesc>
+		</Text>
+	</List>
+</Texts>
+

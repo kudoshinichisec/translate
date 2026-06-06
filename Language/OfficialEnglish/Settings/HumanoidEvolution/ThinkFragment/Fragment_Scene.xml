@@ -1,0 +1,153 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SeeTheSky">
+			<DisplayName>Nhìn trời</DisplayName>
+			<SingleFormat.0>Khi {0}, tưởng tượng mình cũng có thể bay lên</SingleFormat.0>
+			<SingleFormat.1>Khi {0}, nhớ đến những chuyện mơ hồ trong quá khứ</SingleFormat.1>
+		</Text>
+		<Text Name="HearEarthQuake">
+			<DisplayName>Cảm nhận thấy động đất</DisplayName>
+			<SingleFormat.0>Bất chợt {0}, nhưng sau đó không có gì xảy ra</SingleFormat.0>
+			<SingleFormat.1>Nghe thấy âm thanh kỳ lạ, đồng thời cũng {0}</SingleFormat.1>
+		</Text>
+		<Text Name="HearFarThunder">
+			<DisplayName>Nghe thấy tiếng sấm xa</DisplayName>
+			<SingleFormat.0>Nhìn thấy dường như đang mưa ở xa, và {0}</SingleFormat.0>
+			<SingleFormat.1>Trời không có gì bất thường, nhưng vẫn {0}</SingleFormat.1>
+		</Text>
+		<Text Name="SmellRain">
+			<DisplayName>Ngửi thấy hơi ẩm</DisplayName>
+			<SingleFormat.0>Nhìn thấy dường như đang mưa ở xa, và {0}</SingleFormat.0>
+			<SingleFormat.1>{0}, có vẻ sắp mưa rồi</SingleFormat.1>
+		</Text>
+		<Text Name="SmellDecay">
+			<DisplayName>Ngửi thấy mùi thối rữa</DisplayName>
+			<SingleFormat.0>Từ xa bay đến một mùi lạ, trong đó {0}</SingleFormat.0>
+			<SingleFormat.1>{0}, có thể trong đất có xác chết</SingleFormat.1>
+		</Text>
+		<Text Name="HearLoud">
+			<DisplayName>Nghe thấy tiếng nổ lớn</DisplayName>
+			<SingleFormat.0>{0}, bất giác giật mình</SingleFormat.0>
+		</Text>
+		<Text Name="ClimbHigh">
+			<DisplayName>Lên cao</DisplayName>
+			<SingleFormat.0>Nhớ lại khi mình {0}, cảm thấy vừa mệt vừa chắc chắn.</SingleFormat.0>
+		</Text>
+		<Text Name="SeeStone">
+			<DisplayName>Nhìn tảng đá lớn</DisplayName>
+			<SingleFormat.0>Nhớ lại khi mình {0}, cảm thấy rất kiên cố.</SingleFormat.0>
+		</Text>
+		<Text Name="Memory">
+			<DisplayName>Hồi ức</DisplayName>
+			<SingleFormat.0>Lục lọi trong ký ức, {0} về thời thơ ấu</SingleFormat.0>
+			<SingleFormat.1>Đầu óc bất chợt hỗn loạn, {0} về quá khứ</SingleFormat.1>
+		</Text>
+		<Text Name="SeeDisciples">
+			<DisplayName>Nhìn đệ tử trang điểm</DisplayName>
+		</Text>
+		<Text Name="SeeSwords">
+			<DisplayName>Nhìn đệ tử bay</DisplayName>
+		</Text>
+		<Text Name="SeeTrain">
+			<DisplayName>Nhìn đệ tử tọa thiền</DisplayName>
+		</Text>
+		<Text Name="SeePlay">
+			<DisplayName>Nhìn đệ tử chơi cờ</DisplayName>
+		</Text>
+		<Text Name="SeeAround">
+			<DisplayName>Nhìn ánh đèn</DisplayName>
+		</Text>
+		<Text Name="SeeScene">
+			<DisplayName>Nhìn phong cảnh</DisplayName>
+		</Text>
+		<Text Name="HearAround">
+			<DisplayName>Lắng nghe tiếng đàn</DisplayName>
+		</Text>
+		<Text Name="HearWind">
+			<DisplayName>Nghe tiếng gió</DisplayName>
+		</Text>
+		<Text Name="HearChat">
+			<DisplayName>Nghe đệ tử ăn</DisplayName>
+		</Text>
+		<Text Name="HearHeartBeat">
+			<DisplayName>Ngửi mùi thuốc</DisplayName>
+		</Text>
+		<Text Name="HearTrain">
+			<DisplayName>Nghe đệ tử làm việc</DisplayName>
+		</Text>
+		<Text Name="HearStep">
+			<DisplayName>Nghe đệ tử luyện công</DisplayName>
+		</Text>
+		<Text Name="HearWormBeep">
+			<DisplayName>Nghe tiếng côn trùng kêu</DisplayName>
+		</Text>
+		<Text Name="SmellAround">
+			<DisplayName>Ngửi mùi hương</DisplayName>
+		</Text>
+		<Text Name="SmellDirt">
+			<DisplayName>Ngửi mùi đất</DisplayName>
+		</Text>
+		<Text Name="SmellSelf">
+			<DisplayName>Ngửi mùi lông thú</DisplayName>
+		</Text>
+		<Text Name="SmellMeal">
+			<DisplayName>Ngửi thấy mùi thức ăn</DisplayName>
+			<SingleFormat.0>Tình cờ {0}, để lại nước dãi</SingleFormat.0>
+		</Text>
+		<Text Name="SmellFire">
+			<DisplayName>Ngửi thấy mùi lửa cháy</DisplayName>
+		</Text>
+		<Text Name="LickSelf">
+			<DisplayName>Nghe tiếng chuông</DisplayName>
+		</Text>
+		<Text Name="Sneeze">
+			<DisplayName>Hắt hơi</DisplayName>
+		</Text>
+		<Text Name="Dream">
+			<DisplayName>Nằm mơ</DisplayName>
+		</Text>
+		<Text Name="PlaySelf">
+			<DisplayName>Tự giải trí</DisplayName>
+		</Text>
+		<Text Name="DayDream">
+			<DisplayName>Ngẩn ngơ</DisplayName>
+		</Text>
+		<Text Name="Sweat">
+			<DisplayName>Đổ mồ hôi</DisplayName>
+		</Text>
+		<Text Name="Poo">
+			<DisplayName>Bài tiết</DisplayName>
+		</Text>
+		<Text Name="Wander">
+			<DisplayName>Ngửi thấy mùi thơm</DisplayName>
+		</Text>
+		<Text Name="Betouch">
+			<DisplayName>Bị săn bắt</DisplayName>
+			<SingleFormat.0>Nhớ lại khi mình {0}, chạy rất nhanh</SingleFormat.0>
+		</Text>
+		<Text Name="Sleep">
+			<DisplayName>Ngủ</DisplayName>
+		</Text>
+		<Text Name="SeeEast">
+			<DisplayName>Hướng mặt về phía đông</DisplayName>
+			<SingleFormat.0>Khi {0}, cảm nhận được một chút khí tức huyền diệu</SingleFormat.0>
+		</Text>
+		<Text Name="SeeSouth">
+			<DisplayName>Hướng mặt về phía nam</DisplayName>
+			<SingleFormat.0>Khi {0}, cảm nhận được một chút khí tức huyền diệu</SingleFormat.0>
+		</Text>
+		<Text Name="SeeWest">
+			<DisplayName>Hướng mặt về phía tây</DisplayName>
+			<SingleFormat.0>Khi {0}, cảm nhận được một chút khí tức huyền diệu</SingleFormat.0>
+		</Text>
+		<Text Name="SeeNorth">
+			<DisplayName>Hướng mặt về phía Bắc</DisplayName>
+			<SingleFormat.0>Khi {0}, cảm nhận được một chút khí tức huyền diệu</SingleFormat.0>
+		</Text>
+		<Text Name="SeeDirt">
+			<DisplayName>Nhìn xuống mặt đất</DisplayName>
+			<SingleFormat.0>Vào lúc {0}, cảm nhận một chút huyền diệu</SingleFormat.0>
+		</Text>
+	</List>
+</Texts>
+

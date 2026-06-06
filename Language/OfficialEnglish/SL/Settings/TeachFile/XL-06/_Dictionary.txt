@@ -1,0 +1,92 @@
+祝贺	Chúc mừng
+房间	Phòng
+仓库	Kho
+蓝布休闲衣衫	Vải xanh Áo Thường Nhật
+野猪皮休闲下裳	Quần Nghỉ Ngơi Da Lợn Rừng
+紫布修行衣衫	Vải tím Áo Tu Hành
+野猪皮修行下裳	Quần Tu Hành Da Lợn Rừng
+肉干	Thịt khô
+灵石墙	Linh thạch tường
+灵石门	Môn Linh thạch
+灵石床	Linh thạch
+灵石灯笼	Đèn lồng linh thạch
+练功点	Điểm luyện công
+公兔子	Thỏ đực
+雌龟	Rùa cái
+雄龟	Rùa đực
+雌青蛙	Ếch cái
+雄青蛙	Ếch đực
+<font color=MYCOLOR>钟离舒</font>因<font color=OBJCOLOR>心境中正</font>心情不错，忍不住来<font color=OBJCOLOR>凝神望天</font>抒怀。	<font color=MYCOLOR>Chung Ly</font> vì <font color=OBJCOLOR>tâm cảnh trung chính</font> nên tâm trạng tốt, không kìm được liền <font color=OBJCOLOR>ngưng thần nhìn trời</font> để giải bày tâm sự.
+1天 12:15	1 ngày 12:15
+钟离	Chung Ly
+舒	Thư
+惊魂初定	Hồn phách ổn định
+和	Hòa
+慕容	Mộ Dung
+碧彤	Bích Đồng
+<font color=MYCOLOR>田纨</font>很喜欢<font color=OBJCOLOR>晴天</font>。	<font color=MYCOLOR>Điền Hoàn</font> rất <font color=OBJCOLOR>thích</font> <font color=OBJCOLOR>ngày nắng</font>.
+1天 09:56	1 ngày 09:56
+田	Điền
+纨	Hoàn
+博	Bác
+冯	Phùng
+亦云	Diệc Vân
+支	Chi
+飞扬	Phi Dương
+药物储量不足	Dự trữ thuốc không đủ
+存档写入完成	Hoàn tất ghi lưu trữ
+钮影感到危险	Nữu Ảnh cảm thấy nguy hiểm
+钟离舒筑基成功	Chung Ly Thư Trúc Cơ Thành Công
+田纨筑基成功	Điền Hoàn Trúc Cơ thành công
+化影诀	Hoá Ảnh quyết
+太乙不朽神雷	Thái Ất Bất Hủ Thần Lôi
+坤元秘要	Khôn Nguyên Bí Yếu
+少量的	Một chút
+千钧	Thiên Quân
+混元式	Hỗn Nguyên Thức
+苍龙迅击密卷	Thương Long Tấn Kích Mật Quyển
+中量的	Vừa
+微草归祖神功	Vi Thảo Quy Tổ Thần Công
+甲乙鲸吞秘要	Giáp Ất Kình Thôn Bí Yếu
+紫云宫神视纪要	Tử Vân Cung Thần Thị Ký Yếu
+大量的	Số lượng lớn
+天妖化血术	Thiên Yêu Hóa Huyết Thuật
+忘情佛心记	Vong Tình Phật Tâm Ký
+太阴锻体	Thái Âm Đoán Thể
+少阴锻体	Thiếu Âm Đoán Thể
+玄阴锻体	Huyền Âm Đoán Thể
+瞬形法	Thuấn Hình Pháp
+九幽炼神	Cửu U Luyện Thần
+太虚神盾	Thái Hư Thần Thuẫn
+少阴诀	Thiếu Âm Quyết
+玄阴诀	Huyền Âm Quyết
+幽狱诀	U Ngục Quyết
+坤元真气	Khôn Nguyên Chân Khí
+一剑	Nhất Kiếm
+秘宝：一剑	Bí Bảo: Nhất Kiếm
+神行术	Thần Hành Thuật
+九州大法	Cửu Châu Đại Pháp
+辟邪真法	Tị Tà Chân Pháp
+幽剑	U Kiếm
+地母玄经	Địa Mẫu Huyền Kinh
+凝珀诀	Ngưng Phách Quyết
+摄神御鬼大法	Nhiếp Thần Ngự Quỷ Đại Pháp
+尘暴术	Trần Bạo Thuật
+玄牝重生法	Huyền Tẫn Trọng Sinh Pháp
+八极炼形诀	Bát Cực Luyện Hình Quyết
+灵视神观	Linh Thị Thần Quan
+太虚元罡	Thái Hư Nguyên Cương
+瞬霎诀	Thuấn Sát Quyết
+太阴诀	Thái Âm Quyết
+渊狱诀	Uyên Ngục Quyết
+通幽秘传	Thông u bí truyền
+幽淬之法	Pháp Luyện U Tẩy
+灵淬之法	Pháp Luyện Linh Tẩy
+厚德篇	Hậu Đức Thiên
+虚空谒神法	Hư Không Nghệ Thần Pháp
+坏灭诀	Hoại Diệt Quyết
+再造形神之术	Tái Tạo Hình Thần Thuật
+天道神丹	Thiên Đạo Thần Đan
+天道神器	Thiên Đạo Thần Khí
+
+

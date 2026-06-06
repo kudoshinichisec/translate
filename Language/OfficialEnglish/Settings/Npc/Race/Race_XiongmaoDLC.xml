@@ -1,0 +1,37 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="YGPanda">
+			<DisplayName>Yêu Mạch</DisplayName>
+			<Desc>Yêu thức tỉnh linh trí và hóa hình: Yêu Mạc</Desc>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+		<Text Name="Panda">
+			<DisplayName>Mạc</DisplayName>
+			<Desc>Động vật bình thường: Mạc</Desc>
+			<TalkBefore>Ê ê,</TalkBefore>
+			<TalkAfter>, Ê!</TalkAfter>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="JYPanda">
+			<DisplayName>Yêu Mạch</DisplayName>
+			<Desc>Động vật chưa thức tỉnh linh trí nhưng có được sức mạnh: Yêu Mạc</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="LsPandaXian">
+			<DisplayName>Thiên Mạc Tiên Tiên</DisplayName>
+			<Desc>Thiên Mạc Tiên Tiên là loài sinh vật kỳ lạ tự nhiên sinh ra trong trời đất, là sự hiện thân của một quy tắc nào đó.</Desc>
+			<TalkBefore>Ê ê,</TalkBefore>
+			<TalkAfter>, Ê!</TalkAfter>
+		</Text>
+		<Text Name="LsPandaXiu">
+			<DisplayName>Thiên Mặc Tu Tu</DisplayName>
+			<Desc>Thiên Mạc Tu Tu là loài sinh vật kỳ lạ tự nhiên sinh ra trong trời đất, là sự hiện thân của một quy tắc nào đó.</Desc>
+			<TalkBefore>Ê ê,</TalkBefore>
+			<TalkAfter>, Ê!</TalkAfter>
+		</Text>
+	</List>
+</Texts>
+

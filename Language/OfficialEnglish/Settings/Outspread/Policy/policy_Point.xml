@@ -1,0 +1,45 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Policy_TianDaoShenDan">
+			<DisplayName>Thu Thập Thiên Đạo</DisplayName>
+			<Desc>Quan sát thiên tượng hoặc phong thủy, theo thời gian sẽ tạo ra Thiên Đạo Thần Đan.</Desc>
+		</Text>
+		<Text Name="Policy_TreasureHunt">
+			<DisplayName>Tìm Bảo</DisplayName>
+			<Desc>Đi đến những nơi chưa khai phá để tìm kiếm bảo vật quý hiếm. Các loại bảo vật khác nhau yêu cầu mức độ ngộ tính và phương pháp khác nhau.</Desc>
+		</Text>
+		<Text Name="Policy_Acceleration">
+			<DisplayName>Lao Động</DisplayName>
+			<Desc>Cử đại diện và đệ tử giám sát lao động, thỉnh thoảng sẽ có sản lượng thêm. Sản lượng ruộng lúa chịu ảnh hưởng bởi thuộc tính nông canh, sản lượng mỏ và quảng trường linh thạch chịu ảnh hưởng bởi kỹ năng kim thạch, sản lượng xưởng gỗ chịu ảnh hưởng bởi số lượng người.</Desc>
+		</Text>
+		<Text Name="Policy_Discipline">
+			<DisplayName>Thụ Giới</DisplayName>
+			<Desc>Cảnh tỉnh thế nhân không được buông thả làm điều ác. Tùy từng tình huống, cần áp dụng các giới luật khác nhau. Thành công hay không phụ thuộc vào khả năng chiến đấu.</Desc>
+		</Text>
+		<Text Name="Policy_Secret">
+			<DisplayName>Mưu Đồ</DisplayName>
+			<Desc>Khuyến khích những người theo các thế lực đại diện khác chuyển sang ủng hộ chúng ta, hoặc can thiệp vào hành động của các thế lực đại diện khác, hoặc quấy rối cuộc sống của người thường. Để thành công cần một mức độ nhận thức nhất định, hoặc một phương pháp đặc biệt nào đó.</Desc>
+		</Text>
+		<Text Name="Policy_Sermon">
+			<DisplayName>Truyền đạo</DisplayName>
+			<Desc>Quảng bá lợi ích của giáo phái chúng ta đến với mọi người. Trong quá trình này cần phải đối mặt với nhiều vấn đề khác nhau, kết quả sẽ bị ảnh hưởng bởi sức hút, sự hấp dẫn và độ ổn định.</Desc>
+		</Text>
+		<Text Name="Policy_Give">
+			<DisplayName>Bố thí</DisplayName>
+			<Desc>Cung cấp tất cả những gì chúng ta có cho những người cần thiết, trong quá trình này cần phải đối mặt với nhiều vấn đề khác nhau. Có thể thu hút một lượng tín đồ nhỏ, sức hút hoặc giá trị ảnh hưởng.</Desc>
+		</Text>
+		<Text Name="Policy_Missionary">
+			<DisplayName>Bố thí</DisplayName>
+			<Desc>Cung cấp tất cả những gì chúng ta có cho những người cần thiết, trong quá trình này cần phải đối mặt với nhiều vấn đề khác nhau. Có thể thu hút một lượng tín đồ nhỏ, sức hút hoặc giá trị ảnh hưởng.</Desc>
+		</Text>
+		<Text Name="Policy_Submiss">
+			<DisplayName>Thu phục</DisplayName>
+			<Desc>Trở thành đại diện duy nhất tại nơi này. Trong thời gian đó, cần phải vượt qua nhiều thử thách từ các sự kiện khác nhau, đạt được tiến độ thu phục, đạt 20 là hoàn thành việc thu phục. Nếu trong quá trình có một bước sơ suất, người thường sẽ cảm thấy lo lắng về chúng ta, phải bắt đầu lại từ đầu. Nếu trong quá trình áp dụng các chính sách khác, việc thu phục cũng sẽ bị gián đoạn.</Desc>
+		</Text>
+		<Text Name="Policy_God">
+			<DisplayName>Thần tích</DisplayName>
+			<Desc>Để các đệ tử tu thần tại nơi này thể hiện thần tích.</Desc>
+		</Text>
+	</List>
+</Texts>
+

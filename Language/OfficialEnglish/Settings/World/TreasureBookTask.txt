@@ -1,0 +1,94 @@
+ID	Desc	HelpTitle
+
+1	Xây dựng 1 đống lửa	Nhóm lửa
+2	Chặt 1 cây	Chặt cây
+3	Xây dựng 1 giếng nước	Lấy nước
+4	Chế tạo 1 phần thịt khô	Nấu thức ăn
+5	Xây dựng điểm chế biến nguyên liệu	Điểm gia công nguyên liệu
+6	Gia công 5 phần gỗ tại điểm gia công nguyên liệu	Gia công gỗ
+7	Quy hoạch khu vực kho hàng	Xây kho
+8	Mở trang bộ lọc kho, để xem trang này	Lên kế hoạch kho
+9	Mở trang tâm trạng bất kỳ Nhân vật nào, Xem tâm trạng Nhân vật	Xem tâm trạng
+10	Xây một phòng, đặt giường trong phòng và chỉ định giường đó cho một Đệ tử cụ thể	Phân phòng
+11	Xây điểm thủ công	Điểm thủ công
+12	Chế tạo dụng cụ nông nghiệp tại điểm thủ công	Chế tạo Dụng Cụ Nông Nghiệp
+13	Quy hoạch một khu vực ruộng và trồng lúa mì	Trồng lúa mì
+14	Đang chế tạo cung gỗ tại điểm thủ công	Chế tạo cung tên
+15	Trang bị cung gỗ cho thợ săn	Trang bị cung tên
+16	Săn bắn một con mồi	Săn bắn!
+17	Chế tạo Cuốc mỏ tại Điểm thủ công	Chế tạo cuốc khoáng
+18	Trang bị cuốc cho thợ đá	Trang bị Cuốc mỏ
+19	Khai thác 1 lần quặng theo lệnh	Thu thập quặng
+20	Mở bảng công việc và đặt ưu tiên đặc biệt cho một nhân vật thành lao công	Sắp xếp lao động
+21	Cho một đệ tử dùng Đan Trúc Cơ	Ăn Trúc Cơ Đan
+22	Thăng cấp một đệ tử lên Nội môn	Thăng cấp nội môn
+23	Xây dựng và phân phối phòng đơn cho đệ tử nội môn	Phân phối phòng nội môn
+24	Thành lập môn phái	Xây dựng lại môn phái
+25	Phái đệ tử đi một lần luyện tập	Lần Đầu Tiên Trải Nghiệm
+26	Quy hoạch khu vực giao dịch	Khu vực giao dịch
+27	Giao dịch một lần với hành thương	Hoàn thành giao dịch
+28	Quy hoạch một ruộng dược, trồng linh tiên thảo	Trồng Linh Tiên Thảo
+29	Xây dựng đài luyện bảo	Xây dựng đài luyện bảo
+30	Xây dựng Lò đan	Xây dựng Lò Luyện Đan
+31	Xây Đài Quan Tinh	Xây Đài Quan Tinh
+32	Nhấn hình ngũ hành góc trên bên phải để xem quan hệ sinh khắc ngũ hành	Xem đồ Ngũ hành
+33	Dùng nguyên liệu kim loại xây giường	Giường thuộc tính Kim
+34	Theo quy tắc Thổ sinh Kim, bên cạnh giường thuộc Kim hãy xây đèn dầu bằng vật liệu thuộc Thổ	Thử đất sinh kim
+35	Xây dựng liên tục các trang trí thuộc tính thổ xung quanh giường thuộc tính kim, khiến giường thuộc tính kim trở thành đại cát	Giường Vàng Đại Cát
+36	Chọn một phòng, và xem phong thủy của phòng đó	Xem phong thủy phòng.
+37	Xây dựng một phòng có đánh giá phong thủy Đại cát	Xây phòng đại cát
+38	Xem thuộc tính công pháp Đệ tử nội môn, dùng vật liệu tương sinh để xây giường cho Đệ tử	Phòng phù hợp với công pháp
+39	Nhấn vào hình Thái cực bên phải để vào chế độ phong thủy, xem phong thủy môn phái	Xem chế độ phong thủy
+40	Làm cho tất cả các công trình phong thủy trong môn phái ít nhất đạt mức Cát trở lên	Cát Cát Cát Cát Cát
+41	Chặt Linh Thụ trên bản đồ để thu được Gỗ linh mộc	Chặt linh thụ
+42	Xây Bồ đoàn và đặt quyền sở hữu Bồ đoàn cho đệ tử Nội môn	Phụ thuộc bồ đoàn
+43	Tụ linh, xây bàn đặt đồ cạnh bồ đoàn, sau đó đặt Linh mộc lên bàn đặt đồ đó	Linh Mộc tụ linh
+44	Mở trang Tham ngộ, tiêu hao Tham ngộ để học bất kỳ nội dung nào	Tham ngộ lần đầu
+45	Chuyển mục tiêu tu luyện của đệ tử nội môn sang điều tâm	Thiết lập điều tâm
+46	Sau khi tâm cảnh đệ tử nội môn đạt trên 75 điểm, hãy đổi mục tiêu tu luyện của đệ tử nội môn thành 'tu luyện'	Thiết Lập Tu Luyện
+47	Khi một đệ tử nội môn tu luyện đạt bình cảnh, hãy thử đột phá bình cảnh	Đột phá bình cảnh
+48	Sử dụng Luyện bảo đài để thử luyện một pháp bảo	Luyện chế pháp bảo
+49	Sử dụng Lò đan để thử luyện một mẻ đan dược	Luyện chế đan dược
+50	Vẽ một lá bùa bất kỳ	Vẽ bùa chú
+51	Giám định phong thủy trấn vật	Giám định phong thủy trấn vật
+52	Kích hoạt vật trấn phong thủy trong phòng	Phong thủy trấn vật có hiệu lực
+53	Quy hoạch kư chăn nuôi	Khu vực chăn nuôi.
+54	Thu phục một Động vật	Thu phục động vật
+55	Trồng một cây Ngũ Hành Linh Căn	Trồng ngũ hành linh căn
+56	Khiến Ngũ hành linh căn bắt đầu sinh trưởng	Ngũ hành linh căn sinh trưởng
+57	Nuôi dưỡng một lần Ngũ Hành Linh Căn	Bồi dưỡng linh căn
+58	Giao cảm với linh căn ngũ hành một lần	Giao cảm
+59	Thăm viếng cổ tu, và hỏi cổ tu về thú cổ xưa	Cổ tu và thú thượng cổ
+60	Dùng phòng phong thủy đại cát trấn áp hang động thần bí	Trấn áp hang động bí ẩn
+61	Vào bản đồ dã ngoại một lần	Kịch bản dã ngoại
+62	Mở một điểm đại lý	Mở điểm đại lý
+63	Phái 10 đệ tử đến một điểm chỉ định	Phái đệ tử
+64	Chọn chính sách cho điểm đại lý và hoàn thành một sự kiện chính sách	Chọn chính sách
+65	Xây dựng một điểm đại lý	Xây dựng điểm đại lý
+66	Đi đến điểm đại lý thu nhận tín ngưỡng một lần	Thu nhận tín ngưỡng
+67	Giao tiếp với bất kỳ nhân vật nào và hỏi thăm để biết một tin tức	Nghe ngóng tin tức
+68	Tặng vật mà bất kỳ chưởng môn môn phái nào yêu thích	Làm theo sở thích
+69	Nhận quyền thông hành của một môn phái	Lấy quyền thông hành
+70	Tiến giai Nội môn bằng Công pháp thần tu	Thần tu
+71	Nhận được Vạn Thọ Thông Tâm Quyết từ Bách Man Sơn, và luyện chế một viên Khai Trí Đan	Luyện chế Khải Trí Đan
+72	Nhận được một con dã thú khai trí	Thu được Động vật khai trí
+73	Đặt một con thú đã Khai trí trong môi trường thoải mái	Sắp xếp môi trường thoải mái
+74	Cho một con thú khai trí quan sát để nhận được các mảnh ý niệm	Thu được Mảnh tư duy
+75	Nhận một ý nghĩ cho thú hoang đã mở trí	Thu được tư duy
+76	Nhận được một mảnh linh trí cho thú khai trí	Thu được mảnh Linh trí
+77	Chính thức khai mở linh trí cho một con thú khai trí	Khai mở Linh trí
+78	Nhận một tinh quái thức tỉnh	Tinh quái thức tỉnh
+79	Thôn phệ vật phẩm để thay đổi tỉ lệ Ngũ Hành của một Tinh Quái đã Giác Tỉnh	Thay đổi tỷ lệ Ngũ Hành
+80	Tiến giai Nội môn bằng Công pháp thể tu	Thể tu
+81	Tiến giai nội môn bằng công pháp phù tu	Phù tu
+82	Nhận được bí kíp trận pháp từ di vật của Thất sư huynh núi Đồng Lĩnh	Di vật Thất Sư huynh
+83	Thiết kế trận pháp trong trang trận pháp	Thiết kế trận pháp
+84	Bố trí 1 trận pháp thành công bởi đệ tử	Bố trí trận pháp
+85	Trang bị áo choàng	Trang bị áo choàng
+86	Chế tạo Linh Khế thông qua Phong Ấn Thần Thông	Chế tạo Linh khế
+87	Nhận thư mời đấu giá từ thương nhân lưu động	Thư mời Đấu giá
+88	Tham gia một phiên đấu giá	Tham gia đấu giá
+89	Đạt được Nguyên Thần Phân Thần	Đạt được Nguyên Thần Phân Thần
+90	Hoàn thành một lần Ký thác Nguyên Thần	Nguyên Thần Ký Thác
+
+

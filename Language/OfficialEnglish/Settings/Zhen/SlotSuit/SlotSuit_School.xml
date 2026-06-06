@@ -1,0 +1,115 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SlotSuit_School_1">
+			<DisplayName>Ý Đan Hà</DisplayName>
+			<SuitEffect.0.Description>Khả năng điều khiển tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Khả năng thuật pháp tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Khả năng phòng ngự tăng thêm</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Độ ổn định tăng thêm</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Hiệu suất trận pháp tăng thêm</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Khả năng vận hành tăng thêm</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Giới hạn linh cơ trận pháp tăng thêm</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_2">
+			<DisplayName>Ý Côn Lôn</DisplayName>
+			<SuitEffect.0.Description>Khả năng điều khiển tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Khả năng thuật pháp tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Khả năng phòng ngự tăng thêm</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Độ ổn định tăng thêm</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Hiệu suất trận pháp tăng thêm</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Khả năng vận hành tăng thêm</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Giới hạn linh cơ trận pháp tăng thêm</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_3">
+			<DisplayName>Ý Cực Thiên</DisplayName>
+			<SuitEffect.0.Description>Khả năng điều khiển tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Khả năng thuật pháp tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Khả năng phòng ngự tăng thêm</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Độ ổn định tăng thêm</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Hiệu suất trận pháp tăng thêm</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Khả năng vận hành tăng thêm</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Giới hạn linh cơ trận pháp tăng thêm</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_4">
+			<DisplayName>Ý Tử Tiêu</DisplayName>
+			<SuitEffect.0.Description>Khả năng điều khiển tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Khả năng thuật pháp tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Khả năng phòng ngự tăng thêm</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Độ ổn định tăng thêm</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Hiệu suất trận pháp tăng thêm</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Khả năng vận hành tăng thêm</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Giới hạn linh cơ trận pháp tăng thêm</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_5">
+			<DisplayName>Ý Chính Nhất</DisplayName>
+			<SuitEffect.0.Description>Khả năng điều khiển tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Khả năng thuật pháp tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Khả năng phòng ngự tăng thêm</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Độ ổn định tăng thêm</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Hiệu suất trận pháp tăng thêm</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Khả năng vận hành tăng thêm</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Giới hạn linh cơ trận pháp tăng thêm</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_6">
+			<DisplayName>Ý Thanh Liên</DisplayName>
+			<SuitEffect.0.Description>Khả năng điều khiển tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Khả năng thuật pháp tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Khả năng phòng ngự tăng thêm</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Độ ổn định tăng thêm</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Hiệu suất trận pháp tăng thêm</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Khả năng vận hành tăng thêm</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Giới hạn linh cơ trận pháp tăng thêm</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_7">
+			<DisplayName>Ý Tê Hà</DisplayName>
+			<SuitEffect.0.Description>Khả năng điều khiển tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Khả năng thuật pháp tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Khả năng phòng ngự tăng thêm</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Độ ổn định tăng thêm</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Hiệu suất trận pháp tăng thêm</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Khả năng vận hành tăng thêm</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Giới hạn linh cơ trận pháp tăng thêm</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_8">
+			<DisplayName>Ý Bách Man</DisplayName>
+			<SuitEffect.0.Description>Khả năng điều khiển tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Khả năng thuật pháp tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Khả năng phòng ngự tăng thêm</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Độ ổn định tăng thêm</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Hiệu suất trận pháp tăng thêm</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Khả năng vận hành tăng thêm</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Giới hạn linh cơ trận pháp tăng thêm</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_9">
+			<DisplayName>Ý Thất Thiên</DisplayName>
+			<SuitEffect.0.Description>Khả năng điều khiển tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Khả năng thuật pháp tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Khả năng phòng ngự tăng thêm</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Độ ổn định tăng thêm</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Hiệu suất trận pháp tăng thêm</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Khả năng vận hành tăng thêm</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Giới hạn linh cơ trận pháp tăng thêm</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_10">
+			<DisplayName>Ý Thất Sát</DisplayName>
+			<SuitEffect.0.Description>Khả năng điều khiển tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Khả năng thuật pháp tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Khả năng phòng ngự tăng thêm</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Độ ổn định tăng thêm</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Hiệu suất trận pháp tăng thêm</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Khả năng vận hành tăng thêm</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Giới hạn linh cơ trận pháp tăng thêm</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_11">
+			<DisplayName>Ý Hợp Hoan</DisplayName>
+			<SuitEffect.0.Description>Khả năng điều khiển tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Khả năng thuật pháp tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Khả năng phòng ngự tăng thêm</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Độ ổn định tăng thêm</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Hiệu suất trận pháp tăng thêm</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Khả năng vận hành tăng thêm</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Giới hạn linh cơ trận pháp tăng thêm</SuitEffect.6.Description>
+		</Text>
+	</List>
+</Texts>
+

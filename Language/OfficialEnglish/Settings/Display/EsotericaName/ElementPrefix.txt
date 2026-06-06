@@ -1,0 +1,8 @@
+Kim Hệ,Canh Kim,Tân Kim,Canh Tân,Bạch Hổ,Kim Lôi,Phích Lịch,Chấn Lôi,Huyền Kim,Thiên Kim,Trảm Thiên,Đoạn Nhạc
+Mộc Hệ,Giáp Mộc,Ất Mộc,Thanh Long,Bích Quang,Trường Sinh,Giáp Ất,Thương Long,Thương Mộc,Thương Mãng,Vạn Mộc
+Thủy Hệ,Nhâm Thủy,Quý Thủy,Nhâm Quý,Huyền Vũ,Tu Xà,Vạn Nguyên Quy Chân,Quy Nguyên,Bách Hối,Ngưng Quang,Kinh Ba,Nghịch Lãng
+Hỏa Hệ,Bính Hỏa,Đinh Hỏa,Bính Đinh,Chu Tước,Sí Hoàng,Xích Viêm,Thiên Hỏa,Bôn Liệt,Phần Nhật,Nhiên Hồn,Tử Hỏa
+Thổ Hệ,Mậu Thổ,Kỷ Thổ,Mậu Kỷ,Kỳ Lân,Địa Long,Khôn Nguyên,Đằng Nhạc,Trấn Nhạc,Hành Cương,Vạn Lý,Thiên Lĩnh
+Hỗn Nguyên,Hỗn Độn
+
+

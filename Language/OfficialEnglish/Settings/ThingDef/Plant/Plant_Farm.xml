@@ -1,0 +1,21 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Wheat" sParam="Plant">
+			<ThingName>Lúa mì</ThingName>
+			<Desc>Nguồn thực phẩm chính, mặc dù chu kỳ sinh trưởng dài, nhưng khả năng thích nghi cao, có thể mọc trong khoảng nhiệt độ [temperature]0[/temperature]-[temperature]40[/temperature]. Năng suất cũng khá lớn.</Desc>
+		</Text>
+		<Text Name="Healroot" sParam="Plant">
+			<ThingName>Thảo dược</ThingName>
+			<Desc>Loại dược liệu cơ bản được sử dụng phổ biến nhất, có thể chế biến thành các loại thuốc khác. Chỉ có thể mọc trong khoảng nhiệt độ [temperature]10[/temperature]-[temperature]40[/temperature].</Desc>
+		</Text>
+		<Text Name="Cotton" sParam="Plant">
+			<ThingName>Bông</ThingName>
+			<Desc>Nguồn sản xuất vải chính, thích hợp với nhiệt độ từ [temperature]5[/temperature]-[temperature]35[/temperature]. Cũng có thể tìm kiếm tại Tiểu Lương Sơn thông qua hành trình.</Desc>
+		</Text>
+		<Text Name="Mushroom" sParam="Plant">
+			<ThingName>Nấm hương</ThingName>
+			<Desc>Một loại thực phẩm nấm phổ biến, thường mọc trong môi trường nhiệt độ từ [temperature]18[/temperature]-[temperature]23[/temperature], chỉ có thể sinh trưởng trong môi trường tối.</Desc>
+		</Text>
+	</List>
+</Texts>
+

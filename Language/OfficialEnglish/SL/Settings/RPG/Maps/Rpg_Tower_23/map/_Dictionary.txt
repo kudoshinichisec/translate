@@ -1,0 +1,58 @@
+妖韧皮薄衣衫	Áo mỏng da yêu quái dai
+妖韧皮休闲下裳	Quần da yêu nhẫn hưu nhàn
+棕石刀	Thạch Đao nâu
+粪便	Phân
+戊土六合粪	Mậu Thổ Lục Hợp phân
+鱼肉	Thịt cá
+幻空辟邪糜	Mi Tà Tịch Huyễn Không
+佩戴者可以提高护体技能等级。	Người đeo có thể tăng cấp độ kỹ năng hộ thể.
+天甲符	Thiên Giáp Phù
+佩戴者可以提高五维。	Người đeo có thể tăng ngũ chiều.
+通天符	Thông thiên phù
+佩戴者可以提高抵御水属性伤害之力。	Người đeo có thể tăng lực kháng tổn thương thuộc tính Thủy.
+水甲符	Thủy Giáp Phù
+角色出生点	Điểm sinh nhân vật
+灵石法座	Linh Thạch Pháp Tọa
+逻辑点	Điểm logic
+归	Quy
+草	Thảo
+单	Đan
+玉石	Đá ngọc
+寇	Khấu
+雅蕊	Nhã Nhị
+鲜于	Tiên Vu
+嘉	Gia
+自然之守护者	Người bảo hộ của tự nhiên
+紫霄接天	Tử Tiêu tiếp thiên
+归真飞星	Quy Chân Phi Tinh
+碧光开天	Bích Quang Khai Thiên
+行疆流光咒	Hành Cương Lưu Quang Chú
+太上绝杀诀	Thái Thượng Tuyệt Sát Quyết
+本源天星	Bản nguyên Thiên Tinh
+地龙先天一气神雷	Địa Long Tiên Thiên Nhất Khí Thần Lôi
+甲乙燃灵神雷	Thần Lôi Nhiên Linh Giáp Ất
+寒月回春真言	Hàn Nguyệt Hồi Xuân Chân Ngôn
+御神落花诀	Ngự Thần Lạc Hoa Quyết
+归真燃灵咒	Quy Chân Nhiên Linh Chú
+庚金天星	Canh Kim Thiên Tinh
+鸿蒙先天一气真言	Hồng Mông Tiên Thiên Nhất Khí Chân Ngôn
+现在贤流光神雷	Thần Lôi Lưu Quang Hiện Hiền
+赤霄宫落花	Xích Tiêu Cung Lạc Hoa
+鸿蒙流光咒	Hồng Mông Lưu Quang Chú
+甲乙飞星真言	Giáp Ất Phi Tinh Chân Ngôn
+五台天星	Ngũ Đài Thiên Tinh
+玉虚燃灵咒	Chú Nhiên Linh Ngọc Hư
+己土十二都天真言	Dismal Thập Nhị Đô Thiên Chân Ngôn
+丙火通天	Bính Hỏa Thông Thiên
+星辰飞星神雷	Tinh Thần Phi Tinh Thần Lôi
+天火镇神咒	Chú Trấn Thần Thiên Hỏa
+百草阁震地诀	Bách Thảo Các Chấn Địa Quyết
+过去庄严接天咒	Chú Tiếp Thiên Trang Nghiêm Quá Khứ
+太上九极诀	Thái Thượng Cửu Cực Quyết
+碧光燃灵咒	Bích Quang Nhiên Linh Chú
+你以为你是谁？妄图征服自然？你比这野草高贵不到哪儿去！	Ngươi tưởng ngươi là ai? Muốn chinh phục tự nhiên? Ngươi chẳng cao quý hơn đám Cỏ dại này đâu!
+真可悲，远道而来，竟愚昧至此。化作这天地的养分吧，这是你最后的升华了。	Thật đáng thương, từ phương xa tới đây lại ngu muội đến mức này. Hãy hóa thành dưỡng chất của Thiên Địa, đây là lần thăng hóa cuối cùng của ngươi.
+无何有之乡	Vô Hà Hữu Chi Hương
+界间残渣	Tàn dư Giới gian
+
+

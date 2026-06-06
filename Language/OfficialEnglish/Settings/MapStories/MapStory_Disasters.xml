@@ -1,0 +1,63 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Disaster_Drought">
+			<DisplayName>Hạn hán</DisplayName>
+			<Desc>Nơi đây đang xảy ra hạn hán.</Desc>
+			<Selections.0.Display>Giúp cứu trợ thiên tai</Selections.0.Display>
+			<Selections.1.Display>Làm trầm trọng thêm thảm họa</Selections.1.Display>
+			<Selections.2.Display>An ủi lòng dân</Selections.2.Display>
+		</Text>
+		<Text Name="Disaster_Flood">
+			<DisplayName>Lũ lụt</DisplayName>
+			<Desc>Nơi đây đang xảy ra lũ lụt.</Desc>
+			<Selections.0.Display>Giúp cứu trợ thiên tai</Selections.0.Display>
+			<Selections.1.Display>Làm trầm trọng thêm thảm họa</Selections.1.Display>
+			<Selections.2.Display>An ủi lòng dân</Selections.2.Display>
+		</Text>
+		<Text Name="Disaster_Siberia">
+			<DisplayName>Lạnh giá</DisplayName>
+			<Desc>Nơi đây đang xảy ra lạnh giá.</Desc>
+			<Selections.0.Display>Giúp cứu trợ thiên tai</Selections.0.Display>
+			<Selections.1.Display>Làm trầm trọng thêm thảm họa</Selections.1.Display>
+			<Selections.2.Display>An ủi lòng dân</Selections.2.Display>
+		</Text>
+		<Text Name="Disaster_EarthQuake">
+			<DisplayName>Động đất</DisplayName>
+			<Desc>Nơi đây đang xảy ra động đất.</Desc>
+			<Selections.0.Display>Giúp cứu trợ thiên tai</Selections.0.Display>
+			<Selections.1.Display>Làm trầm trọng thêm thảm họa</Selections.1.Display>
+			<Selections.2.Display>An ủi lòng dân</Selections.2.Display>
+		</Text>
+		<Text Name="Place_Drought">
+			<DisplayName>Cứu trợ</DisplayName>
+			<Desc>Đại diện [NAME] quyết định xử lý hạn hán.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="Place_Flood">
+			<DisplayName>Cứu trợ</DisplayName>
+			<Desc>Đại diện [NAME] quyết định xử lý lũ lụt.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="Place_Siberia">
+			<DisplayName>Cứu trợ</DisplayName>
+			<Desc>Đại diện [NAME] quyết định xử lý lạnh giá.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="Place_EarthQuake">
+			<DisplayName>Cứu trợ</DisplayName>
+			<Desc>Đại diện [NAME] quyết định xử lý động đất.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="MapStory_DroughtFinish">
+			<DisplayName>Thảm họa kết thúc</DisplayName>
+			<Desc>Thảm họa kéo dài nhiều ngày, dân chúng lầm than, mùa màng giảm sút, nhiều người chết, và nhiều người hơn nữa đã rời bỏ nơi đây.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="MapStory_DroughtSolve">
+			<DisplayName>Thảm họa kết thúc</DisplayName>
+			<Desc>Với nỗ lực của nhiều bên, thảm họa đã được kiểm soát hiệu quả.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>
+

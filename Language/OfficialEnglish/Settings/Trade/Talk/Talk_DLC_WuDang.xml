@@ -1,0 +1,13 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Talk_WuDang">
+			<Hate.0>Nói đi, ngươi đến đây để làm gì?</Hate.0>
+			<Normal.0>Chỉ cần giá cả hợp lý, muốn mua gì cũng được.</Normal.0>
+			<Like.0>Ngươi đến rồi, lần này muốn mua gì?</Like.0>
+			<Submiss.0>Khách quý đến! Không kịp tiếp đón, mong ngươi thứ lỗi.</Submiss.0>
+			<GiftLike.0>Thứ này hợp ý ta, ta sẽ không khách sáo nữa!</GiftLike.0>
+			<LowValueGift.0>Tặng ta thứ này là có ý gì?</LowValueGift.0>
+		</Text>
+	</List>
+</Texts>
+

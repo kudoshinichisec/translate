@@ -1,0 +1,48 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Ls_SheildSkill">
+			<DisplayName>Hậu Thổ Chi Thuẫn</DisplayName>
+		</Text>
+		<Text Name="Ls_TransferQi">
+			<DisplayName>Xả thân quyết</DisplayName>
+		</Text>
+		<Text Name="Ls_FabaoSkill">
+			<DisplayName>Thần kiếm</DisplayName>
+		</Text>
+		<Text Name="Ls_FoxSkillAmp">
+			<DisplayName>Thiêu nhật</DisplayName>
+		</Text>
+		<Text Name="Ls_SkillWater">
+			<DisplayName>Thuật thủy lôi</DisplayName>
+		</Text>
+		<Text Name="Ls_SkillWater5">
+			<DisplayName>Đại pháp thủy lôi</DisplayName>
+		</Text>
+		<Text Name="Ls_Fanshi">
+			<DisplayName>Phản phệ</DisplayName>
+			<Desc>Gây sát thương liên quan đến linh khí tối đa của pháp bảo kẻ địch và tạm thời khiến kẻ địch không thể sử dụng pháp bảo.</Desc>
+		</Text>
+		<Text Name="Ls_Penhuo">
+			<DisplayName>Phun lửa</DisplayName>
+		</Text>
+		<Text Name="Ls_Ci">
+			<DisplayName>Nguyên từ thần quang</DisplayName>
+		</Text>
+		<Text Name="Ls_JinThunder">
+			<DisplayName>Lôi Canh Kim</DisplayName>
+		</Text>
+		<Text Name="Ls_AddModifier">
+			<DisplayName>Hộ thể</DisplayName>
+			<Desc>Tăng mạnh linh khí hộ thuẫn và độ bền bí thể của một đồng minh.</Desc>
+		</Text>
+		<Text Name="Ls_Confuse">
+			<DisplayName>Mê hoặc</DisplayName>
+			<Desc>Mê hoặc một kẻ địch khiến hắn không thể tấn công hoặc di chuyển, nhưng sẽ tỉnh lại khi bị tấn công.</Desc>
+		</Text>
+		<Text Name="Ls_Rongduan">
+			<DisplayName>Nung chảy</DisplayName>
+			<Desc>Sử dụng sức mạnh chân viêm gây sát thương có thể chia sẻ lên một kẻ địch và tạm thời khiến hắn không thể sử dụng thuật pháp.</Desc>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,31 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Building_Geothermy" sParam="Building">
+			<ThingName>Miệng Địa Phế</ThingName>
+			<Desc>Một khe nứt thông thẳng xuống Địa Phế, tỏa ra hơi nóng rực.</Desc>
+		</Text>
+		<Text Name="Building_ColdHole" sParam="Building">
+			<ThingName>Lò đan Huyền Băng</ThingName>
+			<Desc>Lò luyện đan của đại năng thời thượng cổ, từng luyện chế đan dược nghịch thiên nhưng bị thiên kiếp phá hủy. Lực đan hỏa nghịch chuyển thành hàn băng, tồn tại hàng vạn năm không tan.</Desc>
+		</Text>
+		<Text Name="Building_OuterWorld" sParam="Building">
+			<ThingName>Khe nứt dị giới</ThingName>
+			<Desc>Không gian bị phá vỡ do trận chiến của đại năng, dần dần hóa thành một khe nứt dị giới ổn định, không định kỳ có vật phẩm hoặc tu sĩ xuyên qua.</Desc>
+		</Text>
+		<Text Name="Building_YinYang" sParam="Building">
+			<ThingName>Kỳ thạch Âm Dương</ThingName>
+			<Desc>Kỳ thạch sinh ra từ sự luân chuyển của âm dương trong trời đất, ẩn chứa huyền diệu âm dương, cảnh giới đệ tử càng cao thì lĩnh ngộ càng sâu. Nhưng mỗi lần lĩnh ngộ bia đá, thiên tượng đều biến đổi bất thường.</Desc>
+		</Text>
+		<Text Name="Building_DiMu" sParam="Building">
+			<ThingName>Bia đá Địa Mẫu</ThingName>
+			<Desc>Bia tế lễ còn sót lại của giáo phái Địa Mẫu thời thượng cổ, dâng hiến linh thạch có thể giao tiếp với tàn linh Địa Mẫu để cầu nguyện, nhưng sẽ mang đến một số tai họa ngoài ý muốn.</Desc>
+		</Text>
+		<Text Name="LingShu" sParam="Building">
+			<ThingName>Cây Dưỡng Linh</ThingName>
+			<Desc>Loài thực vật kỳ lạ, có thể biến đất xung quanh thành linh thổ. Tuy nhiên, phấn hoa phát tán có thể làm tắc nghẽn kinh mạch, cản trở vận hành linh khí.</Desc>
+			<StoryBnts.0.Name>Cảm nhận</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cảm nhận linh khí trong cây Dưỡng Linh</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>
+

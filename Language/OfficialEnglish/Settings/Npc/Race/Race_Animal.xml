@@ -1,0 +1,101 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Rabbit">
+			<DisplayName>Thỏ</DisplayName>
+			<Desc>Động vật bình thường: Thỏ</Desc>
+			<TalkBefore>Cúc cúc,</TalkBefore>
+			<TalkAfter>, cúc cúc!</TalkAfter>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="Chicken">
+			<DisplayName>Gà</DisplayName>
+			<Desc>Động vật bình thường: Gà.</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+			<TalkBefore>Cục cục tác,</TalkBefore>
+			<TalkAfter>, cục cục!</TalkAfter>
+		</Text>
+		<Text Name="Wolf">
+			<DisplayName>Sói</DisplayName>
+			<Desc>Động vật bình thường: Sói.</Desc>
+			<TalkBefore>Hú uuu,</TalkBefore>
+			<TalkAfter>, hú uuu hú uuu!</TalkAfter>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="Snake">
+			<DisplayName>Rắn</DisplayName>
+			<Desc>Động vật bình thường: Rắn.</Desc>
+			<TalkBefore>Xì xì,</TalkBefore>
+			<TalkAfter>, xì xì!</TalkAfter>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="Boar">
+			<DisplayName>Lợn rừng</DisplayName>
+			<Desc>Động vật bình thường: Lợn rừng.</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+			<TalkBefore>Hừ hừ,</TalkBefore>
+			<TalkAfter>, hừ!</TalkAfter>
+		</Text>
+		<Text Name="Bear">
+			<DisplayName>Gấu</DisplayName>
+			<Desc>Động vật bình thường: Gấu.</Desc>
+			<TalkBefore>Gào gào,</TalkBefore>
+			<TalkAfter>, gào!</TalkAfter>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="Turtle">
+			<DisplayName>Rùa</DisplayName>
+			<Desc>Động vật bình thường: Rùa.</Desc>
+			<TalkBefore>Cạch cạch,</TalkBefore>
+			<TalkAfter>, cạch cạch!</TalkAfter>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="Frog">
+			<DisplayName>Ếch</DisplayName>
+			<Desc>Động vật bình thường: Ếch</Desc>
+			<TalkBefore>Ộp ộp,</TalkBefore>
+			<TalkAfter>, ộp!</TalkAfter>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="Fei">
+			<DisplayName>Phi</DisplayName>
+			<Desc>Dị thú bình thường: Phi.</Desc>
+		</Text>
+		<Text Name="Lushu">
+			<DisplayName>Lộc Thục</DisplayName>
+			<Desc>Dị thú bình thường: Lộc Thục.</Desc>
+		</Text>
+		<Text Name="Cat">
+			<DisplayName>Mèo</DisplayName>
+			<Desc>Động vật bình thường: Mèo.</Desc>
+			<TalkBefore>Meo,</TalkBefore>
+			<TalkAfter>, meo!</TalkAfter>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="Cattle">
+			<DisplayName>Bò</DisplayName>
+			<Desc>Động vật bình thường: Bò.</Desc>
+			<TalkBefore>Ò ò,</TalkBefore>
+			<TalkAfter>, ò ò!</TalkAfter>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="Tiger">
+			<DisplayName>Hổ</DisplayName>
+			<Desc>Động vật bình thường: Hổ.</Desc>
+			<TalkBefore>Gầm gầm,</TalkBefore>
+			<TalkAfter>，Gầm!</TalkAfter>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+	</List>
+</Texts>
+

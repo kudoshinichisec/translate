@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Normal">
+			<Events.0.Story>[name] không biết vì sao, tự nhiên ngẩn ngơ một lúc.</Events.0.Story>
+			<Events.1.Story>[name][rand_string=Hắt xì, ợ hơi, mắt bị dính cát, ngáp, bắt đầu lẩm bẩm, xoa bụng, gãi ngứa, cảm thấy hơi chán, chỉnh tóc, giày bị dính gì đó, giẫm phải thứ gì đó, chỉnh lại quần áo, thở dài, mím môi, liếm môi, lè lưỡi, phủi bụi, ngân nga một bài hát, muốn nói chuyện với ai đó, muốn thử viết thơ, cổ họng hơi ngứa, lắc mũi].</Events.1.Story>
+			<Events.2.Story>[name][rand_string=Vận hành linh khí, lẩm nhẩm vài lần khẩu quyết, hồi tưởng lại tâm pháp].</Events.2.Story>
+			<Events.3.Story>[name] đột nhiên cảm thấy [rand_string=mắt phải, mắt trái] giật giật.</Events.3.Story>
+			<Events.4.Story>[name] hình như nghe thấy ai đó đang gọi tên mình.</Events.4.Story>
+			<Events.5.Story>[name] có một số chuyện liên quan đến [rand_lable=obj_friend,obj_nearthing,other=obj,obj_action] muốn tìm ai đó để tâm sự.</Events.5.Story>
+			<Events.6.Story>[name] rất thích [rand_lable=obj_weather,obj_action].</Events.6.Story>
+			<Events.7.Story>[name] nhìn [rand_lable=obj_friend,obj_nearthing] bên cạnh [rand_string=đang ngẩn ngơ, cười, như đang suy nghĩ điều gì đó].</Events.7.Story>
+			<Events.8.Story>[name] muốn [rand_string=thay, làm sạch, chỉnh lại] [obj_equip].</Events.8.Story>
+		</Text>
+	</List>
+</Texts>
+

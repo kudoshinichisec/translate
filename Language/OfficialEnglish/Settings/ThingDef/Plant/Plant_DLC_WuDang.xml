@@ -1,0 +1,9 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="DLC_Plant_HuangJing" sParam="Plant">
+			<ThingName>Hoàng Tinh</ThingName>
+			<Desc>Một loại linh dược mọc ở núi Võ Đang. Ưa bóng râm, yêu cầu đất trồng có độ phì nhiêu cao.</Desc>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,42 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Boss_Xiongfeng">
+			<DisplayName>Phượng hung</DisplayName>
+		</Text>
+		<Text Name="Boss_XiongfengFight">
+			<DisplayName>Phượng hung</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng_Part">
+			<DisplayName>Vị trí phượng hung</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng_huoling">
+			<DisplayName>Hỏa Linh Chi Lực</DisplayName>
+			<Desc>Phượng hung tích tụ lực lửa linh, đạt 100 tầng sẽ giải phóng lông vũ rực lửa và bước vào trạng thái chân diễm.</Desc>
+		</Text>
+		<Text Name="Boss_Xiongfeng_Huofeng">
+			<DisplayName>Trạng thái chân diễm</DisplayName>
+			<Desc>Trạng thái chân diễm sẽ liên tục tiêu hao lửa linh, khi kết thúc sẽ thu hồi những lông vũ còn tồn tại và hồi phục linh khí.</Desc>
+		</Text>
+		<Text Name="Boss_Xiongfeng_rongjin">
+			<DisplayName>Nung chảy</DisplayName>
+			<Desc>Sau một khoảng thời gian sẽ gây tổn thương, người tu luyện không thuộc thuộc tính kim chỉ chịu một phần ba tổn thương.</Desc>
+		</Text>
+		<Text Name="Boss_Xiongfeng_yishang">
+			<DisplayName>Dễ tổn thương</DisplayName>
+			<Desc>Phượng hung đang trong trạng thái dễ tổn thương.</Desc>
+		</Text>
+		<Text Name="Boss_Xiongfeng_taiyangzhiyan">
+			<DisplayName>Thái Dương Chi Nhãn</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng2">
+			<DisplayName>Phượng hung</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng_Part2">
+			<DisplayName>Vị trí phượng hung</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng_taiyangzhiyan2">
+			<DisplayName>Thái Dương Chi Nhãn</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

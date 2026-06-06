@@ -1,0 +1,13 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_LOST">
+			<DisplayName>Công Pháp Sai Lầm</DisplayName>
+			<Desc>Vật bị thất lạc, không ai biết đây là gì.\n(Mô-đun bị mất)</Desc>
+			<Stages.0.DisplayName>Sai Lầm</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Sai Lầm</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Sai Lầm</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Sai Lầm</Stages.1.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>
+

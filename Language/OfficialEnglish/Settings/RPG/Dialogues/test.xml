@@ -1,0 +1,21 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="rpgDlg_test1">
+			<Nodes.0.Text>Bắt đầu</Nodes.0.Text>
+			<Nodes.1.Text>000001_1 Nhân vật người chơi [HIM] Chào [LUA=XXXXX]!</Nodes.1.Text>
+			<Nodes.2.Text>000001_2 Nhân vật người chơi [HIM] Chào [LUA=XXXXX]!</Nodes.2.Text>
+			<Nodes.3.Text>Lựa chọn A||Lựa chọn A1||Lựa chọn A2||Lựa chọn A3</Nodes.3.Text>
+			<Nodes.4.Text>Lựa chọn B</Nodes.4.Text>
+			<Nodes.5.Text>Lựa chọn C</Nodes.5.Text>
+			<Nodes.6.Text>Lựa chọn D</Nodes.6.Text>
+			<Nodes.7.Npc>Hình nộm</Nodes.7.Npc>
+			<Nodes.7.Text>Ngươi đã chọn lựa chọn A||Ngươi đã chọn lựa chọn A1||Ngươi đã chọn lựa chọn A2</Nodes.7.Text>
+			<Nodes.8.Text>Ngươi đã chọn lựa chọn B</Nodes.8.Text>
+			<Nodes.9.Text>Ngươi đã chọn lựa chọn A</Nodes.9.Text>
+			<Nodes.10.Text>Ngươi đã chọn lựa chọn B</Nodes.10.Text>
+			<Nodes.11.Text>Ngươi đã chọn lựa chọn A</Nodes.11.Text>
+			<Nodes.12.Text>Ngươi đã chọn lựa chọn B</Nodes.12.Text>
+		</Text>
+	</List>
+</Texts>
+

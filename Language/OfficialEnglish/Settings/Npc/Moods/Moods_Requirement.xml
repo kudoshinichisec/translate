@@ -1,0 +1,120 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Hungry1">
+			<DisplayName>Đói đến phát điên.</DisplayName>
+			<Desc>Làm ơn, cho ta ăn gì cũng được.</Desc>
+			<StoryDesc>Vì quá đói mà rên rỉ khe khẽ.</StoryDesc>
+		</Text>
+		<Text Name="Hungry2">
+			<DisplayName>Rất đói.</DisplayName>
+			<Desc>Đói quá, đói quá, đói quá, ta muốn ăn gì đó.</Desc>
+			<StoryDesc>Vì đói bụng mà xoa bụng.</StoryDesc>
+		</Text>
+		<Text Name="Hungry3">
+			<DisplayName>Đói.</DisplayName>
+			<Desc>Đói rồi, có phải nên tìm gì đó để ăn không?</Desc>
+			<StoryDesc>Vì đói bụng mà cúi đầu yếu ớt.</StoryDesc>
+		</Text>
+		<Text Name="Hungry4">
+			<DisplayName>Chướng bụng</DisplayName>
+			<Desc>Ăn quá nhiều, cảm thấy rất khó chịu.</Desc>
+			<StoryDesc>Vì ăn quá nhiều mà mặt đầy vẻ đau khổ, chống lưng.</StoryDesc>
+		</Text>
+		<Text Name="Thirsty1">
+			<DisplayName>Khát nước cực độ.</DisplayName>
+			<Desc>Khát quá, cảm giác linh hồn sắp rời khỏi cơ thể.</Desc>
+			<StoryDesc>Đang ấn lên đôi môi đã nứt nẻ vì quá khát.</StoryDesc>
+		</Text>
+		<Text Name="Thirsty2">
+			<DisplayName>Rất khát.</DisplayName>
+			<Desc>Ta cần nước, làm ơn.</Desc>
+			<StoryDesc>Vì rất khát mà phát ra âm thanh khàn đặc.</StoryDesc>
+		</Text>
+		<Text Name="Thirsty3">
+			<DisplayName>Khát nước.</DisplayName>
+			<Desc>Miệng khô lưỡi khát, có chút nước uống thì tốt biết mấy.</Desc>
+			<StoryDesc>Vì khát nước mà khó khăn nuốt nước bọt.</StoryDesc>
+		</Text>
+		<Text Name="Fatigue1">
+			<DisplayName>Kiệt sức.</DisplayName>
+			<Desc>Mệt quá, ta cảm thấy ta sẽ ngủ ngay giây tiếp theo.</Desc>
+			<StoryDesc>Vì kiệt sức mà buồn ngủ.</StoryDesc>
+		</Text>
+		<Text Name="Fatigue2">
+			<DisplayName>Rất mệt mỏi.</DisplayName>
+			<Desc>Ta cảm thấy nếu không nghỉ ngơi ta sẽ ngất mất.</Desc>
+			<StoryDesc>Vì rất mệt mỏi mà xoa đôi mắt không mở nổi.</StoryDesc>
+		</Text>
+		<Text Name="Fatigue3">
+			<DisplayName>Mệt mỏi.</DisplayName>
+			<Desc>Hơi mệt, muốn ngủ một lát.</Desc>
+			<StoryDesc>Vì mệt mỏi mà ngáp.</StoryDesc>
+		</Text>
+		<Text Name="Entertainment1">
+			<DisplayName>Vô cùng chán nản.</DisplayName>
+			<Desc>Ngày tháng trôi qua quá chán nản, không tìm thấy ý nghĩa của cuộc sống.</Desc>
+			<StoryDesc>Vì vô cùng chán nản mà cảm thấy khó chịu.</StoryDesc>
+		</Text>
+		<Text Name="Entertainment2">
+			<DisplayName>Buồn tẻ.</DisplayName>
+			<Desc>Rất muốn làm gì đó thú vị, cuộc sống buồn tẻ này bao giờ mới kết thúc?</Desc>
+			<StoryDesc>Vì cuộc sống buồn tẻ mà vung tay.</StoryDesc>
+		</Text>
+		<Text Name="Entertainment3">
+			<DisplayName>Chán nản.</DisplayName>
+			<Desc>Gần đây thực sự hơi chán, hay là tìm gì đó vui vẻ làm?</Desc>
+			<StoryDesc>Vì chán nản mà lắc đầu không hài lòng.</StoryDesc>
+		</Text>
+		<Text Name="Entertainment4">
+			<DisplayName>Bình thản.</DisplayName>
+			<Desc>Cuộc sống bình thản, cũng không tệ nhỉ?</Desc>
+			<StoryDesc>Vì cuộc sống bình thản mà khuôn mặt điềm nhiên.</StoryDesc>
+		</Text>
+		<Text Name="Entertainment5">
+			<DisplayName>Thú vị.</DisplayName>
+			<Desc>Cuộc sống đầy thú vị, những ngày như thế này thực sự rất vui.</Desc>
+			<StoryDesc>Vì cuộc sống thú vị mà tràn đầy năng lượng.</StoryDesc>
+		</Text>
+		<Text Name="Entertainment6">
+			<DisplayName>Muôn màu muôn vẻ.</DisplayName>
+			<Desc>Cuộc sống phong phú muôn màu khiến người ta mong chờ mỗi ngày.</Desc>
+			<StoryDesc>Vì cuộc sống muôn màu mà hân hoan phấn khởi.</StoryDesc>
+		</Text>
+		<Text Name="JoinSchool">
+			<DisplayName>Mới vào sơn môn.</DisplayName>
+			<Desc>Ta đã được nhận, ta cũng sẽ trở thành tiên nhân!</Desc>
+			<StoryDesc>Vì vừa được nhận mà phấn khích.</StoryDesc>
+		</Text>
+		<Text Name="NoTool">
+			<DisplayName>Cần công cụ.</DisplayName>
+			<Desc>Dùng tay cũng có thể [TXT] sao? Nhưng đau quá đi.</Desc>
+			<StoryDesc>Vì không có công cụ phù hợp mà đầy lời oán trách.</StoryDesc>
+		</Text>
+		<Text Name="BeKick">
+			<DisplayName>Bị trục xuất.</DisplayName>
+			<Desc>Ta đã làm sai điều gì, tại sao lại đối xử với ta như vậy?</Desc>
+			<StoryDesc>Vì bị trục xuất khỏi môn phái mà tức giận.</StoryDesc>
+		</Text>
+		<Text Name="Iamdying">
+			<DisplayName>Thọ nguyên sắp hết.</DisplayName>
+			<Desc>Ta sắp chết rồi.</Desc>
+			<StoryDesc>Vì thọ nguyên sắp hết mà lo lắng không yên.</StoryDesc>
+		</Text>
+		<Text Name="WalkerBeHelp">
+			<DisplayName>Được giúp đỡ.</DisplayName>
+			<Desc>Thế giới này vẫn còn nhiều người tốt lắm.</Desc>
+			<StoryDesc>Vì được giúp đỡ mà khuôn mặt đầy cảm kích.</StoryDesc>
+		</Text>
+		<Text Name="WalkerBeKick">
+			<DisplayName>Bị trục xuất.</DisplayName>
+			<Desc>Người ở nơi này thật không thể lý giải nổi.</Desc>
+			<StoryDesc>Vì bị đuổi đi mà tức giận.</StoryDesc>
+		</Text>
+		<Text Name="BeSale">
+			<DisplayName>Được tặng quà.</DisplayName>
+			<Desc>Ta đã làm sai điều gì, tại sao lại đối xử với ta như vậy?</Desc>
+			<StoryDesc>Vì được tặng quà mà cảm thấy chán nản.</StoryDesc>
+		</Text>
+	</List>
+</Texts>
+

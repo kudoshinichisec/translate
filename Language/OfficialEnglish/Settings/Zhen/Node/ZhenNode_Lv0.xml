@@ -1,0 +1,59 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Sys_Lost">
+			<DisplayName>Mô-đun bị mất</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_3_1">
+			<DisplayName>Nguyên Trận Xu-Gian</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_3_2">
+			<DisplayName>Nguyên Trận Xu-Chiết</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_3_3">
+			<DisplayName>Nguyên Trận Xu-Loan</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_3_4">
+			<DisplayName>Nguyên Trận Xu-Liên</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_4_1">
+			<DisplayName>Nguyên Trận Xu-Tác</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_4_2">
+			<DisplayName>Nguyên Trận Xu-Tiêm</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_4_3">
+			<DisplayName>Nguyên Trận Xu-Liệt</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_5_1">
+			<DisplayName>Nguyên Trận Xu-Khuyết</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_6_1">
+			<DisplayName>Nguyên Trận Xu-Toàn</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv0_1_1">
+			<DisplayName>Nguyên Trận Nhãn-Kết</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv0_2_1">
+			<DisplayName>Nguyên Trận Nhãn-Đối</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv0_2_2">
+			<DisplayName>Nguyên Trận Nhãn-Cách</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv0_2_3">
+			<DisplayName>Nguyên Trận Nhãn-Tịnh</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv0_3_1">
+			<DisplayName>Nguyên Trận Nhãn-Đoạn</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv0_3_2">
+			<DisplayName>Nguyên Trận Nhãn-Thác</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv0_3_3">
+			<DisplayName>Nguyên Trận Nhãn-Lạc</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv0_3_4">
+			<DisplayName>Nguyên Trận Nhãn-Lâm</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

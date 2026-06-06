@@ -1,0 +1,519 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Building_ZhengFaPlantBase" sParam="Building">
+			<ThingName>Mẫu thực vật cơ bản chinh phạt</ThingName>
+			<StoryBnts.0.Name>Lấy mẫu</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử thu thập mẫu vật của cảnh quan này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ZhengFaBuildBase" sParam="Building">
+			<ThingName>Mẫu công trình cơ bản chinh phạt</ThingName>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="MiracleBase" sParam="Building">
+			<Desc>Kỳ quan môn phái</Desc>
+			<StoryBnts.0.Name>Chiếm đoạt</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Chiếm đoạt kỳ quan này</StoryBnts.0.Desc>
+			<StoryBnts.1.Name>Tham ngộ</StoryBnts.1.Name>
+			<StoryBnts.1.Desc>Lĩnh ngộ quy tắc thiên đạo ẩn chứa bên trong</StoryBnts.1.Desc>
+		</Text>
+		<Text Name="Building_BaBaoGongDe" sParam="Building">
+			<ThingName>Bể công đức bát bảo</ThingName>
+			<Desc>Kỳ quan trấn phái của Động Thiên Đan Hà, truyền thuyết chứa đựng bí ẩn của đạo vũ trụ.</Desc>
+		</Text>
+		<Text Name="Building_BaBaoGongDe_Our" sParam="Building">
+			<ThingName>Bể công đức bát bảo</ThingName>
+			<Desc>Kỳ quan trấn phái của Động Thiên Đan Hà, truyền thuyết chứa đựng bí ẩn của đạo vũ trụ.</Desc>
+		</Text>
+		<Text Name="Building_WanDaoZunFaZuo" sParam="Building">
+			<ThingName>Pháp tọa tôn kính vạn đạo</ThingName>
+			<Desc>Kỳ quan trấn phái của Cung Côn Lôn, truyền thuyết chứa đựng bí ẩn của đạo khai thiên lập địa.</Desc>
+		</Text>
+		<Text Name="Building_WanDaoZunFaZuo_Our" sParam="Building">
+			<ThingName>Pháp tọa tôn kính vạn đạo</ThingName>
+			<Desc>Kỳ quan trấn phái của Cung Côn Lôn, truyền thuyết chứa đựng bí ẩn của đạo khai thiên lập địa.</Desc>
+		</Text>
+		<Text Name="Building_QiQingQingTongShu" sParam="Building">
+			<ThingName>Cây đồng xanh bảy tình</ThingName>
+			<Desc>Kỳ quan trấn phái của Cung Cực Thiên, truyền thuyết chứa đựng bí ẩn của đạo âm dương.</Desc>
+		</Text>
+		<Text Name="Building_QiQingQingTongShu_Our" sParam="Building">
+			<ThingName>Cây đồng xanh bảy tình</ThingName>
+			<Desc>Kỳ quan trấn phái của Cung Cực Thiên, truyền thuyết chứa đựng bí ẩn của đạo âm dương.</Desc>
+		</Text>
+		<Text Name="Building_ZhouTianXingDouPan" sParam="Building">
+			<ThingName>Bàn sao đấu chu thiên</ThingName>
+			<Desc>Kỳ quan trấn phái của Tông Tử Tiêu, truyền thuyết chứa đựng bí ẩn của đạo thời không diễn sinh và đạo nhật nguyệt.</Desc>
+		</Text>
+		<Text Name="Building_ZhouTianXingDouPan_Our" sParam="Building">
+			<ThingName>Bàn sao đấu chu thiên</ThingName>
+			<Desc>Kỳ quan trấn phái của Tông Tử Tiêu, truyền thuyết chứa đựng bí ẩn của đạo thời không diễn sinh và đạo nhật nguyệt.</Desc>
+		</Text>
+		<Text Name="Building_WuLongXuanJinTa" sParam="Building">
+			<ThingName>Tháp huyền dương ngũ long</ThingName>
+			<Desc>Kỳ quan trấn phái của Đạo Huyền Nhất, truyền thuyết chứa đựng bí ẩn của đạo khởi thủy.</Desc>
+		</Text>
+		<Text Name="Building_WuLongXuanJinTa_Our" sParam="Building">
+			<ThingName>Tháp huyền dương ngũ long</ThingName>
+			<Desc>Kỳ quan trấn phái của Đạo Huyền Nhất, truyền thuyết chứa đựng bí ẩn của đạo khởi thủy.</Desc>
+		</Text>
+		<Text Name="Building_ShuShanJianChi" sParam="Building">
+			<ThingName>Hồ kiếm</ThingName>
+			<Desc>Kỳ quan trấn phái của Kiếm Tông Thanh Liên, truyền thuyết chứa đựng bí ẩn của đạo sinh diệt.</Desc>
+		</Text>
+		<Text Name="Building_ShuShanJianChi_Our" sParam="Building">
+			<ThingName>Hồ kiếm</ThingName>
+			<Desc>Kỳ quan trấn phái của Kiếm Tông Thanh Liên, truyền thuyết chứa đựng bí ẩn của đạo sinh diệt.</Desc>
+		</Text>
+		<Text Name="Building_LingYuFeng" sParam="Building">
+			<ThingName>Linh ngọc phong</ThingName>
+			<Desc>Kỳ quan trấn phái của Động Thiên Tịch Hà, truyền thuyết chứa đựng bí ẩn của đạo sinh phát vạn linh.</Desc>
+		</Text>
+		<Text Name="Building_LingYuFeng_Our" sParam="Building">
+			<ThingName>Linh ngọc phong</ThingName>
+			<Desc>Kỳ quan trấn phái của Động Thiên Tịch Hà, truyền thuyết chứa đựng bí ẩn của đạo sinh phát vạn linh.</Desc>
+		</Text>
+		<Text Name="Building_WanGuXieFaTan" sParam="Building">
+			<ThingName>Đàn tà pháp vạn cốt</ThingName>
+			<Desc>Kỳ quan trấn phái của Bách Man Sơn, truyền thuyết chứa đựng bí ẩn của đạo thời không tận suy.</Desc>
+		</Text>
+		<Text Name="Building_WanGuXieFaTan_Our" sParam="Building">
+			<ThingName>Đàn tà pháp vạn cốt</ThingName>
+			<Desc>Kỳ quan trấn phái của Bách Man Sơn, truyền thuyết chứa đựng bí ẩn của đạo thời không tận suy.</Desc>
+		</Text>
+		<Text Name="Building_XuanCiTianKeng" sParam="Building">
+			<ThingName>Hố trời huyền từ</ThingName>
+			<Desc>Kỳ quan trấn phái của Thất Thiên Ô, truyền thuyết chứa đựng bí ẩn của đạo quy tịch thiên địa.</Desc>
+		</Text>
+		<Text Name="Building_XuanCiTianKeng_Our" sParam="Building">
+			<ThingName>Hố trời huyền từ</ThingName>
+			<Desc>Kỳ quan trấn phái của Thất Thiên Ô, truyền thuyết chứa đựng bí ẩn của đạo quy tịch thiên địa.</Desc>
+		</Text>
+		<Text Name="Building_QiShaShenBei" sParam="Building">
+			<ThingName>Bia thần sát thất sát</ThingName>
+			<Desc>Kỳ quan trấn phái của Ma Cung Thất Sát, truyền thuyết chứa đựng bí ẩn của đạo vạn vật hủy diệt.</Desc>
+		</Text>
+		<Text Name="Building_QiShaShenBei_Our" sParam="Building">
+			<ThingName>Bia thần sát thất sát</ThingName>
+			<Desc>Kỳ quan trấn phái của Ma Cung Thất Sát, truyền thuyết chứa đựng bí ẩn của đạo vạn vật hủy diệt.</Desc>
+		</Text>
+		<Text Name="Building_XuanYinShengQuan" sParam="Building">
+			<ThingName>Thánh tuyền huyền âm</ThingName>
+			<Desc>Kỳ quan trấn phái của Hợp Hoan Phái, truyền thuyết chứa đựng bí ẩn của đạo tạo hóa.</Desc>
+		</Text>
+		<Text Name="Building_XuanYinShengQuan_Our" sParam="Building">
+			<ThingName>Thánh tuyền huyền âm</ThingName>
+			<Desc>Kỳ quan trấn phái của Hợp Hoan Phái, truyền thuyết chứa đựng bí ẩn của đạo tạo hóa.</Desc>
+		</Text>
+		<Text Name="Building_YaoZuYiHai" sParam="Building">
+			<ThingName>Di hài tổ yêu</ThingName>
+			<Desc>Kỳ quan trấn phái của Vạn Yêu Điện, truyền thuyết chứa đựng ký ức của tổ yêu.</Desc>
+		</Text>
+		<Text Name="Building_YaoZuYiHai_Our" sParam="Building">
+			<ThingName>Di hài tổ yêu</ThingName>
+			<Desc>Kỳ quan trấn phái của Vạn Yêu Điện, truyền thuyết chứa đựng ký ức của tổ yêu.</Desc>
+		</Text>
+		<Text Name="Building_QiShi1" sParam="Building">
+			<ThingName>Kỳ thạch</ThingName>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi1" sParam="Building">
+			<ThingName>Thủy Trung Kỳ Thạch</ThingName>
+		</Text>
+		<Text Name="Building_QiShi2" sParam="Building">
+			<ThingName>Kỳ thạch</ThingName>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi2" sParam="Building">
+			<ThingName>Thủy Trung Kỳ Thạch</ThingName>
+		</Text>
+		<Text Name="Building_QiShi3" sParam="Building">
+			<ThingName>Kỳ thạch</ThingName>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi3" sParam="Building">
+			<ThingName>Thủy Trung Kỳ Thạch</ThingName>
+		</Text>
+		<Text Name="Building_QiShi4" sParam="Building">
+			<ThingName>Kỳ thạch</ThingName>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi4" sParam="Building">
+			<ThingName>Thủy Trung Kỳ Thạch</ThingName>
+		</Text>
+		<Text Name="Building_QiShi5" sParam="Building">
+			<ThingName>Kỳ thạch</ThingName>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi5" sParam="Building">
+			<ThingName>Thủy Trung Kỳ Thạch</ThingName>
+		</Text>
+		<Text Name="Building_QiShi6" sParam="Building">
+			<ThingName>Kỳ thạch</ThingName>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi6" sParam="Building">
+			<ThingName>Thủy Trung Kỳ Thạch</ThingName>
+		</Text>
+		<Text Name="Building_LingShu1" sParam="Building">
+			<ThingName>Linh Thụ</ThingName>
+		</Text>
+		<Text Name="Building_LingShu2" sParam="Building">
+			<ThingName>Linh Thụ</ThingName>
+		</Text>
+		<Text Name="Building_LingShu3" sParam="Building">
+			<ThingName>Linh Thụ</ThingName>
+		</Text>
+		<Text Name="Building_LingShu4" sParam="Building">
+			<ThingName>Linh Thụ thủy sinh</ThingName>
+		</Text>
+		<Text Name="Building_LingShu5" sParam="Building">
+			<ThingName>Linh Thụ thủy sinh</ThingName>
+		</Text>
+		<Text Name="Building_LingShu6" sParam="Building">
+			<ThingName>Linh Thụ thủy sinh</ThingName>
+		</Text>
+		<Text Name="Building_ZiXiaoJuShu" sParam="Building">
+			<ThingName>Tử Tiêu Cự Mộc</ThingName>
+		</Text>
+		<Text Name="Building_ShaShenMu1" sParam="Building">
+			<ThingName>Sát Thần Mộc</ThingName>
+		</Text>
+		<Text Name="Building_ShaShenMu2" sParam="Building">
+			<ThingName>Sát Thần Mộc</ThingName>
+		</Text>
+		<Text Name="Building_ShaShenMu3" sParam="Building">
+			<ThingName>Sát Thần Mộc</ThingName>
+		</Text>
+		<Text Name="Building_ShaShenMu4" sParam="Building">
+			<ThingName>Sát Thần Mộc</ThingName>
+		</Text>
+		<Text Name="Building_ShuiShenHuaShu1" sParam="Building">
+			<ThingName>Thủy Trung Hoa Thụ</ThingName>
+		</Text>
+		<Text Name="Building_ShuiShenHuaShu2" sParam="Building">
+			<ThingName>Thủy Trung Hoa Thụ</ThingName>
+		</Text>
+		<Text Name="Building_ShuiShenHuaShu3" sParam="Building">
+			<ThingName>Thủy Trung Hoa Thụ</ThingName>
+		</Text>
+		<Text Name="Building_TaoShu1" sParam="Building">
+			<ThingName>Cây đào</ThingName>
+		</Text>
+		<Text Name="Building_TaoShu2" sParam="Building">
+			<ThingName>Cây đào</ThingName>
+		</Text>
+		<Text Name="Building_TaoShu3" sParam="Building">
+			<ThingName>Cây đào</ThingName>
+		</Text>
+		<Text Name="Building_YuShu1" sParam="Building">
+			<ThingName>Cây ngọc</ThingName>
+		</Text>
+		<Text Name="Building_YuShu2" sParam="Building">
+			<ThingName>Cây ngọc</ThingName>
+		</Text>
+		<Text Name="Building_YuShu3" sParam="Building">
+			<ThingName>Cây ngọc</ThingName>
+		</Text>
+		<Text Name="Building_YuShu4" sParam="Building">
+			<ThingName>Cây ngọc</ThingName>
+		</Text>
+		<Text Name="Building_YuShu5" sParam="Building">
+			<ThingName>Cây ngọc</ThingName>
+		</Text>
+		<Text Name="Building_YuShu6" sParam="Building">
+			<ThingName>Cây ngọc</ThingName>
+		</Text>
+		<Text Name="Building_CongRong1" sParam="Building">
+			<ThingName>Cây tầm gửi</ThingName>
+		</Text>
+		<Text Name="Building_CongRong2" sParam="Building">
+			<ThingName>Cây tầm gửi</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuShouHai1" sParam="Building">
+			<ThingName>Di hài cổ đại</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuShouHai2" sParam="Building">
+			<ThingName>Di hài cổ đại</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuShouHai3" sParam="Building">
+			<ThingName>Di hài cổ đại</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuShouHai4" sParam="Building">
+			<ThingName>Di hài cổ đại</ThingName>
+		</Text>
+		<Text Name="Building_LuoTuoCao" sParam="Building">
+			<ThingName>Cây lạc đà</ThingName>
+		</Text>
+		<Text Name="Building_ShiCheJu1" sParam="Building">
+			<ThingName>Hoa cúc xanh</ThingName>
+		</Text>
+		<Text Name="Building_ShiCheJu2" sParam="Building">
+			<ThingName>Hoa cúc xanh</ThingName>
+		</Text>
+		<Text Name="Building_ShiCheJu3" sParam="Building">
+			<ThingName>Hoa cúc xanh</ThingName>
+		</Text>
+		<Text Name="Building_GuMu1" sParam="Building">
+			<ThingName>Cây cổ tàn lụi</ThingName>
+		</Text>
+		<Text Name="Building_GuMu2" sParam="Building">
+			<ThingName>Cây cổ tàn lụi</ThingName>
+		</Text>
+		<Text Name="Building_GuMu3" sParam="Building">
+			<ThingName>Cây cổ tàn lụi</ThingName>
+		</Text>
+		<Text Name="Building_GuMu4" sParam="Building">
+			<ThingName>Cây cổ tàn lụi</ThingName>
+		</Text>
+		<Text Name="Building_GuMu5" sParam="Building">
+			<ThingName>Cây cổ tàn lụi</ThingName>
+		</Text>
+		<Text Name="Building_GuMu6" sParam="Building">
+			<ThingName>Cây cổ tàn lụi</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuCanJi1" sParam="Building">
+			<ThingName>Di tích cổ đại</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuCanJi2" sParam="Building">
+			<ThingName>Di tích cổ đại</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuCanJi3" sParam="Building">
+			<ThingName>Di tích cổ đại</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuCanJi4" sParam="Building">
+			<ThingName>Di tích cổ đại</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuCanJi5" sParam="Building">
+			<ThingName>Di tích cổ đại</ThingName>
+		</Text>
+		<Text Name="Building_LingDiShuiChi" sParam="Building">
+			<ThingName>Linh Địa Thủy Trì</ThingName>
+		</Text>
+		<Text Name="Building_LianFaTan" sParam="Building">
+			<ThingName>Đàn luyện pháp</ThingName>
+		</Text>
+		<Text Name="Building_TaiXuanBingZhu" sParam="Building">
+			<ThingName>Cột băng thái huyền</ThingName>
+		</Text>
+		<Text Name="Build_KunLunFang" sParam="Building">
+			<ThingName>Phường Côn Lôn</ThingName>
+			<Desc>Cổng chính biểu tượng của môn phái, uy nghiêm và trang trọng.</Desc>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_QingTongLong" sParam="Building">
+			<ThingName>Thanh Đồng Long Tượng</ThingName>
+		</Text>
+		<Text Name="Building_QingTongShouXiangLu" sParam="Building">
+			<ThingName>Lư hương mãnh thú</ThingName>
+		</Text>
+		<Text Name="Building_QingTongFanQi" sParam="Building">
+			<ThingName>Cờ tế bằng đồng</ThingName>
+		</Text>
+		<Text Name="Building_YanDiTai" sParam="Building">
+			<ThingName>Đài diễn địa</ThingName>
+		</Text>
+		<Text Name="Building_JuXingXiangLu" sParam="Building">
+			<ThingName>Cự Hình Hương Lô</ThingName>
+		</Text>
+		<Text Name="Building_TengLongZhu" sParam="Building">
+			<ThingName>Đằng Long Trụ</ThingName>
+		</Text>
+		<Text Name="Building_HuangLongDengTai" sParam="Building">
+			<ThingName>Hoàng Long Đăng Đài</ThingName>
+			<Desc>Thiết bị chiếu sáng, sẽ phát sáng vào ban đêm, soi sáng khu vực xung quanh.</Desc>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_LianHuaDengTai" sParam="Building">
+			<ThingName>Hoàng Long Đăng Đài</ThingName>
+			<Desc>Thiết bị chiếu sáng, sẽ phát sáng vào ban đêm, soi sáng khu vực xung quanh.</Desc>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_YuHeQingLian1" sParam="Building">
+			<ThingName>Liên Tâm Đăng</ThingName>
+		</Text>
+		<Text Name="Building_YuHeQingLian2" sParam="Building">
+			<ThingName>Liên Tâm Đăng</ThingName>
+		</Text>
+		<Text Name="Building_YuHeQingLian3" sParam="Building">
+			<ThingName>Liên Tâm Đăng</ThingName>
+		</Text>
+		<Text Name="Building_JianYiFuDiao" sParam="Building">
+			<ThingName>Kiếm Tâm Ngọc Liên</ThingName>
+		</Text>
+		<Text Name="Building_XiaoDanLu1" sParam="Building">
+			<ThingName>Tiểu Đan Lô</ThingName>
+		</Text>
+		<Text Name="Building_XiaoDanLu2" sParam="Building">
+			<ThingName>Tiểu Đan Lô</ThingName>
+		</Text>
+		<Text Name="Building_HuoDing" sParam="Building">
+			<ThingName>Hỏa Đỉnh</ThingName>
+		</Text>
+		<Text Name="Building_ShuiLianTai" sParam="Building">
+			<ThingName>Thiên Thủy Liên Đài</ThingName>
+		</Text>
+		<Text Name="Building_XieXiDeng" sParam="Building">
+			<ThingName>Tà Cốt U Quang</ThingName>
+			<Desc>Thiết bị chiếu sáng, sẽ phát sáng vào ban đêm, soi sáng khu vực xung quanh.</Desc>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_KuLouDeng" sParam="Building">
+			<ThingName>U Minh Đăng</ThingName>
+			<Desc>Thiết bị chiếu sáng, sẽ phát sáng vào ban đêm, soi sáng khu vực xung quanh.</Desc>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Build_BaiManFang" sParam="Building">
+			<ThingName>Bách Man Phường</ThingName>
+			<Desc>Cổng chính biểu tượng của môn phái, uy nghiêm và trang trọng.</Desc>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_DiMuJiDeng" sParam="Building">
+			<ThingName>Địa Mẫu Tế Đăng</ThingName>
+			<Desc>Thiết bị chiếu sáng, sẽ phát sáng vào ban đêm, soi sáng khu vực xung quanh.</Desc>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_DiMuJiQi" sParam="Building">
+			<ThingName>Địa Mẫu Tế Kỳ</ThingName>
+		</Text>
+		<Text Name="Building_DiMuMiXue" sParam="Building">
+			<ThingName>Địa Mẫu Bí Huyệt</ThingName>
+		</Text>
+		<Text Name="Building_QiShaJianZhu" sParam="Building">
+			<ThingName>Thất Sát Kiếm Trụ</ThingName>
+		</Text>
+		<Text Name="Building_XieLongDiaoXiang" sParam="Building">
+			<ThingName>Tà Long Điêu Tượng</ThingName>
+		</Text>
+		<Text Name="Building_XiongKuiDeng" sParam="Building">
+			<ThingName>Hung Khôi Đăng</ThingName>
+			<Desc>Thiết bị chiếu sáng, sẽ phát sáng vào ban đêm, soi sáng khu vực xung quanh.</Desc>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ShaZhang1" sParam="Building">
+			<ThingName>Sa Trướng</ThingName>
+		</Text>
+		<Text Name="Building_ShaZhang2" sParam="Building">
+			<ThingName>Sa Trướng</ThingName>
+		</Text>
+		<Text Name="Building_QingShaDeng" sParam="Building">
+			<ThingName>Khinh Sa Đăng</ThingName>
+			<Desc>Thiết bị chiếu sáng, sẽ phát sáng vào ban đêm, soi sáng khu vực xung quanh.</Desc>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_BingFengDiaoSu" sParam="Building">
+			<ThingName>Băng Phượng Điêu Tố</ThingName>
+		</Text>
+		<Text Name="Building_DiMuKuiShou" sParam="Building">
+			<ThingName>Địa Mẫu Khôi Thủ</ThingName>
+		</Text>
+		<Text Name="Building_MoMenJiQi" sParam="Building">
+			<ThingName>Ma Môn Tế Kỳ</ThingName>
+		</Text>
+		<Text Name="Building_MoMenJiQi1" sParam="Building">
+			<ThingName>Ma Môn Tế Kỳ</ThingName>
+		</Text>
+		<Text Name="Building_MoZhuaDiaoSu" sParam="Building">
+			<ThingName>Ma Trảo Điêu Tố</ThingName>
+		</Text>
+		<Text Name="Building_MoWenHuaPing" sParam="Building">
+			<ThingName>Ma Thủ Bình</ThingName>
+		</Text>
+		<Text Name="Building_KuLouHuaPing" sParam="Building">
+			<ThingName>Tà Linh Chi</ThingName>
+		</Text>
+		<Text Name="Building_XiePingFeng" sParam="Building">
+			<ThingName>Tà Ảnh Bình Phong</ThingName>
+		</Text>
+		<Text Name="Building_YaoHuoPen" sParam="Building">
+			<ThingName>Dị Thủ Thú Hình Lô</ThingName>
+			<Desc>Thiết bị chiếu sáng, sẽ phát sáng vào ban đêm, soi sáng khu vực xung quanh.</Desc>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ChangMingDeng" sParam="Building">
+			<ThingName>Trường Minh Thú Thần Đăng</ThingName>
+			<Desc>Thiết bị chiếu sáng, sẽ phát sáng vào ban đêm, soi sáng khu vực xung quanh.</Desc>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_JuXingShouGu" sParam="Building">
+			<ThingName>Cự Thú Cốt Điêu</ThingName>
+		</Text>
+		<Text Name="Building_LongXingYuanPan" sParam="Building">
+			<ThingName>Bàn Long Tọa</ThingName>
+		</Text>
+		<Text Name="Building_YaoZuDiaoXiang" sParam="Building">
+			<ThingName>Hung Man Điêu Tượng</ThingName>
+		</Text>
+		<Text Name="Building_YaoShouDing" sParam="Building">
+			<ThingName>Yêu Vương Đỉnh</ThingName>
+		</Text>
+		<Text Name="Build_WanYaoMen" sParam="Building">
+			<ThingName>Vạn Yêu Phường</ThingName>
+			<Desc>Cổng chính biểu tượng của môn phái, uy nghiêm và trang trọng.</Desc>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_TianSheQi" sParam="Building">
+			<ThingName>Thiên Xà Kỳ</ThingName>
+		</Text>
+		<Text Name="Building_YaoZuXingJia" sParam="Building">
+			<ThingName>Yêu Hình Giá</ThingName>
+		</Text>
+		<Text Name="Building_RPG_YingTianTai" sParam="Building">
+			<ThingName>Ứng Thiên Đài</ThingName>
+			<Desc>Kiến trúc kỳ lạ được nghe từ miệng của khách bí ẩn từ khe nứt dị giới, có thể giao tiếp với thế giới khác trong tâm tướng, rất huyền diệu.</Desc>
+			<StoryBnts.0.Name>Vào</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Vào không gian được dẫn dắt bởi Đài Ứng Thiên.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_RPG_YingTianTai_Rpg" sParam="Building">
+			<ThingName>Ứng Thiên Đài</ThingName>
+			<Desc>Kiến trúc kỳ lạ được nghe từ miệng của khách bí ẩn từ khe nứt dị giới, có thể giao tiếp với thế giới khác trong tâm tướng, rất huyền diệu.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_1" sParam="Building">
+			<ThingName>Phường đèn lồng</ThingName>
+			<Desc>Cổng phường treo đầy đèn lồng, sẽ sáng lên vào ban đêm, rất đẹp.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_2" sParam="Building">
+			<ThingName>Đèn hoa: Tết Dư</ThingName>
+			<Desc>Công trình chiếu sáng tràn đầy sắc xuân, mang ý nghĩa chúc phúc năm nào cũng dư dả.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_3" sParam="Building">
+			<ThingName>Đèn hoa: Chúc Hợp</ThingName>
+			<Desc>Công trình chiếu sáng tràn đầy sắc xuân, mang ý nghĩa chúc phúc đoàn viên hòa hợp.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_4" sParam="Building">
+			<ThingName>Đèn hoa: Bảo Liên</ThingName>
+			<Desc>Công trình chiếu sáng tràn đầy sắc xuân, mang ý nghĩa chúc phúc đồng tâm đồng nguyện.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_5" sParam="Building">
+			<ThingName>Đèn hoa: Báo Ấm</ThingName>
+			<Desc>Công trình chiếu sáng tràn đầy sắc xuân, mang ý nghĩa chúc phúc vạn vật hồi sinh.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_6" sParam="Building">
+			<ThingName>Đèn hoa: Sư Vũ</ThingName>
+			<Desc>Công trình chiếu sáng tràn đầy sắc xuân, mang ý nghĩa chúc phúc xua tan tà khí.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_7" sParam="Building">
+			<ThingName>Đèn lồng-Nụ hoa</ThingName>
+			<Desc>Công trình chiếu sáng tràn đầy sắc xuân.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_8" sParam="Building">
+			<ThingName>Đèn lồng-Ngạo tuyết</ThingName>
+			<Desc>Công trình chiếu sáng tràn đầy sắc xuân.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_9" sParam="Building">
+			<ThingName>Đèn hoa: Lên trời cao</ThingName>
+			<Desc>Công trình chiếu sáng tràn đầy sắc xuân, mang ý nghĩa chúc phúc năm mới thăng tiến từng bước.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_10" sParam="Building">
+			<ThingName>Đèn hoa: Nhảy rồng môn</ThingName>
+			<Desc>Công trình chiếu sáng tràn đầy sắc xuân, mang ý nghĩa chúc phúc năm mới lột xác thành công.</Desc>
+		</Text>
+	</List>
+</Texts>
+

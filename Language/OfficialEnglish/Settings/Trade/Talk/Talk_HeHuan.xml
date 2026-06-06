@@ -1,0 +1,21 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Talk_HeHuan">
+			<Hate.0>Sao lại là ngươi nữa?</Hate.0>
+			<Hate.1>Đừng nói chuyện với ta, ta có bệnh sạch sẽ.</Hate.1>
+			<Hate.2>Nhanh lên, nhìn ngươi thêm một giây nữa ta sẽ mù mất.</Hate.2>
+			<Normal.0>Ồ, xin chào. Ngươi muốn làm gì?</Normal.0>
+			<Normal.1>Nhanh lên, lát nữa ta còn phải đi tắm.</Normal.1>
+			<Like.0>Này, cứ dạo quanh đi, thích đệ tử nào thì nói với ta.</Like.0>
+			<Like.1>Ôi trời, gió nào đưa ngươi tới đây vậy?</Like.1>
+			<Submiss.0>Ôi trời, tiên nhân ngài đến rồi, muốn mua đồ? Tặng đồ? Hay là...?</Submiss.0>
+			<Submiss.1>Ồ, xem ai đến này, các cô nương, ra đây tiếp khách!</Submiss.1>
+			<GiftLike.0>Ngươi biết ta thích thứ này, có vẻ chúng ta là người hữu duyên.</GiftLike.0>
+			<GiftLike.1>Tự dưng thấy động lòng, cái này... ta lấy đi nhé.</GiftLike.1>
+			<LowValueGift.0>Ai đó? Mau mang thứ này đi, đừng để ta nhìn thấy nữa.</LowValueGift.0>
+			<LowValueGift.1>Đúng là món quà thấp kém.</LowValueGift.1>
+			<LowValueGift.2>Thứ này thật sự làm ô uế danh môn của chúng ta.</LowValueGift.2>
+		</Text>
+	</List>
+</Texts>
+

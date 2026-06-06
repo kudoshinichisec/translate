@@ -1,0 +1,30 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Ls_School_Panda">
+			<DisplayName>Đại sứ Tiên Giới</DisplayName>
+			<Desc>Nỗ lực của Mặc Tiên Tiên đã cải thiện mối quan hệ giữa [SCHOOL] và môn phái của chúng ta.</Desc>
+			<Selections.0.Display>Đồng ý</Selections.0.Display>
+		</Text>
+		<Text Name="Ls_FindPanda">
+			<DisplayName>Ngọc bội Thiên Mặc</DisplayName>
+			<Desc>Nghe nói sâu trong rừng trúc có một ngọc bội kỳ diệu, nửa đen nửa trắng, rất giống di vật của Thiên Mặc trong truyền thuyết.</Desc>
+			<Selections.0.Display>Tìm kiếm kỹ lưỡng</Selections.0.Display>
+		</Text>
+		<Text Name="Ls_CallPanda">
+			<DisplayName>Phá hủy</DisplayName>
+			<Desc>Trong ngọc chứa hai loại khí tức, một âm một dương, chúng giao thoa với nhau, vừa cổ kính vừa tinh nghịch.</Desc>
+			<Selections.0.Display>Phá hủy</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_Fish">
+			<DisplayName>Cảm ngộ câu cá</DisplayName>
+			<Desc>[NAME] linh quang lóe sáng!</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
+		</Text>
+		<Text Name="Little_Panda">
+			<DisplayName>Thiên Mặc Tu Tu</DisplayName>
+			<Desc>Một Thiên Mặc Tu Tu khác nghe thấy tiếng gọi của Tiên Tiên, cũng đã đến đây!</Desc>
+			<Selections.0.Display>Chào mừng</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>
+

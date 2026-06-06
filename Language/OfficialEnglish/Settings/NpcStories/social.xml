@@ -1,0 +1,125 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Social_SayHello">
+			<Events.0.Story>[name] nhìn thấy [hename] từ xa đi tới, liền vẫy tay chào hỏi [he].</Events.0.Story>
+		</Text>
+		<Text Name="Social_Talk">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] thấy [hename] có vẻ đang chán, liền kéo [he] nói chuyện về [rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool].</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name] thấy [hename] có vẻ đang chán, liền kéo [he] nói chuyện về [other=obj].</Events.1.Story>
+			<Events.2.Story>[name][rand_lable=desc_action,desc_goodmood], thấy [hename] đi qua, liền kéo [he] nói chuyện về [rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool].</Events.2.Story>
+			<Events.3.Story>[hename] đi dạo ngang qua, thấy [name][desc_badmood], liền kéo [it] nói chuyện về [rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool].</Events.3.Story>
+			<Events.4.Story>[name][rand_lable=desc_action,desc_goodmood], thấy [hename] có vẻ đang chán, liền kéo [he] nói chuyện về [other=obj].</Events.4.Story>
+		</Text>
+		<Text Name="Social_DeepTalk">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name][rand_lable=desc_action,desc_goodmood], thấy [hename] ngay bên cạnh, liền kéo [he] cùng trò chuyện. Khi nói đến [rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool], cả hai bất ngờ đồng cảm, càng nói càng sâu.</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]，[hename] thấy [name][desc_badmood], liền đến quan tâm một chút. [name] rất cảm động, ngay lập tức cùng [hename] trò chuyện. Khi cả hai nói đến [rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool], họ cảm thấy rất đồng cảm, mối quan hệ lại tiến thêm một bước.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]，[name][rand_lable=desc_action,desc_goodmood], thấy [hename] ngay bên cạnh, liền kéo [he] cùng trò chuyện. Khi nói đến chủ đề [other=obj], cả hai bất ngờ đồng cảm, càng nói càng sâu.</Events.2.Story>
+			<Events.3.Story>Gần đây [obj_weather] đã gợi lên ký ức của [name]. [it] tìm một cơ hội, kéo [hename] cùng trò chuyện tâm sự một lúc lâu, cả hai cảm thấy mối quan hệ càng thêm gần gũi.</Events.3.Story>
+			<Events.4.Story>[name] đang thực hiện [obj_action] thì đột nhiên cảm thấy rất buồn. [it] thấy [hename] đúng lúc không bận gì, liền kéo [he] cùng trò chuyện tâm sự. Khi nói đến sâu sắc, cả hai cảm thấy mối quan hệ càng thêm gần gũi.</Events.4.Story>
+			<Events.5.Story>[name] đang chìm trong niềm vui của [obj_goodmood]. [it] không kìm được mà kéo [hename] để chia sẻ niềm vui này. Sau cuộc trò chuyện, cả hai cảm thấy mối quan hệ càng thêm gần gũi.</Events.5.Story>
+			<Events.6.Story>[name] đang bị cảm xúc [obj_badmood] dày vò. [it] không kiềm được mà kéo [hename] ra để tâm sự, bày tỏ nỗi lòng của mình với [he]. Cuộc trò chuyện lần này khiến hai người cảm thấy quan hệ gần gũi hơn một bước.</Events.6.Story>
+			<Events.7.Story>[set=1,obj_relation][name] đột nhiên nhớ đến [get=1] của [it]. [it] tìm một thời gian thích hợp để kéo [hename] ra trò chuyện nghiêm túc về quá khứ và [get=1]. Cuộc nói chuyện sâu sắc này khiến hai người cảm thấy quan hệ gần gũi hơn một bước.</Events.7.Story>
+			<Events.8.Story>[set=1,obj_fabao][name] luôn có hứng thú kỳ lạ với pháp bảo [get=1] trong môn phái. Một lần, khi trò chuyện với [hename], [it] nhắc đến [get=1], không ngờ nhận được sự phản hồi nhiệt tình từ [his], và cả hai dường như cảm thấy có thể trở thành tri kỷ.</Events.8.Story>
+			<Events.9.Story>[set=1,obj_dan][name] một lần trò chuyện với [hename] nhắc đến [get=1], [it] cảm thấy hương vị của [get=1] ngon hơn [obj_food], không ngờ [hename] cũng đồng tình. Hai người trò chuyện hứng khởi, càng nói càng sâu, cuối cùng dường như cảm thấy có thể trở thành tri kỷ.</Events.9.Story>
+			<Events.10.Story>[set=1,obj_dan][name] luôn nghi ngờ hiệu quả của [get=1]. Một lần trò chuyện với [hename], [it] nhắc đến chuyện này, không ngờ [he] cũng có cùng nghi ngờ. Hai người càng nói càng vui, nói chuyện rất lâu.</Events.10.Story>
+			<Events.11.Story>[set=1,obj_food][name] đặc biệt thích [get=1]. Một lần trò chuyện với [hename], không ngờ [he] kể về [get=1] với [rand_string=ba, bốn, năm, sáu, bảy, tám, chín, mười hai, mười lăm] cách chế biến! [name] nhất thời cảm thấy [hename] thật thần kỳ, coi [he] như tri kỷ.</Events.11.Story>
+			<Events.12.Story>[set=1,obj_friend][name] khi trò chuyện với [hename] nhắc đến [get=1], không ngờ phát hiện [he] hiểu rất rõ về [get=1]! [name] lập tức cảm thấy thú vị, từ [hename] tìm hiểu được nhiều chuyện thú vị về [get=1].</Events.12.Story>
+			<Events.13.Story>[set=1,obj_nearthing][name] khi đang [obj_action], đột nhiên cảm thấy hứng thú mãnh liệt với [get=1] bên cạnh. [it] kéo [hename] bên cạnh để nói về chuyện này, không ngờ [hename] cũng đã chú ý đến [get=1] từ lâu. Hai người đồng cảm, trò chuyện rất lâu.</Events.13.Story>
+			<Events.14.Story>[set=1,obj_equip][name] khi trò chuyện với [hename], [hename] bất ngờ phát hiện [get=1] trên người [name]. [name] liền kể về nguồn gốc của [get=1], khiến [hename] nghe xong không khỏi kinh ngạc.</Events.14.Story>
+			<Events.15.Story>[set=1,rand_lable=obj_gong,obj_esoterica][name] gần đây gặp khó khăn trong việc tu luyện [get=1], không nhịn được mà trò chuyện với [hename] về việc này. [hename] rất đồng cảm, hai người trò chuyện rất hợp ý, nói chuyện suốt một thời gian dài, cảm thấy rất thoải mái.</Events.15.Story>
+			<Events.16.Story>[set=1,obj_neck][name] gần đây rất lo lắng về việc đột phá nút thắt [get=1] tiếp theo. Khi trò chuyện với [hename] đã nhắc đến nỗi lo này. [hename] tìm mọi cách an ủi [name], cuối cùng khiến [name] bình tĩnh lại.</Events.16.Story>
+			<Events.17.Story>[set=1,obj_damage][name] gần đây bị thương, [hename] đặc biệt đến hỏi thăm [get=1] đã hồi phục thế nào. [name] rất cảm động, trò chuyện với [he] rất lâu.</Events.17.Story>
+			<Events.18.Story>[set=1,obj_secret][name] khi trò chuyện với [hename] đã nhắc đến bí mật [get=1] nghe được gần đây. Hai người có suy đoán rất giống nhau về [get=1], không kiềm được mà trò chuyện rất lâu.</Events.18.Story>
+			<Events.19.Story>[set=1,obj_unlockmapplace][name] khi trò chuyện với [hename] đã nhắc đến những trải nghiệm tại [get=1]. Điều này khiến [hename] rất hứng thú, hai người đã nói chuyện rất lâu về phong tục và con người tại [get=1], cảm thấy rất thú vị.</Events.19.Story>
+			<Events.20.Story>[set=1,obj_lockmapplace][name] tình cờ nghe nói đến một nơi gọi là [get=1]. Khi trò chuyện với [hename], [hename] cho biết bản thân cũng chưa từng nghe qua, rất hứng thú với nơi này. Hai người cùng tưởng tượng về [get=1], cảm thấy rất hợp ý.</Events.20.Story>
+			<Events.21.Story>[set=1,obj_goodschool][name] khi trò chuyện với [hename] đã nghe nói về một số chuyện thú vị tại [get=1]. [hename] cho rằng nếu có cơ hội, cả hai có thể cùng nhau đến [get=1] tham quan, [name] rất đồng ý.</Events.21.Story>
+			<Events.22.Story>[set=1,obj_badschool][name] khi trò chuyện với [hename] đã nhắc đến chuyện [get=1] đối đầu với môn phái của mình. Hai người rất tức giận, cùng nhau nói rất nhiều điều không hay về [get=1], cảm thấy rất hợp ý với nhau.</Events.22.Story>
+		</Text>
+		<Text Name="Social_Neglect">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] [rand_lable=desc_action,desc_goodmood], nhìn thấy [hename] từ xa đi tới, liền vẫy tay chào. Không ngờ [hename] lại làm ngơ, điều này khiến [name] cảm thấy bị coi thường, rất khó chịu.</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] [rand_lable=desc_action,desc_goodmood], [hename] vội vã đi ngang qua. [name] chào hỏi [he], nhưng [hename] chỉ liếc mắt một cái với vẻ mặt lạnh lùng. Điều này khiến [name] rất không vui.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] [rand_lable=desc_action,desc_goodmood], nhìn thấy [hename] ở bên cạnh, liền chào hỏi [he]. Nhưng không ngờ [hename] lại không muốn để ý tới [it], điều này khiến [name] cảm thấy rất khó xử.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] [desc_badmood], [hename] từ xa đi đến chào hỏi [name]. Nhưng [name] lại không muốn để ý tới [he].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather], [hename] thấy [name] [desc_badmood], liền đến chào hỏi [name]. Nhưng [name] lại không muốn để ý tới [he].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather], nhìn thấy [name] [desc_badmood], [hename] liền đến vỗ vai [it] để an ủi. Nhưng [name] lại không muốn để ý tới [he].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] tình cờ gặp [hename], cả hai lạnh lùng lướt qua nhau mà không nói một lời.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] đang [obj_action]. Nhìn thấy [hename] đi ngang qua, liền giơ tay chào hỏi. Nhưng [hename] chỉ nhìn một cái với vẻ mặt lạnh lùng mà không đáp lại, điều này khiến [name] cảm thấy khó chịu.</Events.7.Story>
+			<Events.8.Story>[set=1,obj_food][rand_lable=desc_time,desc_place,desc_weather], [name] đang thoải mái ăn [get=1]. Nhìn thấy [hename] đi tới, liền vẫy [get=1] trong tay và chào hỏi [he]. Nhưng [hename] lại tỏ vẻ chán ghét, nhanh chóng rời đi. Điều này khiến [name] ngạc nhiên và không vui.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] đang nhìn chằm chằm vào [obj_nearthing] bên cạnh mà ngẩn người. [hename] tò mò giơ tay vẫy trước mặt [it], chào hỏi [name]. Nhưng [name] vì bị giật mình mà không hài lòng, hừ một tiếng.</Events.9.Story>
+		</Text>
+		<Text Name="Social_Quarrel">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] [rand_lable=desc_action,desc_goodmood], nhìn thấy [hename] ở bên cạnh, liền kéo [he] cùng trò chuyện. Nhưng khi nói đến [rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool], hai người lại xảy ra bất đồng ý kiến, cuối cùng cãi nhau.</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather], [hename] nhìn thấy [name] [desc_badmood], liền đến quan tâm một chút. [name] rất cảm động, ngay lập tức trò chuyện với [hename]. Nhưng khi nói đến [rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool], [hename] lại đưa ra ý kiến hoàn toàn trái ngược, hai người không ai nhường ai, cuối cùng cãi nhau.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] [rand_lable=desc_action,desc_goodmood], nhìn thấy [hename] ở bên cạnh, liền kéo [he] cùng trò chuyện. Nhưng khi nói đến chủ đề [other=obj], [hename] lại đưa ra ý kiến hoàn toàn trái ngược, hai người không ai nhường ai, cuối cùng cãi nhau.</Events.2.Story>
+			<Events.3.Story>[name] khi đang [obj_action] đột nhiên cảm thấy rất buồn. Nhìn thấy [hename] đang rảnh rỗi, liền kéo [he] để tâm sự. Không ngờ [hename] lại nghĩ rằng [it] đang làm quá, hai người không hợp ý nhau, cãi nhau và không vui mà rời đi.</Events.3.Story>
+			<Events.4.Story>[name] đang chìm trong niềm vui của [obj_goodmood]. [it] không nhịn được mà kéo [hename] để chia sẻ niềm vui này. Không ngờ [hename] lại chê [it] làm quá, rất khó chịu. Điều này khiến [name] tức giận, hai người cãi nhau.</Events.4.Story>
+			<Events.5.Story>[name] đang bị cảm xúc [obj_badmood] dày vò. [it] không nhịn được mà kéo [hename] để tâm sự, nhưng lại bị thái độ không tập trung của [he] làm tức giận. Cuối cùng hai người cãi nhau và không vui mà rời đi.</Events.5.Story>
+			<Events.6.Story>[set=1,obj_fabao][name] luôn có hứng thú kỳ lạ với pháp bảo [get=1] trong môn phái. Một lần, khi trò chuyện với [hename], [it] nhắc đến [get=1], không ngờ [hename] lại tỏ ra rất khinh thường. [name] rất xấu hổ và tức giận, cãi nhau với [he].</Events.6.Story>
+			<Events.7.Story>[set=1,obj_dan][name] một lần trò chuyện với [hename] nhắc đến [get=1], [it] cảm thấy [get=1] ngon hơn [obj_food], không ngờ [hename] lại cười lớn chế nhạo. [name] tức giận, cãi nhau với [he] và không vui mà rời đi.</Events.7.Story>
+			<Events.8.Story>[set=1,obj_dan][name] luôn nghi ngờ hiệu quả của [get=1]. Một lần trò chuyện với [hename], [it] nhắc đến chuyện này, không ngờ bị [he] chế nhạo là không có kiến thức. [name] rất tức giận, tranh luận với [he], cuối cùng cãi nhau.</Events.8.Story>
+			<Events.9.Story>[set=1,obj_food][name] đặc biệt thích [get=1]. Một lần trò chuyện với [hename], không ngờ [he] lại chế nhạo [it] chưa từng ăn món ngon! [name] không nhịn được, cãi nhau với [he] và không vui mà rời đi.</Events.9.Story>
+			<Events.10.Story>[set=1,obj_equip][name] khi trò chuyện với [hename], đã kể về nguồn gốc của [get=1] trên người mình. Nhưng [hename] lại tỏ ra rất khó chịu, nghĩ rằng [name] đang khoe khoang. [name] cảm thấy thật khó hiểu, cãi nhau với [hename] vài câu.</Events.10.Story>
+			<Events.11.Story>[set=1,obj_secret][name] khi trò chuyện với [hename], đã nhắc đến bí mật [get=1] gần đây. Hai người có suy đoán khác nhau, nhưng không thể đạt được sự đồng thuận, cuối cùng cãi nhau.</Events.11.Story>
+			<Events.12.Story>[set=1,obj_unlockmapplace][name] khi trò chuyện với [hename], đã nhắc đến những trải nghiệm tại [get=1]. Điều này khiến [hename] rất hứng thú. Tuy nhiên, khi nói về phong tục và con người tại [get=1], hai người lại có ý kiến khác nhau, cuối cùng dẫn đến tranh cãi và không vui mà rời đi.</Events.12.Story>
+			<Events.13.Story>[set=1,obj_lockmapplace][name]Tình cờ nghe nói có một nơi như [get=1]. Khi nhắc đến chuyện này trong lúc trò chuyện với [hename], [hename] lại tỏ ra nghi ngờ, nói rằng [name] đang nói nhảm. Hai người không hợp ý nhau, cuối cùng cãi nhau.</Events.13.Story>
+			<Events.14.Story>[set=1,rand_lable=obj_goodschool,obj_badschool][name] Đã kể về một số chuyện thú vị liên quan đến [get=1] trong lúc trò chuyện với [hename], nhưng [hename] lại cảm thấy những điều đó cực kỳ nhạt nhẽo. [name] cảm thấy rất khó chịu, cuối cùng dẫn đến việc cả hai cãi nhau.</Events.14.Story>
+		</Text>
+		<Text Name="Social_Insult">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather], [name][rand_lable=desc_action,desc_goodmood], trên đường đi ngang qua, [hename] buông lời châm chọc [name], điều này khiến [name] rất không vui.</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather], [name][rand_lable=desc_action,desc_goodmood], nhưng lại bị [hename] đứng bên cạnh buông lời mỉa mai, khiến [name] cảm thấy mất hứng.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather], [hename] tình cờ đi ngang qua, thấy [name][desc_badmood], liền buông lời châm biếm, khiến tâm trạng của [name] càng thêm tồi tệ.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather], [name][desc_badmood], nghe thấy [hename] ở bên cạnh buông lời mỉa mai, khiến [name] càng thêm buồn bực.</Events.3.Story>
+		</Text>
+		<Text Name="Social_Fight">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather], [name][rand_lable=desc_action,desc_goodmood], trên đường đi ngang qua, [hename] buông lời châm chọc [name], hai người không hợp ý, cuối cùng đánh nhau.</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather], [name][rand_lable=desc_action,desc_goodmood], nhưng lại bị [hename] đứng bên cạnh buông lời mỉa mai, hai người không hợp ý, đẩy nhau rồi cuối cùng đánh nhau.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather], [hename] tình cờ đi ngang qua, thấy [name][desc_badmood], liền buông lời châm biếm, [name] tức giận, không kiềm chế được mà ra tay với [he].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather], [name][desc_badmood], nghe thấy [hename] ở bên cạnh buông lời mỉa mai, [name] tức giận, không kiềm chế được mà ra tay với [he].</Events.3.Story>
+		</Text>
+		<Text Name="Social_DeclarationSucceed">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] trong lúc [obj_action], bất ngờ bày tỏ tình cảm với người mình thích [hename]. [hename] rất ngạc nhiên, nhưng cuối cùng vẫn ngượng ngùng chấp nhận [it].</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather], [name][rand_lable=desc_action,desc_goodmood,desc_badmood], tình cờ thấy người mình thích [hename] đi ngang qua, bất chợt bày tỏ tình cảm. [hename] rất ngạc nhiên, nhưng ngay sau đó ngượng ngùng chấp nhận [it].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] đã chuẩn bị kỹ càng từ lâu, nghiêm túc bày tỏ tình cảm với người mình thích [hename]. [hename] rất cảm động, chấp nhận tình cảm của [it].</Events.2.Story>
+		</Text>
+		<Text Name="Social_DeclarationFailed">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] trong lúc [obj_action], bất ngờ bày tỏ tình cảm với người mình thích [hename]. [hename] rất ngạc nhiên nhưng khéo léo từ chối [it].</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather], [name][rand_lable=desc_action,desc_goodmood,desc_badmood], tình cờ thấy người mình thích [hename] đi ngang qua, bất chợt bày tỏ tình cảm. [hename] không chút do dự từ chối [it].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] đã chuẩn bị kỹ càng từ lâu, nghiêm túc bày tỏ tình cảm với người mình thích [hename]. [hename] rất biết ơn tình cảm của [name], nhưng vẫn từ chối [it].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] đã dày công chuẩn bị, giấu một bức thư bày tỏ tình cảm trong [obj_food] mà [hename] yêu thích nhất, để bày tỏ tình cảm với người mình thích [hename]. [hename] rất cảm động, nhưng sau đó từ chối [it].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] đã chuẩn bị kỹ càng từ lâu, nghiêm túc bày tỏ tình cảm với người mình thích [hename]. [hename] cười nói rằng mình không xứng đáng với [it], chắc chắn sẽ có người tốt hơn đang chờ đợi [it].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] đã chuẩn bị kỹ càng từ lâu, nghiêm túc bày tỏ tình cảm với người mình thích [hename]. [hename] bật cười lớn, nói đừng đùa nữa, rồi quay người rời đi.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] đã chuẩn bị kỹ càng từ lâu, nghiêm túc bày tỏ tình cảm với người mình thích [hename]. [hename] cảm thấy [name] là một người tốt, nhưng không phù hợp, nên cuối cùng từ chối [it].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] đã chuẩn bị kỹ càng từ lâu, nghiêm túc bày tỏ tình cảm với người mình thích [hename]. [hename] ngạc nhiên nhìn [name], sau đó từ chối [it].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] đã chuẩn bị kỹ càng từ lâu, nghiêm túc bày tỏ tình cảm với người mình thích [hename]. [hename] chân thành cảm ơn [name] vì tất cả những gì [it] đã làm, rồi từ chối [it].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] đã chuẩn bị kỹ càng từ lâu, nghiêm túc bày tỏ tình cảm với người mình thích [hename]. [hename] hồi tưởng lại những kỷ niệm trong quá khứ, cảm thấy như bừng tỉnh, sau đó không chút do dự từ chối [it].</Events.9.Story>
+		</Text>
+		<Text Name="Social_Amuse">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] trong lúc [obj_action] bất chợt nghĩ ra một câu chuyện cười, kể cho [hename] nghe, khiến [he] cười phá lên.</Events.0.Story>
+			<Events.1.Story>[name] tuy tâm trạng không tốt vì [obj_badmood], nhưng khi nhìn thấy [hename], vẫn cảm thấy ấm áp và vui vẻ.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] và [hename] tựa vào nhau thì thầm trò chuyện. [hename] thỉnh thoảng bật cười rộn ràng.</Events.2.Story>
+			<Events.3.Story>[name] trong lúc [obj_action], lén nắm tay [hename] và nói những lời tâm tình, cảm thấy rất hạnh phúc.</Events.3.Story>
+			<Events.4.Story>[name] dù cơ thể đang chịu ảnh hưởng bởi [obj_damage], vẫn cố gắng tìm cách làm [hename] vui. [hename] cười trong nước mắt, cảm thấy rất hạnh phúc.</Events.4.Story>
+		</Text>
+		<Text Name="Social_BeDeclarationSucceed">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] trong lúc [obj_action], [hename] bất ngờ bày tỏ tình cảm với [it]. [name] rất ngạc nhiên, nhưng cuối cùng vẫn ngượng ngùng chấp nhận [he].</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather], [name][rand_lable=desc_action,desc_goodmood], [hename] bất ngờ xuất hiện, bày tỏ tình cảm với [it]. [name] rất ngạc nhiên, nhưng ngay sau đó ngượng ngùng chấp nhận [he].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather], [name][desc_badmood]. [hename] bước tới an ủi [it] một cách chu đáo, và khéo léo bày tỏ tình cảm. [name] rất cảm động, chấp nhận tình cảm của [it].</Events.2.Story>
+		</Text>
+		<Text Name="Social_BeDeclarationFailed">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] trong lúc [obj_action], [hename] bất ngờ bày tỏ tình cảm với [it]. [name] rất bực mình vì [he] làm gián đoạn [obj_action], tức giận từ chối [he].</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather], [name][rand_lable=desc_action,desc_goodmood], [hename] bất ngờ xuất hiện, bày tỏ tình cảm với [it]. [name] giật mình, sau đó từ chối [he].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather], [name][desc_badmood]. [hename] bước tới an ủi [it] một cách chu đáo, và khéo léo bày tỏ tình cảm. [name] rất cảm động, nhưng vẫn từ chối [he].</Events.2.Story>
+		</Text>
+		<Text Name="Social_Intimacy">
+			<Events.0.Story>[name] tuy tâm trạng không tốt vì [obj_badmood], nhưng chỉ cần ở bên [hename], vẫn cảm thấy ấm áp và vui vẻ.</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] và [hename] tựa vào nhau thì thầm trò chuyện. [hename] thỉnh thoảng bật cười rộn ràng.</Events.1.Story>
+			<Events.2.Story>[name] trong lúc [obj_action], lén nắm tay [hename] và nói những lời tâm tình, cảm thấy rất hạnh phúc.</Events.2.Story>
+		</Text>
+		<Text Name="Social_Tenderness">
+			<Events.0.Story>[name] tuy tâm trạng không tốt vì [obj_badmood], nhưng chỉ cần ở bên [hename], vẫn cảm thấy ấm áp và vui vẻ.</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather], [name] và [hename] tựa vào nhau thì thầm trò chuyện. [hename] thỉnh thoảng bật cười rộn ràng.</Events.1.Story>
+			<Events.2.Story>[name] trong lúc [obj_action], lén nắm tay [hename] và nói những lời tâm tình, cảm thấy rất hạnh phúc.</Events.2.Story>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,916 @@
+拜祖师	Bái tổ sư
+房间	Phòng
+仓库	Kho
+木伐木斧	Rìu đốn củi gỗ
+熊皮休闲衣衫	Da gấu Áo Thường Nhật
+兔皮修行下裳	Tu Hành Hạ Thường Da thỏ
+牛皮休闲衣衫	Áo da bò thường nhật
+靛蓝布休闲下裳	Hưu Nhàn Hạ Thường điện lam bố
+巧夺天工的神兵，融合制作者的心血与灵感而成。	Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.
+饮血	Ẩm huyết
+狼皮薄衣衫	Áo mỏng da sói
+兔皮薄下裳	Quần mỏng da thỏ
+灵木锤	Gỗ linh mộc
+熊皮	Da gấu
+万象赤血障	Chướng Vạn Tượng Xích Huyết
+牛皮薄衣衫	Áo mỏng da bò
+蓝布休闲下裳	Hưu Nhàn Hạ Thường vải xanh
+火铜锭	Hỏa Đồng Đĩnh
+炽凰天心镇	Xí Hoàng Thiên Tâm Trấn
+书	Sách
+碧光鬼书	Bích Quang Quỷ Thư
+靛蓝布休闲衣衫	Áo Nghỉ Ngơi điện lam bố
+狼皮修行下裳	Tu Hành Hạ Thường Da Sói
+寒精锤	Búa Hàn Tinh
+佩戴者可以提高御器技能等级。	Người đeo có thể tăng cấp độ kỹ năng ngự khí.
+神剑符	Thần Kiếm Phù
+莲藕	Ngó sen
+壬水炼心藕	Cascade Luyện Tâm Ngẫu
+棕石砖	Gạch đá nâu
+麒麟极光圭	Kỳ lân Cực Quang Quỳ
+虎皮薄衣衫	Áo mỏng da hổ
+红布薄下裳	Quần mỏng vải đỏ
+木锤	Búa gỗ
+黄布休闲衣衫	Áo Thường Nhật hoàng bố
+苍龙甲	Thương Long Giáp
+癸水极光藕	Ngó Sen Equable Cực Quang
+蓝布修行衣衫	Áo tu hành vải xanh
+牛皮修行下裳	Da bò Quần Tu Hành
+木环	Vòng gỗ
+垃圾	Rác
+镇岳五色毒	Trấn Nhạc Ngũ Sắc Độc
+金丝灵木	Gỗ linh kim tuyến
+长生七魄木	Trường Sinh Thất Phách Mộc
+黑布薄衣衫	Áo mỏng hắc bố
+麒麟磨骨碑	Kỳ Lân Ma Cốt Bia
+虎皮厚制衣衫	Áo dày da hổ
+万里御	Vạn Lý Ngự
+野猪皮修行衣衫	Áo Tu Hành Da Lợn Rừng
+可以提高炎热抵抗的符咒。	Là phù chú có thể tăng khả năng chống nóng.
+避暑符	Tị Hoả Phù
+大理石砖	Gạch đá cẩm thạch
+行疆落樱阙	Hành Cương Lạc Anh Khuyết
+香菇	Nấm hương
+长生白骨菇	Trường Sinh Bạch Cốt Cô
+琴谱	Phổ nhạc
+长生三清谱	Trường Sinh Tam Thanh Phổ
+火精剑	Hoả Tinh Kiếm
+天火长青要诀	Thiên Hỏa Trường Thanh Yếu Quyết
+使头脑清明，提高学习能力。	Làm cho đầu óc sáng suốt, tăng khả năng học tập.
+文昌符	Văn Xương phù
+铁矿石	Quặng sắt
+霹雳神圭	Thần Khuê Phích Lịch
+棕石	Đá nâu
+天府流光石	Đá Lưu Quang Thiên Phủ
+熊皮薄衣衫	Áo mỏng da gấu
+戊己降龙御	Ngự Hàng Long Grim
+花布薄衣衫	Áo mỏng hoa vải
+寒晶弓	Tinh hàn cung
+熊皮修行衣衫	Tu Hành Y Sam Da Gấu
+花布修行下裳	Vải hoa Hưu Nhàn Hạ Thường
+玄铁锤	Búa Huyền Thiết
+寒晶锭	Hàn Tinh Đĩnh
+惊波磨骨珏	Ngọc Mài Xương Kinh Ba
+三才大日枝	Nhánh Tam Tài Đại Nhật
+兔皮修行衣衫	Tu Hành Áo da thỏ
+牛皮薄下裳	Da Bò Bạc Hạ Thường
+佩戴者可以提高抵御水属性伤害之力。	Người đeo có thể tăng lực kháng tổn thương thuộc tính Thủy.
+水甲符	Thủy Giáp Phù
+万里落影镇	Vạn Lý Lạc Ảnh Trấn
+木角料	Gỗ vụn
+青龙圣镖	Thanh Long Thánh Phiêu
+蓝布薄衣衫	Áo mỏng vải xanh
+红布休闲下裳	Vải đỏ Hưu Nhàn Hạ Thường
+棉花	Bông
+碧光白骨线	Bích Quang Bạch Cốt tuyến
+虎皮休闲下裳	Hưu Nhàn Hạ Thường da hổ
+极光甲	Cực Quang giáp
+黑布薄下裳	Hắc bố bạc hạ thường
+棕石长枪	Trường thương Đá nâu
+兔皮	Da thỏ
+镇岳恶魄障	Trấn Nhạc Ác Phách Chướng
+蛇蛋	Trứng rắn
+坤元万魂珠	Khôn Nguyên Vạn Hồn Châu
+野猪皮薄下裳	Hạ Thường da lợn rừng mỏng
+玄机气摄密卷	Huyền Cơ Khí Nhiếp Mật Quyển
+灰石砖	Gạch đá xám
+行疆天璇碑	Hành Cương Thiên Huyền Bi
+白布清凉下裳	Hưu Nhàn Hạ Thường vải trắng mát
+碧光乾坤御	Bích Quang Càn Khôn Ngự
+狼皮薄下裳	Quần mỏng da sói
+木弓	Cung gỗ
+狼皮	Da sói
+坤元障	Khôn Nguyên
+龟蛋	Trứng rùa
+戊土荡魔蛋	Trứng Đả Ma Dismal
+观音土	Đất Quan Âm
+天心庇世灵宝	Thiên Tâm Tí Thế Linh Bảo
+莲花炼心菇	Liên Hoa Luyện Tâm Nấm
+灵晶角料	Tinh linh vụn
+六合钉	Lục Hợp đinh
+多宝琢玉秘传	Đa Bảo Trác Ngọc Bí Truyền
+己土阴魂罩	Giáp Kỷ Thổ Âm Hồn
+狼皮厚制衣衫	Áo dày da sói
+腾岳五行甲	Giáp Ngũ Hành Đằng Nhạc
+花布薄下裳	Hạ quần mỏng hoa văn
+棕石锤	Búa đá nâu
+木料	Gỗ
+苍龙五色柱	Thương Long Ngũ Sắc Trụ
+地龙天璇灵宝	Địa Long Thiên Toàn Linh Bảo
+肉干	Thịt khô
+昙花水梨汤	Đàm Hoa Thủy Lê Thang
+可以大幅提高寒冷抵抗的符咒。	Là phù chú có thể tăng mạnh khả năng chống lạnh.
+太阳符	Thái Dương Phù
+可以大幅提高炎热抵抗的符咒。	Là phù chú có thể tăng mạnh khả năng chống nóng.
+太阴符	Thái âm phù
+花布清凉衣衫	Áo mát vải hoa
+紫布休闲衣衫	Tử Bố Nhàn Hạ Y Sam
+蓝布厚制衣衫	Áo dày vải xanh
+龙鳞法衣	Long lân pháp y
+阴寰法衣	Pháp Y Âm Hoàn
+烬灭法衣	Pháp Y Tàn Diệt
+蔽天法衣	Pháp Y Tề Thiên
+阳华羽衣	Áo Lông Dương Hoa
+日炎金袍	Áo Vàng Lửa Mặt Trời
+火浣衣	Hỏa Hoán Y
+玄海流仙袍	Huyền Hải Lưu Tiên Bào
+幽玄法衣	U Huyền Pháp Y
+青鹤云裳	Thanh Hạc Vân Thường
+可以一定程度上隐匿自己的气息，使自己外出历练时不那么容易被认出身份，以降低声望的获取。	Có thể ở một mức độ nhất định che giấu khí tức của mình, làm cho bản thân khi ra ngoài luyện tập không dễ bị nhận diện danh tính, giảm tốc độ tăng danh vọng.
+匿踪符	Nặc tung phù
+七巧蒸洪藕	Thất Xảo Chưng Hồng Ngẫu
+牛肉丸	Ngưu Nhục Hoàn
+雌龟粪便	Phân rùa cái
+干栋	Can Đống
+灵晶神秘洞穴	Linh Tinh Hang Động Bí Ẩn
+灵石墙	Linh thạch tường
+灵石门	Môn Linh thạch
+灵石灯笼	Đèn lồng linh thạch
+灵石置物台	Kệ đặt linh thạch
+傀儡停放点	Điểm đỗ khôi lỗi
+灵石床	Linh thạch
+灵石手工桌	Bàn thủ công linh thạch
+灵石制药桌	Linh thạch Chế Dược Trang
+灵石缝纫桌	Bàn may Linh Thạch
+灵石画符桌	Bàn vẽ bùa Linh Thạch
+灵石纺织机	Linh thạch Máy dệt
+灵石石匠台	Bàn thợ đá Linh thạch
+灵石磨坊	Xưởng Xay Linh Thạch
+灵石水井	Linh Thạch Giếng Nước
+灵石丹炉	Lò Đan Linh Thạch
+木砍柴处	Nơi đốn củi gỗ
+灵石炼宝台	Bàn Luyện Bảo Linh Thạch
+灵石熔炉	Lò Linh thạch
+灵石锻铁台	Linh thạch Đoàn Thiết Đài
+灵石观星台	Đài Quan Tinh Linh Thạch
+灵石炉灶	Bếp Lò Linh Thạch
+灵石桌子	Bàn Linh Thạch
+灵石小方桌	Linh thạch. Bàn vuông nhỏ
+灵石水缸	Linh Thạch Chum Nước
+练功点	Điểm luyện công
+灵石祖师牌位	Bài vị tổ sư Linh Thạch
+红布蒲团	Bồ đoàn vải đỏ
+历练归来点	Điểm trở về sau lịch luyện
+灵石钟	Chuông linh thạch
+灵石门派山门	Linh Thạch Môn Phái Sơn Môn
+灵石神鹤灯	Linh thạch Đèn Thần Hạc
+灵石鼓	Trống linh thạch
+灵石黄龙灯台	Linh Thạch Hoàng Long Đăng Đài
+灵石琴台	Đàn cầm linh thạch
+灵石香炉	Linh Thạch Lư Hương
+灵石假人桩	Linh thạch Giả Nhân Trụ
+灵石鼎	Đỉnh Linh thạch
+灵石围棋桌	Linh Thạch Vi Kỳ Trác
+灵石烟花-龙歌	Linh thạch Pháo hoa-Long Ca
+灵石护山剑阵	Kiếm Trận Hộ Sơn Linh Thạch
+母猫	Mèo cái
+<font color=MYCOLOR>钭世</font>因<font color=OBJCOLOR>房间风水好</font>心情不错，忍不住来<font color=OBJCOLOR>随便看看</font>抒怀。	<font color=MYCOLOR>Đẩu Thế</font> vì <font color=OBJCOLOR>Phong thủy phòng tốt</font> mà tâm trạng vui vẻ, không nhịn được đến <font color=OBJCOLOR>Xem qua</font> để giải tỏa.
+2天 09:36	2 ngày 09:36
+隅中时分，<font color=MYCOLOR>钭世</font>在<font color=OBJCOLOR>看天花板</font>时，突然发出一声长叹。	Vào giờ Ngọ, <font color=MYCOLOR>Đẩu Thế</font> khi <font color=OBJCOLOR>nhìn trần nhà</font>, bỗng thở dài một tiếng.
+3天 10:47	3 ngày 10:47
+<font color=MYCOLOR>钭世</font>被<font color=OBJCOLOR>睡在地上</font>的情绪困扰，只能<font color=OBJCOLOR>读书品卷</font>来放空心灵。	<font color=MYCOLOR>Đẩu Thế</font> bị <font color=OBJCOLOR>ngủ trên mặt đất</font> làm phiền, chỉ có thể <font color=OBJCOLOR>đọc sách thưởng thức quyển</font> để thả lỏng tâm hồn.
+3天 15:18	3 ngày 15:18
+钭	Thẩu
+世	Thế
+建立门派	Thành lập môn phái
+私塾学子	Tư Thục Học Tử
+朋	Bằng
+米	Mễ
+秋灵	Thu Linh
+双	Song
+晓霜	Hiểu Sương
+贺	Hạ
+扇错	Phiến Thác
+庄	Trang
+安	An
+<font color=MYCOLOR>晏春翠</font>很喜欢<font color=OBJCOLOR>晴天</font>。	<font color=MYCOLOR>Yến Xuân Thúy</font> rất <font color=OBJCOLOR>thích</font> <font color=OBJCOLOR>ngày nắng</font>.
+4天 08:02	4 ngày 08:02
+晏	Yến
+春翠	Xuân Thúy
+彪	Bưu
+晁	Triều
+碧彤	Bích Đồng
+万里无云，<font color=MYCOLOR>酆刚</font>刚因周围绝美的风景而发出一声叹息，看<font color=HECOLOR>晏春翠</font>刚好在旁边，就拉着她一起聊天。聊到<font color=OBJCOLOR>灵石灯笼</font>的时候，两人竟然颇有共鸣，越谈越深。	Trời không một gợn mây, <font color=MYCOLOR>Phong Cương</font> vừa vì phong cảnh tuyệt mỹ mà thở dài cảm thán, nhìn thấy <font color=HECOLOR>Yến Xuân Thúy</font> ngay bên cạnh liền kéo nàng cùng trò chuyện. Khi bàn đến <font color=OBJCOLOR>đèn lồng linh thạch</font>, hai người không ngờ lại đồng điệu tâm hồn, càng nói càng thấu hiểu nhau.
+2天 14:10	2 ngày 14:10
+门派中，<font color=MYCOLOR>酆刚</font>看<font color=HECOLOR>晏春翠</font>好像正无聊，就拉着她聊了聊关于<font color=OBJCOLOR>猫</font>的事。	Trong môn phái, <font color=MYCOLOR>Phong Cương</font> thấy <font color=HECOLOR>Yến Xuân Thúy</font> có vẻ đang <font color=OBJCOLOR>chán nản</font>, liền kéo nàng trò chuyện về chủ đề <font color=OBJCOLOR> con mèo</font>.
+2天 21:14	2 ngày 21:14
+酆	Phong
+刚	Cương
+清	Thanh sạch
+水	Nước
+如之	Như Chi
+皇甫	Hoàng Phủ
+妙松	Diệu Tùng
+傀儡	Khôi lỗi
+正午之时，<font color=MYCOLOR>咸元</font>在<font color=OBJCOLOR>随便看看</font>时，脑海中突然浮现<font color=OBJCOLOR>钭世</font>的模样。	Buổi trưa, <font color=MYCOLOR>Hàm Nguyên</font> đang <font color=OBJCOLOR>xem qua</font>, bỗng trong đầu hiện lên hình ảnh <font color=OBJCOLOR>Đẩu Thế</font>.
+2天 11:00	2 ngày 11:00
+日中之时，<font color=MYCOLOR>咸元</font>在<font color=OBJCOLOR>凝神望天</font>时，脑海中突然浮现<font color=OBJCOLOR>钭世</font>的模样。	Vào chính Ngọ, <font color=MYCOLOR>Hàm Nguyên</font> đang <font color=OBJCOLOR>ngưng thần nhìn trời</font> thì trong đầu bỗng hiện lên hình ảnh <font color=OBJCOLOR>Đẩu Thế</font>.
+2天 11:44	2 ngày 11:44
+子夜时分，<font color=MYCOLOR>咸元</font>在<font color=OBJCOLOR>奏乐</font>时，突然很想家。	Giờ Tý, <font color=MYCOLOR>Hàm Nguyên</font> trong lúc <font color=OBJCOLOR>Chơi nhạc</font>, đột nhiên rất nhớ nhà.
+3天 00:51	3 ngày 00:51
+<font color=MYCOLOR>咸元</font>因<font color=OBJCOLOR>心境通明</font>心情不错，忍不住来<font color=OBJCOLOR>奏乐</font>抒怀。	<font color=MYCOLOR>Hàm Nguyên</font> vì <font color=OBJCOLOR>Tâm cảnh sáng suốt</font> tâm trạng tốt, không nhịn được đến <font color=OBJCOLOR>chơi nhạc</font> để bày tỏ nỗi lòng.
+3天 08:52	3 ngày 08:52
+日落时分，<font color=MYCOLOR>咸元</font>在<font color=OBJCOLOR>读书品卷</font>时，突然流下眼泪。	Lúc hoàng hôn, <font color=MYCOLOR>Hàm Nguyên</font> đang <font color=OBJCOLOR>đọc sách thưởng thức quyển</font> bỗng rơi nước mắt.
+3天 18:07	3 ngày 18:07
+咸	Hàm
+元	Nguyên
+毛依白	Mao Y Bạch
+乐	Nhạc
+龙	Long
+玉靖	Ngọc Tĩnh
+令狐	Lệnh Hồ
+梅	Mai
+俊书生	Tuấn thư sinh
+门派中，<font color=MYCOLOR>熊子石</font>静静的<font color=OBJCOLOR>观云卷云舒</font>，突然想起自己的<font color=OBJCOLOR>母亲慕容疏影</font>。	Trong môn phái, <font color=MYCOLOR>Hùng Tử Thạch</font> lặng lẽ <font color=OBJCOLOR>quan sát mây cuộn mây tan</font>, bỗng nhớ tới <font color=OBJCOLOR>mẫu thân Mộ Dung Sơ Ảnh</font>.
+2天 19:42	2 ngày 19:42
+<font color=MYCOLOR>熊子石</font>因<font color=OBJCOLOR>境界提升</font>心情不错，忍不住来<font color=OBJCOLOR>奏乐</font>抒怀。	<font color=MYCOLOR>Hùng Tử Thạch</font> vì <font color=OBJCOLOR>cảnh giới nâng cao</font> tâm trạng tốt, không nhịn được mà đến <font color=OBJCOLOR>chơi nhạc</font> để giải tỏa.
+3天 01:42	3 ngày 01:42
+<font color=MYCOLOR>熊子石</font>被<font color=OBJCOLOR>需要房间</font>的情绪困扰，只能<font color=OBJCOLOR>奏乐</font>来放空心灵。	<font color=MYCOLOR>Hùng Tử Thạch</font> bị cảm xúc <font color=OBJCOLOR>Cần một căn phòng</font> làm phiền, chỉ có thể <font color=OBJCOLOR>Chơi nhạc</font> để thả lỏng tâm hồn.
+3天 03:38	3 ngày 03:38
+3天 09:14	3 ngày 09:14
+<font color=MYCOLOR>熊子石</font>因<font color=OBJCOLOR>心境通明</font>心情不错，忍不住来<font color=OBJCOLOR>读书品卷</font>抒怀。	<font color=MYCOLOR>Tử Thạch</font> vì <font color=OBJCOLOR>tâm cảnh sáng suốt</font> nên tâm trạng tốt, không kìm được liền <font color=OBJCOLOR>đọc sách thưởng thức quyển</font> để giải bày tâm sự.
+3天 10:55	3 ngày 10:55
+熊	Gấu
+子石	Tử Thạch
+玉书	Ngọc Thư
+慕容	Mộ Dung
+疏影	Sơ Ảnh
+刁	Điêu
+紫真	Tử Chân
+夺命藕	Đoạt Mệnh Ấu
+<font color=MYCOLOR>从功</font>因<font color=OBJCOLOR>别致的风景</font>心情不错，忍不住来<font color=OBJCOLOR>读书品卷</font>抒怀。	<font color=MYCOLOR>Tòng Công</font> vì <font color=OBJCOLOR>Phong cảnh độc đáo</font> mà tâm trạng vui vẻ, không nhịn được đến <font color=OBJCOLOR>Đọc sách thưởng thức quyển</font> để giải tỏa.
+2天 13:06	2 ngày 13:06
+日闲之时，<font color=MYCOLOR>从功</font>在<font color=OBJCOLOR>随便看看</font>时，突然发出一声长叹。	Lúc nhàn rỗi, <font color=MYCOLOR>Tòng Công</font> đang <font color=OBJCOLOR>xem qua</font> bỗng thốt lên một tiếng thở dài.
+2天 16:00	2 ngày 16:00
+门派中，<font color=MYCOLOR>从功</font>在<font color=OBJCOLOR>随便看看</font>时，突然流下眼泪。	Trong môn phái, <font color=MYCOLOR>Tòng Công</font> đang <font color=OBJCOLOR>xem qua</font> bỗng rơi nước mắt.
+2天 16:54	2 ngày 16:54
+子时，<font color=MYCOLOR>从功</font>在<font color=OBJCOLOR>奏乐</font>时，突然想吃<font color=OBJCOLOR>昙花水梨汤</font>。	Giờ Tý, <font color=MYCOLOR>Tòng Công</font> khi đang <font color=OBJCOLOR>chơi nhạc</font> đột nhiên muốn ăn <font color=OBJCOLOR>canh lê hoa nở đêm</font>.
+2天 23:41	2 ngày 23:41
+黄昏时分，<font color=MYCOLOR>从功</font>在<font color=OBJCOLOR>凝神望天</font>时，突然觉得莫名烦躁。	Lúc hoàng hôn, <font color=MYCOLOR>Tòng Công</font> khi <font color=OBJCOLOR>ngưng thần nhìn trời</font>, bỗng cảm thấy bứt rứt khó hiểu.
+4天 20:54	4 ngày 20:54
+从	Tòng
+功	Công
+宁	Yên tĩnh
+傲云	Ngạo Vân
+解	Giải
+丹秋	Thu đỏ
+阴蜈蚣	Ngô Công Âm
+绿荫之下，<font color=MYCOLOR>南门墨竹</font>在<font color=OBJCOLOR>凝神望天</font>时，突然流下眼泪。	Dưới bóng cây, <font color=MYCOLOR>Nam Môn Mặc Trúc</font> đang <font color=OBJCOLOR>ngưng thần nhìn trời</font> bỗng dưng rơi lệ.
+2天 09:51	2 ngày 09:51
+万里无云，<font color=MYCOLOR>南门墨竹</font>在<font color=OBJCOLOR>读书品卷</font>时，突然发出一声长叹。	Vạn lý vô vân, <font color=MYCOLOR>Nam Môn Mặc Trúc</font> khi <font color=OBJCOLOR>đọc sách thưởng thức quyển</font> bỗng phát ra một tiếng thở dài.
+3天 10:00	3 ngày 10:00
+<font color=MYCOLOR>南门墨竹</font>正因穿着合身而开心，看<font color=HECOLOR>毛依白</font>好像正无聊，就拉着她聊了聊关于<font color=OBJCOLOR>爱好</font>的事。	<font color=MYCOLOR>Nam Môn Mặc Trúc</font> Vì mặc đồ vừa vặn mà Vui vẻ, thấy <font color=HECOLOR>Mao Y Bạch</font> có vẻ đang chán, liền kéo nàng lại trò chuyện về <font color=OBJCOLOR>sở thích</font>.
+4天 05:24	4 ngày 05:24
+南门	Nam Môn
+墨竹	Mặc Trúc
+新	Tân
+闻人	Văn nhân
+妙竹	Diệu Trúc
+鄢	Yên
+爽	Sảng
+妙尊者	Diệu Tôn giả
+<font color=MYCOLOR>韶兴</font>因<font color=OBJCOLOR>心境圆润</font>心情不错，忍不住来<font color=OBJCOLOR>凝神望天</font>抒怀。	<font color=MYCOLOR>Thiều Hưng</font> vì <font color=OBJCOLOR>tâm cảnh viên mãn</font> tâm trạng vui vẻ, không nhịn được đến <font color=OBJCOLOR>ngưng thần nhìn trời</font> để trút lòng.
+2天 21:53	2 ngày 21:53
+天朗气清，<font color=MYCOLOR>韶兴</font>静静的<font color=OBJCOLOR>看天花板</font>，突然想起自己的<font color=OBJCOLOR>父亲韶寂弦</font>。	Trời quang mây tạnh, <font color=MYCOLOR>Thiều Hưng</font> lặng lẽ <font color=OBJCOLOR>nhìn trần nhà</font>, đột nhiên nhớ đến <font color=OBJCOLOR>cha Thiều Tịch Huyền</font> của bản thân.
+3天 21:17	3 ngày 21:17
+晴空万里，<font color=MYCOLOR>韶兴</font>静静的<font color=OBJCOLOR>奏乐</font>，突然想起自己的<font color=OBJCOLOR>母亲勾凤鸾</font>。	Trời xanh vạn lý, <font color=MYCOLOR>Thiều Hưng</font> lặng lẽ <font color=OBJCOLOR>chơi nhạc</font>, chợt nhớ đến <font color=OBJCOLOR>mẹ Phượng Loan</font> của mình.
+3天 22:05	3 ngày 22:05
+<font color=MYCOLOR>韶兴</font>被<font color=OBJCOLOR>需要武器</font>的情绪困扰，只能<font color=OBJCOLOR>下棋</font>来放空心灵。	<font color=MYCOLOR>Thiệu Hưng</font> bị cảm xúc <font color=OBJCOLOR>Cần vũ khí</font> làm phiền, chỉ có thể <font color=OBJCOLOR>Chơi cờ</font> để thả lỏng tâm hồn.
+4天 03:12	4 ngày 03:12
+晴空万里，<font color=MYCOLOR>韶兴</font>在<font color=OBJCOLOR>奏乐</font>时，脑海中突然浮现<font color=OBJCOLOR>钭世</font>的模样。	Trời quang vạn lý, <font color=MYCOLOR>Thiều Hưng</font> khi đang <font color=OBJCOLOR>chơi nhạc</font> bỗng hình ảnh <font color=OBJCOLOR>Đẩu Thế</font> hiện lên trong đầu.
+4天 04:16	4 ngày 04:16
+韶	Thiều
+兴	Hưng
+寂弦	Tịch Huyền
+勾	Câu
+凤鸾	Phượng Loan
+万剑君	Vạn Kiếm
+天朗气清，<font color=MYCOLOR>陶飞</font>在<font color=OBJCOLOR>读书品卷</font>时，突然发出一声长叹。	Trời trong xanh, <font color=MYCOLOR>Đào Phi</font> đang <font color=OBJCOLOR>đọc sách thưởng thức quyển</font> bỗng thốt lên một tiếng thở dài.
+2天 11:22	2 ngày 11:22
+日夕之刻，<font color=MYCOLOR>陶飞</font>在<font color=OBJCOLOR>夜观星象</font>时，突然很想家。	Giờ chiều tối, <font color=MYCOLOR>Đào Phi</font> đang <font color=OBJCOLOR>quan sát sao đêm</font> bỗng nhớ nhà.
+2天 20:07	2 ngày 20:07
+子时，<font color=MYCOLOR>陶飞</font>在<font color=OBJCOLOR>看天花板</font>时，突然很想家。	Giờ Tý, <font color=MYCOLOR>Đào Phi</font> khi đang <font color=OBJCOLOR>nhìn trần nhà</font> bỗng rất nhớ nhà.
+3天 23:45	3 ngày 23:45
+门派中，<font color=MYCOLOR>陶飞</font>静静的<font color=OBJCOLOR>奏乐</font>，突然想起自己的<font color=OBJCOLOR>父亲陶寂弦</font>。	Trong môn phái, <font color=MYCOLOR>Đào Phi</font> lặng lẽ <font color=OBJCOLOR>chơi nhạc</font>, bỗng nhớ đến <font color=OBJCOLOR>phụ thân Đào Tịch Huyền</font>.
+4天 11:37	4 ngày 11:37
+门派中，<font color=MYCOLOR>陶飞</font>在<font color=OBJCOLOR>下棋</font>时，突然想吃<font color=OBJCOLOR>昙花水梨汤</font>。	Trong môn phái, <font color=MYCOLOR>Đào Phi</font> đang <font color=OBJCOLOR>chơi cờ</font> thì đột nhiên muốn ăn <font color=OBJCOLOR>Đàm Hoa Thủy Lê Thang</font>.
+4天 14:25	4 ngày 14:25
+门派中，<font color=MYCOLOR>陶飞</font>静静的<font color=OBJCOLOR>下棋</font>，突然想起自己的<font color=OBJCOLOR>母亲国黛</font>。	Trong môn phái, <font color=MYCOLOR>Đào Phi</font> lặng lẽ <font color=OBJCOLOR>Chơi cờ</font>, bỗng nhớ đến <font color=OBJCOLOR>mẫu thân Quốc Đại</font> của mình.
+4天 15:23	4 ngày 15:23
+陶	Đào
+飞	Phi
+友菱	Hữu Lăng
+国	Quốc
+黛	Đại
+逆浪君	Nghịch Lãng quân
+酉时，<font color=MYCOLOR>葛慕儿</font>静静的<font color=OBJCOLOR>奏乐</font>，突然想起自己的<font color=OBJCOLOR>母亲鲁之玉</font>。	Giờ Dậu, <font color=MYCOLOR>Cát Mộ Nhi</font> lặng lẽ <font color=OBJCOLOR>chơi nhạc</font>, chợt nhớ tới <font color=OBJCOLOR>mãu thân Lỗ Chi Ngọc</font>.
+3天 18:28	3 ngày 18:28
+晴空万里，<font color=MYCOLOR>葛慕儿</font>在<font color=OBJCOLOR>下棋</font>时，突然觉得旁边的<font color=OBJCOLOR>灵石琴台</font>很有意思……	Trời quang đãng, <font color=MYCOLOR>Mộ Nhi</font> đang <font color=OBJCOLOR>chơi cờ</font> thì đột nhiên cảm thấy <font color=OBJCOLOR>Đài cầm Linh thạch</font> bên cạnh rất thú vị…
+4天 08:47	4 ngày 08:47
+门派中，<font color=MYCOLOR>葛慕儿</font>一个人<font color=OBJCOLOR>下棋</font>，突然思绪万千。	Trong môn phái, <font color=MYCOLOR>Cát Mộ Nhi</font> một mình <font color=OBJCOLOR>chơi cờ</font>, bỗng dưng nghĩ ngợi miên man.
+4天 10:42	4 ngày 10:42
+<font color=MYCOLOR>葛慕儿</font>正无所事事的消磨着时光，看<font color=HECOLOR>毛依白</font>路过，就拉着她聊了聊关于<font color=OBJCOLOR>需要房间</font>的事。	<font color=MYCOLOR>Cát Mộ Nhi</font> đang nhàn rỗi giết thời gian, thấy <font color=HECOLOR>Mao Y Bạch</font> đi ngang qua liền kéo nàng lại trò chuyện về <font color=OBJCOLOR>cần phòng</font>.
+4天 12:00	4 ngày 12:00
+日昳时分，<font color=MYCOLOR>葛慕儿</font>在<font color=OBJCOLOR>跳舞</font>时，突然觉得旁边的<font color=OBJCOLOR>灵石琴台</font>很有意思……	Giữa trưa, <font color=MYCOLOR>Mộ Nhi</font> đang <font color=OBJCOLOR>nhảy múa</font> bỗng cảm thấy <font color=OBJCOLOR>đài cầm linh thạch</font> bên cạnh khá thú vị..
+4天 14:38	4 ngày 14:38
+<font color=MYCOLOR>葛慕儿</font>因<font color=OBJCOLOR>聊天</font>心情不错，忍不住来<font color=OBJCOLOR>看天花板</font>抒怀。	<font color=MYCOLOR>Cát Mộ Nhi</font> vì <font color=OBJCOLOR>Trò Chuyện</font> mà tâm trạng vui vẻ, không nhịn được đến <font color=OBJCOLOR>Nhìn Trần Nhà</font> để giãi bày.
+4天 17:46	4 ngày 17:46
+葛	Cát
+慕儿	Mộ Nhi
+友	Hữu
+鲁	Lỗ
+之玉	Chi Ngọc
+汲	Cấp
+遮月	Già Nguyệt
+坤元圭	Khôn Nguyên khuê
+海	Hải
+乜	Khiết
+珊	San
+日中之时，<font color=MYCOLOR>奚顺</font>在<font color=OBJCOLOR>随便看看</font>时，突然想吃<font color=OBJCOLOR>面饼</font>。	Giờ Nhật Trung, <font color=MYCOLOR>Hề Thuận</font> đang <font color=OBJCOLOR>xem qua</font> thì đột nhiên muốn ăn <font color=OBJCOLOR>bánh mì</font>.
+2天 12:27	2 ngày 12:27
+申时，<font color=MYCOLOR>奚顺</font>一个人<font color=OBJCOLOR>观云卷云舒</font>，突然思绪万千。	Giờ Thân, <font color=MYCOLOR>Hề Thuận</font> một mình <font color=OBJCOLOR>quan sát mây cuộn mây tan</font>, bỗng dưng suy nghĩ miên man.
+2天 16:14	2 ngày 16:14
+天朗气清，<font color=MYCOLOR>奚顺</font>在<font color=OBJCOLOR>随便看看</font>时，脑海中突然浮现<font color=OBJCOLOR>钭世</font>的模样。	Trời quang mây tạnh, <font color=MYCOLOR>Hề Thuận</font> đang <font color=OBJCOLOR>xem qua</font>, bỗng trong đầu hiện lên hình ảnh <font color=OBJCOLOR>Đẩu Thế</font>.
+2天 16:58	2 ngày 16:58
+晴空万里，<font color=MYCOLOR>奚顺</font>在<font color=OBJCOLOR>下棋</font>时，突然想吃<font color=OBJCOLOR>公狼粪便</font>。	Trời quang mây tạnh, <font color=MYCOLOR>Hề Thuận</font> trong lúc <font color=OBJCOLOR>chơi cờ</font> bỗng nhiên muốn ăn <font color=OBJCOLOR>phân sói</font>.
+3天 04:14	3 ngày 04:14
+日斜心慵，<font color=MYCOLOR>奚顺</font>在<font color=OBJCOLOR>书画</font>时，突然觉得很气闷。	Ánh chiều nghiêng, tâm trạng mệt mỏi, <font color=MYCOLOR>Hề Thuận</font> khi <font color=OBJCOLOR>thư họa</font>, bỗng cảm thấy ngột ngạt.
+3天 13:34	3 ngày 13:34
+奚	Hề
+顺	Thuận
+苗宣	Miêu Tuyên
+容	Dung
+春柏	Xuân Bách
+震雷竹	Chấn Lôi trúc
+晴空万里，<font color=MYCOLOR>毛依白</font>在<font color=OBJCOLOR>随便看看</font>时，突然想吃<font color=OBJCOLOR>母牛粪便</font>。	Vạn Lý không mây, <font color=MYCOLOR>Y Bạch</font> khi đang <font color=OBJCOLOR>xem qua</font>, đột nhiên muốn ăn <font color=OBJCOLOR>phân</font>.
+2天 03:55	2 ngày 03:55
+隅中时分，<font color=MYCOLOR>毛依白</font>在<font color=OBJCOLOR>凝神望天</font>时，突然流下眼泪。	Giữa trưa, <font color=MYCOLOR>Mao Y Bạch</font> đang <font color=OBJCOLOR>Ngưng thần nhìn trời</font>, đột nhiên rơi lệ.
+2天 09:58	2 ngày 09:58
+万里无云，<font color=MYCOLOR>毛依白</font>在<font color=OBJCOLOR>随便看看</font>时，脑海中突然浮现<font color=OBJCOLOR>钭世</font>的模样。	Trời quang mây tạnh, <font color=MYCOLOR>Mao Y Bạch</font> đang <font color=OBJCOLOR>xem qua</font> thì trong đầu bỗng nhiên xuất hiện hình ảnh của <font color=OBJCOLOR>Đẩu Thế</font>.
+2天 12:16	2 ngày 12:16
+万里无云，<font color=MYCOLOR>毛依白</font>在<font color=OBJCOLOR>书画</font>时，突然流下眼泪。	Vạn Lý không mây, <font color=MYCOLOR>Mao Y Bạch</font> khi đang <font color=OBJCOLOR>thư họa</font>, bỗng rơi lệ.
+4天 12:15	4 ngày 12:15
+毛	Mao
+依白	Y Bạch
+南门墨竹	Nam Môn trúc mực
+葛慕儿	Cát Mộ Nhi
+从功	Từ công
+韶兴	Thiệu Hưng
+邦	Bang
+子车	Tử Xa
+晓凡	Hiểu Phàm
+赵	Triệu
+智渊	Trí Uyên
+黑苍龙	Hắc Thương Long
+<font color=MYCOLOR>项辉</font>正因穿着合身而开心，看<font color=HECOLOR>毛依白</font>路过，就拉着她聊了聊关于<font color=OBJCOLOR>九华村</font>的事。	<font color=MYCOLOR>Hạng Huy</font> Vì mặc đồ vừa vặn mà Vui vẻ, thấy <font color=HECOLOR>Mao Y Bạch</font> đi ngang qua liền kéo nàng lại trò chuyện về <font color=OBJCOLOR>Cửu Hoa Thôn</font>.
+3天 05:57	3 ngày 05:57
+项	Hạng
+辉	Huy
+商震	Thương Chấn
+阎	Diêm
+凡柔	Phàm Nhu
+搬山公	Ông Bán Sơn
+万里无云，<font color=MYCOLOR>凤妹</font>在<font color=OBJCOLOR>夜观星象</font>时，突然流下眼泪。	Vạn Lý vô vân, <font color=MYCOLOR>Phượng Muội</font> khi đang <font color=OBJCOLOR>Quan sát sao đêm</font> bỗng nhiên rơi nước mắt.
+3天 22:21	3 ngày 22:21
+平旦之时，<font color=MYCOLOR>凤妹</font>在<font color=OBJCOLOR>看天花板</font>时，突然觉得旁边的<font color=OBJCOLOR>灵石墙</font>很有意思……	Vào lúc bình minh, <font color=MYCOLOR>Phượng Muội</font> đang <font color=OBJCOLOR>nhìn trần nhà</font> thì đột nhiên cảm thấy <font color=OBJCOLOR>tường Linh thạch</font> bên cạnh rất thú vị…
+4天 04:34	4 ngày 04:34
+凤	Phượng
+妹	Muội
+远航	Viễn Hàng
+车	Xa
+依亦	Y Diệc
+金衫罩	Kim Sam Tráo
+万籁俱静，<font color=MYCOLOR>昌志用</font>在<font color=OBJCOLOR>书画</font>时，突然流下眼泪。	Vạn vật yên tĩnh, <font color=MYCOLOR>Chí Dụng</font> khi đang <font color=OBJCOLOR>thư họa</font>, bỗng rơi lệ.
+2天 00:06	2 ngày 00:06
+寅时，<font color=MYCOLOR>昌志用</font>在<font color=OBJCOLOR>奏乐</font>时，突然流下眼泪。	Giờ Dần, <font color=MYCOLOR>Chí Dụng</font> trong lúc <font color=OBJCOLOR>Chơi nhạc</font>, đột nhiên rơi nước mắt.
+3天 03:25	3 ngày 03:25
+<font color=MYCOLOR>昌志用</font>在和<font color=HECOLOR>毛依白</font>聊天时，<font color=HECOLOR>毛依白</font>突然发现了<font color=MYCOLOR>昌志用</font>身上的<font color=OBJCOLOR><font color=OBJCOLOR>野猪皮薄下裳</font></font>。<font color=MYCOLOR>昌志用</font>与是向她聊起了<font color=OBJCOLOR><font color=OBJCOLOR>野猪皮薄下裳</font></font>的来历，<font color=HECOLOR>毛依白</font>听后啧啧称奇。	<font color=MYCOLOR>Chí Dụng</font> đang trò chuyện với <font color=HECOLOR>Y Bạch</font>, <font color=HECOLOR>Y Bạch</font> đột nhiên phát hiện ra <font color=MYCOLOR>Chí Dụng</font> đang mặc <font color=OBJCOLOR><font color=OBJCOLOR>Bạc Hạ Thường da lợn rừng</font></font>. <font color=MYCOLOR>Chí Dụng</font> bèn kể cho cô nghe về nguồn gốc của <font color=OBJCOLOR><font color=OBJCOLOR>Bạc Hạ Thường da lợn rừng</font></font>, <font color=HECOLOR>Y Bạch</font> nghe xong thì trầm trồ tán thưởng.
+3天 17:36	3 ngày 17:36
+天朗气清，<font color=MYCOLOR>昌志用</font>在<font color=OBJCOLOR>娱乐</font>时，突然心中一动，对天道又多了许多感悟。	Trời trong gió mát, <font color=MYCOLOR>Xương Chí Dụng</font> khi đang <font color=OBJCOLOR>Giải trí</font>, trong lòng bỗng thấy rung động, cảm ngộ về Thiên Đạo lại sâu thêm.
+4天 07:39	4 ngày 07:39
+万里无云，<font color=MYCOLOR>昌志用</font>静静的<font color=OBJCOLOR>看天花板</font>，突然想起自己的<font color=OBJCOLOR>父亲昌学智</font>。	Trời quang đãng, <font color=MYCOLOR>Chí Dụng</font> lặng lẽ <font color=OBJCOLOR>nhìn trần nhà</font>, bỗng nhớ đến <font color=OBJCOLOR>cha Chí Dụng Học Trí</font> của mình.
+4天 14:12	4 ngày 14:12
+昌	Xương
+志用	Chí Dụng
+学智	Học Trí
+宰父	Tể Phụ
+瑞	Thụy
+越	Việt
+心	Tim
+镇岳公子	Trấn Nhạc Công Tử
+晴空万里，<font color=MYCOLOR>干栋</font>在<font color=OBJCOLOR>读书品卷</font>时，突然想吃<font color=OBJCOLOR>母猫粪便</font>。	Trời quang mây tạnh, <font color=MYCOLOR>Can Đống</font> khi <font color=OBJCOLOR>đọc sách thưởng thức quyển</font>, đột nhiên muốn ăn <font color=OBJCOLOR>phân mèo cái</font>.
+2天 08:03	2 ngày 08:03
+门派中，<font color=MYCOLOR>干栋</font>在<font color=OBJCOLOR>奏乐</font>时，忍不住轻声和唱了起来。	Trong môn phái, <font color=MYCOLOR>Can Đống</font> đang <font color=OBJCOLOR>chơi nhạc</font>, không nhịn được mà hát khẽ theo.
+2天 22:54	2 ngày 22:54
+门派中，<font color=MYCOLOR>干栋</font>在<font color=OBJCOLOR>看天花板</font>时，突然觉得莫名烦躁。	Trong môn phái, <font color=MYCOLOR>Can Đống</font> đang <font color=OBJCOLOR>Nhìn trần nhà</font> bỗng thấy bứt rứt khó chịu.
+3天 02:18	3 ngày 02:18
+正午之时，<font color=MYCOLOR>干栋</font>静静的<font color=OBJCOLOR>看天花板</font>，突然想起自己的<font color=OBJCOLOR>母亲晋黛</font>。	Vào buổi trưa, <font color=MYCOLOR>Can Đống</font> lặng lẽ <font color=OBJCOLOR>nhìn trần nhà</font>, bỗng nhớ tới <font color=OBJCOLOR>mẹ Tấn Đại</font> của mình.
+3天 11:00	3 ngày 11:00
+门派中，<font color=MYCOLOR>干栋</font>在<font color=OBJCOLOR>书画</font>时，脑海中突然浮现<font color=OBJCOLOR>钭世</font>的模样。	Trong môn phái, <font color=MYCOLOR>Can Đống</font> khi đang <font color=OBJCOLOR>Thư họa</font>, trong đầu bỗng hiện lên hình ảnh của <font color=OBJCOLOR>Thấu Thế</font>.
+3天 18:42	3 ngày 18:42
+门派中，<font color=MYCOLOR>干栋</font>一个人<font color=OBJCOLOR>看天花板</font>，突然思绪万千。	Trong môn phái, <font color=MYCOLOR>Can Đống</font> một mình <font color=OBJCOLOR>nhìn trần nhà</font>, bỗng dưng suy nghĩ miên man.
+4天 07:41	4 ngày 07:41
+干	Khô
+栋	Đống
+裕	Dụ
+晋	Tấn
+裘	Cừu
+婕	Tiệp
+丹霞障	Đan Hà chướng
+门派中，<font color=MYCOLOR>姬彭亮</font>在<font color=OBJCOLOR>凝神望天</font>时，突然想吃<font color=OBJCOLOR>母猫粪便</font>。	Trong môn phái, <font color=MYCOLOR>Cơ Bành Lượng</font> khi <font color=OBJCOLOR>ngưng thần nhìn trời</font>, đột nhiên muốn ăn <font color=OBJCOLOR>phân mèo cái</font>.
+3天 00:12	3 ngày 00:12
+日斜心慵，<font color=MYCOLOR>姬彭亮</font>在<font color=OBJCOLOR>奏乐</font>时，突然觉得旁边的<font color=OBJCOLOR>灵石琴台</font>很有意思……	Lúc mặt trời xế bóng, <font color=MYCOLOR>Cơ Bành Lượng</font> đang <font color=OBJCOLOR>chơi nhạc</font> thì đột nhiên cảm thấy <font color=OBJCOLOR>Đài cầm Linh thạch</font> bên cạnh rất thú vị…
+3天 13:48	3 ngày 13:48
+<font color=MYCOLOR>姬彭亮</font>因<font color=OBJCOLOR>多姿多彩</font>心情不错，忍不住来<font color=OBJCOLOR>奏乐</font>抒怀。	<font color=MYCOLOR>Cơ Bành Lượng</font> vì <font color=OBJCOLOR>Muôn Màu Muôn Vẻ</font> mà tâm trạng vui vẻ, không nhịn được đến <font color=OBJCOLOR>Chơi Nhạc</font> để giãi bày.
+4天 11:16	4 ngày 11:16
+姬	Cơ
+彭亮	Bành Lượng
+子轩	Tử Hiên
+冷雪	Lãnh Tuyết
+秦	Tần
+御木灵宝	Ngự mộc Linh bảo
+亥时，<font color=MYCOLOR>水雅绿</font>在<font color=OBJCOLOR>看天花板</font>时，突然流下眼泪。	Vào giờ Hợi, <font color=MYCOLOR>Thủy Nhã Lục</font> khi đang <font color=OBJCOLOR>nhìn trần nhà</font>, bỗng rơi lệ.
+1天 22:55	1 ngày 22:55
+万里无云，<font color=MYCOLOR>水雅绿</font>在<font color=OBJCOLOR>下棋</font>时，突然觉得很气闷。	Trời vạn lý không mây, <font color=MYCOLOR>Nhã Lục</font> đang <font color=OBJCOLOR>chơi cờ</font> bỗng cảm thấy ngột ngạt.
+3天 22:38	3 ngày 22:38
+门派中，<font color=MYCOLOR>水雅绿</font>在<font color=OBJCOLOR>看天花板</font>时，突然觉得莫名烦躁。	Trong môn phái, <font color=MYCOLOR>Thủy Nhã Lục</font> đang <font color=OBJCOLOR>nhìn trần nhà</font> bỗng cảm thấy bồn chồn khó tả.
+4天 01:23	4 ngày 01:23
+雅绿	Nhã Lục
+壬水娘子	Cascade Nương Tử
+天朗气清，<font color=MYCOLOR>郜世</font>在<font color=OBJCOLOR>观云卷云舒</font>时，突然发出一声长叹。	Trời trong khí thanh, <font color=MYCOLOR>Cáo Thế</font> khi <font color=OBJCOLOR>quan sát mây cuộn mây tan</font> bỗng phát ra một tiếng thở dài.
+2天 16:46	2 ngày 16:46
+门派中，<font color=MYCOLOR>郜世</font>在<font color=OBJCOLOR>奏乐</font>时，突然觉得莫名烦躁。	Trong môn phái, <font color=MYCOLOR>Cáo Thế</font> khi đang <font color=OBJCOLOR>chơi nhạc</font>, bỗng cảm thấy bứt rứt khó tả.
+2天 17:46	2 ngày 17:46
+晴空万里，<font color=MYCOLOR>郜世</font>在<font color=OBJCOLOR>下棋</font>时，突然想去<font color=OBJCOLOR>天极峰</font>看看。	Trời quang không mây, <font color=MYCOLOR>Cáo Thế</font> đang <font color=OBJCOLOR>chơi cờ</font> thì đột nhiên muốn đến <font color=OBJCOLOR>Thiên Cực Phong</font> xem thử.
+3天 04:23	3 ngày 04:23
+日禺之时，<font color=MYCOLOR>郜世</font>在<font color=OBJCOLOR>奏乐</font>时，突然想吃<font color=OBJCOLOR>饮气丹</font>。	Giờ Ngọ, <font color=MYCOLOR>Cao Thế</font> đang <font color=OBJCOLOR>chơi nhạc</font> thì đột nhiên muốn ăn <font color=OBJCOLOR>Ẩm Khí Đan</font>.
+4天 09:16	4 ngày 09:16
+正午之时，<font color=MYCOLOR>郜世</font>一个人<font color=OBJCOLOR>奏乐</font>，突然思绪万千。	Vào buổi trưa, <font color=MYCOLOR>Cáo Thế</font> một mình <font color=OBJCOLOR>chơi nhạc</font>, bỗng dưng nghĩ ngợi miên man.
+4天 11:21	4 ngày 11:21
+<font color=MYCOLOR>郜世</font>被<font color=OBJCOLOR>需要房间</font>的情绪困扰，只能<font color=OBJCOLOR>下棋</font>来放空心灵。	<font color=MYCOLOR>Cảo Thế</font> bị cảm xúc <font color=OBJCOLOR>cần một căn phòng</font> làm phiền, chỉ có thể <font color=OBJCOLOR>chơi cờ</font> để buông thả tâm hồn.
+4天 17:11	4 ngày 17:11
+郜	Cáo
+和	Hòa
+於	Vu
+云	Vân
+燃魂柱	Nhiên Hồn trụ
+肆叁伍叁贰贰零玖贰	435322092
+扫地	Quét dọn.
+七七七	Bảy Bảy Bảy
+神秘大能	Đại năng thần bí
+教学	Hướng dẫn
+门	Cửa
+江湖秘闻	Bí ẩn giang hồ
+天苍246年 春 第9日	Thiên Thương năm 246, mùa Xuân, ngày thứ 9
+据说大漠深处突然天崩地裂，上古时期妖族圣地龙崖石刻再现人间！	Nghe nói sâu trong Đại Mạc bỗng nhiên đất trời sụp đổ, khắc đá Long Nhai - thánh địa của yêu tộc thời cổ đại lại xuất hiện trên nhân gian!
+天苍246年 春 第12日	Thiên Thương năm 246, mùa Xuân, ngày thứ 12
+陶飞心境不稳	Đào Phi tâm cảnh không ổn định
+韶兴遇到瓶颈	Thiều Hưng gặp phải bình cảnh
+项辉遇到瓶颈	Hạng Huy gặp bế tắc
+奚顺遇到瓶颈	Hề Thuận gặp phải bình cảnh
+郜世遇到瓶颈	Cáo Thế gặp phải bình cảnh
+姬彭亮遇到瓶颈	Cơ Bành Lượng gặp bế tắc
+昌志用遇到瓶颈	Chang Zhi Yong gặp phải bình cảnh
+钭世遇到瓶颈	Thẩu Thế gặp phải bình cảnh
+熊子石遇到瓶颈	Hùng Tử Thạch gặp bế tắc
+陶飞遇到瓶颈	Đào Phi gặp phải bình cảnh
+干栋遇到瓶颈	Can Động gặp bế tắc
+水雅绿遇到瓶颈	Thủy Nhã Lục gặp bế tắc
+韶兴突破瓶颈成功	Thiều Hưng đột phá bế tắc thành công
+项辉突破瓶颈成功	Hạng Huy đột phá bình cảnh thành công
+奚顺突破瓶颈成功	Hề Thuận đột phá bình cảnh thành công
+郜世突破瓶颈成功	Cáo Thế đột phá bình cảnh thành công
+姬彭亮突破瓶颈成功	Cơ Bành Lượng đột phá bình cảnh thành công
+昌志用突破瓶颈成功	Trường Chí Dụng đột phá bình cảnh thành công
+钭世突破瓶颈成功	Thẩu Thế đột phá bình cảnh thành công
+干栋突破瓶颈成功	Càn Động đột phá bình cảnh thành công
+水雅绿突破瓶颈成功	Nhã Lục đột phá bình cảnh thành công
+存档写入完成	Hoàn tất ghi lưu trữ
+门派传闻	Tin đồn môn phái.
+据传百蛮山的大能蓟语山在稻香村出没。	Nghe nói đại năng Kỷ Ngữ Sơn của Bách Man Sơn xuất hiện ở Đạo Hương Thôn.
+据传丹霞洞天的大能平坚在雪风原出没。	Nghe nói đại năng Bình Kiên của Đan Hà Động Thiên xuất hiện ở Tuyết Phong Nguyên.
+据传正一道派中飞升的尊长突然降下大量恩赐，门派实力大涨。	Nghe đồn Tôn trưởng phi thăng của Chính Nhất đạo phái đột nhiên ban phát nhiều ân điển, thực lực môn phái tăng mạnh.
+据传正一道寻到一名上古器修的洞府，获得大量元神寄托的灵器，门派实力大涨。	Nghe nói Chính Nhất Đạo đã tìm được động phủ của một thợ rèn khí xưa, thu được nhiều pháp bảo linh khí được Nguyên thần ký thác, thực lực môn phái tăng mạnh.
+灵石护山剑阵正被攻击	Linh Thạch Hộ Sơn Kiếm Trận đang bị tấn công
+灵石墙正被攻击	Linh Thạch Tường đang bị tấn công
+理气丹	Lý Khí Đan
+理气丹正在发挥药效	Lý Khí Đan đang phát huy hiệu quả
+赋灵术	Phú Linh Thuật
+五泉涤心法	Ngũ Tuyền Địch Tâm Pháp
+先天罡气	Tiên Thiên Cương Khí
+化伤术	Hóa Thương Thuật
+天霖诀	Thiên Lâm Quyết
+天一真法	Thiên Nhất Chân Pháp
+水镜观心定	Thủy Kính Quán Tâm Định
+同风诀	Đồng Phong Quyết
+归海诀	Quy Hải Quyết
+九阴真水界	Cửu Âm Chân Thủy Giới
+罡煞合流	Cương Sát Hợp Lưu
+新境神佑书	Tân Cảnh Thần Hựu Thư
+紫火千钧剑诀	Tử Hỏa Thiên Quân Kiếm Quyết
+五方神雷	Ngũ Phương Thần Lôi
+紫火落花	Tử Hỏa Lạc Hoa
+丁火落花真言	Đinh Hỏa Lạc Hoa Chân Ngôn
+多宝流光真言	Đa Bảo Lưu Quang Chân Ngôn
+混元要诀	Hỗn nguyên. Yêu Quyết
+少量的	Một chút
+混元十三式	Thức Thập Tam Hỗn Nguyên
+破灭秘诀	Phá Diệt Bí Quyết
+曳影	Duệ Ảnh
+五戒坤元	Ngũ Giới Khôn Nguyên
+中量的	Vừa
+御气混元宝典	Ngự Khí Hỗn Nguyên Bảo Điển
+赤炎圆转剑诀	Xích Viêm Viên Chuyển Kiếm Quyết
+五台混元七式	Ngũ Đài Hỗn Nguyên thất thức
+三才坤元十三式	Tam Tài Khôn Nguyên Mười Ba Thức
+大量的	Số lượng lớn
+未来星宿千钧宝典	Vị Lai Tinh Tú Thiên Quân Bảo Điển
+嵩山坤元秘要	Tung Sơn Khôn Nguyên Bí Yếu
+佛心书	Phật Tâm Thư
+鄂芸上仙归祖经	Ngạc Vân Thượng Tiên Quy Tổ Kinh
+哈氏神佑秘要	Ha Thị Thần Hựu Bí Yếu
+微草神农通卷	Vi Thảo Thần Nông Thông Quyển
+五内多宝宝典	Ngũ Nội Đa Bảo Bảo Điển
+赤月合一秘要	Xích Nguyệt Hợp Nhất Bí Yếu
+五内饕餮神功	Ngũ Nội Thao Thiết Thần Công
+阴神夺舍	Âm thần đoạt xá
+冥灵真法	Minh Linh Chân Pháp
+天道神丹	Thiên Đạo Thần Đan
+天道神器	Thiên Đạo Thần Khí
+长生圆转剑	Trường Sinh Viên Chuyển Kiếm
+入定之术	Thuật Nhập Định
+断岳覆天诀	Đoạn Nhạc Phúc Thiên Quyết
+勾陈流光	Câu Trần Lưu Quang
+经之柔上仙金刚咒	Kinh Chi Nhu Thượng Tiên Kim Cang Chú
+紫薇流光真言	Tử Vi Lưu Quang Chân Ngôn
+金刚经	Kim Cương kinh
+奠基宝典	Điện Cơ Bảo Điển
+金刚宝典	Kim Cang Bảo Điển
+金刚秘册	Kim Cương Bí Sách
+东海金刚秘要	Bí yếu Kim Cương Đông Hải
+玄关金刚宝典	Huyền Quan Kim Cương Bảo Điển
+白虎奠基	Bạch Hổ Điện Cơ
+御气金刚	Ngự Khí Kim Cương
+庚辛金刚密卷	Canh Tân Kim Cang mật quyển
+断岳奠基秘要	Bí yếu Đặt Nền Đoạn Nhạc
+神佑册	Sách Thần Hữu
+辟谷密卷	Tịch Cốc Mật Quyển
+五内鲸吞纪要	Ngũ Nội Kình Thốn yếu lãm
+龙虎佛心书	Long Hổ Phật Tâm Thư
+阴阳佛心记	Ân Dương Phật Tâm Ký
+庚辛清心经	Kinh Canh Tân Thanh Tâm
+寒月摄神秘法	Hàn Nguyệt Nhiếp Thần Bí Pháp
+海量的	Cực lớn
+须雅芝上仙清心秘要	Thượng Tiên Nhã Chi Thanh Tâm Bí Yếu
+白虎饕餮要诀	Bạch Hổ Thao Thiết Yếu Quyết
+灵息诀	Linh Tức Quyết
+鼎炉吸真术	Đỉnh Lô Hấp Chân Thuật
+再造术	Tái Tạo Thuật
+尘暴术	Trần Bạo Thuật
+求雨术	Cầu Vũ Thuật
+甘霖术	Cam Lâm Thuật
+风水鉴定	Phong Thủy Giám Định
+太和御气诀	Thái Hòa Ngự Khí Quyết
+清心咒	Thanh Tâm Chú
+御木诀	Ngự Mộc Quyết
+天水化伤术	Thiên Thủy Hóa Thương Thuật
+采水诀	Thái Thủy Quyết
+玄牝重生法	Huyền Tẫn Trọng Sinh Pháp
+乘风诀	Thừa Phong Quyết
+奔流诀	Bôn Lưu Quyết
+水精真形	Thủy Tinh Chân Hình
+水气真形	Thủy Khí Chân Hình
+水神真形	Thủy Thần Chân Hình
+暴雨术	Bạo Vũ Thuật
+玄魂造命	Huyền Hồn Tạo Mệnh
+醍醐灌顶之术	Đề Hồ Quán Đỉnh Thuật
+玄金五气真言	Chân Ngôn Ngũ Khí Huyền Kim
+勾陈三花咒	Câu Trần Tam Hoa Chú
+紫云宫流光咒	Tử Vân Cung Lưu Quang Chú
+奠基经	Kinh Điện Cơ
+金刚要诀	Kim Cương Yếu Quyết
+奠基秘要	Điện Cơ Bí Yếu
+玄金奠基秘册	Huyền Kim Điện Cơ Bí Sách
+入道奠基经	Nhập Đạo Điển Cơ Kinh
+庚金金刚	Canh Kim Kim Cương
+断岳奠基宝典	Đoạn Nhạc Điện Cơ Bảo Điển
+断岳金刚宝典	Bảo Điển Đoạn Nhạc Kim Cương
+化形金刚	Hóa Hình Kim Cương
+辟谷宝典	Tịch cốc Bảo Điển
+叶厚上仙神视神功	Diệp Hậu Thượng Tiên Thần Thị Thần Công
+御气清心经	Kinh Thanh Tâm Ngự Khí
+赤霄宫合一册	Xích Tiêu Cung Hợp Nhất Sách
+入道归祖神功	Nhập Đạo Quy Tổ Thần Công
+玄机神视秘要	Huyền Cơ Thần Thị Bí Yếu
+归真鲸吞要诀	Quy Chân Kình Thốn yếu quyết
+天魔解体大法	Thiên Ma Giải Thể Đại Pháp
+炼制灵石之术	Thuật Luyện Chế Linh Thạch
+玄机流光真言	Huyền Cơ Lưu Quang Chân Ngôn
+金丹流光	Kim đan lưu quang
+迅影	Tấn Ảnh
+混元秘法	Hỗn Nguyên Bí pháp
+寒月坤元决	Quyết Hàn Nguyệt Khôn Nguyên
+五戒千钧剑诀	Ngũ Giới Thiên Quân Kiếm Quyết
+彻法混元十式	Triệt Pháp Hỗn Nguyên Thập Thức
+多宝通卷	Đa Bảo Thông Quyển
+百炼秘要	Bách Luyện Bí Yếu
+饕餮	Thao Thiết
+龙虎鬼手通卷	Long Hổ Quỷ Thủ thông quyển
+真丹多宝	Chân Đan Đa Bảo
+三才多宝纲要	Tam Tài Đa Bảo Cương Yếu
+六气圆转十三式	Mười Ba Thức Viên Chuyển Lục Khí
+献祭	Hiến Tế
+精火筑灵	Tinh Hỏa Trúc Linh
+逆浪天星咒	Nghịch Lãng Thiên Tinh Chú
+少林金刚神雷	Thần Lôi Kim Cương Thiếu Lâm
+金刚	Kim Cương
+奠基要诀	Điện Cơ Yêu Quyết
+修蛇金刚宝典	Tu Xà Kim Cương Bảo Điển
+五内奠基宝典	Ngũ Nội Điền Cơ bảo điển
+知节奠基经	Tri Tiết Điển Cơ Kinh
+万源归真金刚宝典	Vạn Nguyên Quy Chân Kim Cang Bảo Điển
+南海奠基	Nam Hải Điện Cơ
+紫薇金刚密卷	Tử Vi Kim Cương Mật Quyển
+凌霄奠基秘要	Lăng Tiêu Điện Cơ Bí Yếu
+百汇奠基秘法	Bách Hội Điện Cơ Bí Pháp
+沃野丹方	Ốc D野 Đan Phương
+星辰合一册	Sách Tinh Thần Hợp Nhất
+壬水合一书	Cascade Hợp Nhất Thư
+凌霄合一册	Linh Tiêu Hợp Nhất Sách
+逆浪清心神功	Nghịch Lãng Thanh Tâm Thần Công
+文盛真人摄神册	Sách Nhiếp Thần Chân Nhân Văn Thịnh
+百汇佛心	Phật Tâm Bách Hội
+大衍神算	Đại Diễn Thần Toán
+分神之术	Phân Thần Chi Thuật
+庚金决意秘传	Canh Kim Quyết Ý Bí Truyền
+赤日三花诀	Xích Nhật Tam Hoa quyết
+奠基密卷	Điện Cơ Mật Quyển
+天金金刚经	Thiên Kim Kim Cương Kinh
+玄金金刚秘要	Huyền Kim Kim Cương Bí Yếu
+龙虎金刚	Long Hổ Kim Cương
+勾陈奠基	Câu Trần Điện Cơ
+百草阁金刚秘法	Bách Thảo Các Kim Cang Bí Pháp
+饕餮纪要	Thao Thiết Ký Yếu
+多宝	Đa Bảo
+阴阳鬼手秘传	Âm Dương Quỷ Thủ Bí Truyền
+金雷鬼手宝典	Bảo Điển Kim Lôi Quỷ Thủ
+寒月百炼通卷	Thông quyển Bách Luyện Hàn Nguyệt
+炎神殿鬼手纲要	Cương Yếu Quỷ Thủ Viêm Thần Điện
+御气万古秘要	Ngự Khí Vạn Cổ Bí Yếu
+阴阳神佑秘要	Âm Dương Thần Hựu Bí Yếu
+魂体寄生	Hồn Thể Ký Sinh
+武当佛心典	Điển Võ Đang Phật Tâm
+星辰五方	Ngũ Phương Tinh Thần
+陨星诀	Quyết Vân Tinh
+逆浪不坏真言	Nghịch Lãng Bất Hoại Chân Ngôn
+曳影七式	Dạ Ảnh Bảy Thức
+归祖要诀	Quy Tổ Yêu Quyết
+勾陈气摄秘法	Bí Pháp Câu Trần Khí Nhiếp
+壬癸神佑	Nhâm Quý Thần Hựu
+凝光鬼手宝典	Ngưng Quang Quỷ Thủ Bảo Điển
+惊波百炼宝册	Bảo Sách Bách Luyện Kinh Ba
+修蛇归祖密卷	Tu Xà Quy Tổ Mật Quyển
+玄武神视纪要	Huyền Vũ Thần Thị Ký Yếu
+冷月急诵秘法	Lãnh Nguyệt Cấp Tụng Bí Pháp
+腾岳覆天	Đằng Nhạc Phúc Thiên
+破灭	Phá Diệt
+破灭密卷	Mật Quyển phá diệt
+气摄宝典	Khí Nhiếp Bảo Điển
+勾陈决意要诀	Câu Trần Quyết Ý Yêu Quyết
+彻法归祖秘要	Triệt Pháp Quy Tổ Bí Yếu
+华山万古神功	Hoa Sơn Vạn Cổ Thần Công
+伐毛洗髓之术	Phạt Mao Tẩy Tủy Thuật
+彻法不朽	Triệt Pháp Bất Hủ
+化形金刚神雷	Hóa Hình Kim Cang thần lôi
+奠基秘册	Điện Cơ Bí Sách
+长生金刚秘要	Trường Sinh Kim Cương Bí Yếu
+黄庭金刚秘法	Hoàng Đình Kim Cang Bí Pháp
+新境奠基经	Kinh Định Cơ Tân Cảnh
+少林金刚经	Thiếu Lâm Kim Cang Kinh
+大日奠基秘要	Đại Nhật Điện Cơ Bí Yếu
+佛心秘法	Phật Tâm Bí Pháp
+合一秘要	Hợp Nhất Bí yếu
+长生通慧记	Trường Sinh Thông Tuệ Ký
+南海佛心典	Nam Hải Phật Tâm Điển
+玄关神农	Huyền Quan Thần Nông
+断岳鲸吞秘要	Đoạn Nhạc Kình Thôn Bí Yếu
+化形神佑典	Điển Hóa hình Thần Hựu
+太乙清心经	Thái Ất Thanh Tâm kinh
+托体同山诀	Thác Thể Đồng Sơn Quyết
+西海九极咒	Tây Hải Cửu Cực Chú
+咒神宝典	Chú Thần Bảo Điển
+崩天卷	Băng Thiên quyển
+多宝秘传	Đa Bảo Bí Truyền
+多宝宝册	Đa Bảo Bảo Sách
+天金摄神册	Sách Thiên Kim Nhiếp Thần
+未来星宿百炼秘传	Vị Lai Tinh Tú Bách Luyện Bí Quyển
+辛金百炼秘传	Tân Kim Bách Luyện Bí Truyền
+断岳多宝宝册	Bảo Sách Đa Bảo Đoạn Nhạc
+玄机多宝	Huyền Cơ Đa Bảo
+天魔化身术	Thiên Ma Hóa Thân Thuật
+开天眼之术	Khai Thiên Nhãn Thuật
+通符书	Thông Phù Thư
+云气汇流	Vân Khí Hội Lưu
+剑符录	Kiếm Phù Lục
+玄符录	Huyền Phù Lục
+天甲符	Thiên Giáp Phù
+咒符录	Chú Phù Lục
+神咒符	Thần Chú Phù
+结云经	Kết Vân Kinh
+祈天经	Kỳ Thiên Kinh
+通天符法	Thông Thiên Phù Pháp
+天真论	Thiên Chân Luận
+无上神符	Vô Thượng Thần Phù
+借天符	Tá Thiên Phù
+遮天符	Phù Chắn Trời
+云行法	Vân Hành Pháp
+东木分神书	Đông Mộc Phân Thần Thư
+天岭金刚真言	Thiên Lĩnh Kim Cương Chân Ngôn
+戊土八极真言	Mậu Thổ Bát Cực Chân Ngôn
+归家五方诀	Quy Gia Ngũ Phương Quyết
+坤元九极神雷	Thần Lôi Cửu Cực Khôn Nguyên
+千钧十三式	Thiên Quân thập tam thức
+曳影式	Thức Dẫn Ảnh
+破灭要诀	Phá Diệt Yêu Quyết
+神农宝典	Thần Nông Bảo Điển
+摄神	Nhiếp Thần
+万里多宝	Vạn Lý Đa Bảo
+五内琢玉通卷	Ngũ Nội Trác Ngọc Thông Quyển
+凌霄佛心要诀	Yếu Quyết Phật Tâm Linh Tiêu
+己土辟谷要诀	Kỷ Thổ Tịch Cốc Yếu Quyết
+炎神殿通慧要诀	Viêm Thần Điện Thông Tuệ Yếu Quyết
+东海神佑要诀	Đông Hải Thần Hữu Yêu Quyết
+风月幻境	Phong Nguyệt Huyễn Cảnh
+真丹金刚	Chân Đan Kim Cương
+长生陨星诀	Trường Sinh Vẫn Tinh Quyết
+崩天	Băng Thiên
+急诵秘要	Cấp Tụng Bí Yếu
+崩天秘诀	Bí Quyết Băng Thiên
+华山归藏密卷	Hoa Sơn Quy Tàng mật quyển
+摄神册	Sách Nhiếp Thần
+入道鬼手要诀	Yếu Quyết Quỷ Thủ Nhập Đạo
+多宝神农	Đa Bảo Thần Nông
+造化饕餮神功	Tạo Hóa Thao Thiết Thần Công
+戊己神佑要诀	Mậu Kỷ Thần Hựu Yếu Quyết
+五印刻神	Ngũ Ấn Khắc Thần
+行疆神视秘传	Hành Cương Thần Thị Bí Truyền
+知节金刚咒	Tri Tiết Kim Cương Chú
+现在贤流光真言	Hiện Tại Hiền Lưu Quang Chân Ngôn
+戊土金刚咒	Grim Kim Cương Chú
+急诵	Cấp Tụng
+咒神九卷	Chú Thần Cửu Quyển
+归祖	Quy Tổ
+通慧册	Thông Tuệ sách
+琢玉通卷	Trác Ngọc Thông Quyển
+行疆佛心典	Hành Cương Phật Tâm Điển
+东华多宝秘传	Đông Hoa Đa Bảo Bí Truyền
+和春枫真人神佑典	Hòa Xuân Phong Chân Nhân Thần Hựu Điển
+玄关合一秘法	Huyền Quan Hợp Nhất bí pháp
+真丹佛心册	Chân Đan Phật Tâm Sách
+镇岳鬼手纲要	Trấn Nhạc Quỷ Thủ Cương Yếu
+六气饕餮神功	Lục Khí Thao Thiết Thần Công
+驱云诀	Khu Vân Quyết
+行疆陨星咒	Hành Cương Vẫn Tinh Chú
+阴阳天星咒	Âm Dương Thiên Tinh Chú
+化影神雷	Hóa Ảnh Thần Lôi
+迅击要诀	Yếu Quyết Tấn Kích
+迅影宝典	Tấn Ảnh Bảo Điển
+迅击决	Tấn Kích Quyết
+千钧密卷	Thiên Quân Mật Quyển
+西海混元	Tây Hải Hỗn Nguyên
+神视秘法	Thần Thị Bí Pháp
+麒麟归祖	Kỳ Lân Quy Tổ
+现在贤清心要诀	Hiện Tại Hiền Thanh Tâm Yếu Quyết
+戊己合一要诀	Mậu Kỷ Hợp Nhất Yêu Quyết
+长生决意	Trường Sinh Quyết Ý
+班谷云真人奠基经	Ban Cốc Vân Chân Nhân Điển Cơ Kinh
+焚风术	Phần Phong Thuật
+杀意	Sát Ý
+御剑术	Ngự Kiếm Thuật
+天妖化血术	Thiên Yêu Hóa Huyết Thuật
+七杀魔体	Thất Sát Ma Thể
+剑心通明	Kiếm Tâm Thông Minh
+心剑交感	Tâm kiếm giao cảm
+击字诀	Kích tự quyết
+崩字诀	Băng tự quyết
+御字诀	Ngự tự quyết
+刺字诀	Thứ tự quyết
+点字诀	Điểm tự quyết
+化字诀	Hóa tự quyết
+洗字诀	Tẩy tự quyết
+劈字诀	Phách tự quyết
+分字诀	Phân tự quyết
+摄神御鬼大法	Nhiếp Thần Ngự Quỷ Đại Pháp
+神御剑	Thần ngự kiếm
+神合剑	Thần hợp kiếm
+魔流剑意	Ma Lưu Kiếm Ý
+剑灵	Kiếm Linh
+秘宝：百灵斩仙剑	Bí Bảo: Bách Linh Trảm Tiên Kiếm
+极剑·一	Cực kiếm·Nhất
+极剑·二	Cực Kiếm·Nhị
+极剑·三	Cực Kiếm·Tam
+我剑·一	Ngã kiếm·Nhất
+我剑·二	Ngã Kiếm·Nhị
+我剑·三	Ngã Kiếm·Tam
+勾陈覆灭诀	Quyết Câu Trần Phúc Diệt
+碧光天星真言	Bích Quang Thiên Tinh Chân Ngôn
+新境金刚神雷	Tân Cảnh Kim Cương Thần Lôi
+归藏卷	Quy Tàng quyển
+咒神密卷	Chú Thần Mật Quyển
+妙手	Diệu Thủ
+咒神七签	Chú Thần Thất Thiêm
+苍木崩天九卷	Thương Mộc Băng Thiên Chín Quyển
+龙虎沃野药典	Long Hổ Ốc Dã Dược Điển
+气摄神功	Khí Nhiếp Thần Công
+妙手丹方	Diệu Thủ Đan Phương
+甲乙多宝秘法	Bí Pháp Đa Bảo Giáp Ất
+苍木百炼通卷	Thương Mộc Bách Luyện Thông Quyển
+万木饕餮秘法	Vạn Mộc Thao Thiết Bí Pháp
+寒月妙手	Hàn Nguyệt Diệu Thủ
+少林多宝	Thiếu Lâm Đa Bảo
+忘情归祖秘要	Vong Tình Quy Tổ Bí Yếu
+勾陈琢玉秘要	Câu Trần Trác Ngọc Bí Yếu
+金丹不坏真言	Kim Đan Bất Hoại Chân Ngôn
+碧光心光咒	Chú Bích Quang Tâm Quang
+蓄神要诀	Súc Thần Yêu Quyết
+迅影十式	Thập Thức Tấn Ảnh
+坤元要诀	Khôn Nguyên Yếu Quyết
+紫云宫破灭决	Tử Vân cung Phá Diệt quyết
+过去庄严迅击宝典	Quá Khứ Trang Nghiêm Tấn Kích Bảo Điển
+青龙破灭十式	Thanh Long Phá Diệt Thập Thức
+琢玉宝册	Bảo Sách Trác Ngọc
+多宝要诀	Đa Bảo Yêu Quyết
+青龙多宝通卷	Thanh Long Đa Bảo Thông Quyển
+苍木多宝通卷	Thương Mộc Đa Bảo Thông Quyển
+玄机百炼宝册	Huyền Cơ Bách Luyện Bảo Sách
+苍莽百炼秘传	Thương Mãng Bách Luyện bí truyền
+甲乙百炼秘法	Giáp Ất Bách Luyện bí pháp
+过去庄严辟谷纪要	Tịch Cốc Quá Khứ Trang Nghiêm Ký Yếu
+灵犀咒	Linh Tê Chú
+嵩山流光	Tùng Sơn Lưu Quang
+太乙不朽诀	Thái Ất Bất Hủ Quyết
+彻法天星神雷	Triệt Pháp Thiên Tinh Thần Lôi
+入道心光	Nhập Đạo Tâm Quang
+迅影秘诀	Tấn Ảnh Bí Quyết
+蓄神剑	Trữ Thần Kiếm
+圆转宝典	Bảo Điển Viên Chuyển
+修蛇破灭七式	Bảy Thức Phá Diệt Tu Xà
+百汇混元秘法	Bách Hội Hỗn Nguyên Bí Pháp
+黄庭混元	Hoàng Đình Hỗn nguyên
+五戒千钧七式	Bảy Thức Ngũ Giới Thiên Quân
+大日曳影秘要	Đại Nhật Dạ Ảnh Bí Yếu
+彻法咒神七签	Triệt Pháp Chú Thần Bảy Ký
+归祖秘传	Quy Tổ Bí Truyền
+鬼手秘传	Quỷ Thủ Bí Truyền
+黄庭鬼手秘传	Hoàng Đình quỷ thủ bí truyền
+初解鲸吞神功	Sơ Giải Kình Thôn Thần Công
+修蛇琢玉通卷	Tu Xà Trác Ngục Thông Quyển
+耿雅柔上仙沃野丹方	Đan phương Vụ Dã của Thượng Tiên Cảnh Nhã Nhu
+惊波决意神功	Kinh Ba Quyết Ý Thần Công
+玄机金钟咒	Huyền Cơ Kim Chung Chú
+过去庄严落花咒	Quá Khứ Trang Nghiêm Lạc Hoa Chú
+迅击密卷	Mật quyển Tấn Kích
+圆转剑诀	Viên Chuyển Kiếm Quyết
+坤元十三式	Khôn Nguyên thập tam thức
+混元七式	Hỗn nguyên. Bảy Thức
+炽凰破灭十三式	Thập Tam Thức Xích Hoàng Phá Diệt
+紫云宫迅影十式	Tử Vân Cung Tấn Ảnh Thập Thức
+真丹破灭宝典	Chân Đan Phá Diệt Bảo Điển
+赤炎蓄神剑	Xích Viêm Tích Thần Kiếm
+神视秘传	Thần Thị Bí Truyền
+合一册	Hợp Nhất
+赤月神农通卷	Xích Nguyệt Thần Nông Thông Quyển
+丙丁通慧书	Bính Đinh Thông Tuệ Thư
+朱雀摄神记	Chu Tước Nhiếp Thần Ký
+炽凰摄神宝典	Sí Hoàng Nhiếp Thần bảo điển
+御气佛心记	Ngự Khí Phật Tâm Ký
+御气佛心书	Ngự Khí Phật Tâm thư
+东华琢玉密卷	Đông Hoa Trác Ngọc Mật Quyển
+邓妍真人合一典	Điển Hợp Nhất Chân Nhân Đặng Nghiên
+六壬神算	Lục Nhâm Thần Toán
+八门玄金天劫剑阵	Bát Môn Huyền Kim Thiên Kiếp Kiếm Trận
+一字长蛇阵	Trận Xà Dài Nhất Tự
+传闻此阵以八门之理成阵，进可杀伐，退可护身，非常玄妙。	Tương truyền trận pháp này dựa trên lý lẽ của bát môn mà thành, có thể tiến công giết địch, có thể lui về phòng thủ, vô cùng huyền diệu.
+配置教学	Thiết lập hướng dẫn
+
+

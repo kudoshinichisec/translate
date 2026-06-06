@@ -1,0 +1,40 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Talk_DanXia">
+			<Hate.1>Nơi này không chào đón ngươi.</Hate.1>
+			<Hate.2>Có gì nói nhanh.</Hate.2>
+			<Hate.3>Hỗn láo! Ta cho phép ngươi nhìn ta sao?</Hate.3>
+			<Normal.0>Xin chào, ngươi có việc gì không?</Normal.0>
+			<Normal.1>Ngươi muốn làm gì?</Normal.1>
+			<Like.0>Gần đây vẫn khỏe chứ? Ta nghĩ chúng ta có thể nói chuyện.</Like.0>
+			<Submiss.0>Ngươi đã để ý đến bảo vật nào của chúng ta? Cứ chọn thoải mái.</Submiss.0>
+			<ValueableTrade.0>Tài nguyên của các ngươi có giá trị quá cao, nhưng ta sẽ không vì thế mà thay đổi cách nhìn.</ValueableTrade.0>
+			<ValueableTrade.1>Thật ra các ngươi thiệt một chút, nhưng vì đã giao dịch xong, cứ vậy đi.</ValueableTrade.1>
+			<TryOkTrade.0>Ừm, giao dịch này có thể thực hiện.</TryOkTrade.0>
+			<TryOkTrade.1>Tốt lắm, ta chấp nhận đề nghị này.</TryOkTrade.1>
+			<NoTrade.0>Không được.</NoTrade.0>
+			<NoTrade.1>Không thể nào.</NoTrade.1>
+			<NoTrade.2>Xin lỗi, nhưng không được.</NoTrade.2>
+			<OkTrade.0>Hy vọng chúng ta sẽ hợp tác lần nữa.</OkTrade.0>
+			<OkTrade.1>Đây là một giao dịch không tồi.</OkTrade.1>
+			<OkTrade.2>Thành giao.</OkTrade.2>
+			<GiftLike.0>Thứ này thật sự là tặng ta sao? Đã giải tỏa được khúc mắc nhiều năm trong lòng ta.</GiftLike.0>
+			<TaskNeed.0>Làm phiền ngươi rồi, tiếc rằng môn phái ta lại rất thiếu thứ này.</TaskNeed.0>
+			<TaskNeed.1>Thứ này đúng là giải quyết được vấn đề cấp bách. Tiếc rằng vẫn cần thêm nữa.</TaskNeed.1>
+			<Task.0>Thứ này đến đúng lúc thật, ta cảm ơn trước.</Task.0>
+			<Task.1>Tốt lắm, đã giải quyết được vấn đề cấp bách của chúng ta.</Task.1>
+			<Task.2>Đúng là tuyết rơi giữa ngày nắng, thứ này chính là thứ chúng ta cần.</Task.2>
+			<LowValueGift.0>Thứ này hoàn toàn vô dụng, tặng chúng ta cũng không có ý nghĩa gì.</LowValueGift.0>
+			<LowValueGift.1>Ngươi không thấy tặng thứ này là một sự xúc phạm sao?</LowValueGift.1>
+			<MidValueGift.0>Thứ này chỉ hữu dụng chút ít trong giai đoạn tu luyện ban đầu. Tặng ta, gần như vô dụng.</MidValueGift.0>
+			<MidValueGift.1>Làm phiền ngươi rồi, nhưng môn phái ta không thiếu thứ này.</MidValueGift.1>
+			<HighValueGift.0>Bảo vật quý giá như vậy, ta không thể từ chối. Nhưng không có việc gì lại tỏ ra ân cần, ta sẽ không quan tâm đâu.</HighValueGift.0>
+			<NoEnoughFriendPoint.0>Ta không nợ ngươi nhân tình, cái này không thể cho ngươi.</NoEnoughFriendPoint.0>
+			<NoEnoughFriendPoint.1>Bảo vật của môn phái ta không thể chỉ dùng linh thạch để mua.</NoEnoughFriendPoint.1>
+			<NoEnoughFriendPoint.2>Bảo vật như thế này không thể dễ dàng bán cho ngươi.</NoEnoughFriendPoint.2>
+			<Invalid.0>Quan hệ của chúng ta chưa tốt đến mức này.</Invalid.0>
+			<Invalid.1>Không được, không được, thứ này không thể bán cho ngươi.</Invalid.1>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,10 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_BambooLeftover" sParam="Item">
+			<ThingName>Tre vụn</ThingName>
+			<Desc>Vật liệu xây dựng pha lẫn vụn tre, có thể dùng để lát sàn hoặc xây mái hiên.</Desc>
+			<Item.BeMaterial.NamePrefix>Tre</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>
+

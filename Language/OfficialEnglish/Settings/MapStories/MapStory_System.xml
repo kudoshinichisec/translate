@@ -1,0 +1,137 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="sys_getnothing">
+			<DisplayName>Không thu hoạch được gì</DisplayName>
+			<Desc>Chúng ta không thu được bất kỳ thứ gì hữu ích.</Desc>
+		</Text>
+		<Text Name="sys_noreaction">
+			<DisplayName>Không có phản ứng</DisplayName>
+			<Desc>Dường như không có phản ứng gì.</Desc>
+		</Text>
+		<Text Name="sys_brokenneck">
+			<DisplayName>Ngộ đạo</DisplayName>
+			<Desc>[NAME] đột nhiên có lĩnh ngộ, bình cảnh công pháp vốn bế tắc bấy lâu nay dường như có dấu hiệu nới lỏng, [IT] lập tức ngồi xuống.</Desc>
+		</Text>
+		<Text Name="sys_openplacelink">
+			<DisplayName>Lần đầu đến</DisplayName>
+			<Desc>Lần đầu tiên đến [PLACE], [NAME] tìm người để dò hỏi tin tức xung quanh.</Desc>
+		</Text>
+		<Text Name="sys_openplace">
+			<DisplayName>Mở khóa địa điểm</DisplayName>
+			<Desc>Đến [PLACE] nhiều lần, [NAME] dần quen thuộc nơi đây và phát hiện một nơi thú vị.</Desc>
+		</Text>
+		<Text Name="sys_test">
+			<DisplayName>Ngộ đạo</DisplayName>
+			<Desc>[NAME] đột nhiên có cảm ngộ, bình cảnh công pháp vốn không phản ứng lâu nay dường như có dấu hiệu lơi lỏng, [IT] nhanh chóng ngồi xuống.</Desc>
+		</Text>
+		<Text Name="Story_SoulSeach">
+			<DisplayName>Tìm kiếm hồn phách</DisplayName>
+			<Desc>[NAME] đã sử dụng đại pháp tìm kiếm hồn phách trên người tu hành đang hấp hối này, cố gắng thu thập một số thông tin hữu ích.</Desc>
+		</Text>
+		<Text Name="Story_JiangDao">
+			<DisplayName>Đột nhiên có cảm ngộ</DisplayName>
+			<Desc>[NAME] đắm chìm trong đạo lý huyền diệu.</Desc>
+		</Text>
+		<Text Name="Story_TitleGold">
+			<DisplayName>Thành đan</DisplayName>
+			<Desc>[NAME] tu vi đạt đến cảnh giới Kim Đan, đồng đạo trong giới tu hành đã tặng cho [NAME] một danh hiệu.</Desc>
+		</Text>
+		<Text Name="Story_TitleRandom">
+			<DisplayName>Dần có danh hiệu</DisplayName>
+			<Desc>[NAME] xuống núi rèn luyện, danh tiếng cũng dần lan rộng trong giới tu hành.</Desc>
+		</Text>
+		<Text Name="Story_sys_BossLong_Wish">
+			<DisplayName>Cầu nguyện</DisplayName>
+			<Desc>Ý niệm trong hang động bí ẩn dường như có thần thông đặc biệt, có thể trả một số cái giá để nhờ nó thực hiện một số việc đặc biệt. Nhưng nếu không đáp ứng được yêu cầu của nó, sẽ phải chịu sự phẫn nộ của nó.</Desc>
+			<Selections.0.Display>Cầu xin nhận được bí văn</Selections.0.Display>
+			<Selections.1.Display>Cầu xin linh khí tràn đầy</Selections.1.Display>
+			<Selections.2.Display>Cầu xin tự thân nâng cao</Selections.2.Display>
+			<Selections.3.Display>Rời đi</Selections.3.Display>
+		</Text>
+		<Text Name="Story_sys_BossLong_WishSuccess">
+			<DisplayName>Thực hiện nguyện vọng</DisplayName>
+			<Desc>Hang động bí ẩn rất hài lòng với lần hiến tế này, nó đã thực hiện nguyện vọng của [NAME].</Desc>
+		</Text>
+		<Text Name="System_RobGreateBuilding">
+			<DisplayName>Chiếm đoạt kỳ quan</DisplayName>
+			<Desc>[NAME] cố gắng chiếm đoạt tinh hoa tích tụ nhiều năm trong kỳ quan của môn phái.</Desc>
+			<Selections.0.Display>Chiếm đoạt tinh hoa</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="System_LearnGreateBuilding">
+			<DisplayName>Lĩnh hội đại đạo</DisplayName>
+			<Desc>Nghe đồn kỳ quan này ẩn chứa một loại trận pháp, [NAME] cố gắng lĩnh hội quy luật trời đất ẩn chứa trong kỳ quan này để giác ngộ điều gì đó.</Desc>
+			<Selections.0.Display>Lĩnh hội đại đạo</Selections.0.Display>
+			<Selections.0.Tip>Cảnh giới/Trí tuệ/Cơ duyên/Kỹ năng trận pháp</Selections.0.Tip>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="System_LearnGreateBuilding_WuDang">
+			<DisplayName>Lĩnh hội đại đạo</DisplayName>
+			<Desc>Kim điện Võ Đang ẩn chứa một loại đạo vận huyền diệu, dường như đang truyền đạt một thông điệp nào đó đến người hành lễ.</Desc>
+			<Selections.0.Display>Lĩnh hội đại đạo</Selections.0.Display>
+			<Selections.0.Tip>Cảnh giới/Trí tuệ/Cơ duyên</Selections.0.Tip>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="System_FightMap_ZhenWuShenXiang">
+			<DisplayName>Hành lễ</DisplayName>
+			<Desc>Hành lễ trước tượng thần Chân Vũ Đại Đế để cầu xin một chút thần uy linh dẫn.</Desc>
+			<Selections.0.Display>Hành lễ</Selections.0.Display>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="System_EnterQianKunJie">
+			<DisplayName>Tiểu Càn Khôn Giới</DisplayName>
+			<Desc>Tòa nhà kỳ diệu được xây dựng từ linh tinh Càn Khôn bí tàng của môn phái Thái Nhất làm lõi, bên trong tự thành không gian, có thể dùng ý niệm để thu nạp mọi vật. Nhưng bên trong có một loại phong giới đặc biệt ngăn cản thần thức, dù tu vi cao đến đâu cũng không thể cưỡng ép xem xét chi tiết bên trong, dường như đang ẩn giấu điều gì đó.</Desc>
+			<Selections.0.Display>Thăm dò thần thức</Selections.0.Display>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="System_EnterQianKunJie1">
+			<DisplayName>Tiểu Càn Khôn Giới</DisplayName>
+			<Desc>[NAME] đơn giản kiểm tra lối vào này, phát hiện phía bên kia phong giới dường như là một không gian gần như tĩnh lặng, không có dấu hiệu nguy hiểm.</Desc>
+			<Selections.0.Display>Tiến vào bên trong</Selections.0.Display>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="System_FightMap_NormalTalk">
+			<DisplayName>Đàm thoại</DisplayName>
+			<Desc>Cuộc sống của người phàm chính là như vậy, vừa buồn chán vừa vui vẻ.</Desc>
+			<Selections.0.Display>Trò chuyện</Selections.0.Display>
+			<Selections.0.Say>Gần đây có điều gì mới mẻ không?</Selections.0.Say>
+			<Selections.1.Display>Tạm biệt</Selections.1.Display>
+		</Text>
+		<Text Name="System_FightMap_DiscipleTalk">
+			<DisplayName>Đàm thoại</DisplayName>
+			<Desc>Con đường tu hành, ngược dòng nước, không tiến ắt lùi………</Desc>
+			<Selections.0.Display>Hỏi han</Selections.0.Display>
+			<Selections.0.Say>Đạo hữu, gần đây có điều gì mới mẻ không?</Selections.0.Say>
+			<Selections.1.Display>Tạm biệt</Selections.1.Display>
+		</Text>
+		<Text Name="System_Tribute">
+			<DisplayName>Cống nạp</DisplayName>
+			<Desc>[NAME] đến [PLACE], chuẩn bị thu nhận cống phẩm hàng năm.</Desc>
+			<Selections.0.Display>Thu nhận cống phẩm</Selections.0.Display>
+			<Selections.1.Display>Tạm biệt</Selections.1.Display>
+		</Text>
+		<Text Name="System_FightMap_UnlockPlant">
+			<DisplayName>Lấy mẫu</DisplayName>
+			<Desc>[NAME] thử thu thập mẫu vật này.</Desc>
+			<Selections.0.Display>Thu thập</Selections.0.Display>
+		</Text>
+		<Text Name="System_FightMap_UnlockBuilding">
+			<DisplayName>Quan sát</DisplayName>
+			<Desc>[NAME] cố gắng tìm hiểu phương pháp xây dựng công trình này.</Desc>
+			<Selections.0.Display>Quan sát</Selections.0.Display>
+		</Text>
+		<Text Name="Story_SuperPartItem">
+			<DisplayName>Lĩnh hội áo nghĩa</DisplayName>
+			<Desc>Thử lĩnh hội áo nghĩa của pháp luyện thân ẩn chứa trong phần thân thể này.</Desc>
+			<Selections.0.Display>Tham ngộ</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Fight">
+			<DisplayName>Thi đấu kỹ nghệ</DisplayName>
+			<Desc>Để các đệ tử thi đấu kỹ nghệ tại nơi này.</Desc>
+			<Selections.0.Display>Tỉ thí</Selections.0.Display>
+			<Selections.1.Display>Thôi bỏ</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>
+

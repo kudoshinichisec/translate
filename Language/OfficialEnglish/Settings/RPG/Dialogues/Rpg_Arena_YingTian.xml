@@ -1,0 +1,12 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Rpg_Arena_YingTian">
+			<Nodes.0.Text>Lối vào.</Nodes.0.Text>
+			<Nodes.1.Text>Đài Ứng Thiên phát ra ánh sáng màu xanh.</Nodes.1.Text>
+			<Nodes.2.Text>Nhập huyền (tải dữ liệu nhân vật)</Nodes.2.Text>
+			<Nodes.3.Text>Mời (nhập mã mời, triệu hồi nhân vật mục tiêu)</Nodes.3.Text>
+			<Nodes.4.Text>Rời đi</Nodes.4.Text>
+		</Text>
+	</List>
+</Texts>
+

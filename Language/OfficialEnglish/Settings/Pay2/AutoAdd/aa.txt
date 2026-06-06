@@ -1,0 +1,10 @@
+ID	UseTips
+CallTrader	Sử dụng thành công! Một hành thương mang đầy hàng hóa đã đến môn phái của bạn.
+CallZuShiBiHu	Sử dụng thành công! Mọi người đắm chìm trong khí tức được tiên giới giáng xuống, cảm thấy linh khí dồi dào, ngũ hành trong môi trường cũng trở nên cực kỳ sôi động.
+ClearWeather	Sử dụng thành công! Một nguồn sức mạnh lớn đã xua tan thời tiết.
+ResurrectionNpc	Sử dụng thành công!
+RerollFabao	Sử dụng thành công!
+RerollMapStory	Sử dụng thành công!
+RerollCuiTi	Sử dụng thành công!
+
+

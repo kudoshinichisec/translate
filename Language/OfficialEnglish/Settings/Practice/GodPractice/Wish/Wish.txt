@@ -1,0 +1,58 @@
+ID	Txt
+
+1	[TITLE] tại thượng, tôi sẽ thử xem bạn có nghe thấy không... hehe
+2	[TITLE] tại thượng, hy vọng chân tôi khỏi bệnh.
+3	[TITLE] tại thượng, xin thần linh phù hộ, hy vọng có thể theo đuổi được cô gái tôi thích.
+4	[TITLE] tại thượng, hy vọng ngày mai được ăn một bữa ngon...
+5	[TITLE] tại thượng, hy vọng có thể nhặt được tiền.
+6	[TITLE] tại thượng, hy vọng ngày mai cô Giao ở Y Hồng Viện không ai gọi.
+7	[TITLE] tại thượng, hy vọng chủ quán ngày mai thanh toán không nợ nần.
+8	[TITLE] tại thượng, hy vọng năm nay có ai đó ăn mừng sinh nhật cùng tôi.
+9	[TITLE] tại thượng, hy vọng có thể thi đỗ.
+10	[TITLE] tại thượng, hy vọng lần này nhà tôi sinh được hài tử.
+11	[TITLE] tại thượng, hy vọng cả nhà sức khỏe dồi dào.
+12	[TITLE] tại thượng, hy vọng năm nay có mùa màng bội thu.
+13	[TITLE] tại thượng, hy vọng năm nay có thể mua được một mảnh đất trong thành phố.
+14	[TITLE] tại thượng, hy vọng làng tôi có mùa màng tốt tươi...
+15	[TITLE] tại thượng, hy vọng năm nay làng không gặp phải tai họa gì.
+16	[TITLE] tại thượng, hy vọng làng sớm được tái thiết.
+17	[TITLE] tại thượng, hy vọng khu vực xung quanh làng yên ổn.
+18	[TITLE] tại thượng, hy vọng năm nay trên núi không xảy ra dịch thú.
+19	[TITLE] tại thượng, hy vọng năm nay quê hương mưa thuận gió hòa.
+20	[TITLE] tại thượng, hy vọng năm nay mùa đông không có đợt lạnh.
+21	[TITLE] tại thượng, hy vọng năm nay mưa ít hơn, không còn lũ lụt nữa.
+22	[TITLE] tại thượng, hy vọng năm nay mưa nhiều hơn, không còn hạn hán nữa.
+23	[TITLE] tại thượng, hy vọng năm nay thành phố không bị yêu thú tấn công.
+24	[TITLE] tại thượng, hy vọng quốc gia tôi thịnh vượng, ngàn đời bền vững.
+25	[TITLE] tại thượng, hy vọng năm nay thế giới hòa bình.
+26	[TITLE] tại thượng, hy vọng xã hội bớt đi những điều ác ý!
+27	[TITLE] tại thượng, mong rằng mọi người trên thế gian đều như rồng, tự cường không ngừng!
+28	[TITLE] tại thượng, mong rằng nhân gian như đất Phật, mọi người sống hòa thuận!
+29	[TITLE] tại thượng, hy vọng chủ quán ra ngoài dẫm phải phân chó...
+30	[TITLE] tại thượng, hy vọng hàng xóm hôm nay làm ăn thất bát.
+31	[TITLE] tại thượng, hy vọng đối thủ của tôi hôm nay gặp phải sai sót.
+32	[TITLE] tại thượng, hy vọng tên trộm đã vào nhà tôi hôm qua không được chết tốt.
+33	[TITLE] tại thượng, hy vọng tên ngu ngốc đã mắng tôi không thể đi tiêu.
+34	[TITLE] tại thượng, xin thần linh phù hộ, hy vọng gia đình ác nhân bên cạnh gặp xui xẻo.
+35	[TITLE] tại thượng, hy vọng bọn khốn nạn bên cạnh không được chết tốt.
+36	[TITLE] tại thượng, hy vọng sếp gặp tai nạn, để tôi có cơ hội thăng tiến.
+37	[TITLE] tại thượng, hy vọng ruộng của hàng xóm bị lợn rừng phá hoại.
+38	[TITLE] tại thượng, hy vọng tên cướp tiền của tôi bị sét đánh.
+39	[TITLE] tại thượng, hy vọng làng bên cạnh bị yêu thú tàn phá.
+40	[TITLE] tại thượng, hy vọng làng chúng tôi có thể tiêu diệt mọi mối đe dọa xung quanh.
+41	[TITLE] tại thượng, hy vọng chúng tôi có thể tiêu diệt và sáp nhập làng bên cạnh.
+42	[TITLE] tại thượng, hy vọng làng bên cạnh bị thiên đao giáng xuống.
+43	[TITLE] tại thượng, hy vọng năm nay lũ lụt có thể cuốn trôi làng bên cạnh.
+44	[TITLE] tại thượng, hy vọng bọn cướp trên núi đều chết hết.
+45	[TITLE] tại thượng, hy vọng những kẻ ác trong thành phố không được chết tốt.
+46	[TITLE] tại thượng, hy vọng những con thú dữ gây thương tích đều chết sạch.
+47	[TITLE] tại thượng, hy vọng vùng này đều là nô lệ và thuộc hạ của tôi.
+48	[TITLE] tại thượng, hy vọng năm nay tôi có thể săn được tất cả thú trên núi!
+49	[TITLE] tại thượng, hy vọng trời có mắt, diệt trừ những bộ tộc man rợ.
+50	[TITLE] tại thượng, hy vọng quốc gia thù sớm bị diệt vong... đừng kéo dài thêm nữa.
+51	[TITLE] tại thượng, hy vọng những người sống tốt hơn tôi đều không có kết thúc tốt đẹp.
+52	[TITLE] tại thượng, hy vọng những kẻ ác trên thế gian đều bị thiên đao giáng xuống.
+53	[TITLE] tại thượng, hy vọng những người đối đầu với tôi đều không được chết tốt.
+54	Mong rằng tâm tôi mãi ở trong thần quốc, không lo không khó khăn, được hưởng cảnh giới thanh bình...
+
+

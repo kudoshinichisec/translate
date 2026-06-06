@@ -1,0 +1,71 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="MakeLingSoil">
+			<DisplayName>Linh thổ sáng tạo</DisplayName>
+			<Desc>Hy sinh sự phát triển và dinh dưỡng của bản thân, biến một khu vực thành linh thổ.</Desc>
+			<TargetDesc>Vui lòng chọn một vùng đất trống.</TargetDesc>
+		</Text>
+		<Text Name="MakeFatSoil">
+			<DisplayName>Đất màu sáng tạo</DisplayName>
+			<Desc>Hy sinh sự phát triển và dinh dưỡng của bản thân, biến một khu vực thành đất màu mỡ.</Desc>
+			<TargetDesc>Vui lòng chọn một vùng đất trống.</TargetDesc>
+		</Text>
+		<Text Name="LcBrokeHeartLock">
+			<DisplayName>Làm nũng</DisplayName>
+			<Desc>Tiêu hao linh trí để cảm nhận nội tâm của một khách ghé thăm hoặc người ngoài, nũng nịu để làm động lòng họ, phá vỡ phòng thủ tâm lý của họ.</Desc>
+			<TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
+		</Text>
+		<Text Name="LcClearHanyu">
+			<DisplayName>Hấp thụ Hàn Ngục</DisplayName>
+			<Desc>Là đồng loại của giao long, hấp thụ hàn ngục do giao long để lại, có thể nhận được lượng lớn dinh dưỡng.</Desc>
+			<TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
+		</Text>
+		<Text Name="LcStopColdWave">
+			<DisplayName>Hơi thở nóng rực</DisplayName>
+			<Desc>Sử dụng sức mạnh phượng hoàng trong cơ thể, giải phóng hơi thở nóng rực để xua tan mùa đông.</Desc>
+			<TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
+		</Text>
+		<Text Name="LcStopHeatWave">
+			<DisplayName>Hơi thở lạnh lẽo</DisplayName>
+			<Desc>Sử dụng sức mạnh giao long trong cơ thể, giải phóng hơi thở lạnh giá để xua tan mùa hè.</Desc>
+			<TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
+		</Text>
+		<Text Name="LcBaipiao">
+			<DisplayName>Làm nũng</DisplayName>
+			<Desc>Tiêu hao một phần linh trí, đoán được nội tâm của một thương nhân, nũng nịu để lấy lòng họ. Có lẽ thương nhân không lạnh lùng như tưởng tượng?</Desc>
+			<TargetDesc>Vui lòng chọn một thương nhân.</TargetDesc>
+		</Text>
+		<Text Name="LcSeeUnknown">
+			<DisplayName>Hỏa Nhãn Kim Tinh</DisplayName>
+			<Desc>Ban cho một đệ tử nội môn khả năng Hỏa Nhãn Kim Tinh, giúp họ nhìn thấu một số món đồ trong đấu giá.</Desc>
+			<TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
+		</Text>
+		<Text Name="LcOutspreadAttractive">
+			<DisplayName>Thần Thú May Mắn</DisplayName>
+			<Desc>Cử người đến một điểm đại lý, hy sinh sự phát triển và thuộc tính của bản thân để biểu diễn tướng lành cho dân chúng, từ đó tăng sức hút của phe ta.</Desc>
+			<sParam2>Tướng lành</sParam2>
+		</Text>
+		<Text Name="LcOutspreadStability">
+			<DisplayName>Uy chấn tứ phương</DisplayName>
+			<Desc>Cử người đến một điểm đại lý, hy sinh sự phát triển và thuộc tính của bản thân để biểu diễn thần uy cho dân chúng, từ đó tăng độ ổn định của khu vực.</Desc>
+			<sParam2>Thần uy</sParam2>
+		</Text>
+		<Text Name="Magic_YG_RealPower">
+			<DisplayName>Chân lực nguyên thân (Lực)</DisplayName>
+			<Desc>Đốt cháy nhanh chóng nguồn sống bản nguyên, kích phát sức mạnh nguyên thân của yêu tộc, tăng đáng kể sức mạnh ngự khí và bí thể. Thi triển lại kỹ năng sẽ dừng hiệu quả này.</Desc>
+		</Text>
+		<Text Name="Magic_YG_RealRecover">
+			<DisplayName>Chân lực nguyên thân (Hàm)</DisplayName>
+			<Desc>Đốt cháy nhanh chóng nguồn sống bản nguyên, kích phát sức mạnh nguyên thân của yêu tộc, tăng đáng kể khả năng hồi phục cơ thể, tốc độ hồi linh khí pháp bảo và chân khí bí thể. Thi triển lại kỹ năng sẽ dừng hiệu quả này.</Desc>
+		</Text>
+		<Text Name="Magic_YG_RealWisdom">
+			<DisplayName>Chân lực nguyên thân (Trí)</DisplayName>
+			<Desc>Đốt cháy nhanh chóng nguồn sống bản nguyên, kích phát sức mạnh nguyên thân của yêu tộc, tăng đáng kể sức mạnh pháp thuật, tỷ lệ đánh trúng, tỷ lệ phòng thủ thành công, tỷ lệ xuyên thủng hộ thuẫn linh khí và tỷ lệ trấn áp pháp bảo. Thi triển lại kỹ năng sẽ dừng hiệu quả này.</Desc>
+		</Text>
+		<Text Name="Magic_YG_RealShield">
+			<DisplayName>Chân lực nguyên thân (Hộ)</DisplayName>
+			<Desc>Đốt cháy nhanh chóng nguồn sống bản nguyên, kích phát sức mạnh nguyên thân của yêu tộc, tăng đáng kể độ bền vững của hộ thuẫn linh khí và bí thể. Thi triển lại kỹ năng sẽ dừng hiệu quả này.</Desc>
+		</Text>
+	</List>
+</Texts>
+

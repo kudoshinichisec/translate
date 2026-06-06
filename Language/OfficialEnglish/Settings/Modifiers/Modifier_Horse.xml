@@ -1,0 +1,53 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_Horse_All_0">
+			<DisplayName>Giá trị tăng tốc độ rèn luyện cơ bản</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_All_7">
+			<DisplayName>Giá trị tăng linh khí</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Rabbit_10">
+			<DisplayName>Thỏ</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Chicken_10">
+			<DisplayName>Gà</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Wolf_10">
+			<DisplayName>Sói</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Snake_10">
+			<DisplayName>Rắn</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Boar_10">
+			<DisplayName>Lợn</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Bear_10">
+			<DisplayName>Gấu</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Frog_10">
+			<DisplayName>Ếch</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Turtle_10">
+			<DisplayName>Rùa</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Cat_10">
+			<DisplayName>Mèo</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Cattle_10">
+			<DisplayName>Bò</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Tiger_10">
+			<DisplayName>Hổ</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Panda_10">
+			<DisplayName>Mạc</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_LuShu_0">
+			<DisplayName>Lộc Thục</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Fei_0">
+			<DisplayName>Phi</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

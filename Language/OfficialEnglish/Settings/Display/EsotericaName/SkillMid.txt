@@ -1,0 +1,12 @@
+Tử Đạn Loại Thương Hại 1,Lưu Quang,Thiên Tinh,Vẫn Tinh,Phi Tinh,Lạc Hoa
+Trực Tiếp Tác Dụng Thương Hại 2,Trấn Thần,Chấn Địa,Khai Thiên,Phúc Diệt,Tuyệt Sát,Thập Nhị Đô Thiên,Cửu Cực,Bát Cực
+Đan Thể Phi Kiếm Tăng Cường 3,Thông Thiên,Hóa Ảnh,Vô Hình,Thất Tinh,Tâm Quang,Ngũ Phương,Tứ Tượng
+Quần Thể Phi Kiếm Tăng Cường 4,Chu Thiên,Tinh Đấu,Vạn Tượng,Tam Thập Tam Trọng,Phân Hình,Phân Quang
+Đan Thể Thuật Pháp Tăng Cường 5,Nhiên Linh,Thông Thiên,Tiếp Thiên,Tiên Thiên Nhất Khí
+Quần Thể Thuật Pháp Tăng Cường 6,Đại Diễn,Hóa Hồn,Ngũ Bí,Cửu Thiên,Thập Địa
+Đan Thể Khôi Phục Huyết Lượng 7,Hóa Thương,Cam Lâm,Hồi Xuân,Hồi Hồn,Ngũ Khí,Thanh Tâm,Tam Hoa
+Quần Thể Khôi Phục Huyết Lượng 8,Hóa Thương,Cam Lâm,Hồi Xuân,Hồi Hồn,Ngũ Khí,Thanh Tâm,Tam Hoa
+Đan Thể Đề Cao Hộ Thuẫn 9,Kim Cương,Bất Phôi,Bất Hủ,Kim Chung,Phúc Thiên
+Quần Thể Đề Cao Hộ Thuẫn 10,Kim Cương,Bất Phôi,Bất Hủ,Kim Chung,Phúc Thiên
+
+

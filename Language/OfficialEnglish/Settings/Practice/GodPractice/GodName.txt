@@ -1,0 +1,17 @@
+Huyền Học,Hồng Mông,Thái Sơ,Hỗn Độn,Thủy Chung,Tử Tiêu,Hóa Đạo,Vô Cực,Vô Thủy,Vô Chung,Thái Cực,Thái Thủy,Thái Chung,Vô Thượng,Nguyên Sơ,Vô Lượng,Vô Thủy,Vô Chung,Thanh Hư,Thái Hư,Huyền Hư,Cao Thiên,Thượng Thánh
+Vị Trí,Bắc Cực,Nam Cực,Tây Cực,Đông Cực,Trung Cực,Xích Thiên,Thanh Thiên,Hắc Thiên,Hoàng Thiên,Kim Thiên,Tử Thiên,Bích Thiên,Hư Thiên,Huyền Thiên,Cửu Thiên,Linh Thiên,Hạo Thiên,Huyền Thiên,Quỳnh Thiên,宆 Thiên,Thượng Cung,Huyền Cung,Thần Cung,Thánh Cung,Linh Cung,Bắc Phương,Đông Phương,Nam Phương,Tây Phương,Thánh Tọa,Quang Tọa,Hoa Tọa
+Trình Độ,Huyền Huyền,Huyền Diệu,Chí Tôn,Chí Thượng,Vô Thượng,Cửu Tôn,Tôn Cực,Chân Tôn,Thái Tôn,Thái Hoàng,Thái Thượng,Thái Huyền,Cao Thượng,Chí Cao,Chí Cực,Tôn Thánh,Chí Thánh,Huyền Thánh
+Nguyện Vọng Trình Độ<100,
+Nguyện Vọng Trình Độ 100-500,Phổ Nguyện,Thông Nguyện,Ấn Nguyện,Thành Nguyện,Phụ Nguyện,Hóa Nguyện,Trình Nguyện,Văn Nguyện
+Nguyện Vọng Trình Độ>500,Thánh Nguyện,Cao Nguyện,Tôn Nguyện,Thiên Nguyện,Thần Nguyện,Triệt Nguyện,Chí Nguyện,Linh Nguyện
+Lĩnh Vực<0.3,Đại Uy,Trang Nghiêm,Hoa Nghiêm,Đại Luật,Tôn Hỏa,Thánh Ngục,Đại Ân,Đại Xá
+Lĩnh Vực0.3-0.7,
+Lĩnh Vực>0.7,Chí Thiện,Chí Nhân,Chí Đức,Thánh Đức,Chí Chân,Đại Thiện,Đại Nhân,Đại Từ,Đại Bi
+Quy Mô<10w,Tồn Huyền,Hiệu Pháp,Thanh Hoa,Thống Thiên,Thừa Thiên
+Quy Mô10w-100w,Quang Đại,Phổ Chiếu,Cứu Khổ,Giải Nan
+Quy Mô>100w,Thái Hoàng,Thái Đức,Thiên Tôn,Thiên Đức,Hoàng Thiên
+Hậu Chuế7-9,Nguyên Quân,Thánh Quân,Thần Quân,Thượng Quân
+Hậu Chuế10-11,Thượng Đế,Thánh Đế,Tôn Đế,Thần Đế
+Hậu Chuế12,Cao Thượng Đế,Tôn Thánh Đế,Nguyên Thánh Đế,Tôn Thượng Đế,Thái Thượng Đế,Cao Thần Đế Trình
+
+

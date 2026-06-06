@@ -1,0 +1,255 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ZhuJi">
+			<Type>Chương Luyện Công</Type>
+			<DisplayName>Trúc Cơ</DisplayName>
+			<Desc>Thông qua chương hướng dẫn này, nắm được phương pháp và ý nghĩa Trúc Cơ của đệ tử Ngoại môn.\n[color=#BC1717]Trong quá trình hướng dẫn, bạn có thể nhấp vào nút bỏ qua ở góc trên bên phải để bỏ qua phần hiện tại và tiếp tục hướng dẫn. Chúng tôi không khuyến nghị hoàn thành hướng dẫn một mạch, điều này sẽ rất buồn tẻ. Bạn có thể quay lại hướng dẫn để tra cứu nội dung tương ứng khi gặp vấn đề đặc thù trong chế độ cổ điển.[/color]</Desc>
+			<Chapters.0.DisplayName>Hiểu ý nghĩa của việc xây dựng nền tảng</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Xem bảng xây dựng nền tảng</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Luyện công để xây dựng nền tảng</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Kích hoạt chăm chỉ học tập</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Sắp xếp kế hoạch luyện công</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Thiết lập điểm luyện công</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Chờ đệ tử luyện công</Chapters.1.Tasks.3>
+			<Chapters.2.DisplayName>Các cách khác để nhận giá trị xây dựng nền tảng</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Xem mật gấu</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Xem nhanh giá trị xây dựng nền tảng</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Ăn mật gấu</Chapters.2.Tasks.2>
+			<Chapters.2.Tasks.3>Xem nhanh giá trị xây dựng nền tảng</Chapters.2.Tasks.3>
+			<Tasks.1.TaskDesc>Nhấp vào bất kỳ nhân vật</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Nhấn để mở bảng nhân vật</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Nhấn để mở bảng tu luyện công pháp</Tasks.3.TaskDesc>
+			<Tasks.4.TipsData.Desc>Như hình minh họa, nếu đệ tử ngoại môn không luyện công trong ngày, giá trị xây dựng nền tảng sẽ giảm 1000 điểm, ngay cả khi đã hoàn thành xây dựng nền tảng.</Tasks.4.TipsData.Desc>
+			<Tasks.6.TipsData.Desc>Trong trò chơi, chỉ khi giá trị xây dựng nền tảng của đệ tử ngoại môn đạt đến 25000 điểm thì mới được coi là hoàn thành, đây là điều kiện tiên quyết để vào nội môn.</Tasks.6.TipsData.Desc>
+			<Tasks.8.TaskDesc>Nhấn để kích hoạt chăm chỉ học tập</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Nhấn để đóng bảng tu luyện</Tasks.9.TaskDesc>
+			<Tasks.11.TaskDesc>Nhấn nút menu góc trái dưới để mở menu lựa chọn</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Nhấp để mở bảng phân công công việc</Tasks.12.TaskDesc>
+			<Tasks.14.TaskDesc>Nhấn vào mục Thời gian ngoại môn 【8 công việc】</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Nhấn để thiết lập thành luyện công</Tasks.15.TaskDesc>
+			<Tasks.17.TaskDesc>Nhấn vào mục Thời gian ngoại môn 【9 công việc】</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Nhấn để thiết lập thành luyện công</Tasks.18.TaskDesc>
+			<Tasks.20.TaskDesc>Đóng trang này</Tasks.20.TaskDesc>
+			<Tasks.22.TaskDesc>Nhấn nút Xây dựng trong menu để mở trang Xây dựng</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Nhấn vào phân trang môn phái, vào phân loại kiến trúc môn phái</Tasks.23.TaskDesc>
+			<Tasks.23.UiData.Name>Môn phái</Tasks.23.UiData.Name>
+			<Tasks.24.TaskDesc>Nhấn vào điểm luyện công</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>Đặt điểm luyện công vào vị trí được hệ thống chỉ định</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Xác nhận xây dựng</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Thoát chế độ xây dựng</Tasks.27.TaskDesc>
+			<Tasks.29.TaskDesc>Đóng Bảng Xây Dựng</Tasks.29.TaskDesc>
+			<Tasks.32.TaskDesc>Nhấp vào nút điều chỉnh tốc độ trò chơi ở góc dưới bên phải</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>Chọn chế độ chạy trò chơi tốc độ cấp hai</Tasks.33.TaskDesc>
+			<Tasks.35.TaskDesc>Chờ đệ tử ngoại môn vào điểm luyện công và bắt đầu luyện công</Tasks.35.TaskDesc>
+			<Tasks.37.TipsData.Desc>Trong trò chơi, Bạn có thể sắp xếp hoặc điều chỉnh thời gian luyện công một cách hợp lý để đảm bảo đệ tử ngoại môn luyện công hàng ngày; đệ tử đã kích hoạt chăm chỉ học tập sẽ tự luyện công sau giờ làm việc hàng ngày; một số đệ tử có dòng thuộc tính đặc biệt sẽ nhận giá trị xây dựng nền tảng nhanh hơn.</Tasks.37.TipsData.Desc>
+			<Tasks.39.TaskDesc>Nhấn chọn mật gấu</Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>Nhấn thông tin chi tiết bên dưới bảng vật phẩm</Tasks.40.TaskDesc>
+			<Tasks.41.TipsData.Desc>Có thể xem thông tin chi tiết vật phẩm</Tasks.41.TipsData.Desc>
+			<Tasks.43.TaskDesc>Nhấp vào bất kỳ nhân vật</Tasks.43.TaskDesc>
+			<Tasks.44.TipsData.Desc>Trong trò chơi, Bạn có thể xem thanh trạng thái bên dưới để nhanh chóng nắm bắt thông tin xây dựng nền tảng của đệ tử ngoại môn và kịp thời điều chỉnh chiến lược luyện công cho đệ tử đó.</Tasks.44.TipsData.Desc>
+			<Tasks.46.TaskDesc>Nhấn nút Sử dụng bên dưới bảng Nhân vật</Tasks.46.TaskDesc>
+			<Tasks.46.UiData.Name>Ăn</Tasks.46.UiData.Name>
+			<Tasks.47.TaskDesc>Nhấp chọn mật gấu</Tasks.47.TaskDesc>
+			<Tasks.48.TaskDesc>Tăng số lượng tiêu thụ</Tasks.48.TaskDesc>
+			<Tasks.49.TaskDesc>Xác nhận ăn</Tasks.49.TaskDesc>
+			<Tasks.51.TaskDesc>Chờ ăn xong</Tasks.51.TaskDesc>
+			<Tasks.53.TipsData.Desc>Đệ tử đã nhanh chóng nhận được lượng lớn giá trị xây dựng nền tảng nhờ ăn mật gấu.</Tasks.53.TipsData.Desc>
+			<Tasks.55.TipsData.Desc>Trong trò chơi, cũng có thể sử dụng các loại linh đan, dược liệu khác để nhanh chóng nhận được lượng lớn giá trị xây dựng nền tảng; hoặc các phương pháp khác để tăng tốc độ nhận giá trị xây dựng nền tảng, những điều này cần Bạn khám phá và hiểu thêm.</Tasks.55.TipsData.Desc>
+		</Text>
+		<Text Name="GongSelect">
+			<Type>Chương Luyện Công</Type>
+			<DisplayName>Lựa chọn công pháp và chế độ tu luyện</DisplayName>
+			<Desc>Thông qua chương hướng dẫn này, hãy tìm hiểu cách lựa chọn công pháp phù hợp và ý nghĩa của mức độ phù hợp công pháp, cũng như cách để đệ tử bái sư và một số chế độ tu luyện thông dụng.\n[color=#BC1717]Trong quá trình hướng dẫn, bạn có thể nhấp vào nút bỏ qua ở góc trên bên phải để bỏ qua phần hiện tại và tiếp tục hướng dẫn. Chúng tôi không khuyên bạn nên hoàn thành toàn bộ hướng dẫn trong một lần, điều này sẽ rất buồn tẻ. Bạn có thể quay lại tra cứu nội dung tương ứng trong hướng dẫn khi gặp vấn đề cụ thể ở chế độ cổ điển.[/color]</Desc>
+			<Chapters.0.DisplayName>Độ phù hợp và lựa chọn công pháp</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Xem độ phù hợp công pháp của Điền Hoàn</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Xem độ phù hợp công pháp của Chung Ly Thư</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Chọn công pháp và vào nội môn</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Ý nghĩa của việc bái sư</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Chọn bái sư</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Xem sư phụ</Chapters.1.Tasks.1>
+			<Tasks.1.TaskDesc>Mở giao diện tin nhắn</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Nhấn vào thông báo thành công xây dựng nền tảng ở bên trái</Tasks.2.TaskDesc>
+			<Tasks.4.TaskDesc>Đóng giao diện tin nhắn</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Nhấn nút thăng cấp nội môn trong thanh trạng thái bên dưới của đệ tử</Tasks.5.TaskDesc>
+			<Tasks.5.UiData.Name>Thăng cấp nội môn</Tasks.5.UiData.Name>
+			<Tasks.7.TipsData.Desc>Đệ tử này có hệ số phù hợp với công pháp hiện tại quá thấp, chúng ta có thể xem độ phù hợp của các đệ tử khác.</Tasks.7.TipsData.Desc>
+			<Tasks.8.TaskDesc>Nhấn để đóng giao diện chọn công pháp</Tasks.8.TaskDesc>
+			<Tasks.10.TaskDesc>Nhấn để chọn một đệ tử ngoại môn khác</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Nhấn nút thăng cấp nội môn trong thanh trạng thái bên dưới của đệ tử</Tasks.11.TaskDesc>
+			<Tasks.11.UiData.Name>Thăng cấp nội môn</Tasks.11.UiData.Name>
+			<Tasks.13.TipsData.Desc>Bạn có thể so sánh biểu đồ độ phù hợp công pháp để hiểu liệu đệ tử hiện tại có phù hợp với công pháp này hay không, chỉ số ngũ hành của đệ tử càng cao, độ phù hợp công pháp càng tốt, do đó các đệ tử khác nhau có thể phù hợp với các công pháp khác nhau.</Tasks.13.TipsData.Desc>
+			<Tasks.15.TaskDesc>Nhấn để chọn công pháp</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Nhấn đồng ý</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Nhấp vào nút điều chỉnh tốc độ trò chơi ở góc dưới bên phải</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Chọn chế độ chạy trò chơi tốc độ cấp hai</Tasks.18.TaskDesc>
+			<Tasks.20.TaskDesc>Chờ đệ tử thăng cấp</Tasks.20.TaskDesc>
+			<Tasks.22.TipsData.Desc>Một khi đã chọn công pháp, không thể hủy bỏ, do đó độ phù hợp công pháp sẽ ảnh hưởng lớn đến quá trình tu luyện sau này của đệ tử.</Tasks.22.TipsData.Desc>
+			<Tasks.24.TaskDesc>Nhấn nút bái sư trong thanh trạng thái nhân vật</Tasks.24.TaskDesc>
+			<Tasks.24.UiData.Name>Bái sư</Tasks.24.UiData.Name>
+			<Tasks.25.TaskDesc>Nhấn chọn một đệ tử nội môn Kim Đan kỳ</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Xác nhận</Tasks.26.TaskDesc>
+			<Tasks.28.TaskDesc>Chờ hoàn tất bái sư</Tasks.28.TaskDesc>
+			<Tasks.31.TaskDesc>Nhấn chọn đệ tử nội môn Kim Đan kỳ</Tasks.31.TaskDesc>
+			<Tasks.32.TipsData.Desc>Sư phụ có thể truyền dạy bí kíp mà mình đã học, khi truyền dạy bí kíp, sư phụ tiêu tốn ít tham ngộ hơn.</Tasks.32.TipsData.Desc>
+			<Tasks.32.TipsData.Name>Truyền dạy</Tasks.32.TipsData.Name>
+			<Tasks.34.TipsData.Desc>Khi một đệ tử mới thăng cấp thành đệ tử nội môn, có thể chọn một đệ tử nội môn Kim Đan kỳ hoặc cao hơn để bái làm sư phụ; nếu công pháp của đệ tử và sư phụ giống nhau, tốc độ tu luyện sẽ được tăng lên.</Tasks.34.TipsData.Desc>
+		</Text>
+		<Text Name="GetJingYuan">
+			<Type>Chương Luyện Công</Type>
+			<DisplayName>Tinh nguyên.</DisplayName>
+			<Desc>Thông qua chương hướng dẫn này, hiểu được cách thu nhận tinh nguyên và quản lý tinh nguyên tự động.\n[color=#BC1717]Trong quá trình hướng dẫn, bạn có thể nhấp vào nút bỏ qua ở góc trên bên phải để bỏ qua phần hiện tại và tiếp tục hướng dẫn. Chúng tôi không khuyến nghị hoàn thành hướng dẫn một mạch, điều này sẽ rất buồn tẻ. Bạn có thể quay lại hướng dẫn để tra cứu nội dung tương ứng khi gặp vấn đề đặc thù trong chế độ cổ điển.[/color]</Desc>
+			<Chapters.0.DisplayName>Cách nhận tinh nguyên</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Xem tinh nguyên</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Ăn tinh nguyên đan</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Xem lại tinh nguyên</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Tiếp tục tu luyện</Chapters.0.Tasks.3>
+			<Chapters.1.DisplayName>Quản lý hỗ trợ tinh nguyên</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Xem tự xử lý thực phẩm</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Xem ưu tiên đan dược</Chapters.1.Tasks.1>
+			<Tasks.1.TaskDesc>Nhấn chọn một đệ tử nội môn</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Nhấn để chuyển đổi bảng Trạng thái</Tasks.2.TaskDesc>
+			<Tasks.3.TipsData.Desc>Người chơi có thể xem giá trị tinh nguyên trong trạng thái nhân vật thông qua thanh tinh nguyên. Đệ tử nội môn khi tu luyện cần liên tục tiêu hao tinh nguyên, khi tinh nguyên về 0 sẽ không thể tu luyện bình thường, lúc này cần ăn đan dược hoặc đồ ăn để bổ sung tinh nguyên.</Tasks.3.TipsData.Desc>
+			<Tasks.5.TaskDesc>Nhấn chọn tinh nguyên đan</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Nhấn thông tin chi tiết bên dưới bảng vật phẩm</Tasks.6.TaskDesc>
+			<Tasks.7.TipsData.Desc>Có thể xem thông tin chi tiết vật phẩm</Tasks.7.TipsData.Desc>
+			<Tasks.8.TaskDesc>Nhấn chọn đệ tử nội môn vừa rồi</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Nhấn nút ăn trong thanh trạng thái nhân vật</Tasks.9.TaskDesc>
+			<Tasks.9.UiData.Name>Ăn</Tasks.9.UiData.Name>
+			<Tasks.10.TaskDesc>Nhấn chọn tinh nguyên đan</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Tăng số lượng tiêu thụ</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Xác nhận ăn</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Nhấp vào nút điều chỉnh tốc độ trò chơi ở góc dưới bên phải</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Chọn tốc độ x3 để vận hành trò chơi</Tasks.14.TaskDesc>
+			<Tasks.17.TaskDesc>Đợi nhân vật ăn xong</Tasks.17.TaskDesc>
+			<Tasks.19.TaskDesc>Chờ đợi chuyển hóa tinh nguyên</Tasks.19.TaskDesc>
+			<Tasks.21.TipsData.Desc>Xem thanh tinh nguyên trong trạng thái nhân vật bên dưới. Lúc này, đệ tử đã khôi phục một phần tinh nguyên thông qua việc sử dụng đan dược.</Tasks.21.TipsData.Desc>
+			<Tasks.23.TaskDesc>Nhấn để chuyển đổi bảng Trạng thái</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>Nhấp vào chế độ tu hành trong thanh trạng thái nhân vật</Tasks.24.TaskDesc>
+			<Tasks.26.TipsData.Desc>Đệ tử nội môn cũng có thể tiêu hao thực phẩm để chuyển hóa thành tinh nguyên, hoặc thông qua việc tăng tốc độ tiêu thụ thực phẩm, tốc độ nhận tinh nguyên, và các thuộc tính khác để cải thiện hiệu quả chuyển hóa tinh nguyên.</Tasks.26.TipsData.Desc>
+			<Tasks.28.TaskDesc>Nhấn để mở bảng nhân vật</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Nhấn để mở bảng tu luyện công pháp</Tasks.29.TaskDesc>
+			<Tasks.30.TipsData.Desc>Bạn có thể nhấp vào đây để thiết lập tự động sử dụng thực phẩm. Sau đó, đệ tử sẽ tự động ăn thực phẩm để nhận tinh nguyên, giúp dễ dàng quản lý hơn.</Tasks.30.TipsData.Desc>
+			<Tasks.32.TipsData.Desc>Bạn có thể nhấp vào đây để thiết lập tự động sử dụng đan dược. Sau đó, đệ tử sẽ ưu tiên sử dụng đan dược để nhận tinh nguyên, giúp dễ dàng quản lý hơn.</Tasks.32.TipsData.Desc>
+			<Tasks.34.TipsData.Desc>Trong trò chơi, có rất nhiều vật phẩm có thể tăng tinh nguyên hoặc cải thiện hiệu suất nhận tinh nguyên, như các loại thiên tài địa bảo, đan dược, phù chú, v.v. Bạn cần khám phá và tìm hiểu sâu hơn.</Tasks.34.TipsData.Desc>
+		</Text>
+		<Text Name="FuQi">
+			<Type>Chương Luyện Công</Type>
+			<DisplayName>Phục khí và Bế cốc</DisplayName>
+			<Desc>Thông qua chương này, bạn sẽ nắm được ý nghĩa của Phục khí và Tích Cốc, cũng như sự khác biệt giữa hai khái niệm này.\n[color=#BC1717]Trong quá trình dạy, có thể nhấn nút bỏ qua ở góc trên bên phải để bỏ qua phần hiện tại và tiếp tục dạy. Chúng ta không khuyến khích hoàn thành tất cả dạy học một mạch, điều này sẽ rất buồn tẻ. Bạn có thể quay lại phần dạy học để tra cứu nội dung tương ứng khi gặp vấn đề cụ thể trong chế độ cổ điển.[/color]</Desc>
+			<Chapters.0.DisplayName>Bế cốc là gì</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Xem đan bế cốc</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Xem nhu cầu thực phẩm</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Sử dụng đan bế cốc</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Kiểm tra lại nhu cầu thực phẩm</Chapters.0.Tasks.3>
+			<Chapters.1.DisplayName>Phục khí là gì</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Xem đan phục khí</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Xem thanh phục khí</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Sử dụng đan phục khí</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Kiểm tra lại thanh phục khí</Chapters.1.Tasks.3>
+			<Tasks.1.TaskDesc>Nhấp để chọn đan bế cốc</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Nhấn thông tin chi tiết bên dưới bảng vật phẩm</Tasks.2.TaskDesc>
+			<Tasks.3.TipsData.Desc>Có thể xem thông tin chi tiết vật phẩm</Tasks.3.TipsData.Desc>
+			<Tasks.5.TaskDesc>Nhấp để chọn một đệ tử nội môn</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Nhấn để chuyển đổi bảng Trạng thái</Tasks.6.TaskDesc>
+			<Tasks.7.TipsData.Desc>Người chơi có thể xem thanh nhu cầu thức ăn ở thanh trạng thái bên dưới.</Tasks.7.TipsData.Desc>
+			<Tasks.9.TaskDesc>Nhấn nút ăn trong thanh trạng thái nhân vật</Tasks.9.TaskDesc>
+			<Tasks.9.UiData.Name>Ăn</Tasks.9.UiData.Name>
+			<Tasks.10.TaskDesc>Nhấp để chọn đan bế cốc</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Tăng số lượng tiêu thụ</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Xác nhận ăn</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Nhấp vào nút điều chỉnh tốc độ trò chơi ở góc dưới bên phải</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Chọn tốc độ x3 để vận hành trò chơi</Tasks.14.TaskDesc>
+			<Tasks.17.TaskDesc>Đợi nhân vật ăn xong</Tasks.17.TaskDesc>
+			<Tasks.19.TipsData.Desc>Người chơi có thể xem thanh nhu cầu thức ăn ở thanh trạng thái bên dưới.</Tasks.19.TipsData.Desc>
+			<Tasks.21.TipsData.Desc>Ý nghĩa của bế cốc trong trò chơi là giảm tiêu thụ đói và nước của đệ tử, từ đó giảm nhu cầu về thực phẩm và nước uống, giảm thiểu việc tiêu thụ tài nguyên thực phẩm và nước. Tuy nhiên, việc giảm nhu cầu thực phẩm và nước uống của đệ tử nội môn cũng sẽ làm giảm lượng tinh nguyên chuyển hóa từ thực phẩm.</Tasks.21.TipsData.Desc>
+			<Tasks.23.TaskDesc>Nhấp để chọn đan phục khí</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>Nhấn thông tin chi tiết bên dưới bảng vật phẩm</Tasks.24.TaskDesc>
+			<Tasks.25.TipsData.Desc>Có thể xem thông tin chi tiết vật phẩm</Tasks.25.TipsData.Desc>
+			<Tasks.27.TaskDesc>Nhấp để chọn một đệ tử nội môn</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Nhấn để chuyển đổi bảng Trạng thái</Tasks.28.TaskDesc>
+			<Tasks.29.TipsData.Desc>Người chơi có thể xem thanh nhu cầu thức ăn ở thanh trạng thái bên dưới.</Tasks.29.TipsData.Desc>
+			<Tasks.31.TaskDesc>Nhấn nút ăn trong thanh trạng thái nhân vật</Tasks.31.TaskDesc>
+			<Tasks.31.UiData.Name>Ăn</Tasks.31.UiData.Name>
+			<Tasks.32.TaskDesc>Nhấp để chọn đan phục khí</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>Tăng số lượng tiêu thụ</Tasks.33.TaskDesc>
+			<Tasks.34.TaskDesc>Xác nhận ăn</Tasks.34.TaskDesc>
+			<Tasks.36.TaskDesc>Đợi nhân vật ăn xong</Tasks.36.TaskDesc>
+			<Tasks.38.TipsData.Desc>Người chơi có thể xem thanh nhu cầu thức ăn ở thanh trạng thái bên dưới.</Tasks.38.TipsData.Desc>
+			<Tasks.40.TipsData.Desc>Ý nghĩa của phục khí là thu năng lượng từ môi trường để duy trì khả năng đói và nước. Hiệu suất phục khí càng cao, khả năng chuyển hóa càng mạnh. Ngoài ra, khi tiêu thụ thực phẩm và nước uống của đệ tử nội môn tăng, lượng tinh nguyên chuyển hóa từ thực phẩm cũng tăng theo.</Tasks.40.TipsData.Desc>
+		</Text>
+		<Text Name="DProduction">
+			<Type>Chương Luyện Công</Type>
+			<DisplayName>Sản xuất nội môn</DisplayName>
+			<Desc>Thông qua chương này, bạn sẽ học được cách luyện chế pháp bảo, đan dược và vẽ phù.\n[color=#BC1717]Trong quá trình dạy, có thể nhấn nút bỏ qua ở góc trên bên phải để bỏ qua phần hiện tại và tiếp tục dạy. Chúng ta không khuyến khích hoàn thành tất cả dạy học một mạch, điều này sẽ rất buồn tẻ. Bạn có thể quay lại phần dạy học để tra cứu nội dung tương ứng khi gặp vấn đề cụ thể trong chế độ cổ điển.[/color]</Desc>
+			<Chapters.0.DisplayName>Cách luyện đan</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Đã nhận thêm nhiều công trình</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Luyện chế tinh nguyên đan</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Sử dụng chế độ luyện đan tuần hoàn</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Cách luyện bảo</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Luyện chế pháp bảo</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>So sánh nguyên liệu cao cấp</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>So sánh nguyên liệu thấp cấp</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Xác nhận luyện bảo</Chapters.1.Tasks.3>
+			<Chapters.2.DisplayName>Cách vẽ phù</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Vẽ Khinh thân phù</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Mối quan hệ giữa chất lượng giấy phù và hiệu quả phù chú</Chapters.2.Tasks.1>
+			<Chapters.3.DisplayName>Cách nung chảy</Chapters.3.DisplayName>
+			<Chapters.3.Tasks.0>Xem linh khí của vật phẩm</Chapters.3.Tasks.0>
+			<Chapters.3.Tasks.1>Smelt Items</Chapters.3.Tasks.1>
+			<Tasks.1.TipsData.Desc>Khi đệ tử bước vào nội môn, họ sẽ có những cách chơi tương tác mới. Tuy nhiên, những cách chơi này cần xây dựng các công trình đặc biệt để kích hoạt.</Tasks.1.TipsData.Desc>
+			<Tasks.3.TaskDesc>Nhấp để chọn một đệ tử nội môn</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Nhấp vào nút luyện đan trong thanh trạng thái nhân vật</Tasks.4.TaskDesc>
+			<Tasks.4.UiData.Name>Luyện đan</Tasks.4.UiData.Name>
+			<Tasks.5.TaskDesc>Nhấn chọn tinh nguyên đan</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Nhấp vào xác nhận</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Nhấp để chọn lò luyện đan</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Xác nhận lựa chọn</Tasks.8.TaskDesc>
+			<Tasks.11.TaskDesc>Nhấp để chọn lò luyện đan</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Nhấp vào Tinh Nguyên Đan trong giao diện lò đan bên dưới</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Nhấp vào tuần hoàn mười lần</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Nhấp vào nút điều chỉnh tốc độ trò chơi ở góc dưới bên phải</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Chọn tốc độ x3 để vận hành trò chơi</Tasks.15.TaskDesc>
+			<Tasks.17.TaskDesc>Chờ đợi hoàn thành luyện chế tinh nguyên đan</Tasks.17.TaskDesc>
+			<Tasks.19.TaskDesc>Nhấp vào Tinh Nguyên Đan trong giao diện lò đan bên dưới</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Nhấn nút hủy của Tinh Nguyên Đan trong giao diện Lò luyện đan phía dưới để hủy sản xuất</Tasks.20.TaskDesc>
+			<Tasks.22.TipsData.Desc>Luyện chế đan dược không chỉ cần nguyên liệu cơ bản mà nếu muốn luyện chế đan dược cao cấp hơn, cần nâng cao cấp độ luyện đan hoặc học các phương pháp luyện đan khác. Bạn cũng có thể sử dụng chế độ tuần hoàn của lò luyện đan để luyện đan hàng loạt hoặc hủy chế độ tuần hoàn để kết thúc thao tác này.</Tasks.22.TipsData.Desc>
+			<Tasks.24.TaskDesc>Nhấp để chọn một đệ tử nội môn</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>Nhấp vào nút luyện bảo trong thanh trạng thái nhân vật</Tasks.25.TaskDesc>
+			<Tasks.25.UiData.Name>Luyện bảo</Tasks.25.UiData.Name>
+			<Tasks.26.TaskDesc>Nhấp vào luyện chế pháp bảo</Tasks.26.TaskDesc>
+			<Tasks.29.TaskDesc>Người chơi có thể chọn Kiếm Đá Thiên Trụ để xem yêu cầu luyện bảo và tỉ lệ thành công phía trên</Tasks.29.TaskDesc>
+			<Tasks.30.TipsData.Desc>Xem nhu cầu luyện bảo và xác suất thành công bên trên.</Tasks.30.TipsData.Desc>
+			<Tasks.32.TaskDesc>Người chơi có thể chọn Dao Đá Xám để xem yêu cầu luyện bảo và tỉ lệ thành công phía trên</Tasks.32.TaskDesc>
+			<Tasks.33.TipsData.Desc>Xem nhu cầu luyện bảo và xác suất thành công bên trên.</Tasks.33.TipsData.Desc>
+			<Tasks.35.TaskDesc>Xác nhận lựa chọn</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Chờ hoàn thành luyện chế pháp bảo</Tasks.36.TaskDesc>
+			<Tasks.38.TipsData.Desc>Trong trò chơi, bất kỳ nguyên liệu bình thường nào cũng có thể được luyện chế thành pháp bảo, nhưng sẽ tiêu hao một phần linh khí. Cấp độ vật phẩm càng cao, linh khí tiêu hao càng nhiều. Ngoài ra, tâm cảnh càng cao thì tỷ lệ thành công khi luyện chế pháp bảo càng lớn. Đương nhiên, cấp độ luyện bảo càng cao, tỷ lệ thành công cũng sẽ tăng.</Tasks.38.TipsData.Desc>
+			<Tasks.40.TaskDesc>Nhấp vào nút vẽ phù trong thanh trạng thái nhân vật</Tasks.40.TaskDesc>
+			<Tasks.40.UiData.Name>Vẽ bùa</Tasks.40.UiData.Name>
+			<Tasks.41.TaskDesc>Nhấp để chọn giấy phù</Tasks.41.TaskDesc>
+			<Tasks.42.TaskDesc>Xác nhận lựa chọn</Tasks.42.TaskDesc>
+			<Tasks.43.TaskDesc>Nhấp vào Khinh thân phù</Tasks.43.TaskDesc>
+			<Tasks.44.TaskDesc>Nhấn xác nhận</Tasks.44.TaskDesc>
+			<Tasks.45.TaskDesc>Bạn hãy thử vẽ một phù chú theo hình minh họa, sau đó nhấp vào nút xác nhận khi hoàn thành.</Tasks.45.TaskDesc>
+			<Tasks.46.TaskDesc>Nhấn đồng ý</Tasks.46.TaskDesc>
+			<Tasks.48.TaskDesc>Chờ hoàn thành vẽ phù</Tasks.48.TaskDesc>
+			<Tasks.50.TaskDesc>Nhấp để chọn bàn vẽ phù</Tasks.50.TaskDesc>
+			<Tasks.51.TaskDesc>Nhấp vào nút sản xuất</Tasks.51.TaskDesc>
+			<Tasks.51.UiData.Name>SảnXuất</Tasks.51.UiData.Name>
+			<Tasks.52.TipsData.Desc>Như hiển thị trong giao diện sản xuất, giấy phù có nhiều loại khác nhau. Khi sử dụng các loại giấy phù khác nhau để vẽ phù chú, hiệu quả gia tăng của phù chú cũng sẽ khác nhau. Thông thường, giấy phù có cấp độ càng cao thì phù chú được vẽ ra càng mạnh.</Tasks.52.TipsData.Desc>
+			<Tasks.53.TaskDesc>Đóng giao diện sản xuất</Tasks.53.TaskDesc>
+			<Tasks.55.TipsData.Desc>Chất lượng phù chú mà Bạn vẽ chính là chất lượng của phù chú thành phẩm. Đây cũng là một trong những thuộc tính quan trọng ảnh hưởng đến hiệu quả phù chú.</Tasks.55.TipsData.Desc>
+			<Tasks.57.TaskDesc>Nhấn chọn rác</Tasks.57.TaskDesc>
+			<Tasks.58.TaskDesc>Nhấn thông tin chi tiết bên dưới bảng vật phẩm</Tasks.58.TaskDesc>
+			<Tasks.59.TipsData.Desc>Người chơi có thể xem giá trị linh khí đã hấp thu và lưu trữ từ rác.</Tasks.59.TipsData.Desc>
+			<Tasks.61.TaskDesc>Đóng bảng Vật phẩm</Tasks.61.TaskDesc>
+			<Tasks.64.TaskDesc>Nhấp vào nút nung chảy ở dưới màn hình</Tasks.64.TaskDesc>
+			<Tasks.65.TaskDesc>Nhấn chọn rác</Tasks.65.TaskDesc>
+			<Tasks.66.TaskDesc>Thoát khỏi chế độ hiện tại</Tasks.66.TaskDesc>
+			<Tasks.69.TaskDesc>Chờ hoàn thành nung chảy</Tasks.69.TaskDesc>
+			<Tasks.70.TipsData.Desc>Thông qua thao tác nung chảy rác thải vừa rồi, Bạn đã nhận được một số linh thạch.</Tasks.70.TipsData.Desc>
+			<Tasks.72.TipsData.Desc>Trong trò chơi, các vật phẩm khác nhau sẽ dần dần hấp thụ linh khí từ thiên địa tự nhiên. Đệ tử nội môn có thể nhận linh thạch thông qua chức năng nung chảy hoặc sử dụng để loại bỏ một số vật phẩm không cần thiết.</Tasks.72.TipsData.Desc>
+		</Text>
+	</List>
+</Texts>
+

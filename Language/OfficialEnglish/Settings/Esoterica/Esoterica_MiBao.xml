@@ -1,0 +1,60 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Esoterica_MiBao_1">
+			<DisplayName>Tru Tiên Kiếm Điển: Tàn Quyển Một</DisplayName>
+			<Desc>Bí điển kiếm đạo truyền lại từ thời thượng cổ, ghi chép về những khám phá của các tiên nhân cổ đại khi mô phỏng bốn thanh tiên kiếm Tru, Lục, Hãm, Tuyệt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bảo vật:\nKiếm Tru Tiên[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_2">
+			<DisplayName>Kiếm Điển Tru Tiên: Tàn quyển hai</DisplayName>
+			<Desc>Bí điển kiếm đạo truyền lại từ thời thượng cổ, ghi chép về những khám phá của các tiên nhân cổ đại khi mô phỏng bốn thanh tiên kiếm Tru, Lục, Hãm, Tuyệt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bảo vật:\nKiếm Lục Tiên[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_3">
+			<DisplayName>Kiếm Điển Tru Tiên: Tàn quyển ba</DisplayName>
+			<Desc>Bí điển kiếm đạo truyền lại từ thời thượng cổ, ghi chép về những khám phá của các tiên nhân cổ đại khi mô phỏng bốn thanh tiên kiếm Tru, Lục, Hãm, Tuyệt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bảo vật:\nKiếm Hãm Tiên[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_4">
+			<DisplayName>Kiếm Điển Tru Tiên: Tàn quyển bốn</DisplayName>
+			<Desc>Bí điển kiếm đạo truyền lại từ thời thượng cổ, ghi chép về những khám phá của các tiên nhân cổ đại khi mô phỏng bốn thanh tiên kiếm Tru, Lục, Hãm, Tuyệt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bảo vật:\nKiếm Tuyệt Tiên[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_5">
+			<DisplayName>Bách Độc Chân Kinh Tàn Quyển</DisplayName>
+			<Desc>Bộ điển tịch của giáo phái ma đạo cổ đại phương Nam, đáng tiếc phần lớn nội dung đã thất lạc, chỉ còn lưu truyền tàn quyển. Quyển sách này ghi lại phương pháp luyện chế ba loại bảo vật ma môn.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bảo vật:\nKiếm Tru Tiên Ngũ Độc\nNgọc Thay Thân\nMười Hai Sát Thần Ma Linh Sa[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_6">
+			<DisplayName>Quảng Thành Thiên Thư Tàn Quyển</DisplayName>
+			<Desc>Truyền thuyết rằng đây là đạo thống do Quảng Thành Tử để lại khi thành đạo, đáng tiếc phần lớn nội dung đã thất lạc, chỉ còn lưu truyền tàn quyển. Quyển sách này ghi lại phương pháp luyện chế hai loại bảo vật bí mật của Quảng Thành.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bảo vật:\nCây Trượng Nguyên Dương Cửu Thiên\nPhù Lôi Ngũ Khí[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_7">
+			<DisplayName>Tàn Quyển Đại Tàng Bảo Lục Hai Giới Mười Phương</DisplayName>
+			<Desc>Vốn là kinh điển tối thượng của Phật môn, hiện chỉ còn tàn quyển lưu truyền, trong đó chỉ có vài phương pháp luyện chế bảo vật vẫn còn nguyên vẹn.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bảo vật:\nKiếm Tâm Nguyên Thần\nNgai Vàng Thần Kim Liên\nCờ Bảo Sắc Thanh Liên[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_8">
+			<DisplayName>Tàn Quyển Bảo Lục Huyết Hà Tu La</DisplayName>
+			<Desc>Bí sách lưu truyền từ giới Tu La, trong đó ghi lại phương pháp luyện chế nhiều bảo vật ma đạo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bảo vật:\nĐinh Thiên Lang\nThần Đao Hóa Huyết Thiên Ma\nNgọc Uống Hồn[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_9">
+			<DisplayName>Di Lục Ngân Hà</DisplayName>
+			<Desc>Quyển sách đến từ thế giới khác, tác giả không rõ danh tính. Trong đó ghi lại nhiều bảo vật bí mật chưa từng thấy trong giới tu hành truyền thống.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bảo vật:\nThoi Thần Hút Sao\nKéo Thần Nuốt Linh[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_10">
+			<DisplayName>Ngọc Thư Dao Trì</DisplayName>
+			<Desc>Truyền thuyết rằng đây là sách do Tây Vương Mẫu truyền lại, trong đó ghi phương pháp luyện chế một trong năm lá cờ của trời đất.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bảo vật:\nCờ Giới Mây Màu Tố Sắc[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_11">
+			<DisplayName>Bí Lục Dẹp Ma Chân Võ</DisplayName>
+			<Desc>Truyền thuyết rằng đây là sách do Chân Võ Đại Đế của Thiên Đình truyền lại, trong đó ghi phương pháp luyện chế một trong năm lá cờ của trời đất.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bảo vật:\nCờ Điêu Đen Chân Võ[/color][/size]</EffectDesc>
+		</Text>
+	</List>
+</Texts>
+

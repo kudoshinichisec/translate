@@ -1,0 +1,32 @@
+Tag	TargetType	Q	MA	SA	FA	fParam	sParam
+类型标签	0是目标不论仙凡1是目标为凡人2是目标为仙人3是目标为仙人且我比其境界高4是目标为仙人且我比其境界低4是目标为仙人且我与其境界一样	问题	无成功失败/中性回答	成功回答	失败回答	数值参数	文本参数
+S_Carry_Discuss	0	Ta nói với Ngươi, [TNAME] luôn mang theo một [TXT].	Ta không quan tâm đến điều này.	Đúng dịp, ta cũng biết!	À, thật sao? ngươi biết điều này à?		
+S_Carry_Ask	0	Ngươi có biết trên người [TNAME] có những gì không?	Ta biết làm sao?	Biết rồi, [TIT] dẫn [TXT] đi khắp nơi.	ta không muốn nói cho ngươi biết.		
+S_Esoterica_Discuss	0	Ngươi có biết không? [TNAME] đặc biệt giỏi [TXT]!	Ta không quan tâm đến điều này.	Đúng dịp, ta cũng biết!	À, thật sao? ngươi biết điều này à?		
+S_Esoterica_Ask	0	Ngươi có biết [TNAME] giỏi cái gì không?	Ta biết làm sao?	Biết rồi, [TIT] giỏi [TXT].	ta không muốn nói cho ngươi biết.		
+S_Feature_Discuss	0	Ta nói với Ngươi, [TNAME] là một người [TXT].	Ta không quan tâm đến điều này.	Đúng dịp, ta cũng biết!	À, thật sao? ngươi biết điều này à?		
+S_Feature_Ask	0	Ngươi có biết [TNAME] là người như thế nào không?	Ta biết làm sao?	Biết rồi, ta biết tính cách của [TITS], [TIT] là người [TXT].	ta không muốn nói cho ngươi biết.		
+S_HateItem_Discuss	0	Ta nói với Ngươi, [TNAME] không thích [TXT].	Ta không quan tâm đến điều này.	Đúng dịp, ta cũng biết!	À, thật sao? ngươi biết điều này à?		
+S_HateItem_Ask	0	Ngươi có biết [TNAME] có những thứ gì không thích không?	Ta biết làm sao?	Biết rồi, [TIT] ghét nhất [TXT]. Thậm chí chỉ cần thấy cũng sẽ nổi giận.	ta không muốn nói cho ngươi biết.		
+S_Hobby_Discuss	0	Ta nói với Ngươi, [TNAME] có một [TXT]. Như vậy đó…	Ta không quan tâm đến điều này.	Đúng dịp, ta cũng biết!	À, thật sao? ngươi biết điều này à?		
+S_Hobby_Ask	0	Ngươi có biết khi ở cùng [TNAME] cần chú ý điều gì đặc biệt không?	Ta biết làm sao?	[TIT] có một [TXT], như vậy đó. Khi ở bên cạnh anh ấy nhất định phải chú ý điều này.	ta không muốn nói cho ngươi biết.		
+S_LikeItem_Discuss	0	Ta nói với Ngươi, [TNAME] đặc biệt thích [TXT].	Ta không quan tâm đến điều này.	Đúng dịp, ta cũng biết!	À, thật sao? ngươi biết điều này à?		
+S_LikeItem_Ask	0	Ngươi có biết [TNAME] có những thứ gì thích không?	Ta biết làm sao?	Biết rồi, [TIT] rất thích [TXT], thường xuyên vì [TXT] mà ăn ngủ không yên.	ta không muốn nói cho ngươi biết.		
+S_Secret_Discuss	0	Ta nói với Ngươi, [TNAME] biết [TXT].	Ta không quan tâm đến điều này.	Đúng dịp, ta cũng biết!	À, thật sao? ngươi biết điều này à?		
+S_Secret_Ask	0	Ngươi nói [TNAME] biết điều gì?	Ta biết làm sao?	Về [TXT], [TIT] chắc chắn biết một chút gì đó.	ta không muốn nói cho ngươi biết.		
+T_Carry_Discuss	0	Ngươi lại mang theo một [TXT], trong những lúc quan trọng thật sự rất cần thiết, Ngươi thật là người suy nghĩ xa!	Không phải đã nói rồi sao?	Đúng vậy, ngươi cũng thấy [TXT] rất quan trọng? Có vẻ như ngươi cũng là người có tư duy!	Hả? Ý ngươi là gì? (bảo vệ túi của mình)		
+T_Carry_Ask	0	Không biết Ngươi thường mang theo những gì khi đi lại?	Không phải đã nói rồi sao?	Đi trong giang hồ, [TXT] ta luôn mang theo bên mình, trong những lúc quan trọng thì rất có ích.	Hả? Ý ngươi là gì? (bảo vệ túi của mình)		
+T_Esoterica_Discuss	0	Nghe nói Ngươi thành thạo [TXT], thật là tuyệt vời, nếu Ta có trình độ như Ngươi thì thật hài lòng.	Không phải đã nói rồi sao?	Mối quan hệ của chúng ta, muốn học ta dạy ngươi nhé! Với năng lực của ngươi, nắm bắt điều này chắc chắn không có vấn đề gì.	Ô? ngươi muốn làm gì?		
+T_Esoterica_Ask	0	Không biết Ngươi giỏi những gì?	Không phải đã nói rồi sao?	ta khá giỏi [TXT].	ta sao phải nói cho ngươi biết?		
+T_Feature_Discuss	0	Thực ra Ta cũng là một người [TXT], đôi khi thật sự rất khổ sở vì điều đó, nhưng biết làm sao bây giờ?	Không phải đã nói rồi sao?	Ừ ừ, ngươi cũng vậy sao? Ồ, có vẻ như chúng ta là đồng loại…	ngươi có ý gì? Không lẽ muốn chế nhạo ta?		
+T_Feature_Ask	0	(Chủ đề này có lẽ không phù hợp để hỏi trực tiếp, vẫn nên thu thập thông tin từ người khác, rồi từ đó mở rộng chủ đề.)	……	……	……		
+T_HateItem_Discuss	0	Nói sao trên thế giới lại có những thứ [TXT] đáng ghét như vậy? Ngươi có thấy đúng không…	Không phải đã nói rồi sao?	A a! ngươi cũng ghét cái này sao! ta cũng có cảm giác như vậy, thật sự muốn phá hủy tất cả [TXT] trên thế giới.	Sao? Ý ngươi là coi thường ta à?		
+T_HateItem_Ask	0	Ngươi có những thứ gì không thích không?	Không phải đã nói rồi sao?	Có, ta rất ghét [TXT], thật sự muốn phá hủy tất cả [TXT] trên thế giới.	ta sao phải nói cho ngươi biết?		
+T_Hobby_Discuss	0	Thực ra Ta cũng có một [TXT], trải nghiệm của Ta rất giống Ngươi… ôi, thật khó nói.	Không phải đã nói rồi sao?	ngươi cũng đã có trải nghiệm như vậy? Quả thật, cảm giác như thế này người ngoài rất khó hiểu…	(Khuôn mặt thay đổi) ngươi nói cái này có ý nghĩa gì?		
+T_Hobby_Ask	0	(Chủ đề này có lẽ không phù hợp để hỏi trực tiếp, vẫn nên thu thập thông tin từ người khác, rồi từ đó mở rộng chủ đề.)	……	……	……		
+T_LikeItem_Discuss	0	Ta đặc biệt thích [TXT], có [TXT], Ta mới cảm nhận được mình đang sống thật sự!	Không phải đã nói rồi sao?	ngươi cũng có cảm giác như vậy? ta thật không dám tưởng tượng cuộc sống không có [TXT] sẽ như thế nào!	Ô? Tại sao đột nhiên nói về cái này?		
+T_LikeItem_Ask	0	Ngươi có những thứ gì thích không?	Không phải đã nói rồi sao?	Nói về điều này, ta đã không còn buồn ngủ nữa! ta rất thích [TXT], thật sự là món quà từ trời.	ta sao phải nói cho ngươi biết?		
+T_Secret_Discuss	0	Thực ra Ta khá tò mò về một số điều liên quan đến [TXT], thật sự rất thú vị!	Không phải đã nói rồi sao?	Về [TXT], ta cũng biết một chút gì đó, như vậy đó…	Ô? Tại sao đột nhiên nói về cái này?		
+T_Secret_Ask	0	(Trong trường hợp không biết gì, thật sự không biết bắt đầu từ đâu. Vẫn nên ít nhất thu thập được một số thông tin từ người khác, rồi mới hỏi một cách khéo léo…)	……	……	……		
+
+

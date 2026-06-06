@@ -1,0 +1,15 @@
+灵石灯柱	Cột đèn linh thạch
+灵石鼓	Trống linh thạch
+灵石狮子雕像	Linh Thạch Sư Tử Tượng
+灵石镇塔	Linh Thạch Trấn Tháp
+灵石栅栏	Hàng rào Linh thạch
+灵石长明兽神灯	Linh thạch Trường Minh Thú Thần Đăng
+灵石腾龙柱	Linh Thạch Đằng Long Cột
+金丝木小方桌	Bàn vuông kim ti mộc
+金丝木法座	Pháp tòa kim ti mộc
+角色出生点	Điểm sinh nhân vật
+逻辑点	Điểm logic
+演武场	Diễn Võ Trường
+一较高下	So tài
+
+

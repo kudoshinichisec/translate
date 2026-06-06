@@ -1,0 +1,34 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="BuildMode_ChangeTime">
+			<DisplayName>Thái Hư Ảo Cảnh</DisplayName>
+			<Desc>Cần điều chỉnh thời gian đến khi nào?</Desc>
+			<Selections.0.Display>Buổi sáng</Selections.0.Display>
+			<Selections.1.Display>Buổi trưa</Selections.1.Display>
+			<Selections.2.Display>Hoàng hôn</Selections.2.Display>
+			<Selections.3.Display>Nửa đêm</Selections.3.Display>
+			<Selections.4.Display>Thôi bỏ</Selections.4.Display>
+		</Text>
+		<Text Name="BuildMode_ChangeSeason">
+			<DisplayName>Thái Hư Ảo Cảnh</DisplayName>
+			<Desc>Cần điều chỉnh mùa đến khi nào?</Desc>
+			<Selections.0.Display>Xuân</Selections.0.Display>
+			<Selections.1.Display>Hạ</Selections.1.Display>
+			<Selections.2.Display>Thu</Selections.2.Display>
+			<Selections.3.Display>Đông</Selections.3.Display>
+			<Selections.4.Display>Thôi bỏ</Selections.4.Display>
+		</Text>
+		<Text Name="BuildMode_ChangeWeather">
+			<DisplayName>Thái Hư Ảo Cảnh</DisplayName>
+			<Desc>Cần thay đổi thời tiết thành gì?</Desc>
+			<Selections.0.Display>Mưa/ Tuyết nhẹ</Selections.0.Display>
+			<Selections.1.Display>Mưa/ Tuyết lớn</Selections.1.Display>
+			<Selections.2.Display>Bão cát</Selections.2.Display>
+			<Selections.3.Display>Đêm vĩnh cửu</Selections.3.Display>
+			<Selections.4.Display>Bão sấm sét</Selections.4.Display>
+			<Selections.5.Display>Xóa tất cả thời tiết</Selections.5.Display>
+			<Selections.6.Display>Thôi bỏ</Selections.6.Display>
+		</Text>
+	</List>
+</Texts>
+

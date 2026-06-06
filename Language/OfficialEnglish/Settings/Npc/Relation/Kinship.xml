@@ -1,0 +1,65 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Spouse">
+			<DisplayNameF>Phu nhân</DisplayNameF>
+			<DisplayNameM>Phu quân</DisplayNameM>
+		</Text>
+		<Text Name="Child">
+			<DisplayNameF>hài tử</DisplayNameF>
+			<DisplayNameM>hài tử</DisplayNameM>
+		</Text>
+		<Text Name="Brother">
+			<DisplayNameF>Tỷ tỷ, muội muội</DisplayNameF>
+			<DisplayNameM>Đại ca, Tiểu đệ</DisplayNameM>
+		</Text>
+		<Text Name="Parent">
+			<DisplayNameF>Mẫu thân</DisplayNameF>
+			<DisplayNameM>Phụ thân</DisplayNameM>
+		</Text>
+		<Text Name="GodChild">
+			<DisplayNameF>Nghĩa nữ</DisplayNameF>
+			<DisplayNameM>Nghĩa tử</DisplayNameM>
+		</Text>
+		<Text Name="GodParent">
+			<DisplayNameF>Nghĩa mẫu</DisplayNameF>
+			<DisplayNameM>Nghĩa phụ</DisplayNameM>
+		</Text>
+		<Text Name="BiaoBrother">
+			<DisplayNameF>Chị họ, em họ</DisplayNameF>
+			<DisplayNameM>Anh họ, em họ</DisplayNameM>
+		</Text>
+		<Text Name="Friend">
+			<DisplayNameF>Bằng Hữu</DisplayNameF>
+			<DisplayNameM>Bằng Hữu</DisplayNameM>
+		</Text>
+		<Text Name="Fancy">
+			<DisplayNameF>Người thầm thương</DisplayNameF>
+			<DisplayNameM>Người thầm thương</DisplayNameM>
+		</Text>
+		<Text Name="FancyFlag">
+			<DisplayNameF>Người ái mộ</DisplayNameF>
+			<DisplayNameM>Người ái mộ</DisplayNameM>
+		</Text>
+		<Text Name="Lover">
+			<DisplayNameF>Người yêu</DisplayNameF>
+			<DisplayNameM>Người yêu</DisplayNameM>
+		</Text>
+		<Text Name="RivalInlove">
+			<DisplayNameF>Tình địch</DisplayNameF>
+			<DisplayNameM>Tình địch</DisplayNameM>
+		</Text>
+		<Text Name="PersonalEnemy">
+			<DisplayNameF>Kẻ thù</DisplayNameF>
+			<DisplayNameM>Kẻ thù</DisplayNameM>
+		</Text>
+		<Text Name="Reincarnation">
+			<DisplayNameF>Kiếp trước</DisplayNameF>
+			<DisplayNameM>Kiếp trước</DisplayNameM>
+		</Text>
+		<Text Name="SYS_LOST">
+			<DisplayNameF>Chưa rõ (mô-đun bị mất)</DisplayNameF>
+			<DisplayNameM>Chưa rõ (mô-đun bị mất)</DisplayNameM>
+		</Text>
+	</List>
+</Texts>
+

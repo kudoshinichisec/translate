@@ -1,0 +1,41 @@
+妖韧皮薄衣衫	Áo mỏng da yêu quái dai
+妖韧皮休闲下裳	Quần da yêu nhẫn hưu nhàn
+灵木长枪	Thương dài Linh mộc
+牛皮修行衣衫	Áo tu hành da bò
+腾岳赤血衣	Đằng Nhạc Xích Huyết y
+鸡肉	Thịt gà
+麒麟落影幕	Kỳ lân Lạc Ảnh Mạc
+天柱石砖	Gạch Thiên trụ thạch
+天心庇世印	Thiên Tâm Tí Thế Ấn
+可以使心境提高的符咒。	Là phù chú có thể làm tâm cảnh tăng lên.
+洞神符	Động thần phù
+可以提高寒冷抵抗的符咒。	Là phù chú có thể tăng khả năng chống lạnh.
+避寒符	Tị Hàn Phù
+可以大幅提高寒冷抵抗的符咒。	Là phù chú có thể tăng mạnh khả năng chống lạnh.
+太阳符	Thái Dương Phù
+灵石万骨邪法坛	Linh thạch Vạn Cốt Tà Pháp Đàn
+寒晶幽冥灯	Đèn U Minh Tinh Hàn
+灵石幽冥灯	Linh Thạch U Minh Đăng
+角色出生点	Điểm sinh nhân vật
+逻辑点	Điểm logic
+灵石邪骨幽光	Ánh ma tà cốt Linh Thạch
+青	Thanh
+蛙	Ếch
+天苍 227年第75日,通过从闻药味获取的理智，对有点担忧的感知，对雷的认知，产生了一点灵智碎片。	Thiên Thương năm 227 ngày thứ 75, thông qua lý trí thu nhận từ Ngửi mùi thuốc, cảm giác về Có chút lo lắng, nhận thức về Sét, đã tạo ra một mảnh linh trí.
+天苍 238年第21日,通过从闻泥土的味道获取的理智，对思念的感知，对武器的认知，产生了一点灵智碎片。	Thiên Thương năm 238 ngày thứ 21, thông qua lý trí thu nhận từ việc ngửi mùi đất, cảm giác về nhớ nhung, nhận thức về vũ khí, đã sinh ra một mảnh linh trí.
+天苍 242年第111日,通过从看地面获取的理智，对躁动的感知，对春季的认知，产生了一点灵智碎片。	Thiên Thương năm 242 ngày thứ 111, thông qua lý trí thu nhận từ Nhìn xuống mặt đất, cảm giác về Nôn nóng, nhận thức về Mùa xuân, đã tạo ra một mảnh linh trí.
+天苍 244年第95日,通过从回忆获取的理智，对有点恐惧的感知，对食物的认知，产生了一点灵智碎片。	Thiên Thương năm 244 ngày thứ 95, thông qua lý trí thu nhận từ Hồi ức, cảm giác về Có chút sợ hãi, nhận thức về Thức ın, đã tạo ra một mảnh linh trí.
+九天冥河之主	Chúa tể Minh Hà Cửu Thiên
+玉虚飞星	Ngọc Hư Phi Tinh
+炎神殿五气真言	Chân Ngôn Ngũ Khí Viêm Thần Điện
+东海流光真言	Đông Hải Lưu Quang Chân Ngôn
+本源流光诀	Bản Nguyên Lưu Quang Quyết
+燃魂流光真言	Nhiên Hồn Lưu Quang Chân Ngôn
+辛金九极真言	Tân Kim Cửu Cực Chân Ngôn
+呷！呷呷！竟然有活人敢踏入我的后院？呷呷，是无知还是求死？	Kha! Kha kha! Dám có người sống đặt chân vào hậu viện của ta? Kha kha, là vô tri hay tự tìm cái chết?
+让我痛饮汝浑浊的血浆，呷呷呷呷！	Cho ta uống dòng máu đục của ngươi, khà khà khà khà!
+走向死亡	Đi về cái chết
+自我恢复停止	Tự phục hồi dừng lại
+这里是通向阴曹地府的一段路。在邪法坛的镇压之下，万物都无法再生。	Đây là một đoạn đường dẫn đến Âm Phủ. Dưới sự trấn áp của Tà Pháp Đàn, vạn vật không thể tái sinh.
+
+

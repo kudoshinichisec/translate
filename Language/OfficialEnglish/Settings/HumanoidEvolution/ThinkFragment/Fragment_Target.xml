@@ -1,0 +1,175 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Star">
+			<DisplayName>Ngôi sao</DisplayName>
+			<SingleFormat.0>Hồi tưởng lại đêm đen tối, {0} đặc biệt sáng rực</SingleFormat.0>
+			<SingleFormat.1>Hồi tưởng lại trong hẻm núi sâu thẳm, luôn có thể nhìn thấy {0}</SingleFormat.1>
+		</Text>
+		<Text Name="Cloud">
+			<DisplayName>Bảo vật</DisplayName>
+			<SingleFormat.0>Nhớ lại một số {0} rất dễ vỡ</SingleFormat.0>
+			<SingleFormat.1>Nhớ lại một số {0} có thể phát sáng</SingleFormat.1>
+		</Text>
+		<Text Name="Sun">
+			<DisplayName>Mặt trời</DisplayName>
+			<SingleFormat.0>Hồi tưởng lại những ngày bị {0} chiếu sáng gay gắt</SingleFormat.0>
+			<SingleFormat.1>Từng muốn nhìn thẳng vào {0}, nhưng quá chói mắt</SingleFormat.1>
+		</Text>
+		<Text Name="Moon">
+			<DisplayName>Mặt trăng</DisplayName>
+			<SingleFormat.0>Hồi tưởng lại những đêm mà {0} đặc biệt sáng</SingleFormat.0>
+			<SingleFormat.1>Nhớ lại đêm một mình ngắm {0}</SingleFormat.1>
+		</Text>
+		<Text Name="Meteriod">
+			<DisplayName>Lưu tinh</DisplayName>
+			<SingleFormat.0>Nhớ lại bản thân chưa từng thấy nhiều {0}</SingleFormat.0>
+		</Text>
+		<Text Name="Jade">
+			<DisplayName>Đá quý</DisplayName>
+			<SingleFormat.0>Nhớ lại bản thân chưa từng thấy nhiều {0}</SingleFormat.0>
+		</Text>
+		<Text Name="Sculpture">
+			<DisplayName>Tượng điêu khắc</DisplayName>
+			<SingleFormat.0>Nhớ lại có những {0} rất giống bản thân</SingleFormat.0>
+		</Text>
+		<Text Name="Spring">
+			<DisplayName>Mùa xuân</DisplayName>
+			<SingleFormat.0>Hồi tưởng lại hương hoa của {0}</SingleFormat.0>
+			<SingleFormat.1>Hồi tưởng lại mưa phùn mùa {0}</SingleFormat.1>
+		</Text>
+		<Text Name="Summer">
+			<DisplayName>Mùa hè</DisplayName>
+			<SingleFormat.0>Hồi tưởng lại cái nóng của {0}</SingleFormat.0>
+			<SingleFormat.1>Hồi tưởng lại tiếng côn trùng kêu trong {0}</SingleFormat.1>
+		</Text>
+		<Text Name="Autumn">
+			<DisplayName>Mùa thu</DisplayName>
+			<SingleFormat.0>Hồi tưởng lại lá rụng trong {0}</SingleFormat.0>
+			<SingleFormat.1>Hồi tưởng lại lá phong đỏ của {0}</SingleFormat.1>
+		</Text>
+		<Text Name="Winter">
+			<DisplayName>Mùa đông</DisplayName>
+			<SingleFormat.0>Hồi tưởng lại cái lạnh của {0}</SingleFormat.0>
+			<SingleFormat.1>Hồi tưởng lại mặt băng của {0}</SingleFormat.1>
+		</Text>
+		<Text Name="Earth">
+			<DisplayName>Đất đai</DisplayName>
+			<SingleFormat.0>Hồi tưởng lại hoa cỏ trên {0}</SingleFormat.0>
+			<SingleFormat.1>Hồi tưởng lại đôi khi {0} nứt nẻ</SingleFormat.1>
+		</Text>
+		<Text Name="Rain">
+			<DisplayName>Mưa</DisplayName>
+			<SingleFormat.0>Hồi tưởng lại lần trú ẩn trong hang sau cơn {0}</SingleFormat.0>
+			<SingleFormat.1>Nhớ lại khi {0} rơi, lá cây xanh hơn</SingleFormat.1>
+		</Text>
+		<Text Name="Snow">
+			<DisplayName>Tuyết</DisplayName>
+			<SingleFormat.0>Nhớ lại khi {0} rơi, mọi thứ thật yên tĩnh</SingleFormat.0>
+			<SingleFormat.1>Nhớ lại ở nơi có cây thông thường có {0}</SingleFormat.1>
+		</Text>
+		<Text Name="Lake">
+			<DisplayName>Hồ</DisplayName>
+			<SingleFormat.0>Nhớ lại những ngày uống nước bên {0} lớn</SingleFormat.0>
+			<SingleFormat.1>Nhớ lại những con cá trong {0} lớn</SingleFormat.1>
+		</Text>
+		<Text Name="Wind">
+			<DisplayName>Gió</DisplayName>
+			<SingleFormat.0>Nhớ lại {0} thổi qua người thật dễ chịu</SingleFormat.0>
+			<SingleFormat.1>Hồi tưởng lại khi {0} mạnh lên có thể thổi bay bản thân</SingleFormat.1>
+		</Text>
+		<Text Name="Thunder">
+			<DisplayName>Sấm sét</DisplayName>
+			<SingleFormat.0>Nhớ lại khi {0} đánh, trời luôn đầy mây đen</SingleFormat.0>
+			<SingleFormat.1>Nhớ lại đôi khi dưới {0} lại có người</SingleFormat.1>
+		</Text>
+		<Text Name="Tree">
+			<DisplayName>Cây</DisplayName>
+			<SingleFormat.0>Nhớ lại trên {0} luôn có vài con chim</SingleFormat.0>
+			<SingleFormat.1>Nhớ lại trên {0} có thể có trái cây ăn được</SingleFormat.1>
+		</Text>
+		<Text Name="Flower">
+			<DisplayName>Hoa</DisplayName>
+			<SingleFormat.0>Nhớ lại các màu sắc khác nhau của {0}</SingleFormat.0>
+			<SingleFormat.1>Nhớ lại một số {0} có mùi hương đặc biệt</SingleFormat.1>
+		</Text>
+		<Text Name="Human">
+			<DisplayName>Con người</DisplayName>
+			<SingleFormat.0>Nhớ lại {0} có thể làm nhiều việc khác nhau</SingleFormat.0>
+			<SingleFormat.1>Hồi tưởng lại một số {0} đến cho mình ăn</SingleFormat.1>
+		</Text>
+		<Text Name="Self">
+			<DisplayName>Bản thân</DisplayName>
+			<SingleFormat.0>Nhớ lại có thể thấy bóng {0} trong nước</SingleFormat.0>
+		</Text>
+		<Text Name="Food">
+			<DisplayName>Thức ăn</DisplayName>
+			<SingleFormat.0>Nhớ lại món {0} mình thích ăn nhất</SingleFormat.0>
+			<SingleFormat.1>Nhớ lại con người có thể xem mình là {0}</SingleFormat.1>
+		</Text>
+		<Text Name="Barrier">
+			<DisplayName>Hàng rào</DisplayName>
+			<SingleFormat.0>Nhớ lại {0} có thể ngăn mình lại</SingleFormat.0>
+		</Text>
+		<Text Name="Weed">
+			<DisplayName>Cỏ dại</DisplayName>
+			<SingleFormat.0>Hồi tưởng lại mình từng ăn nhiều loại {0}</SingleFormat.0>
+		</Text>
+		<Text Name="Wall">
+			<DisplayName>Bức tường</DisplayName>
+			<SingleFormat.0>Nhớ lại {0} rất cứng</SingleFormat.0>
+		</Text>
+		<Text Name="Coat">
+			<DisplayName>Áo</DisplayName>
+			<SingleFormat.0>Nhớ lại một số {0} được làm từ da động vật</SingleFormat.0>
+			<SingleFormat.1>Nhớ lại một số {0} rất xấu xí</SingleFormat.1>
+		</Text>
+		<Text Name="Pants">
+			<DisplayName>Quần</DisplayName>
+			<SingleFormat.0>Nhớ lại một số {0} được làm từ da động vật</SingleFormat.0>
+			<SingleFormat.1>Nhớ lại một số {0} rất xấu xí</SingleFormat.1>
+		</Text>
+		<Text Name="Fellows">
+			<DisplayName>Đồng đội</DisplayName>
+			<SingleFormat.0>Hồi tưởng lại {0} của mình, hầu hết họ đã chết</SingleFormat.0>
+			<SingleFormat.1>Nhớ lại thời gian vui chơi với {0}</SingleFormat.1>
+		</Text>
+		<Text Name="Mines">
+			<DisplayName>Khoáng thạch</DisplayName>
+			<SingleFormat.0>Hồi tưởng lại một số {0} phát sáng</SingleFormat.0>
+			<SingleFormat.1>Nhớ lại một số {0} có mùi vị kỳ quặc</SingleFormat.1>
+		</Text>
+		<Text Name="Weapon">
+			<DisplayName>Vũ khí</DisplayName>
+			<SingleFormat.0>Hồi tưởng lại {0} đã giết đồng đội mình</SingleFormat.0>
+		</Text>
+		<Text Name="Nature">
+			<DisplayName>Hơi thở của tạo hóa</DisplayName>
+			<SingleFormat.0>Nhớ lại sự liên kết {0} giữa vạn vật trong cõi u minh</SingleFormat.0>
+		</Text>
+		<Text Name="Fog">
+			<DisplayName>Sương mù</DisplayName>
+			<SingleFormat.0>Nhớ lại trong {0} không nhìn thấy gì rõ ràng</SingleFormat.0>
+		</Text>
+		<Text Name="House">
+			<DisplayName>Môn</DisplayName>
+			<SingleFormat.0>Hồi tưởng lại trong {0} thường có người</SingleFormat.0>
+			<SingleFormat.1>Nhớ lại trong {0} không có gió</SingleFormat.1>
+		</Text>
+		<Text Name="Farm">
+			<DisplayName>Ruộng</DisplayName>
+			<SingleFormat.0>Nhớ lại những thứ trong {0} không ngon</SingleFormat.0>
+			<SingleFormat.1>Muốn đi vệ sinh trong {0}</SingleFormat.1>
+		</Text>
+		<Text Name="Sharp">
+			<DisplayName>Kim</DisplayName>
+			<SingleFormat.0>Nhớ lại {0} rất sắc nhọn</SingleFormat.0>
+			<SingleFormat.1>Nhớ lại bị {0} đâm rất đau</SingleFormat.1>
+		</Text>
+		<Text Name="Ring">
+			<DisplayName>Vòng</DisplayName>
+			<SingleFormat.0>Nhớ lại mình có thể bị {0} trói buộc</SingleFormat.0>
+			<SingleFormat.1>Nhớ lại {0} có thể được đeo trên cổ</SingleFormat.1>
+		</Text>
+	</List>
+</Texts>
+

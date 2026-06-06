@@ -1,0 +1,61 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BPQuenchingMethods_test1">
+			<DisplayName>Trắc Thí Lục</DisplayName>
+			<Desc>Phương pháp ta luyện cơ bản nhất của người luyện thể. Mỗi lần vận hành phương pháp này sẽ thực hiện 1 lần ta luyện tiêu chuẩn cho vị trí mục tiêu.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_test2">
+			<DisplayName>Trắc Thí Tử</DisplayName>
+			<Desc>Phương pháp ta luyện cơ bản nhất của người luyện thể. Mỗi lần vận hành phương pháp này sẽ thực hiện 1 lần ta luyện tiêu chuẩn cho vị trí mục tiêu.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_test3">
+			<DisplayName>Trắc Thí Chanh</DisplayName>
+			<Desc>Phương pháp ta luyện cơ bản nhất của người luyện thể. Mỗi lần vận hành phương pháp này sẽ thực hiện 1 lần ta luyện tiêu chuẩn cho vị trí mục tiêu.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_1">
+			<DisplayName>Vô cực luyện thể</DisplayName>
+			<Desc>Phương pháp ta luyện cơ bản nhất của người luyện thể. Mỗi lần vận hành phương pháp này sẽ thực hiện 1 lần ta luyện tiêu chuẩn cho vị trí mục tiêu.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_1_1">
+			<DisplayName>Bát cực luyện thể</DisplayName>
+			<Desc>Phương pháp ta luyện cơ bản nhất của người luyện thể, tương đương với việc liên tục sử dụng Vô cực luyện thể để ta luyện 8 lần. Mỗi lần vận hành phương pháp này sẽ thực hiện 8 lần ta luyện tiêu chuẩn cho vị trí mục tiêu, và lần cuối cùng chắc chắn sẽ xuất hiện hướng tiến hóa hiếm có.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_2">
+			<DisplayName>Phương pháp luyện thể Mãn cực</DisplayName>
+			<Desc>Phương pháp luyện thể của tộc yêu hoang, tiêu tốn nhiều tinh hoa hơn để kích thích thân thể, nhằm thúc đẩy thân thể phát sinh nhiều hướng tiến hóa hơn. Mỗi lần vận hành phương pháp này sẽ thực hiện 1 lần ta luyện để tạo ra nhiều hướng tiến hóa hơn cho vị trí mục tiêu.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_3">
+			<DisplayName>Phương pháp luyện thể Lục hợp</DisplayName>
+			<Desc>Vận hành tinh hoa theo thế Lục hợp, mặc dù làm yếu đi đặc tính của tinh hoa, nhưng bù lại có hiệu suất cao hơn. Mỗi lần vận hành phương pháp này sẽ thực hiện 6 lần ta luyện cơ bản cho vị trí mục tiêu.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_4">
+			<DisplayName>Phương pháp luyện thể Ngũ Đế Huyền</DisplayName>
+			<Desc>Phương pháp luyện thể do Ngũ Đế cổ đại sáng tạo, tiêu tốn lượng lớn tinh hoa để phát huy hiệu quả của tinh hoa, nhằm kích thích cơ thể tiến hóa theo hướng hiếm có hơn. Mỗi lần vận hành phương pháp này sẽ thực hiện 1 lần ta luyện dễ dàng tạo ra tiến hóa cấp cao hơn cho vị trí mục tiêu.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_5">
+			<DisplayName>Phương pháp luyện thể Chín âm</DisplayName>
+			<Desc>Sử dụng phương pháp Đại diễn để ta luyện cơ thể, mỗi lần vận hành phương pháp này sẽ thực hiện 9 lần ta luyện tiêu chuẩn cho vị trí mục tiêu, và lần cuối cùng chắc chắn sẽ xuất hiện hướng tiến hóa hiếm thấy.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_6">
+			<DisplayName>Phương pháp luyện thể Tử vi</DisplayName>
+			<Desc>Bắt chước huyền diệu của Tử Vi Đẩu Số để ta luyện cơ thể, mỗi lần vận hành phương pháp này sẽ thực hiện 14 lần ta luyện tiêu chuẩn cho vị trí mục tiêu, và lần cuối cùng chắc chắn sẽ xuất hiện hướng tiến hóa vượt trội.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_Sp1">
+			<DisplayName>Phương pháp luyện thể Chín liệt</DisplayName>
+			<Desc>Sử dụng thần huyết của Cửu Liệt để kích hoạt tinh hoa và luyện thể. Mặc dù khả năng tiến hóa mỗi lần luyện thể rất thấp, nhưng tỷ lệ đạt được kết quả tiến hóa cao cấp hơn lại lớn hơn. Nếu dùng để luyện cột sống, có xác suất thấp khiến cột sống biến đổi, từ đó phát triển tiềm năng tiến hóa của toàn bộ hệ xương.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_Sp2">
+			<DisplayName>Thái Hư Yêu Thức</DisplayName>
+			<Desc>Sử dụng Thái Hư Yêu Thức để kích hoạt tinh hoa và luyện thể. Mặc dù khả năng tiến hóa mỗi lần luyện thể rất thấp, nhưng tỷ lệ đạt được kết quả tiến hóa cao cấp hơn lại lớn hơn. Nếu dùng để luyện não bộ, có xác suất thấp khiến não bộ biến đổi, từ đó phát triển tiềm năng tiến hóa của toàn bộ cơ quan trong cơ thể.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_Sp3">
+			<DisplayName>Trừ Dị Luyện Thể Pháp</DisplayName>
+			<Desc>Sử dụng trái tim siêu việt để kích hoạt lực trừ dị, thúc đẩy tinh hoa luyện thể. Mặc dù khả năng tiến hóa mỗi lần luyện thể rất thấp, nhưng tỷ lệ đạt được kết quả tiến hóa cao cấp hơn lại lớn hơn. Nếu dùng để luyện tim, có xác suất thấp khiến tim biến đổi, từ đó phát triển tiềm năng tiến hóa của toàn bộ cơ thể.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_ReQuenching">
+			<DisplayName>Hủy Luyện Chi Pháp</DisplayName>
+			<Desc>Nhờ vào đặc tính xung khắc giữa sản phẩm linh khí và cơ thể người luyện thể, sử dụng tinh hoa tiên đạo để phân tán công lực luyện thể tại một bộ phận, đưa nó trở về trạng thái phàm thai.</Desc>
+		</Text>
+	</List>
+</Texts>
+

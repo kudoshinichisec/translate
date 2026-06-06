@@ -1,0 +1,57 @@
+Name	DisplayName	Tips
+
+DisplayName	Tên	Tên của dự án này.
+Desc	Mô tả	Mô tả chi tiết về dự án này.
+Element	Ngũ hành	Thuộc tính ngũ hành của vật phẩm này.
+Rate	Cấp	Cấp bậc của vật phẩm này.
+Zhuji	Giá trị Trúc cơ	Giá trị xây dựng cơ bản tăng lên khi đệ tử ngoại môn sử dụng vật phẩm này. (Điền vào khoảng: 0~30000)
+Fesistance	Kháng thuốc	Tỷ lệ suy giảm hiệu quả khi sử dụng nhiều lần vật phẩm này. Kháng thuốc bằng 1 có nghĩa là lần sử dụng tiếp theo sẽ hoàn toàn không có hiệu quả. (Điền vào khoảng: 0~1; độ chính xác hỗ trợ: 0.01)
+Ling	Giá trị linh khí	Giá trị linh khí tăng lên khi sử dụng vật phẩm này. (Điền vào khoảng: 0~999999999)
+Nutrition	Giá trị dinh dưỡng	Giá trị thực phẩm tăng lên khi sử dụng vật phẩm này. (Điền vào khoảng: 0~100)
+Water	Giá trị nước uống	Giá trị nước uống tăng lên khi sử dụng vật phẩm này. (Điền vào khoảng: 0~100)
+PracticeNutrition	Giá trị tinh nguyên	Giá trị tinh nguyên tăng lên khi sử dụng vật phẩm này. (Điền vào khoảng: 0~9999)
+DiscipleOnly	Có phải chỉ hiệu quả trong nội môn	Vật phẩm này có chỉ có hiệu quả với đệ tử nội môn hay không.
+DanModifier	Hiệu quả đan dược	Hiệu ứng đặc biệt kèm theo khi sử dụng vật phẩm này.
+Color	Thiên hướng	Màu sắc lệch của hình ảnh vật phẩm này.
+EquipLable	Loại trang bị	Loại trang bị này.
+EquipModel	Mô hình	Mô hình của trang bị này.
+Sex	Giới tính	Yêu cầu giới tính để mặc trang bị này.
+TemperatureMaxAdd	Giá trị điều chỉnh nhiệt độ tối đa phù hợp	Giá trị điều chỉnh cơ bản cho nhiệt độ tối đa phù hợp với nhân vật của trang bị này, giá trị thực sẽ liên quan đến chất lượng trang bị và nguyên liệu sử dụng. (Điền vào khoảng: -999~999)
+TemperatureMinAdd	Giá trị điều chỉnh nhiệt độ tối thiểu phù hợp	Giá trị điều chỉnh cơ bản cho nhiệt độ tối thiểu phù hợp với nhân vật của trang bị này, giá trị thực sẽ liên quan đến chất lượng trang bị và nguyên liệu sử dụng. (Điền vào khoảng: -999~999)
+WeaponKind	Vũ khí	Loại vũ khí này.
+Damage	Thiệt hại cơ bản	Giá trị sát thương cơ bản của vũ khí này, giá trị thực sẽ liên quan đến chất lượng trang bị và nguyên liệu sử dụng. (Điền vào khoảng: 1~999)
+AttackSpeed	Tốc độ tấn công	Số lần tấn công mỗi giây của vũ khí này. (Điền vào khoảng: 0.3~3)
+AttackRange	Phạm vi tấn công	Khoảng cách xa nhất để vũ khí này phát động tấn công. Đơn vị: ô. (Điền vào khoảng: 1.5~20)
+Difficulty	Độ khó học tập	Độ khó của bí kíp này, độ khó càng lớn, càng cần nhiều hiểu biết để học, và càng tăng nhiều đạo hành sau khi học. (Điền vào khoảng: 0~999)
+EsotericaType	Loại bí tịch	Loại bí kíp này.
+MaxStack	Số lớp chồng chất	
+Duration	Thời gian duy trì	Thời gian hiệu lực của hiệu ứng đặc biệt này. Đơn vị: giây. (Điền vào khoảng: -1 hoặc 1~999999, -1 có nghĩa là hiệu ứng này có hiệu lực vĩnh viễn)
+Skill	Tăng cường kỹ năng	Kỹ năng phụ trợ mà hiệu ứng đặc biệt này mang lại.
+Property	Tăng cường thuộc tính	Thuộc tính phụ trợ mà hiệu ứng đặc biệt này mang lại.
+GLevel	Cảnh giới	Cảnh giới cần thiết để học bí kíp này.
+DanLevel	Cấp độ luyện đan	Cấp độ kỹ năng luyện đan cần thiết để chế tạo viên đan này. (Điền vào khoảng: 1~20)
+DanCount	Số lượng luyện đan	Số lượng lý thuyết sản xuất viên đan này mỗi lần chế tạo, giá trị thực sẽ liên quan đến trình độ của người luyện đan và môi trường chế tạo; trong quá trình luyện đan, giá trị thực tối thiểu là 1. (Điền vào khoảng: 0.1~999)
+DanRate	Độ khó luyện đan	Độ khó của việc chế tạo viên đan này. Độ khó càng cao, càng khó để thành công.
+ELearn	Học bí tịch	Có thể học được phương pháp chế tạo viên đan này thông qua các bí kíp dưới đây.
+WorldDrop	Rơi ra thế giới	Trong quá trình rèn luyện, sau khi kích hoạt phần thưởng ngẫu nhiên nhận được viên đan, có khả năng nhận được viên đan này.
+Businessman	Bán bởi thương nhân	Có thể mua viên đan này trong hàng hóa của thương nhân hành.
+InitialUnlock	Mở khóa ban đầu	Viên đan này mặc định có thể được tất cả mọi người luyện chế.
+DropCount	Số lượng rơi ra	Số lượng viên đan này nhận được trong quá trình rèn luyện.
+DropRate	Xác suất rơi ra	Xác suất nhận được viên đan này sau khi kích hoạt phần thưởng ngẫu nhiên nhận được viên đan trong quá trình rèn luyện.
+SellPrice	Giá trị vật phẩm	Giá mua vật phẩm này từ tay thương nhân hành.
+SellCount	Số lượng bán	Số lượng viên đan này mà thương nhân hành sẽ mang theo mỗi lần.
+StuffSelect	Nguyên liệu phụ	Chọn nguyên liệu cần thiết để chế tạo vật phẩm này.
+EsoDropRate	Xác suất rơi ra	Xác suất nhận được bí kíp này sau khi kích hoạt phần thưởng ngẫu nhiên nhận được bí kíp trong quá trình rèn luyện.
+StartUnlock	Mở khóa lúc bắt đầu	Tự động nhận được bí kíp khi bắt đầu.
+EsoWorldDrop	Rơi ra thế giới	Trong quá trình rèn luyện, sau khi kích hoạt phần thưởng ngẫu nhiên nhận được bí kíp, có khả năng nhận được bí kíp này.
+EquipModifier	Hiệu ứng trang bị	Hiệu ứng đặc biệt kèm theo khi mặc trang bị này.
+EsoModifier	Hiệu ứng bí tịch	Hiệu ứng đặc biệt kèm theo khi học bí kíp này.
+MaterialSelect	Nguyên liệu chính	Loại nguyên liệu chính cần thiết để chế tạo vật phẩm này.
+BuildSelect	Tòa nhà sản xuất	Cài đặt công trình sử dụng để chế tạo vật phẩm này.
+MainCostItemCount	Số nguyên liệu chính	Số lượng cơ bản của nguyên liệu chính cần thiết để chế tạo vật phẩm này. (Điền vào khoảng: 1~999)
+DanSelect	Công thức đan	Công thức viên đan có thể học được khi học bí kíp này.
+ModSelect	Mô hình	Mô hình của vũ khí này.
+Ignorelimit	Có phải bỏ qua giới hạn không	Tăng cường cấp độ kỹ năng này có vượt quá giới hạn cấp độ 20 hay không.
+PpTypeSelect	Loại	Loại hình tăng cường thuộc tính này.
+
+

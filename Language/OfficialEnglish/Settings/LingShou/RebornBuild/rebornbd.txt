@@ -1,0 +1,7 @@
+race	bdtag	desc
+LsDog	DogStone	Một chú chó con bị bỏ rơi do phát triển chậm, nhưng điều này là vì nó là linh vật được sinh ra từ linh khí của đất trời, là một thú cưng hiếm có. Nó có khả năng bảo vệ cơ thể và các pháp thuật phòng thủ.
+LsFox	FoxStone	Ban đầu là thú cưng của môn phái Thái Nhất, khi ra ngoài giao thư, nó trở về nhà thì phát hiện môn phái Thái Nhất đã bị diệt, vì vậy nó lạc lõng nơi hoang dã. Nó có tư chất nội đan rất cao, giỏi trong việc tấn công bằng nội đan.
+LsDragon	DragonStone	Con cái của rồng, bẩm sinh đã là thân thể thú cưng, có ưu thế về tất cả các thuộc tính, giỏi trong việc tấn công pháp thuật.
+LsPhoenix	PhoenixStone	Con cái của phượng hoàng, bẩm sinh đã là thân thể thú cưng, giỏi trong tấn công, các thuộc tính pháp thuật và nội đan đều nổi bật.
+
+

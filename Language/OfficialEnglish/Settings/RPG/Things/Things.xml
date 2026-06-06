@@ -1,0 +1,73 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Camp">
+			<DisplayName>Thuộc phe</DisplayName>
+			<ValuesDesc.0>Thân thiện</ValuesDesc.0>
+			<ValuesDesc.1>Trung lập</ValuesDesc.1>
+			<ValuesDesc.2>Thù địch</ValuesDesc.2>
+		</Text>
+		<Text Name="MoveAI">
+			<DisplayName>Chế độ di chuyển</DisplayName>
+			<ValuesDesc.0>Đứng yên</ValuesDesc.0>
+			<ValuesDesc.1>Tự do</ValuesDesc.1>
+			<ValuesDesc.2>Đi lang thang gần đó</ValuesDesc.2>
+			<ValuesDesc.3>Lộ trình cố định</ValuesDesc.3>
+		</Text>
+		<Text Name="MoveRoute">
+			<DisplayName>Khóa lộ trình cố định</DisplayName>
+		</Text>
+		<Text Name="GuradRange">
+			<DisplayName>Phạm vi cảnh giác</DisplayName>
+		</Text>
+		<Text Name="IsStepRuning">
+			<DisplayName>Sự kiện gọi lại khung</DisplayName>
+			<ValuesDesc.0>Không</ValuesDesc.0>
+			<ValuesDesc.1>Có</ValuesDesc.1>
+		</Text>
+		<Text Name="IsFrameStep">
+			<DisplayName>Gọi lại mỗi khung</DisplayName>
+			<ValuesDesc.0>Không</ValuesDesc.0>
+			<ValuesDesc.1>Có</ValuesDesc.1>
+		</Text>
+		<Text Name="IsRenderRuning">
+			<DisplayName>Sự kiện gọi lại hiển thị</DisplayName>
+			<ValuesDesc.0>Không</ValuesDesc.0>
+			<ValuesDesc.1>Có</ValuesDesc.1>
+		</Text>
+		<Text Name="IsGod">
+			<DisplayName>Có bất tử không</DisplayName>
+			<ValuesDesc.0>Không</ValuesDesc.0>
+			<ValuesDesc.1>Có</ValuesDesc.1>
+		</Text>
+		<Text Name="ChouHenLianDong">
+			<DisplayName>Liên kết thù hận cùng nhóm</DisplayName>
+			<ValuesDesc.0>Không</ValuesDesc.0>
+			<ValuesDesc.1>Có</ValuesDesc.1>
+		</Text>
+		<Text Name="AutoNext">
+			<DisplayName>Đánh bại tất cả kẻ địch</DisplayName>
+			<ValuesDesc.0>Không</ValuesDesc.0>
+			<ValuesDesc.1>Có</ValuesDesc.1>
+		</Text>
+		<Text Name="PickAndRemove">
+			<DisplayName>Tài nguyên không thể tái tạo</DisplayName>
+			<ValuesDesc.0>Không</ValuesDesc.0>
+			<ValuesDesc.1>Có</ValuesDesc.1>
+		</Text>
+		<Text Name="LightFog">
+			<DisplayName>Thắp sáng màn sương</DisplayName>
+			<ValuesDesc.0>Không</ValuesDesc.0>
+			<ValuesDesc.1>Có</ValuesDesc.1>
+		</Text>
+		<Text Name="LightFogDis">
+			<DisplayName>Phạm vi thắp sáng màn sương</DisplayName>
+		</Text>
+		<Text Name="Param1">
+			<DisplayName>Tham số 1 (RpgParam1)</DisplayName>
+		</Text>
+		<Text Name="Param2">
+			<DisplayName>Tham số 2 (RpgParam2)</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

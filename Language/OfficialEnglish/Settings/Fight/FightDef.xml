@@ -1,0 +1,97 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FaBao">
+			<Packs.0.DescTags>Pháp bảo trọng kích</Packs.0.DescTags>
+			<Packs.1.DescTags>Pháp bảo trọng kích</Packs.1.DescTags>
+			<Packs.2.DescTags>Pháp bảo trọng kích</Packs.2.DescTags>
+			<Packs.3.DescTags>Pháp bảo trọng kích</Packs.3.DescTags>
+		</Text>
+		<Text Name="GongBroken">
+			<Packs.0.DescTags>Pháp bảo trọng kích</Packs.0.DescTags>
+			<Packs.1.DescTags>Pháp bảo trọng kích</Packs.1.DescTags>
+			<Packs.2.DescTags>Pháp bảo trọng kích</Packs.2.DescTags>
+			<Packs.3.DescTags>Pháp bảo trọng kích</Packs.3.DescTags>
+		</Text>
+		<Text Name="Skill">
+			<Packs.0.DescTags>Pháp thuật oanh kích</Packs.0.DescTags>
+			<Packs.1.DescTags>Pháp thuật oanh kích</Packs.1.DescTags>
+			<Packs.2.DescTags>Pháp thuật oanh kích</Packs.2.DescTags>
+			<Packs.3.DescTags>Pháp thuật oanh kích</Packs.3.DescTags>
+		</Text>
+		<Text Name="Jin">
+			<Packs.1.DescTags>Sát thương thuộc tính Kim</Packs.1.DescTags>
+			<Packs.2.DescTags>Sát thương thuộc tính Kim</Packs.2.DescTags>
+			<Packs.3.DescTags>Sát thương thuộc tính Kim</Packs.3.DescTags>
+			<Packs.4.DescTags>Sát thương thuộc tính Kim</Packs.4.DescTags>
+			<Packs.5.DescTags>Sát thương thuộc tính Kim</Packs.5.DescTags>
+		</Text>
+		<Text Name="Mu">
+			<Packs.1.DescTags>Sát thương thuộc tính Mộc</Packs.1.DescTags>
+			<Packs.2.DescTags>Sát thương thuộc tính Mộc</Packs.2.DescTags>
+			<Packs.3.DescTags>Sát thương thuộc tính Mộc</Packs.3.DescTags>
+			<Packs.4.DescTags>Sát thương thuộc tính Mộc</Packs.4.DescTags>
+			<Packs.5.DescTags>Sát thương thuộc tính Mộc</Packs.5.DescTags>
+			<Packs.6.DescTags>Sát thương thuộc tính Mộc</Packs.6.DescTags>
+		</Text>
+		<Text Name="Shui">
+			<Packs.1.DescTags>Sát thương thuộc tính Thủy</Packs.1.DescTags>
+			<Packs.2.DescTags>Sát thương thuộc tính Thủy</Packs.2.DescTags>
+			<Packs.3.DescTags>Sát thương thuộc tính Thủy</Packs.3.DescTags>
+			<Packs.4.DescTags>Sát thương thuộc tính Thủy</Packs.4.DescTags>
+			<Packs.5.DescTags>Sát thương thuộc tính Thủy</Packs.5.DescTags>
+		</Text>
+		<Text Name="Huo">
+			<Packs.1.DescTags>Sát thương thuộc tính Hỏa</Packs.1.DescTags>
+			<Packs.2.DescTags>Sát thương thuộc tính Hỏa</Packs.2.DescTags>
+			<Packs.3.DescTags>Sát thương thuộc tính Hỏa</Packs.3.DescTags>
+			<Packs.4.DescTags>Sát thương thuộc tính Hỏa</Packs.4.DescTags>
+			<Packs.5.DescTags>Sát thương thuộc tính Hỏa</Packs.5.DescTags>
+		</Text>
+		<Text Name="Tu">
+			<Packs.1.DescTags>Sát thương thuộc tính Thổ</Packs.1.DescTags>
+			<Packs.2.DescTags>Sát thương thuộc tính Thổ</Packs.2.DescTags>
+			<Packs.3.DescTags>Sát thương thuộc tính Thổ</Packs.3.DescTags>
+			<Packs.4.DescTags>Sát thương thuộc tính Thổ</Packs.4.DescTags>
+			<Packs.5.DescTags>Sát thương thuộc tính Thổ</Packs.5.DescTags>
+			<Packs.6.DescTags>Sát thương thuộc tính Thổ</Packs.6.DescTags>
+		</Text>
+		<Text Name="BodyAttackNormal">
+			<Packs.0.DescTags>Trọng kích</Packs.0.DescTags>
+			<Packs.1.DescTags>Trọng kích</Packs.1.DescTags>
+			<Packs.2.DescTags>Trọng kích</Packs.2.DescTags>
+			<Packs.3.DescTags>Trọng kích</Packs.3.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Normal">
+			<Packs.0.DescTags>Cào xước</Packs.0.DescTags>
+			<Packs.1.DescTags>Cào xước</Packs.1.DescTags>
+			<Packs.2.DescTags>Cào xước</Packs.2.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Skill">
+			<Packs.0.DescTags>Pháp thuật trọng kích</Packs.0.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Fabao">
+			<Packs.0.DescTags>Pháp bảo trọng kích</Packs.0.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Jin">
+			<Packs.0.DescTags>Sát thương thuộc tính Kim</Packs.0.DescTags>
+			<Packs.1.DescTags>Sát thương thuộc tính Kim</Packs.1.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Mu">
+			<Packs.0.DescTags>Sát thương thuộc tính Mộc</Packs.0.DescTags>
+			<Packs.1.DescTags>Sát thương thuộc tính Mộc</Packs.1.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Shui">
+			<Packs.0.DescTags>Sát thương thuộc tính Thủy</Packs.0.DescTags>
+			<Packs.1.DescTags>Sát thương thuộc tính Thủy</Packs.1.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Huo">
+			<Packs.0.DescTags>Sát thương thuộc tính Hỏa</Packs.0.DescTags>
+			<Packs.1.DescTags>Sát thương thuộc tính Hỏa</Packs.1.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Tu">
+			<Packs.0.DescTags>Sát thương thuộc tính Thổ</Packs.0.DescTags>
+			<Packs.1.DescTags>Sát thương thuộc tính Thổ</Packs.1.DescTags>
+		</Text>
+	</List>
+</Texts>
+

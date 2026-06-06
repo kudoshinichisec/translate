@@ -1,0 +1,4 @@
+Nam,Độc Nhân,Tiên Sinh,Tiểu Tiên,Tán Nhân,Kim Thiềm,Cư Sĩ,Đạo Nhân,Lão Nhân,Cầm Ma,Cầm Tiên,Thi Tiên,Thi Thánh,Thi Ma,Vũ Giả,Hành Giả,Họa Tiên,Họa Ma,Bút Thần,Thư Thánh,Thư Ma
+Nữ,Độc Nhân,Tiểu Tiên,Tán Nhân,Tiểu Cô,Đạo Cô,Cư Sĩ,Cầm Ma,Cầm Tiên,Thi Tiên,Thi Thánh,Thi Ma,Vũ Giả,Hành Giả,Họa Tiên,Họa Ma,Bút Thần,Thư Thánh,Thư Ma
+
+

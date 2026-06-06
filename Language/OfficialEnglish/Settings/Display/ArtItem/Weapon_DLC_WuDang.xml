@@ -1,0 +1,13 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Item_WeaponDaoSword">
+			<List.0.Name>Thái cực</List.0.Name>
+			<List.0.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.0.Desc>
+		</Text>
+		<Text Name="Item_WeaponFuChen">
+			<List.0.Name>Vân hành</List.0.Name>
+			<List.0.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.0.Desc>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,130 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Happy1">
+			<DisplayName>Bỗng nhiên vui vẻ một chút.</DisplayName>
+			<Desc>Không biết tại sao, đột nhiên cảm thấy vui vẻ một chút.</Desc>
+			<StoryDesc>Đang vui vẻ ngân nga một khúc nhạc.</StoryDesc>
+		</Text>
+		<Text Name="Happy2">
+			<DisplayName>Bỗng nhiên rất vui.</DisplayName>
+			<Desc>Không rõ tại sao lại rất vui, tâm trạng tốt.</Desc>
+			<StoryDesc>Đang cười lớn vì vui vẻ.</StoryDesc>
+		</Text>
+		<Text Name="Happy3">
+			<DisplayName>Bỗng nhiên buồn nhẹ.</DisplayName>
+			<Desc>Không biết tại sao, đột nhiên cảm thấy hơi buồn nhẹ.</Desc>
+			<StoryDesc>Không biết tại sao, sắc mặt có chút buồn.</StoryDesc>
+		</Text>
+		<Text Name="Happy4">
+			<DisplayName>Bỗng nhiên rất chán nản.</DisplayName>
+			<Desc>Đột nhiên cảm thấy rất chán nản, dường như mọi thứ đều đang xấu đi.</Desc>
+			<StoryDesc>Không biết tại sao, trông rất chán nản.</StoryDesc>
+		</Text>
+		<Text Name="Happy5">
+			<DisplayName>Bỗng nhiên uể oải.</DisplayName>
+			<Desc>Đột nhiên cảm thấy bản thân chẳng làm được gì...</Desc>
+			<StoryDesc>Không biết tại sao, trông như mất hết sức sống.</StoryDesc>
+		</Text>
+		<Text Name="Happy6">
+			<DisplayName>Bỗng nhiên được khích lệ.</DisplayName>
+			<Desc>Đột nhiên tràn đầy ý chí chiến đấu, cảm thấy tâm trạng rất tuyệt.</Desc>
+			<StoryDesc>Không biết tại sao, trông như tràn đầy ý chí chiến đấu.</StoryDesc>
+		</Text>
+		<Text Name="Happen1">
+			<DisplayName>Cảm xúc khó hiểu.</DisplayName>
+			<Desc>Đột nhiên bị bao quanh bởi một cảm xúc không rõ...</Desc>
+			<StoryDesc>Sắc mặt rất phức tạp, không biết đang nghĩ gì.</StoryDesc>
+		</Text>
+		<Text Name="Happen2">
+			<DisplayName>Cảm xúc khó hiểu.</DisplayName>
+			<Desc>Đột nhiên cảm thấy như bị cô lập khỏi thế giới... rất cô đơn.</Desc>
+			<StoryDesc>Khuôn mặt đầy vẻ cô đơn, trông rất cô độc.</StoryDesc>
+		</Text>
+		<Text Name="Happen3">
+			<DisplayName>Cảm giác kỳ lạ.</DisplayName>
+			<Desc>Ta luôn cảm thấy có ai đó đang âm thầm chú ý đến ta...</Desc>
+			<StoryDesc>Luôn cảm thấy có người âm thầm quan sát, sắc mặt đầy nghi hoặc.</StoryDesc>
+		</Text>
+		<Text Name="Happen4">
+			<DisplayName>Ảo giác âm thanh.</DisplayName>
+			<Desc>Có ai đó đang nói chuyện với ta sao? Luôn cảm thấy có người nói gì đó bên tai, nghe không rõ... thật phiền.</Desc>
+			<StoryDesc>Luôn cảm thấy có người đang nói chuyện với mình, sắc mặt rất tệ.</StoryDesc>
+		</Text>
+		<Text Name="Magic1">
+			<DisplayName>Tâm trạng tốt không rõ lý do.</DisplayName>
+			<Desc>Không có lý do gì mà tâm trạng lại tốt.</Desc>
+			<StoryDesc>Không biết nghĩ đến điều gì, khuôn mặt đầy niềm vui.</StoryDesc>
+		</Text>
+		<Text Name="Magic2">
+			<DisplayName>Nỗi đau lớn.</DisplayName>
+			<Desc>Không có lý do gì mà cảm thấy cực kỳ đau buồn.</Desc>
+			<StoryDesc>Không biết tại sao, cực kỳ đau buồn.</StoryDesc>
+		</Text>
+		<Text Name="ZhenkongJie">
+			<DisplayName>Chân Không Kiếp</DisplayName>
+			<Desc>Cảm thấy tâm trạng bị rút cạn.</Desc>
+			<StoryDesc>Đang cảm thấy bất an vì ở trong kiếp nạn chân không.</StoryDesc>
+		</Text>
+		<Text Name="FengShui1">
+			<DisplayName>Phong thủy rất tốt.</DisplayName>
+			<Desc>Phòng của ta phong thủy rất tốt, gần đây dường như được trời phù hộ, ngủ ngon, và quan hệ với mọi người xung quanh cũng rất vui vẻ.</Desc>
+			<StoryDesc>Vì phòng có phong thủy tốt mà rạng rỡ.</StoryDesc>
+		</Text>
+		<Text Name="FengShui2">
+			<DisplayName>Phong thủy tốt.</DisplayName>
+			<Desc>Phòng của ta phong thủy không tệ, gần đây cảm thấy khá thuận lợi, đồng môn cũng rất thân thiện.</Desc>
+			<StoryDesc>Vì phòng có phong thủy tốt mà khuôn mặt rạng rỡ.</StoryDesc>
+		</Text>
+		<Text Name="FengShui3">
+			<DisplayName>Phong thủy không tốt.</DisplayName>
+			<Desc>Phòng của ta phong thủy không tốt, gần đây dường như bị phạm Thái Tuế, ngủ không ngon, cảm thấy mọi người đều đối đầu với ta.</Desc>
+			<StoryDesc>Vì phòng phong thủy kém mà sắc mặt u ám.</StoryDesc>
+		</Text>
+		<Text Name="FengShui4">
+			<DisplayName>Phong thủy rất kém.</DisplayName>
+			<Desc>Phòng của ta phong thủy rất tệ, gần đây cảm thấy trời cũng đang chống lại ta, ngủ không yên, ác mộng liên miên, làm gì cũng không thuận, nhìn ai cũng thấy không vừa mắt.</Desc>
+			<StoryDesc>Vì phòng phong thủy quá kém mà thần sắc ảm đạm.</StoryDesc>
+		</Text>
+		<Text Name="FengShui5">
+			<DisplayName>Phong thủy hơi kém.</DisplayName>
+			<Desc>Phòng của ta phong thủy không được tốt lắm, ta cảm thấy có gì đó không ổn, làm việc cũng luôn thấy khó chịu.</Desc>
+			<StoryDesc>Vì phòng phong thủy không tốt mà nhíu mày.</StoryDesc>
+		</Text>
+		<Text Name="Tool_PerfectWorld">
+			<DisplayName>Thế Giới Tươi Đẹp</DisplayName>
+			<Desc>Đắm chìm vào câu chuyện trong thế giới tươi đẹp, cảm thấy rất thú vị.</Desc>
+			<StoryDesc>Vì chơi trong thế giới tươi đẹp mà cảm thấy rất thỏa mãn.</StoryDesc>
+		</Text>
+		<Text Name="Mood_Tool_LunHui_QiYuan">
+			<DisplayName>Kỳ Nguyện Chi Lực</DisplayName>
+			<Desc>Cảm nhận được sức mạnh của tâm nguyện, tâm trạng thoải mái.</Desc>
+			<StoryDesc>Vì sức mạnh của tâm nguyện mà cảm thấy vui vẻ.</StoryDesc>
+		</Text>
+		<Text Name="Dan_LunHui1">
+			<DisplayName>Cảm động</DisplayName>
+			<Desc>Bị xúc động bởi ký ức này, có chút thỏa mãn, lại có chút bâng khuâng.</Desc>
+			<StoryDesc>Vì đắm chìm vào câu chuyện "Tinh Đồ Lấp Lánh" mà có chút bâng khuâng.</StoryDesc>
+		</Text>
+		<Text Name="Mood_Item_Laxative">
+			<DisplayName>Kiệt sức toàn thân.</DisplayName>
+			<Desc>Cảm thấy toàn thân kiệt sức, hơi khó chịu.</Desc>
+			<StoryDesc>Vì bị tiêu chảy mà cảm thấy vô cùng đau khổ.</StoryDesc>
+		</Text>
+		<Text Name="Mood_LunHui_ShiYi">
+			<DisplayName>Tận hưởng hiện tại.</DisplayName>
+			<Desc>Quên đi quá khứ, chỉ tận hưởng hiện tại.</Desc>
+			<StoryDesc>Đang hứng thú chuẩn bị gì đó.</StoryDesc>
+		</Text>
+		<Text Name="Mood_LunHui_XinNian">
+			<DisplayName>Niềm tin.</DisplayName>
+			<Desc>Ta có con đường mà ta kiên định, không bị ngoại vật quấy rầy.</Desc>
+			<StoryDesc>Đang được niềm tin khích lệ.</StoryDesc>
+		</Text>
+		<Text Name="Mood_GreenBrothel">
+			<DisplayName>Tâm Trạng Tốt</DisplayName>
+			<Desc>Vừa mới giải tỏa bản thân, tâm trạng thoải mái.</Desc>
+			<StoryDesc>Đã từng đến "Lục Lâu Phường", cảm thấy tâm trạng rất tốt.</StoryDesc>
+		</Text>
+	</List>
+</Texts>
+

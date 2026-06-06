@@ -1,0 +1,110 @@
+Brand	CPU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+魅族	Snapdragon 865
+谷歌	Snapdragon 765G
+奇酷	
+酷派	Hiêu Long 652
+索尼	Snapdragon 865
+金立	MediaTek Helio P30
+努比亚	
+夏普	Hiếu Long 63
+OPPO	Qualcomm Snapdragon 865+
+联想	
+COOLPAD	MediaTek MT6750
+中兴	
+华硕	Qualcomm Snapdragon 865+
+乐视	Hiệu Long 820
+黑鲨	
+摩托罗拉	
+锤子	Snapdragon 855plus
+小米	Qualcomm Snapdragon 870
+VIVO	Qualcomm Snapdragon 888
+飞利浦	
+一加	Qualcomm Snapdragon 888
+三星	Qualcomm Snapdragon 865 Plus
+真我	
+360	Liên Phát Khoa x20
+华为	Không rõ
+
+

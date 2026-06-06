@@ -1,0 +1,126 @@
+ID	IsHide	Desc	Sex	LastName	FristName	Age	BodyType	Hair	Beard	BodyColor	BackStory1	BackStory2	BackStory3	Feature1	Feature2	Experience1	Experience2	Experience3	Feature3	Relation1	ClothesStuff	Experience4
+
+-1	2	Reincarnator who had lost their identity. No one knows who they are or where are they from. (Empty)	1																			
+1	1		1	Tử	Phi Ngư	45	1	10	5	3	200045	200046	200027	LunHui_1	LunHui_2	Experiences6	Experiences11	Experiences13				
+2	0		1	Chu	Công Tử	22	1	9		3	200043	200044	200028	LunHui_4								
+3	0	Kính dâng kẻ luân hồi tưởng niệm mùa xuân năm 2017.	1	Từ	Vô Quỷ	27	1	8		3	200023	200035		LunHui_5								
+4	0	Kính dâng kẻ luân hồi tưởng niệm mùa xuân năm 2017.	1	Dương	Đại	32	2	3		3	200023	200034		LunHui_2	HighMan							
+5	0		1	Đậu	Đậu	27	1	2		3	23	200026										
+6	0		1	Lỗ	Lỗ	26	1	7		3	200025	610										
+7	0	Kính dâng kẻ luân hồi tưởng niệm mùa xuân năm 2017.	1	Hắc	Hoàng	45	2	8	2	2	200023	200024		LunHui_2								
+8	0		2	Tam	Tam	18	1	5		1	200036	200037		Enthusiasm	Sensitive				Strong			
+9	0		2	Nhất Ti	Bất Cẩu	18	2	2		1	200038	200039	200030									
+10	0		2	Diệp	Khuynh Tâm	18	1	1		3	200040	200041										
+11	0		1	Trương	Tứ Hải	34	2	8	2	1	200049	200050	200031									
+12	0		1	Hàm Ngư	Khải	23	1	1		1	200047	200048	200029									
+13	2		1	Phong	Chi Hải								200032									
+14	0		1	Dạ	Miêu	29	1	8		1	200051	200052	200033	LunHui_14								
+15	0		1	Bất	Hóa Cốt	23	1				200053	200054										
+16	0		1	Thương Thủy	Cật Qua	99	1	9	3	1	200055	200056										
+17	0		2	Kim	Ngư	18	1	5		1	200061	200062										
+18	0		1	Kiếm	Nhập Tam	27	1	10		0	200063	200064				Experiences11						
+19	0		1	Hạn	Hào	27	1	3		3	200065	200066	200067			LunHui_Experiences3						
+20	0		1	Tuyết	Dực	27	1	4		3	200068	200069	200070									
+1000	0	Nhà sản xuất game độc lập, nhà sản xuất phim lớn về game độc lập	1	Bính Mệnh	Ngoạn Tam Lang	40	1				200003	200004										
+1001	0	Nhân vật chính trong series game Kobayashi Masayuki	1	Tiểu Lâm	Chính Tuyết	27	1				200001	200002		FacialScar	Optimistic				Careful			
+1002	0	Nhà sản xuất game độc lập "Thế giới tuyệt vời"	2	Vương	Diệu Nhất	18	1				200005	200006		Pessimism	Warrior	LunHui_Experiences2						
+1003	0	Nhà sản xuất video game gốc	1	Vương	Lão Cúc	28	1	1	-1	0	200117	200118		BanLove	LunHui_36	LunHui_Experiences4			LunHui_37	1004|Spouse		
+1004	0	Blogger thời trang, sổ tay	2	Miễn	Miễn	27	1	3		1	200119	200120		BanLove		Experiences29				1003|Spouse		
+1005	0	Nhân vật trong "Thời gian Portia"	1	Cái	Tư Đặc	23	1				200007	200008		LunHui_Kong_1	Artist				LunHui_Kong_2			
+1006	0	Nhân vật trong "Thời gian Portia"	1	A	Nhĩ Lạc	28	1				200009	200010		LunHui_Kong_3								
+1007	0	Nhân vật trong "Thời gian Portia"	2	Ngải	Mễ Lệ	20	1				200011	200012		Optimistic								
+1008	0	Biên tập viên chính của phương tiện game 3DM	1	Ngân	Hà	24	1				200013	200014		HealthOverdraft1	Optimistic				LunHui_Kong_4			
+1009	0	Diễn giả nổi tiếng trong cộng đồng game độc lập	2	A	Cửu	19	1				200015	200016		Optimistic	Strong				Affinity			
+1010	0	Nhân vật chính trong "Change"	2	Nhạc	Dương	22	1				200017	200018		Strong	Affinity						Item_PurpleCloth	
+1011	0	Nhân vật chính trong "Hành trình hiệp khách: Nghi vấn trong nghịch cảnh"	2	Nam Cung	Yến	18	1				200019	200020		LunHui_38								
+1012	0	Nhân vật chính trong "Biên niên sử quái dị tại góc nhà"	1	Tả	Tiểu Kiếm	25	1				200021	200022		LunHui_Kong_3	LunHui_Kong_10				LunHui_17			
+1013	0	Nhân vật chính trong "Kim Dung Quần Hiệp Truyện", "Hà Lạc Quần Hiệp Truyện"	1	Tiểu	Hà Mễ	18	1	4		3	200057	200058				LunHui_Experiences1						
+1014	0	Nhà sản xuất của các game như "Kim Dung Quần Hiệp Truyện", "Hà Lạc Quần Hiệp Truyện"	1	Từ	Xương Long	50	1	9	1	3	200059	200060										
+1015	0	Nhân vật xuất hiện trong "Hán Gia Giang Hồ"	1	Lý	Thừa Long	28	2	3	1		200071	200072		LunHui_20								
+1016	0	Nhân vật xuất hiện trong "Hán Gia Giang Hồ"	1	Đồng	Thạch Trung	26	2	1			200073	200074		LunHui_21								
+1017	0	Nhân vật xuất hiện trong "Hán Gia Giang Hồ"	1	Thường	Vũ Phong	24	1	7			200075	200076		LunHui_22								
+1018	0	UP chủ nổi tiếng trên Bilibili	1	Thần Uy	Quỷ Minh	30	2	1			200077	200078		HighMan	LunHui_Kong_5							
+1019	0	Nhân vật nữ chính trong "Eddy Tử"	2	Ngải	Địch	17	1	2			200079	200080		LowMan	LunHui_24						Item_PurpleCloth	
+1020	0	Nhà phát triển "Du Thuyền"	1	Chu Du	Lâm Sam	40	1	8			200081	200082		LunHui_Kong_6								
+1021	0	Nhà sản xuất "Mèo Ảo"	1	Nguyên	Bằng	16	1	7			200083	200084										
+1022	0	Cuộc phiêu lưu của ông bí ngô	1	Nam Qua	Tiên Sinh	16	1	6			200085	200086		LowMan	HealthOverdraft1							
+1023	0	Blogger nổi tiếng trên Weibo, UP chủ trên Bilibili	1	Mê	Chi Thanh	30	1	8			200089	200090		LunHui_Kong_7	LunHui_25	LunHui_Experiences5						
+1024	0	Nhạc sĩ của "Bóng Đen", "Mưa Máu", "Diêm Vương không vui"	1	Bạc	Thải Sinh	55	1	10	5		200091	200092		GoodMentality	LunHui_Kong_9	Experiences31						
+1025	0	Nhân vật chính trong "Mr Husky"	1	Cáp	Sĩ Kỳ	20	1	11			200093	200094		LunHui_26								
+1026	0	Game streamer nổi tiếng trên Bilibili	1	Ngư	Ngư	17	2	3			200095	200096		LunHui_27								
+1027	0	Game streamer nổi tiếng trên Bilibili	2	Ái	Lỵ	17	1	5			200097	200098		LunHui_28		Experiences8						
+1028	0	Đồng sáng lập VGtime, biên tập viên video	1	Lôi	Điện	25	1	9			200099	200100		Reader	LunHui_29							
+1029	0	Streamer nổi tiếng VGtime, biên tập viên video	1	Đại	Lực	34	3	1			200101	200102		Warrior	LunHui_Kong_3							
+1030	0	Nhà sản xuất game nổi tiếng	1	Trần	Tinh Hán	22	1	1			200103	200104		Strong	Anatman				LunHui_30			
+1032	0	Chủ tịch diễn đàn cộng đồng ACG nổi tiếng Stage1st	1	Cẩu	Thúc	40	1	3			200107	200108		LunHui_Kong_2	LunHui_31							
+1033	0	Nhân vật nhân hóa của diễn đàn cộng đồng ACG nổi tiếng Stage1st, S1 Nàng	2	Ái	Tê Y	18	1	1			200109	200110		LunHui_32	LunHui_33				Careful			
+1034	0	Nhà sản xuất của các game như "Mèo và Chó 2", "Cổ Kiếm Kỳ Đàm" 1+2	1	Công Trường	Quân	40	1	3			200111	200112		LunHui_34	LunHui_35	Experiences11			LunHui_17			
+1035	0	Nhân vật Boss trong "DYING: Reborn"	1	Ngư Đầu	Quân	18	1	8			200113	200114		DarkPatience	LunHui_2				Cruel			
+1036	0	Game streamer nổi tiếng	2	Nữ Vương	Diêm	18	1	5			200115	200116		Industrious	Optimistic				Strong			
+1037	0	Người sáng lập studio game độc lập Rocket Punch, nhà sản xuất "Mã hiệu Hạt nhân"	1	Mục	Phi	31	1	8			200087	200088		LunHui_Kong_6	Careful				LunHui_Kong_8			
+1038	0	Họa sĩ, nhà văn truyện tranh nổi tiếng	1	Tôn	Tra	30	1	3			200123	200124		Lazy	LunHui_5				LunHui_24			
+1039	0	UP chủ nổi tiếng trên Bilibili	1	Tiêu Diêu	Tán Nhân	29	1	1			200121	200122		LunHui_39		LunHui_Experiences6						
+1040	0	Game streamer nổi tiếng	1	Bán	Chi Yên	16	1	4	-1		200125	200126										
+1041	0	Nhân vật chính trong "Tam Sắc Hội Luyến"	2	Văn	Chỉ	17	1	5		1	200127	200128		HeartKnot	BeautifulFace1	Experiences11	Experiences26		DeepPotential			
+1042	0	Nhân vật chính trong "Tam Sắc Hội Luyến"	2	Mặc	Tiểu Cúc	17	1	2		1	200129	200130										
+1043	0	Quản lý động lực hơi nước	1	Phân Mễ	Thương Mộc	17	1	7		0	200131	200132		HeartKnot	Craftsman				LunHui_40			
+1044	0	Từ một ngôi làng kỳ diệu tên là Mạc Thôn	2	Phi Thôn	Kha Bắc	20	1	5		1	200133	200134		BanLove	LunHui_41					1045|Spouse		
+1045	0	Từ một ngôi làng kỳ diệu tên là Mạc Thôn	1	Miêu	Phàm	19	1	3		1	200135	200136		BanLove	LunHui_34					1044|Spouse		
+1046	0	Từ một ngôi làng kỳ diệu tên là Mạc Thôn	2	Trư	Tiểu Thiền	19	1	3		3	200137	200138		Artist	NoHeavyWork				Deaf			
+1047	0	Từ một ngôi làng kỳ diệu tên là Mạc Thôn	1	Sư Tử	Đầu	31	3	9	5	3	200139	200140		BanLove	SonOfDestiny				GoodMentality	1048|Spouse		
+1048	0	Từ một ngôi làng kỳ diệu tên là Mạc Thôn	2	Cảnh	Tượng	22	1	5		1	200141	200142		BanLove	SonOfDestiny				Optimistic	1047|Spouse		
+1049	0	Từ một ngôi làng kỳ diệu tên là Mạc Thôn	2	Đàn	Thiêu	150	1	5		1	200145	200146		LunHui_Kong_12	LunHui_Kong_2				LunHui_24		Item_WhiteCloth	
+1050	0	Từ một ngôi làng kỳ diệu tên là Mạc Thôn	1	Đâu	Tử	28	1	9	2	0	200147	200148		Affinity	Artist							
+1051	0	Từ một ngôi làng kỳ diệu tên là Mạc Thôn	1	Nạp Lan	Dạ	27	1	3	-1	0	200149	200150		Artist	Reader				BeautifulFace1			
+1052	0	Nhà sản xuất "Cha mẹ kiểu Trung Quốc"	1	Lưu	Trinh Hạo	18	1	1		0	200151	200152		Optimistic	LunHui_43							
+1053	0	Streamer A Phi trên Douyu	1	Hồ	Tuyết Phi	27	1			3	200153	200154		LunHui_40	Warrior							
+1054	0	Streamer Mạt Dạ Mạc Mạc Trà trên Douyu	1	Ngọ Dạ	Mạt Mạt Trà	18	1			3	200155	200156		LunHui_Kong_6	Careful	Experiences29			LunHui_20			
+1055	0	Từ một ngôi làng kỳ diệu tên là Mạc Thôn	1	Bặc	Vân Lực	30	1	8	-1	3	200157	200158		Optimistic	LunHui_Kong_11							
+1056	0	Streamer Ngân Tử trên Douyu	1	Dần	Tử	25	1	7	-1	0	200159	200160		LunHui_20	LunHui_4				LunHui_44			
+1057	0	Streamer Quỷ Phụ trên Huya	1	Quỷ	Phụ	16	1	3	-1	0	200161	200162		UglyFace2	LunHui_Kong_13	LunHui_Experiences7						
+1058	0	Nhà sản xuất game "Bong Bóng Đông Cảnh", người sáng lập tạp chí AVGSprits	1	Cổ	Lạc	18	1	4	-1	0	200163	200164		LunHui_45	LunHui_46	Experiences4						
+1059	0	Diễn viên lồng ghép	1	Sâm	Trung Nhân	18	1	4	-1	0	200165	200166		LunHui_Kong_3	LunHui_47	Experiences4						
+1060	0	Nàng ấy là ai?	2	Lâm	Nhạ Ngâm	18	1	5	-1	0	200167	200168		LunHui_48	LunHui_49							
+1061	0	Game streamer đi qua	1	Thái	Cáp Tử	27	1	10	-1	0	200169	200170		LunHui_35	LunHui_50	Experiences4						
+1062	0	Tiểu Xu, streamer của Đế Vương Sắc, kiếm sĩ bóng tối DNF, cựu đội trưởng đội IG, bình luận viên xuất sắc nhất năm	1	Tôn	Á Long	30	1	8	-1	0	200171	200172		SonOfDestiny	LunHui_20	LunHui_Experiences8	Experiences3	Experiences29		1063|Friend		Experiences9
+1063	0	Tây Ca, streamer của Đế Vương Sắc, đội trưởng đội PE LOL, ninja sao chép Tây Tây Ca	1	Lý	Hạo Vũ	25	3	1	-1	0	200173	200174		LunHui_51	LunHui_52	Experiences4			LunHui_53	1062|Friend		
+1064	0	Vẫn là Tiểu Trí	1	Độc Cô	Tinh	18	1	3	-1	0	200175	200176		LunHui_54	Enthusiasm	LunHui_Experiences9						
+1065	0	Bà Lữ Phu Kỳ Diệu, người điều khiển số phận kỳ diệu	2	Lục	Phu Nhân	31	1	5	-1	0	200177	200178		LunHui_55		LunHui_Experiences10					Item_PurpleCloth	
+1066	0	Streamer Dương Thụ trên Douyu	1	Dương	Thụ	18	1	1	-1	0	200179	200180		LunHui_Kong_2	LunHui_56	LunHui_Experiences11	Experiences7					
+1067	0	UP chủ khu game trên Bilibili	1	Nặc Ngõa	Đường	29	1	3	-1	0	200181	200182		LunHui_58	LunHui_59	Experiences9	Experiences3	Experiences10				
+1068	0	Người chiến thắng cuộc thi "Thân thể tàn tật nhưng ý chí kiên cường": Biên tập viên biệt danh.	1	Chiếu	Đát	18	1	10	-1	0	200183	200184		LunHui_60	LunHui_61	Experiences14	Experiences29	LunHui_Experiences12				
+1069	0	Diễn đàn Baidu Tieba "Mô phỏng tu luyện vĩ đại", người trúng thưởng may mắn!	1	Thân Thân	Như Dã	26	2	3	-1	1	200185	200186				Experiences30	LunHui_Experiences13					
+1070	0	Streamer Quân Hắc, bậc thầy Kiếm Đơn	1	Tuấn	Hách	19	1			1	200187	200188		LunHui_Kong_14	LunHui_4	LunHui_Experiences14			LunHui_62			
+1071	0	Đệ tử Hắc Môn, đệ tử của Thái Thượng Lão Quân	1	Đề Lạp	Mễ Tô	20	1			1	200189	200190		LunHui_63								
+1072	0	Đệ tử Hắc Môn, công chúa đến từ Phụng Thiên	2	Thiên	Tiểu Thiến	18	1			1	200191	200192		YinBody	BeautifulFace2				DragonBlood			
+1073	0	Thượng Thanh Đạo Nhân	1	Lâm	Hoa	18	1			0	200193	200194		Enthusiasm		LunHui_Experiences15					Item_BlackCloth	
+1074	0	Streamer nổi tiếng, bình luận viên nổi tiếng.	2	Tiểu	Lâu	18	1		-1	1	200195	200196		LunHui_Kong_15	LunHui_66				LunHui_67		Item_WhiteCloth	
+1075	0	UP chủ nổi tiếng trên Bilibili, người truyền đạo của Thái Nhất Ma Môn	1	Phi Vũ	Tiên Cuồng	28	1	10	3	0	200197	200198		Reader	Optimistic	Experiences4	Experiences29	Experiences14				
+2001	0		1	Thiểm	Cẩu	25	1	8	-1		200143	200144										
+2002	2	Tiên nhân cổ đại, hiệu là Tả Thánh.	1	Xích Tùng	Tử																	
+2003	2	Tiên nhân cổ đại, hiệu là Long Khiêu Chân Nhân.	1	Ninh Phong	Tử																	
+2004	2	Nhân vật trong "Sở Sơn Kiếm Hiệp Truyện", một trong ba tiên nhân Đông Hải.	1	Tề	Sấu Minh																	
+2005	2	Nhân vật trong "Sở Sơn Kiếm Hiệp Truyện", một trong ba tiên nhân Đông Hải.	1	Huyền	Chân Tử																	
+2006	2	Nhân vật trong "Sở Sơn Kiếm Hiệp Truyện", một trong ba tiên nhân Đông Hải.	1	Khổ Hành	Đầu Đà																	
+2007	2	Nhân vật trong "Sở Sơn Kiếm Hiệp Truyện", một trong hai lão nhân Sơn Phong.	1	Bạch	Cốc Dật																	
+2008	2	Nhân vật trong "Sở Sơn Kiếm Hiệp Truyện", một trong hai lão nhân Sơn Phong.	1	Chu	Mai																	
+3001	2	Streamer nổi tiếng, bình luận viên nổi tiếng.	2	Tiểu	Thương	20	1	3			200105	200106										
+5001	1		1	Chiêm	Nhất																	
+5002	1		2	Chiêm	Nhị																	
+5003	1		1	Chiêm	Tam																	
+5004	1		1	Chiêm	Tứ																	
+5005	1		2	Chiêm	Ngũ																	
+5006	1		1	Chiêm	Lục																	
+10000	2		1	Thần Bí	Tu Hành Giả	75	2	10	2	3												
+10001	1		2	Thu	Tư	22	1	2		1	7	502	200042	Sys_YuSheTeXing3		Experiences4	Experiences29	Experiences24		10002|Spouse		
+10002	1		1	Trường Tôn	Sơn	22	2	8		3	46	512	200042	Sys_YuSheTeXing1	Industrious					10001|Spouse		
+10003	1		1	Văn Nhân	Ngọc	17	1	1		0	14	521	200042	Sys_YuSheTeXing2	Feminization							
+10004	1		2	Tùy	Văn Yên	19	1	5		1	51	552	200042	Sys_YuSheTeXing4	DeepPotential				Artist			
+11000	0	Nhân vật sáng tạo bởi đạo hữu 【Huyền Đoạn Tâm Tán】 trên cộng đồng Tap	1	Diệp	Dây đứt	18	1	1	-1	0	210001	210002			LunHui_Kong_100	Experiences29	Experiences13	LunHui_Experiences7				
+11001	0	Vô Địch nhân gian thời Vạn Yêu	1	Viên	Vũ Lăng	18	1	1	-1	0	210003	210004	100002			Experiences30			LunHui_Kong_104			
+11002	0	Truyền thuyết Phi thăng thời Vạn Yêu	1	Kỳ	Lâm	18	1	1	-1	0	210003	210004	100005			Experiences1G1_4			LunHui_Kong_105			
+11003	0	Người đầu tiên truyền thụ đan đạo thế giới Vạn Yêu	1	Liêu bất khởi	Của bạn	18	1	1	-1	0	210003	210004	100003				Experiences24	Experiences14	LunHui_Kong_103			
+11004	0	Người đầu tiên thần tốc chinh phạt thế giới Vạn Yêu	1	Trời chiều	Dục tuyết	18	1	1	-1	0	210003	210004	100004			Experiences1G1_3			LunHui_Kong_106			
+11005	0	Người đầu tiên trừ yêu diệt ma thế giới Vạn Yêu	1	Tử	Lăng	18	1	1	-1	0	210003	210004	100006			Experiences11	Experiences6	Experiences27	LunHui_Kong_107			
+
+

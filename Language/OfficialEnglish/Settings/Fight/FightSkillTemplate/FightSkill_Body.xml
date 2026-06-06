@@ -1,0 +1,9 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SYS_FightSkill_Body_AngerFire">
+			<DisplayName>Cuồng nộ kích động</DisplayName>
+			<Desc>Hồi tưởng những ký ức đau khổ nhất trong cuộc đời [b][my_property=BodyPractice_AngerFireNum|{0:F0}][/b], chuyển hóa những cảm xúc tiêu cực này thành cuồng nộ kích động, duy trì trong [b][my_property=BodyPractice_AngerFireDuration|{0:F0}][/b] giây. Cảm xúc tiêu cực càng mạnh, hiệu quả càng lớn.</Desc>
+		</Text>
+	</List>
+</Texts>
+

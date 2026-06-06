@@ -1,0 +1,32 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Place_Level3Base">
+			<Desc>Mẫu địa điểm cấp 3</Desc>
+		</Text>
+		<Text Name="Place_QingLianShan">
+			<DisplayName>Núi Thanh Liên</DisplayName>
+			<Desc>Đây là nơi ẩn cư trước khi phi thăng của tiên nhân Thanh Liên, ẩn giấu trong một giọt chân thủy Nhâm Quý trên Nam Hải. Nếu không có bí pháp chỉ dẫn, không thể tìm thấy ngọn tiên sơn này.</Desc>
+		</Text>
+		<Text Name="Place_ChiLianYuan">
+			<DisplayName>Ngọc Lâu</DisplayName>
+			<Desc>Đây là biệt phủ của tiên nhân đầu tiên phi thăng tại thế giới này-Nam Cung Hồng, ẩn giấu trong một động thiên tiên gia giữa biển trời. Nếu không có bí pháp truyền thừa, không thể tìm thấy nơi này.</Desc>
+		</Text>
+		<Text Name="Place_LongTai">
+			<DisplayName>Long Đài</DisplayName>
+			<Desc>Truyền thuyết kể rằng xưa kia Long tộc giấu hàng ngàn báu vật tại Long Đài và đặt vô số cấm chế phong ấn. Giờ đây, năm tháng trôi qua, cộng với sự va chạm của linh triều ngàn năm, hầu hết các cấm chế đã mất hiệu lực, không ít người mạo hiểm vào Long Đài tìm kiếm cơ duyên.</Desc>
+		</Text>
+		<Text Name="Place_XuanKongDong">
+			<DisplayName>Huyền Không Động</DisplayName>
+			<Desc>Nơi ẩn cư của cổ tiên Viên Nhược Tuyết, truyền thuyết kể rằng Viên Nhược Tuyết đã để lại toàn bộ bảo vật cả đời tại biệt phủ này, dành cho người có duyên đời sau. Thường có những người tu luyện chính đạo mới vào nghề đến đây thử vận may.</Desc>
+		</Text>
+		<Text Name="Place_GuZhanChang">
+			<DisplayName>Chiến trường Tiên Ma</DisplayName>
+			<Desc>Di tích chiến trường của trận chiến Tiên Ma đầu tiên vào cuối thời thượng cổ, nơi đây cất giấu vô số bảo vật nhưng cũng đầy rẫy mảnh vỡ không gian, cực kỳ nguy hiểm. Khi đó, giới tu luyện bắt đầu phân chia chính tà, mâu thuẫn giữa các cổ tu sĩ ngày càng gay gắt, cuối cùng bùng nổ quyết chiến tại Nam Lục. Trận chiến kéo dài hàng tháng trời, sinh linh đồ thán. Đạo âm dương trong trời đất tại đây bị phá vỡ, thậm chí hiện ra chân hình của Chúc Long. Chúc Long nổi giận, lục chìm hải dâng, Nam Lục tan vỡ, kết thúc trận chiến Tiên Ma đầu tiên. Đây cũng chính là nguồn gốc của vùng đất Nam Hoang ngày nay.</Desc>
+		</Text>
+		<Text Name="Place_YiJieLieFeng">
+			<DisplayName>Khe nứt dị giới</DisplayName>
+			<Desc>Truyền thuyết kể rằng không gian tan vỡ này có thể dẫn đến các thời không kỳ dị, là sản phẩm của trận chiến Tiên Ma lần thứ hai thời thượng cổ, biến mất hàng ngàn năm, không ngờ giờ đây lại tái hiện. Tuy nhiên, nơi này cực kỳ nguy hiểm, nếu không có cơ duyên đặc biệt, ngay cả Đại La Kim Tiên cũng có thể bị mắc kẹt.</Desc>
+		</Text>
+	</List>
+</Texts>
+

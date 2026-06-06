@@ -1,0 +1,165 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="OutSpread_Give1">
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Hôm nay thời tiết đẹp, đại diện [NAME] dẫn các đệ tử ra phố, phân phát thức ăn cho người qua đường.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give2">
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Hôm nay thời tiết đẹp, đại diện [NAME] dẫn các đệ tử ra phố, bắt đầu bố thí. Thấy bên đường có nhiều người ăn xin đang cầu xin.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give3">
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Hôm nay thời tiết đẹp, đại diện [NAME] dẫn các đệ tử ra phố, bắt đầu bố thí. Thấy một cây cầu đá đã sụp đổ, mọi người không còn đi qua đây nữa.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give4">
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Hôm nay thời tiết đẹp, đại diện [NAME] dẫn các đệ tử ra phố, bắt đầu bố thí. Thấy hai người dân làng đang tranh cãi không ngừng về một con chó.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give5">
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Đại diện [NAME] dẫn các đệ tử ra phố, bắt đầu bố thí. Thấy hai công tử đang tranh cãi không ngừng vì một người phụ nữ.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give6">
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Đại diện [NAME] dẫn các đệ tử ra phố, bắt đầu bố thí. Thấy hai người đàn ông đang đánh nhau dữ dội, hỏi người bên cạnh nói rằng một người trồng cây, quả rơi vào nhà người kia, người kia không muốn trả lại.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give7">
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Đại diện [NAME] đang chuẩn bị đi bố thí, đột nhiên một người phụ nữ mặc trang phục hoa lệ khóc lóc đi đến chỗ ở của [NAME], nói rằng con của bà ta đã mất tích.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give8">
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Đại diện [NAME] đang chuẩn bị đi bố thí, đột nhiên một người đàn ông xông vào trong điện, cầu xin [NAME] cứu phu nhân sắp chết vì bệnh của mình.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give9">
+			<DisplayName>Sự kiện đặc biệt</DisplayName>
+			<Desc>Đại diện [NAME] đi đến một nơi hơi hẻo lánh. Lúc này có một nhóm cướp đi ngang qua.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give10">
+			<DisplayName>Sự kiện đặc biệt</DisplayName>
+			<Desc>Đại diện [NAME] đi ngang qua thế lực của [SCHOOL0], phát hiện họ đang bố thí.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give11">
+			<DisplayName>Sự kiện đặc biệt</DisplayName>
+			<Desc>Đại diện [NAME] đi ngang qua thế lực của [SCHOOL0], phát hiện họ đang truyền đạo.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give12">
+			<DisplayName>Sự kiện đặc biệt</DisplayName>
+			<Desc>Đại diện [NAME] đi ngang qua thế lực của [SCHOOL0], phát hiện họ đang thực hiện thực giới.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give13">
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Đại diện [NAME] dẫn các đệ tử ra phố, bắt đầu bố thí. Đi ngang qua một căn nhà gỗ hư hỏng, chủ nhân của nó bị tàn tật, không thể sửa chữa.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give14">
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Đại diện [NAME] dẫn các đệ tử ra phố, bắt đầu bố thí. Thấy một người mặc trang phục dị tộc đang giả thần giả quỷ.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give15">
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Đại diện [NAME] dẫn các đệ tử ra phố, bắt đầu bố thí. Đi ngang qua hai quán rượu đối diện nhau, nhân viên của hai quán đang tranh cãi vì chuyện làm ăn.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give16">
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Đại diện [NAME] dẫn dắt các đệ tử ra phố, bắt đầu bố thí. Họ gặp một nhóm người tị nạn chạy nạn đến.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give17">
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Đại diện [NAME] dẫn dắt các đệ tử ra phố, bắt đầu bố thí. Bên đường họ nhìn thấy một người bệnh nặng sắp qua đời, người này khẩn cầu [NAME] giúp mình giải thoát.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give18">
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Đại diện [NAME] dẫn dắt các đệ tử ra phố, bắt đầu bố thí. Trong đám đông, họ vô tình va phải một ông lão, ông ta bất ngờ ngã xuống đất, lớn tiếng kêu: "Ôi trời! Chân ta gãy rồi! Chính là người này!".</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Sermon1">
+			<DisplayName>Sự kiện truyền đạo</DisplayName>
+			<Desc>Hôm nay thời tiết trong lành, đại diện [NAME] đứng trên con phố trước cửa, chuẩn bị thực hiện một buổi truyền đạo.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Sermon2">
+			<DisplayName>Sự kiện truyền đạo</DisplayName>
+			<Desc>Hôm nay thời tiết trong lành, đại diện [NAME] đang giảng kinh truyền đạo. Đột nhiên, một người đàn ông to lớn tiến lên phía trước, lớn tiếng nói: "Toàn là lời lẽ vô căn cứ!".</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Sermon3">
+			<DisplayName>Sự kiện truyền đạo</DisplayName>
+			<Desc>Hôm nay thời tiết trong lành, đại diện [NAME] đang giảng kinh truyền đạo. Bỗng nhiên, một người thư sinh tiến lên phía trước, nói rằng [NAME] giảng sai, tóm lại là có vấn đề.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Sermon4">
+			<DisplayName>Sự kiện truyền đạo</DisplayName>
+			<Desc>Hôm nay thời tiết trong lành, đại diện [NAME] đang giảng kinh truyền đạo. Trong đám đông, có một bà cụ liên tục vỗ tay khen ngợi, gây khó chịu, nhưng bà ấy không phải là tín đồ.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Secret1">
+			<DisplayName>Sự kiện âm mưu</DisplayName>
+			<Desc>Hôm nay thời tiết trong lành, đại diện [NAME] bước vào Mật Các, chuẩn bị thực hiện một âm mưu.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Secret2">
+			<DisplayName>Sự kiện âm mưu</DisplayName>
+			<Desc>Đại diện [NAME] phát hiện [SCHOOL0] đang tiến hành bố thí, quyết định can thiệp.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Secret3">
+			<DisplayName>Sự kiện âm mưu</DisplayName>
+			<Desc>Đại diện [NAME] phát hiện [SCHOOL0] đang truyền đạo, nhíu mày suy nghĩ, lập tức nghĩ ra kế sách.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Secret4">
+			<DisplayName>Sự kiện âm mưu</DisplayName>
+			<Desc>Đại diện [NAME] phát hiện [SCHOOL0] đang thực hiện cấm ăn, quyết định quấy rối họ.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Disp1">
+			<DisplayName>Sự kiện thọ giới</DisplayName>
+			<Desc>Hôm nay thời tiết trong lành, đại diện [NAME] ở Giới Luật Viện, chuẩn bị thực hiện một buổi lễ thọ giới.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Disp2">
+			<DisplayName>Sự kiện thọ giới</DisplayName>
+			<Desc>Đại diện [NAME] thấy thế gian vui chơi thâu đêm, không biết chán, quyết định tổ chức lễ thọ giới.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Disp3">
+			<DisplayName>Sự kiện thọ giới</DisplayName>
+			<Desc>Đại diện [NAME] thấy thế gian nhà giàu rượu thịt thừa mứa, ngoài đường người chết rét, quyết định tổ chức lễ thọ giới.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Disp4">
+			<DisplayName>Sự kiện thọ giới</DisplayName>
+			<Desc>Đại diện [NAME] thấy thế gian lục lâm hoành hành, đầy rẫy sát khí, quyết định tổ chức lễ thọ giới.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Disp5">
+			<DisplayName>Sự kiện thọ giới</DisplayName>
+			<Desc>Đại diện [NAME] thấy thế gian trộm cướp lộng hành, gây ra hỗn loạn, quyết định tổ chức lễ thọ giới.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_God1">
+			<DisplayName>Sự kiện thần tích</DisplayName>
+			<Desc>Hôm nay đại diện [NAME] cho rằng thời cơ đã chín muồi, để các đệ tử thần tu thể hiện thần tích tại đây.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>
+

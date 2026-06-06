@@ -1,0 +1,21 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Diaster_Drought">
+			<DisplayName>Cứu trợ</DisplayName>
+			<Desc>Xảy ra hạn hán, cần cung cấp thực phẩm hỗ trợ dân chúng để bù đắp tổn thất thu hoạch.</Desc>
+		</Text>
+		<Text Name="Diaster_Flood">
+			<DisplayName>Cứu trợ</DisplayName>
+			<Desc>Xảy ra lũ lụt, cần cung cấp đá hỗ trợ dân chúng để xây dựng phòng chống lũ.</Desc>
+		</Text>
+		<Text Name="Diaster_Siberia">
+			<DisplayName>Cứu trợ</DisplayName>
+			<Desc>Xảy ra rét đậm, cần cung cấp gỗ hỗ trợ dân chúng để sưởi ấm.</Desc>
+		</Text>
+		<Text Name="Diaster_EarthQuake">
+			<DisplayName>Cứu trợ</DisplayName>
+			<Desc>Xảy ra động đất, cần cung cấp đá hỗ trợ dân chúng để tái thiết nhà cửa.</Desc>
+		</Text>
+	</List>
+</Texts>
+

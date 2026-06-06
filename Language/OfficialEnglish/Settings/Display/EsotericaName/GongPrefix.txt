@@ -1,0 +1,6 @@
+Nhất Giai,Hoàng Đình,Sơ Giải,Hoàng Nha,Ngũ Nội,Đạo Cơ,Vi Thảo,Tri Tiết,Ngũ Giới
+Nhị Giai,Ngự Khí,Long Hổ,Âm Dương,Nhập Đạo,Kim Đan,Chân Đan,Huyền Quan,Tân Cảnh
+Tam Giai,Thái Ất,Tam Tài,Hóa Hình,Triệt Pháp,Huyền Cơ,Lục Khí,Lăng Tiêu,Vong Tình
+Tứ Giai,Ngự Thần,Thái Thượng,Bản Nguyên,Quy Chân,Tử Tiêu,Ngọc Hư,Hồng Mông,Tạo Hóa
+
+

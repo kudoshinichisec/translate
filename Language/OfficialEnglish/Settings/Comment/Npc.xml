@@ -1,0 +1,44 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="NpcDiscipleOfJinDan">
+			<Notes>Bảng tu hành giả tiên đạo</Notes>
+			<Title>Tu hành giả tiên đạo</Title>
+			<Desc>Người tu luyện pháp Kim Đan, truy cầu tiên đạo. Tu hành giả tiên đạo dù tu luyện khó khăn, nhưng đây là con đường thực sự để lĩnh hội đại đạo thế gian, đạt được tự tại. Họ tuy sức mạnh cá nhân có hạn, nhưng có thể kết thành trận pháp, hợp sức chống địch. Ngoài ra, họ còn tinh thông luyện thần đan, vẽ phù lục, dùng các thần thông để cải tạo tự nhiên, là dòng chính không thể tranh cãi của giới tu hành.</Desc>
+		</Text>
+		<Text Name="NpcDiscipleOfGod">
+			<Notes>Bảng tu hành giả thần đạo</Notes>
+			<Title>Tu hành giả thần đạo</Title>
+			<Desc>Người tu luyện thần đạo, tụ hội sức mạnh tín ngưỡng của chúng sinh. Họ rất mạnh, có thể hấp thu sức mạnh vô tận từ tín ngưỡng, nhưng lại không tránh khỏi mất đi bản ngã, cuối cùng bị tín ngưỡng chi phối, trở thành thần linh thuần túy.</Desc>
+		</Text>
+		<Text Name="NpcDiscipleOfBody">
+			<Notes>Bảng luyện thể giả</Notes>
+			<Title>Luyện thể giả</Title>
+			<Desc>Đạo tu hành truyền thừa từ thượng cổ, tụ hội tinh hoa thiên địa để ta luyện thân thể, đạt được thể chất bất tử. Luyện thể giả giỏi về công kích, chú trọng phá đạo bằng sức mạnh. Chỉ cần nhập môn, họ có thể nhanh chóng sở hữu sức chiến đấu mạnh mẽ, nhưng đạo thể tu lấy bản thân làm gốc, liên tục khai thác, không thể phản bổ thiên địa, càng khó tụ tập thành quần thể. Theo thời gian, cuối cùng họ khó có thể cạnh tranh với tu hành giả tiên đạo đang trỗi dậy, dần dần suy tàn.</Desc>
+		</Text>
+		<Text Name="NpcWaiMen">
+			<Notes>Bảng ngoại môn đệ tử</Notes>
+			<Title>Phàm nhân</Title>
+			<Desc>Người chưa bước vào con đường tu hành, trong thời loạn thế này như cỏ rác.</Desc>
+		</Text>
+		<Text Name="NpcDaNeng">
+			<Notes>Bảng đại năng</Notes>
+			<Title>Tu hành giả thượng cổ</Title>
+			<Desc>Tu hành giả từ thời thượng cổ, do linh khí cạn kiệt mà ngủ say, nay đã thức tỉnh trở về. Họ sở hữu sức mạnh vô cùng lớn.</Desc>
+		</Text>
+		<Text Name="NpcPuppet">
+			<Notes>Bảng khôi lỗi</Notes>
+			<Title>Khôi lỗi</Title>
+			<Desc>Vật hình người được pháp thuật điều khiển, có thể thực hiện các công việc lao động đơn giản.</Desc>
+		</Text>
+		<Text Name="NpcZombie">
+			<Notes>Bảng cương thi</Notes>
+			<Title>Cương thi</Title>
+			<Desc>Người đã khuất do phong thủy không tốt mà biến đổi, trở thành tồn tại không có linh trí, khao khát huyết thực.</Desc>
+		</Text>
+		<Text Name="NpcTeacher">
+			<Notes>Bảng tu hành giả thần bí</Notes>
+			<Title>Tu hành giả thần bí</Title>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,151 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_Other_Portia_1" sParam="Item">
+			<ThingName>Dị vật thế giới: Thứ nhất</ThingName>
+			<Desc>Một vật phong ấn từ dị giới, phong ấn này được tạo ra bằng cách kết hợp khí tức dị giới đặc biệt, nếu mở bằng bạo lực sẽ khiến vật này hoàn toàn tiêu biến. Sử dụng thần thức quan sát, có thể thấy dường như bên trong chứa một vật thể kỳ lạ. \n [img]res\Sprs\object_portia\Item_other05[/img]</Desc>
+			<StoryBnts.0.Name>Xem xét</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử quan sát vật thể kỳ lạ này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_2" sParam="Item">
+			<ThingName>Dị vật thế giới: Thứ hai</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_QQBed[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_3" sParam="Item">
+			<ThingName>Dị giới chi vật: Thứ ba</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_functionalFurnishing_DreamLamp[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_4" sParam="Item">
+			<ThingName>Dị giới chi vật: Thứ tư</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_objects_carpet_003_2[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_5" sParam="Item">
+			<ThingName>Dị giới chi vật: Thứ năm</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_Fan[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_6" sParam="Item">
+			<ThingName>Dị giới chi vật: Thứ sáu</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_gift_KMLamp_2[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_7" sParam="Item">
+			<ThingName>Dị giới chi vật: Thứ bảy</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_Station02[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_8" sParam="Item">
+			<ThingName>Dị giới chi vật: Thứ tám</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_safe[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_9" sParam="Item">
+			<ThingName>Dị giới chi vật: Thứ chín</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_WinterSolstice_xueren03[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_10" sParam="Item">
+			<ThingName>Dị giới chi vật: Thứ mười</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_hoe_steel[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_11" sParam="Item">
+			<ThingName>Dị giới chi vật: Thứ mười một</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_Marco_Weapon_001[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_12" sParam="Item">
+			<ThingName>Dị giới chi vật: Thứ mười hai</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_weapon_001[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_13" sParam="Item">
+			<ThingName>Dị giới chi vật: Thứ mười ba</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_weapon_003[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_14" sParam="Item">
+			<ThingName>Dị giới chi vật: Thứ mười bốn</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_weapon_ironAxe[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_15" sParam="Item">
+			<ThingName>Dị giới chi vật: Thứ mười lăm</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_weapon_ironPickaxe[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_16" sParam="Item">
+			<ThingName>Dị giới chi vật: Thứ mười sáu</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_gift_Aadit[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_17" sParam="Item">
+			<ThingName>Dị giới chi vật: Thứ mười bảy</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_researchcd[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_18" sParam="Item">
+			<ThingName>Dị giới chi vật: Thứ mười tám</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_bus002[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_19" sParam="Item">
+			<ThingName>Dị giới chi vật: Thứ mười chín</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_AlpacaSmall[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_20" sParam="Item">
+			<ThingName>Dị giới chi vật: Hai mươi</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_food_HaiTaiFengWeiJuanBing[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_21" sParam="Item">
+			<ThingName>Dị giới chi vật: Hai mươi mốt</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_food_04[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_22" sParam="Item">
+			<ThingName>Dị giới chi vật: Hai mươi hai</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_small_NaiYouGuiYuTang[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_23" sParam="Item">
+			<ThingName>Dị giới chi vật: Hai mươi ba</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_food_ShuCaiWanZiTang[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_24" sParam="Item">
+			<ThingName>Dị giới chi vật: Hai mươi bốn</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_small_JingDianRouJiangMian[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_25" sParam="Item">
+			<ThingName>Dị giới chi vật: Hai mươi lăm</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_yamtato_puree[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_26" sParam="Item">
+			<ThingName>Dị giới chi vật: Hai mươi sáu</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_food_ZhiShiXiaJuFan[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_27" sParam="Item">
+			<ThingName>Dị giới chi vật: Hai mươi bảy</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_yingyuecaozhi[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_28" sParam="Item">
+			<ThingName>Dị giới chi vật: Hai mươi tám</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_fish[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_29" sParam="Item">
+			<ThingName>Dị giới chi vật: Hai mươi chín</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_wheat_seeds[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_30" sParam="Item">
+			<ThingName>Dị giới chi vật: Ba mươi</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_small_TongTianYangNai[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_31" sParam="Item">
+			<ThingName>Dị giới chi vật: Ba mươi mốt</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_food_03[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_32" sParam="Item">
+			<ThingName>Dị giới chi vật: Ba mươi hai</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_treasure_AircraftModel[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_33" sParam="Item">
+			<ThingName>Dị giới chi vật: Ba mươi ba</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_treasure_RocketModel[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_34" sParam="Item">
+			<ThingName>Dị giới chi vật: Ba mươi bốn</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo thành bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt, nếu dùng bạo lực để mở sẽ khiến vật này hoàn toàn biến mất. Sử dụng thần thức để quan sát, có thể thấy dường như bên trong chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_treasure_SailboatModel[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_35" sParam="Item">
+			<ThingName>Dị giới chi vật: Ba mươi lăm</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo ra bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt. Nếu dùng bạo lực để mở, vật này sẽ bị hủy diệt hoàn toàn. Sử dụng thần thức để quan sát, có thể thấy bên trong dường như chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_treasure_FoldingFanOrnaments[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_36" sParam="Item">
+			<ThingName>Vật phẩm dị giới: Ba mươi sáu</ThingName>
+			<Desc>Một vật phong ấn đến từ dị giới, phong ấn này được tạo ra bằng cách pha trộn hơi thở của dị giới bằng phương pháp đặc biệt. Nếu dùng bạo lực để mở, vật này sẽ bị hủy diệt hoàn toàn. Sử dụng thần thức để quan sát, có thể thấy bên trong dường như chứa một vật kỳ lạ.\n            [img]res\Sprs\object_portia\Item_treasure_Objects11[/img]</Desc>
+		</Text>
+	</List>
+</Texts>
+

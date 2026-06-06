@@ -1,0 +1,15 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsXuanWu">
+			<DisplayName>Huyền Vũ Miêu Miêu</DisplayName>
+			<Desc>Huyền Vũ Miêu Miêu là loài sinh vật kỳ lạ tự nhiên sinh ra trong trời đất, là sự hiện thân của một quy tắc nào đó.</Desc>
+			<TalkBefore>Cách,</TalkBefore>
+			<TalkAfter>, Cách!</TalkAfter>
+		</Text>
+		<Text Name="WuDang_WuDiYa">
+			<DisplayName>Võ Đang vịt</DisplayName>
+			<Desc>Chú vịt thần kỳ từ núi Võ Đang!</Desc>
+		</Text>
+	</List>
+</Texts>
+

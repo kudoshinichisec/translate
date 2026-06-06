@@ -1,0 +1,29 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="jiaolong_baoyu">
+			<DisplayName>Mưa lớn (Giao Long)</DisplayName>
+			<StoryDesc>Trong cơn mưa lớn như thác đổ</StoryDesc>
+		</Text>
+		<Text Name="xiongfeng_lieyang">
+			<DisplayName>Thuật liệt dương (Hung Phượng)</DisplayName>
+			<StoryDesc>Trời nắng chói chang, không thể bị thay thế bởi thời tiết khác</StoryDesc>
+		</Text>
+		<Text Name="xiongfeng_suneye">
+			<DisplayName>Thái Dương Chi Nhãn</DisplayName>
+			<StoryDesc>Nhiệt độ bản đồ sẽ liên tục tăng</StoryDesc>
+		</Text>
+		<Text Name="zhulong_day">
+			<DisplayName>Dương chi vĩnh trú</DisplayName>
+		</Text>
+		<Text Name="zhulong_night">
+			<DisplayName>Âm chi vĩnh dạ</DisplayName>
+		</Text>
+		<Text Name="zhulong_day_begin">
+			<DisplayName>Dương chi vĩnh trú</DisplayName>
+		</Text>
+		<Text Name="zhulong_night_begin">
+			<DisplayName>Âm chi vĩnh dạ</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

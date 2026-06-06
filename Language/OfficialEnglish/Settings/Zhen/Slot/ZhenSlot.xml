@@ -1,0 +1,93 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Sys_Lost">
+      <DisplayName>Thất</DisplayName>
+    </Text>
+    <Text Name="Lv0_None">
+      <DisplayName>Không có</DisplayName>
+    </Text>
+    <Text Name="Lv1_Jian">
+      <DisplayName>Kiếm</DisplayName>
+    </Text>
+    <Text Name="Lv1_Fa">
+      <DisplayName>Pháp</DisplayName>
+    </Text>
+    <Text Name="Lv1_Gang">
+      <DisplayName>Cương</DisplayName>
+    </Text>
+    <Text Name="Lv1_Ren">
+      <DisplayName>Nhẫn</DisplayName>
+    </Text>
+    <Text Name="Lv2_Qian">
+      <DisplayName>Càn</DisplayName>
+    </Text>
+    <Text Name="Lv2_Kun">
+      <DisplayName>Khôn</DisplayName>
+    </Text>
+    <Text Name="Lv2_Zhen">
+      <DisplayName>Chấn</DisplayName>
+    </Text>
+    <Text Name="Lv2_Xun">
+      <DisplayName>Tốn</DisplayName>
+    </Text>
+    <Text Name="Lv2_Kan">
+      <DisplayName>Khảm</DisplayName>
+    </Text>
+    <Text Name="Lv2_Li">
+      <DisplayName>Rời đi</DisplayName>
+    </Text>
+    <Text Name="Lv2_Gen">
+      <DisplayName>Cấn</DisplayName>
+    </Text>
+    <Text Name="Lv2_Dui">
+      <DisplayName>Đoài</DisplayName>
+    </Text>
+    <Text Name="Lv3_Ri">
+      <DisplayName>Nhật</DisplayName>
+    </Text>
+    <Text Name="Lv3_Yue">
+      <DisplayName>Trăng</DisplayName>
+    </Text>
+    <Text Name="Lv3_Yin">
+      <DisplayName>Âm</DisplayName>
+    </Text>
+    <Text Name="Lv3_Yang">
+      <DisplayName>Dương</DisplayName>
+    </Text>
+    <Text Name="Lv3_Yu">
+      <DisplayName>Vũ</DisplayName>
+    </Text>
+    <Text Name="Lv3_Zhou">
+      <DisplayName>Trụ</DisplayName>
+    </Text>
+    <Text Name="Lv3_Shi">
+      <DisplayName>Thủy</DisplayName>
+    </Text>
+    <Text Name="Lv3_Zhong">
+      <DisplayName>Chung</DisplayName>
+    </Text>
+    <Text Name="Lv3_Sheng">
+      <DisplayName>Sinh</DisplayName>
+    </Text>
+    <Text Name="Lv3_Mie">
+      <DisplayName>Diệt</DisplayName>
+    </Text>
+    <Text Name="Lv3_Zao">
+      <DisplayName>Tạo</DisplayName>
+    </Text>
+    <Text Name="Lv3_Hua">
+      <DisplayName>Hóa</DisplayName>
+    </Text>
+    <Text Name="Lv4_Hong">
+      <DisplayName>Hồng</DisplayName>
+    </Text>
+    <Text Name="Lv4_Meng">
+      <DisplayName>Manh</DisplayName>
+    </Text>
+  </List>
+</Texts>
+
+
+
+
+

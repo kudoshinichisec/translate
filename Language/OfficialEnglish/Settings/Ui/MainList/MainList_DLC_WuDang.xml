@@ -1,0 +1,153 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsXuanWu_Carve">
+			<Type>Linh sủng</Type>
+		</Text>
+		<Text Name="RedWallDownLeft">
+			<Type>Cấu trúc</Type>
+			<Label>Cấu trúc đặc biệt</Label>
+		</Text>
+		<Text Name="RedWallUpLeft">
+			<Type>Cấu trúc</Type>
+			<Label>Cấu trúc đặc biệt</Label>
+		</Text>
+		<Text Name="RedWallMidUp">
+			<Type>Cấu trúc</Type>
+			<Label>Cấu trúc đặc biệt</Label>
+		</Text>
+		<Text Name="RedWallMidRight">
+			<Type>Cấu trúc</Type>
+			<Label>Cấu trúc đặc biệt</Label>
+		</Text>
+		<Text Name="RedWallVertical">
+			<Type>Cấu trúc</Type>
+			<Label>Cấu trúc đặc biệt</Label>
+		</Text>
+		<Text Name="RedWallVerticalHalf">
+			<Type>Cấu trúc</Type>
+			<Label>Cấu trúc đặc biệt</Label>
+		</Text>
+		<Text Name="RedWallHorizontal">
+			<Type>Cấu trúc</Type>
+			<Label>Cấu trúc đặc biệt</Label>
+		</Text>
+		<Text Name="RedWallDownLeftTiny">
+			<Type>Cấu trúc</Type>
+			<Label>Cấu trúc đặc biệt</Label>
+		</Text>
+		<Text Name="RedWallUpLeftTiny">
+			<Type>Cấu trúc</Type>
+			<Label>Cấu trúc đặc biệt</Label>
+		</Text>
+		<Text Name="RedWallDownLeftS">
+			<Type>Cấu trúc</Type>
+			<Label>Cấu trúc đặc biệt</Label>
+		</Text>
+		<Text Name="RedWallUpLeftS">
+			<Type>Cấu trúc</Type>
+			<Label>Cấu trúc đặc biệt</Label>
+		</Text>
+		<Text Name="RedWallMidUpS">
+			<Type>Cấu trúc</Type>
+			<Label>Cấu trúc đặc biệt</Label>
+		</Text>
+		<Text Name="RedWallMidRightS">
+			<Type>Cấu trúc</Type>
+			<Label>Cấu trúc đặc biệt</Label>
+		</Text>
+		<Text Name="RedWallVerticalS">
+			<Type>Cấu trúc</Type>
+			<Label>Cấu trúc đặc biệt</Label>
+		</Text>
+		<Text Name="RedWallVerticalHalfS">
+			<Type>Cấu trúc</Type>
+			<Label>Cấu trúc đặc biệt</Label>
+		</Text>
+		<Text Name="RedWallHorizontalS">
+			<Type>Cấu trúc</Type>
+			<Label>Cấu trúc đặc biệt</Label>
+		</Text>
+		<Text Name="RedWallDownLeftTinyS">
+			<Type>Cấu trúc</Type>
+			<Label>Cấu trúc đặc biệt</Label>
+		</Text>
+		<Text Name="RedWallUpLeftTinyS">
+			<Type>Cấu trúc</Type>
+			<Label>Cấu trúc đặc biệt</Label>
+		</Text>
+		<Text Name="ZhenWuCarve">
+			<Type>Trang trí</Type>
+			<Label>Tượng điêu khắc</Label>
+		</Text>
+		<Text Name="TurTleMonu">
+			<Type>Trang trí</Type>
+			<Label>Tượng điêu khắc</Label>
+		</Text>
+		<Text Name="IncenseTripod">
+			<Type>Trang trí</Type>
+			<Label>Nội thất.</Label>
+		</Text>
+		<Text Name="RedWallGate">
+			<Type>Môn phái</Type>
+		</Text>
+		<Text Name="RedWallDrum">
+			<Type>Trang trí</Type>
+			<Label>Phong vật</Label>
+		</Text>
+		<Text Name="WuDangBigGate">
+			<Type>Môn phái</Type>
+		</Text>
+		<Text Name="WuDangScreen">
+			<Type>Trang trí</Type>
+			<Label>Nội thất.</Label>
+		</Text>
+		<Text Name="WuDangFlag">
+			<Type>Trang trí</Type>
+			<Label>Phong vật</Label>
+		</Text>
+		<Text Name="WuDangXiangLu">
+			<Type>Trang trí</Type>
+			<Label>Nội thất.</Label>
+		</Text>
+		<Text Name="WuDangPuTuan">
+			<Type>Môn phái</Type>
+		</Text>
+		<Text Name="WuDangXianHeDeng">
+			<Type>Trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="WuDangDivine">
+			<Type>Trang trí</Type>
+			<Label>Phong vật</Label>
+		</Text>
+		<Text Name="WuDangXuanWuDeng">
+			<Type>Trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Building_ChaShu1">
+			<Type>Trang trí</Type>
+			<Label>Gỗ kỳ lạ</Label>
+		</Text>
+		<Text Name="Building_ChaShu2">
+			<Type>Trang trí</Type>
+			<Label>Gỗ kỳ lạ</Label>
+		</Text>
+		<Text Name="Building_WuDangSong1">
+			<Type>Trang trí</Type>
+			<Label>Gỗ kỳ lạ</Label>
+		</Text>
+		<Text Name="Building_WuDangSong2">
+			<Type>Trang trí</Type>
+			<Label>Gỗ kỳ lạ</Label>
+		</Text>
+		<Text Name="Building_WuDangSong3">
+			<Type>Trang trí</Type>
+			<Label>Gỗ kỳ lạ</Label>
+		</Text>
+		<Text Name="Building_WuDangSong4">
+			<Type>Trang trí</Type>
+			<Label>Gỗ kỳ lạ</Label>
+		</Text>
+	</List>
+</Texts>
+

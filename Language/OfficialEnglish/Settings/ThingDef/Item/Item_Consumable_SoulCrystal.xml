@@ -1,0 +1,28 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_SoulCrystalBase" sParam="Item">
+			<Item.FabaoSuffix>Phách</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SoulCrystalYou" sParam="Item">
+			<ThingName>U phách</ThingName>
+			<Desc>Kết tinh linh hồn u ám, chứa đựng một số ký ức đau khổ còn sót lại.</Desc>
+		</Text>
+		<Text Name="Item_SoulCrystalNing" sParam="Item">
+			<ThingName>Ninh phách</ThingName>
+			<Desc>Kết tinh linh hồn yên bình, chứa đựng một số ký ức còn sót lại.</Desc>
+		</Text>
+		<Text Name="Item_SoulCrystalLing" sParam="Item">
+			<ThingName>Linh phách</ThingName>
+			<Desc>Kết tinh linh hồn trong suốt, chứa đựng một số ký ức hạnh phúc còn sót lại.</Desc>
+		</Text>
+		<Text Name="Item_SoulCrystalYuanLing" sParam="Item">
+			<ThingName>Nguyên linh chi phách</ThingName>
+			<Desc>Nguyên linh chi phách là tia huyền diệu sót lại từ tinh quái sinh ra ý thức, do thiên đạo bỏ sót mà ngưng tụ.</Desc>
+		</Text>
+		<Text Name="Item_Yao_CatSoul" sParam="Item">
+			<ThingName>Miêu Yêu Chi Phách</ThingName>
+			<Desc>Mảnh linh hồn mèo yêu, có thể liên quan đến truyền thuyết mèo có chín mạng, chứa đựng một số sức mạnh huyền diệu. Uống vào có thể tăng thêm một phân thần. Vật này chỉ có thể dùng một lần trong đời, chỉ hiệu quả với người tu hành đạt nguyên thần kỳ.</Desc>
+		</Text>
+	</List>
+</Texts>
+

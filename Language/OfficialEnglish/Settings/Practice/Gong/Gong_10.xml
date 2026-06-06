@@ -1,0 +1,27 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_10_Huo">
+			<DisplayName>Tam Dương Tam Muội Bính Đinh Luyện Hỏa Quyết</DisplayName>
+			<Desc>Một trong năm chân quyết Ngũ Hành trấn phái của Thái Nhất Môn, mượn kinh lược Tam Dương (Thiếu Dương, Dương Minh, Thái Dương), ngưng tụ tam tài Thiên Địa Nhân chi hỏa, không thứ gì không cháy, cực kỳ phá hoại. Nhưng quá trình tu luyện rất nguy hiểm, một khi sơ suất, chân hỏa phản phệ, thậm chí thần hình câu diệt.</Desc>
+			<SelectDesc>Công pháp này giỏi tấn công thuật pháp, nhưng khi đột phá nút thắt cần đối mặt với rủi ro lớn. Có nên chọn tu luyện công pháp này không?</SelectDesc>
+			<Stages.0.DisplayName>Nhân Hỏa Chi Cảnh</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Hỏa Chủng</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>Cảm nhận hỏa chủng bẩm sinh trong cơ thể và dẫn nó bùng cháy, đây là khởi đầu của tu luyện. [color=#D06508]\nMột khi thất bại có thể gây tổn thương kinh mạch.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Nhân Hỏa</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>Lấy chân hỏa ngưng tụ Huyền Quan, thắp sáng hỏa trên đỉnh đầu, giao tiếp trời đất. [color=#D06508]\nMột khi thất bại chân hỏa tràn ra có thể gây đau đớn toàn thân máu thịt, khổ không nói hết.[/color]</Stages.0.Necks.1.Desc>
+			<Stages.1.DisplayName>Địa Hỏa Chi Cảnh</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Thác Việt</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>Sử dụng chân hỏa luyện đốt toàn bộ xương cốt, lấy thân thể làm Thác Việt, thúc đẩy thần phong, chuẩn bị cho việc ngưng luyện Địa Hỏa Chân Đan. [color=#D06508]\nMột khi thất bại chân hỏa xâm nhập xương cốt, sẽ chịu hình phạt khô tủy, cần thận trọng khi đột phá.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Địa Hỏa</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>Thiên Hỏa Chi Cảnh</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Nhiên Đăng</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>Sử dụng toàn bộ chân nguyên trong cơ thể ngưng tụ vào tim, thắp sáng tâm hỏa. [color=#D06508]\nMột khi thất bại sẽ gây nổ chân khí, chịu hình phạt đốt tim. Khi đột phá phải chuẩn bị đầy đủ.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Thiên Hỏa</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>Thần Hỏa Chi Cảnh</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Khuy Thiên</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>Lấy Nguyên Thần lĩnh hội huyền diệu của Thiên Đạo, một khi vượt qua cửa ải này, sẽ đối diện trực tiếp với thiên kiếp. [color=#D06508]\nNút thắt này rất khó vượt qua, không có kinh nghiệm cộng thêm.[/color]</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Phi thăng</Stages.3.Necks.1.DisplayName>
+		</Text>
+	</List>
+</Texts>
+

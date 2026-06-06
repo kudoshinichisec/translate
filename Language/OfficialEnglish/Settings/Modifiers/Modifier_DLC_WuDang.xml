@@ -1,0 +1,37 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_Magic_XuanWuHeart">
+			<DisplayName>Tĩnh Tâm Nạp Khí</DisplayName>
+			<Desc>Trong ba ngày không cần ăn uống, cũng không cảm thấy mệt mỏi, nhưng tốc độ di chuyển bị chậm lại.</Desc>
+		</Text>
+		<Text Name="Modifier_XuanWuShield">
+			<DisplayName>Huyền giáp hộ thể</DisplayName>
+			<Desc>Trong thời gian ngắn tăng mạnh độ bền của linh khí hộ thể và bí thể.</Desc>
+		</Text>
+		<Text Name="Modifier_XuanWuBreak">
+			<DisplayName>Chân Vũ phá thể</DisplayName>
+			<Desc>Trong thời gian ngắn, giảm mạnh độ bền của khiên linh khí và thể chất bí mật.</Desc>
+		</Text>
+		<Text Name="Modifier_JinFish">
+			<DisplayName>Tinh Hoa Kim Ngao</DisplayName>
+			<Desc>Trong thời gian ngắn, tăng cường khiên linh khí và độ bền thể chất bí mật.</Desc>
+		</Text>
+		<Text Name="Modifier_LongTou1">
+			<DisplayName>Tâm cảnh thanh tịnh</DisplayName>
+			<Desc>Thành tâm cầu phúc trong lễ hội Long Đầu Hương hàng năm, tâm cảnh được nâng cao đôi chút.</Desc>
+		</Text>
+		<Text Name="Modifier_LongTou2">
+			<DisplayName>Tiến thêm một bước</DisplayName>
+			<Desc>Thành tâm cầu phúc trong lễ hội Long Đầu Hương hàng năm, xác suất đột phá bình cảnh tăng lên đáng kể.</Desc>
+		</Text>
+		<Text Name="Modifier_LongTou3">
+			<DisplayName>Gặp hung hóa cát</DisplayName>
+			<Desc>Thành tâm cầu phúc trong lễ hội Long Đầu Hương hàng năm, phòng thủ được tăng lên đôi chút.</Desc>
+		</Text>
+		<Text Name="Modifier_LongTou5">
+			<DisplayName>Dày vò tham lam</DisplayName>
+			<Desc>Cầu phúc một cách tham lam trong lễ hội Long Đầu Hương hàng năm, dù nhận được nhiều phúc lành nhưng cũng bị trừng phạt thần bí, năm thuộc tính bị giảm mạnh.</Desc>
+		</Text>
+	</List>
+</Texts>
+

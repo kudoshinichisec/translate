@@ -1,0 +1,29 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="LsPanda_Carve" sParam="Building">
+			<ThingName>Tượng Thiên Mạc</ThingName>
+			<Desc>Tượng Thiên Mạc. Có thể được sử dụng để hồi sinh hoặc triệu hồi Thiên Mạc.</Desc>
+		</Text>
+		<Text Name="BambooBed" sParam="Building">
+			<ThingName>Giường tre</ThingName>
+			<Desc>Một chiếc giường tre mát mẻ dành cho một người, giúp ngươi có một giấc ngủ ngon.</Desc>
+		</Text>
+		<Text Name="Building_BambooScreen1" sParam="Building">
+			<ThingName>Bình phong tre</ThingName>
+		</Text>
+		<Text Name="Building_WaterWheel" sParam="Building">
+			<ThingName>thủy xa</ThingName>
+		</Text>
+		<Text Name="Building_BambooScreen2" sParam="Building">
+			<ThingName>Bình phong tre</ThingName>
+		</Text>
+		<Text Name="BambooLight" sParam="Building">
+			<ThingName>Trụ đèn tre</ThingName>
+			<Desc>Công trình chiếu sáng tinh xảo, sẽ phát sáng vào ban đêm, soi sáng khu vực xung quanh.</Desc>
+		</Text>
+		<Text Name="Building_BambooPavilion" sParam="Building">
+			<ThingName>Đình tre</ThingName>
+		</Text>
+	</List>
+</Texts>
+

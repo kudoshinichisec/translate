@@ -1,0 +1,46 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Boss_PartFight">
+			<DisplayName>Thuộc tính chiến đấu vị trí chung của BOSS</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong">
+			<DisplayName>Giao Long</DisplayName>
+		</Text>
+		<Text Name="Boss_JiaolongFight">
+			<DisplayName>Thuộc tính chiến đấu giao long</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong_Part">
+			<DisplayName>Vị trí giao long</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong_Part1">
+			<DisplayName>Vị trí giao long yếu</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong_JiSiGongYang">
+			<DisplayName>Trưởng thành</DisplayName>
+			<Desc>Yêu long nhận sức mạnh từ lễ vật, linh khí trở nên dồi dào hơn.</Desc>
+		</Text>
+		<Text Name="Boss_Jiaolong_Shuiling">
+			<DisplayName>Thủy Linh Chi Lực</DisplayName>
+			<Desc>Tích tụ Thủy Linh Chi Lực, đạt 100 tầng sẽ giải phóng quốc đầm.</Desc>
+		</Text>
+		<Text Name="Boss_Jiaolong_LongNu">
+			<DisplayName>Long nộ</DisplayName>
+			<Desc>Yêu long bước vào trạng thái tức giận, tất cả thuộc tính tăng lên.</Desc>
+		</Text>
+		<Text Name="Boss_Jiaolong_Longxi">
+			<DisplayName>Long Hấp Thuật</DisplayName>
+			<Desc>Yêu long hít một hơi sâu, nước trong cơ thể nhân vật đang nhanh chóng mất đi!</Desc>
+		</Text>
+		<Text Name="Boss_Jiaolong_zhenlong">
+			<DisplayName>Chân long</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong_fanshi">
+			<DisplayName>Nuốt-Giao long phản nuốt</DisplayName>
+			<Desc>Sau một thời gian sẽ phản phệ pháp bảo, linh khí pháp bảo giảm một nửa, hiệu quả pháp bảo thuộc tính hỏa tăng gấp đôi, hiệu quả pháp bảo thuộc tính thổ giảm một nửa.</Desc>
+		</Text>
+		<Text Name="Boss_Jiaolong2">
+			<DisplayName>Giao Long</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,46 @@
+妖韧皮休闲衣衫	Áo da yêu thú hưu nhàn
+妖韧皮修行下裳	Quần Tu Hành Da Yêu Nhẫn
+大理石环	Vòng đá cẩm thạch
+火铜矿石	Quặng Hoả Đồng
+幻空问心碑	Huyễn Không Vấn Tâm Bi
+粪便	Phân
+己土饮血屎	Kỷ Thổ Ẩm Huyết Thỉ
+大理石长枪	Thương dài đá cẩm thạch
+戊土问心枪	Grim Vấn Tâm Thương
+佩戴者可以提高抵御水属性伤害之力。	Người đeo có thể tăng lực kháng tổn thương thuộc tính Thủy.
+水甲符	Thủy Giáp Phù
+佩戴者可以提高护体之力。	Người đeo có thể tăng lực hộ thể.
+玄甲符	Huyền Giáp phù
+可以大幅提高炎热抵抗的符咒。	Là phù chú có thể tăng mạnh khả năng chống nóng.
+太阴符	Thái âm phù
+角色出生点	Điểm sinh nhân vật
+逻辑点	Điểm logic
+灵石装饰书架	Giá sách trang trí Linh thạch
+大理石墙	Tường đá cẩm thạch
+灵石昆仑坊	Linh thạch Côn Lôn Phường
+灵石墙	Linh thạch tường
+大理石鼎	Đỉnh đá cẩm thạch
+玉石桌子	Bàn đá ngọc
+大理石门	Cổng đá cẩm thạch
+守藏室	Phòng giữ kho
+灵石碑	Bia Linh thạch
+木栅栏	Hàng rào gỗ
+大理石火鼎	Đỉnh lửa đá cẩm thạch
+李	Lý
+悬	Treo
+薄	Bạc
+榕	Dung
+舒	Thư
+友巧	Hữu Xảo
+蒲	Bồ
+妍	Nghiên
+无尽学海摆渡者	Người chèo đò Biển Học Vô Tận
+晁杰上仙十二都天真言	Thượng Tiên Triệu Kiệt Thập Nhị Đô Thiên Chân Ngôn
+冷月金刚咒	Lãnh Nguyệt Kim Cương Chú
+现在贤燃灵咒	Hiện tại hiền nhiên linh chú
+玄金陨星神雷	Huyền Kim Vẫn Tinh Thần Lôi
+俞凝眉真人通天	Du Ngưng My Chân Nhân Thông Thiên
+我在这里看守知识的海洋已经一万年，时光在此冻结，我有幸见证了无数王朝的更迭。	Ta đã canh giữ đại dương tri thức ở đây một vạn năm, thời gian tại đây ngưng đọng, ta may mắn được chứng kiến vô số triều đại đổi thay.
+一万年来，万物变迁，沧海桑田。唯一不变的就是凡人的愚蠢，这是连我在内的所有人都无法逃避的宿命……	Mười ngàn năm qua, vạn vật thay đổi, biển cả hóa ruộng dâu. Chỉ có sự ngu ngốc của phàm nhân là không đổi, đây là số mệnh mà mọi người, kể cả ta, đều không thể tránh khỏi..
+
+

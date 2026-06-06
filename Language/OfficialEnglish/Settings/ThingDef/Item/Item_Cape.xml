@@ -1,0 +1,64 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_CapeBase" sParam="Item">
+			<Item.FabaoSuffix>Lụa, sa, la</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Cape_Nomal1" sParam="Item">
+			<ThingName>Hỏa Văn Phi Phong</ThingName>
+			<Desc>Áo choàng trang trí, kiểu dáng phổ biến trong giới tu hành.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Nomal2" sParam="Item">
+			<ThingName>Vân Văn Phi Phong</ThingName>
+			<Desc>Áo choàng trang trí, kiểu dáng phổ biến trong giới tu hành.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Nomal3" sParam="Item">
+			<ThingName>U Văn Phi Phong</ThingName>
+			<Desc>Áo choàng trang trí, kiểu dáng phổ biến trong giới tu hành.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Nomal4" sParam="Item">
+			<ThingName>Minh Văn Phi Phong</ThingName>
+			<Desc>Áo choàng trang trí, kiểu dáng phổ biến trong giới tu hành.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp1" sParam="Item">
+			<ThingName>Chu lưu</ThingName>
+			<Desc>Áo choàng trang trí hoa văn tinh xảo, là biểu tượng của người chiến thắng trong pháp hội đấu pháp tại Côn Lôn.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp2" sParam="Item">
+			<ThingName>Tàn tro thiên hỏa</ThingName>
+			<Desc>Biểu tượng chiến thắng Hung Phượng. Hoa văn trên đó là sự thể hiện tự nhiên của tinh hoa bên trong Hung Phượng, trông rất huyền diệu.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp3" sParam="Item">
+			<ThingName>Mây lạnh quét tuyết</ThingName>
+			<Desc>Biểu tượng chiến thắng Giao Long. Hoa văn trên đó là sự thể hiện tự nhiên của tinh hoa bên trong Giao Long, trông rất huyền diệu.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp4" sParam="Item">
+			<ThingName>Tạo hóa</ThingName>
+			<Desc>Áo choàng trang trí hoa văn tinh xảo, là biểu tượng của người chiến thắng trong pháp hội luyện khí tại Côn Lôn.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp5" sParam="Item">
+			<ThingName>Đan Hy</ThingName>
+			<Desc>Áo choàng trang trí hoa văn tinh xảo, là biểu tượng của người chiến thắng trong pháp hội luyện đan tại Côn Lôn.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp6" sParam="Item">
+			<ThingName>Bất Doanh</ThingName>
+			<Desc>Áo choàng trang trí hoa văn tinh xảo, là biểu tượng của người chiến thắng trong pháp hội luận kiếm tại Côn Lôn.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp7" sParam="Item">
+			<ThingName>Vạn tượng sinh tích</ThingName>
+			<Desc>Áo choàng trang trí đến từ dị giới, mang ý nghĩa đông đi xuân đến, vạn vật sinh sôi.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp8" sParam="Item">
+			<ThingName>U Si hóa ảnh</ThingName>
+			<Desc>Biểu tượng chiến thắng Chúc Long. Hoa văn trên đó là sự thể hiện tự nhiên của tinh hoa hỗn độn bên trong Chúc Long, biểu hiện Âm, trông rất huyền diệu.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp9" sParam="Item">
+			<ThingName>Minh Vũ hàm quang</ThingName>
+			<Desc>Biểu tượng chiến thắng Chúc Long. Hoa văn trên đó là sự thể hiện tự nhiên của tinh hoa hỗn độn bên trong Chúc Long, biểu hiện Dương, trông rất huyền diệu.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp10" sParam="Item">
+			<ThingName>Đạo Kỷ</ThingName>
+			<Desc>Áo choàng trang trí hoa văn tinh xảo, là biểu tượng của người chiến thắng trong pháp hội luận đạo tại Côn Lôn. Câu nói: "Giữ lấy đạo cổ, để điều khiển hiện tại, có thể biết được khởi đầu xưa, gọi là Đạo Kỷ."</Desc>
+		</Text>
+	</List>
+</Texts>
+

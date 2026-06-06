@@ -1,0 +1,8 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Npc_Puppet" sParam="Npc">
+			<Desc>Một con rối</Desc>
+		</Text>
+	</List>
+</Texts>
+

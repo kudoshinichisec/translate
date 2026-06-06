@@ -1,0 +1,570 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Drink1">
+			<DisplayName>Uống nước bẩn</DisplayName>
+			<Desc>Khi uống nước dường như ta thấy có thứ gì đó đang bơi.</Desc>
+			<StoryDesc>Vừa vì uống nước bẩn mà nôn khan hai lần.</StoryDesc>
+		</Text>
+		<Text Name="Dan_Happiness">
+			<DisplayName>Cảm giác như tiên</DisplayName>
+			<Desc>Cảm thấy thân tâm cực kỳ thư giãn, thật hạnh phúc, chẳng muốn làm gì cả.</Desc>
+			<StoryDesc>Đang tràn đầy hạnh phúc vì niềm vui cực độ.</StoryDesc>
+		</Text>
+		<Text Name="Eat1">
+			<DisplayName>Thức ăn kinh tởm</DisplayName>
+			<Desc>Những thứ này có ăn được không? Tại sao ta phải ăn chúng, thật kinh tởm…</Desc>
+			<StoryDesc>Đang cảm thấy buồn nôn vì vừa ăn thứ gì đó.</StoryDesc>
+		</Text>
+		<Text Name="Eat3">
+			<DisplayName>Vị như sáp nến</DisplayName>
+			<Desc>Mùi vị của thứ này đúng là một thảm họa.</Desc>
+			<StoryDesc>Đang mang vẻ mặt nghiêm trọng vì vừa ăn thứ gì đó.</StoryDesc>
+		</Text>
+		<Text Name="Eat4">
+			<DisplayName>Ăn đồ sống</DisplayName>
+			<Desc>Ăn thực phẩm sống, thật khó nuốt.</Desc>
+			<StoryDesc>Đang cảm thấy khó chịu vì ăn nguyên liệu sống.</StoryDesc>
+		</Text>
+		<Text Name="Eat5">
+			<DisplayName>Ăn đất</DisplayName>
+			<Desc>Ta thực sự quá đói, chỉ có thể ăn đất, nói thật ta còn sống được bao lâu?</Desc>
+			<StoryDesc>Đang cảm thấy tuyệt vọng vì đói đến mức ăn đất.</StoryDesc>
+		</Text>
+		<Text Name="Eat6">
+			<DisplayName>Ăn no rồi</DisplayName>
+			<Desc>Ăn uống khá tốt, rất no và đầy đủ.</Desc>
+			<StoryDesc>Vừa vì ăn no mà ợ một cái.</StoryDesc>
+		</Text>
+		<Text Name="Eat7">
+			<DisplayName>Bữa cơm gia đình</DisplayName>
+			<Desc>Hương vị rất tuyệt, ăn rất hài lòng.</Desc>
+			<StoryDesc>Đang mang vẻ mặt hài lòng vì vừa ăn một bữa cơm gia đình.</StoryDesc>
+		</Text>
+		<Text Name="Eat8">
+			<DisplayName>Món ngon</DisplayName>
+			<Desc>[TXT] thật sự quá ngon, ta cảm thấy rất hạnh phúc.</Desc>
+			<StoryDesc>Đang mang vẻ mặt hạnh phúc vì vừa ăn món ngon.</StoryDesc>
+		</Text>
+		<Text Name="Eat9">
+			<DisplayName>Tuyệt phẩm ẩm thực</DisplayName>
+			<Desc>[TXT] thật sự là thức ăn nhân gian sao! Ta không muốn tu tiên nữa!</Desc>
+			<StoryDesc>Đang đắm chìm trong mỹ vị vừa thưởng thức.</StoryDesc>
+		</Text>
+		<Text Name="Eat10">
+			<DisplayName>Thức ăn thô sơ</DisplayName>
+			<Desc>Hôm nay ăn [TXT] thật sự thô sơ, nếu có thể ta không muốn ăn những thứ như vậy nữa.</Desc>
+			<StoryDesc>Đang cảm thấy không hài lòng vì vừa ăn thứ thô sơ.</StoryDesc>
+		</Text>
+		<Text Name="Eat11">
+			<DisplayName>Một bữa ăn tạm bợ</DisplayName>
+			<Desc>Hôm nay ăn [TXT] thật sự rất bình thường, muốn ăn thứ gì đó ngon hơn.</Desc>
+			<StoryDesc>Đang cảm thấy hơi không hài lòng vì vừa ăn bữa ăn quá đơn giản.</StoryDesc>
+		</Text>
+		<Text Name="Eat12">
+			<DisplayName>Ăn phân</DisplayName>
+			<Desc>Ta rốt cuộc đã tạo nghiệp gì…</Desc>
+			<StoryDesc>Đang ngẩn người vì vừa ăn phân.</StoryDesc>
+		</Text>
+		<Text Name="Sleep1">
+			<DisplayName>Ngủ đủ giấc</DisplayName>
+			<Desc>Một giấc ngủ rất tốt, tinh thần tràn đầy năng lượng.</Desc>
+			<StoryDesc>Đang tràn đầy năng lượng vì vừa ngủ ngon.</StoryDesc>
+		</Text>
+		<Text Name="Sleep2">
+			<DisplayName>Ác mộng</DisplayName>
+			<Desc>Gặp ác mộng, ngủ không ngon…</Desc>
+			<StoryDesc>Đang mang vẻ mặt mệt mỏi vì gặp ác mộng suốt đêm.</StoryDesc>
+		</Text>
+		<Text Name="Sleep8">
+			<DisplayName>Giấc mơ đẹp</DisplayName>
+			<Desc>Gặp giấc mơ đẹp, thật tuyệt…</Desc>
+			<StoryDesc>Đang mang vẻ mặt hồi tưởng vì vừa gặp giấc mơ đẹp.</StoryDesc>
+		</Text>
+		<Text Name="Sleep3">
+			<DisplayName>Bị quấy rầy khi ngủ</DisplayName>
+			<Desc>Luôn cảm thấy có thứ gì đó hoạt động xung quanh, không ngủ yên.</Desc>
+			<StoryDesc>Đang ngáp vì bị quấy rầy khi ngủ.</StoryDesc>
+		</Text>
+		<Text Name="Sleep4">
+			<DisplayName>Cảm thấy lạnh khi ngủ</DisplayName>
+			<Desc>Lạnh quá, tỉnh dậy nhiều lần, ngủ không ngon.</Desc>
+			<StoryDesc>Đang cảm thấy tinh thần không phấn chấn vì trời lạnh khiến ngủ không ngon.</StoryDesc>
+		</Text>
+		<Text Name="Sleep5">
+			<DisplayName>Cảm thấy nóng khi ngủ</DisplayName>
+			<Desc>Nóng quá, tỉnh dậy nhiều lần, ngủ không ngon.</Desc>
+			<StoryDesc>Đang cảm thấy tinh thần uể oải vì trời nóng khiến ngủ không ngon.</StoryDesc>
+		</Text>
+		<Text Name="Sleep6">
+			<DisplayName>Ngủ trên mặt đất</DisplayName>
+			<Desc>Ngủ trên sàn cả đêm, toàn thân như sắp rã rời.</Desc>
+			<StoryDesc>Đang cảm thấy toàn thân đau nhức vì ngủ trên sàn cả đêm.</StoryDesc>
+		</Text>
+		<Text Name="Sleep7">
+			<DisplayName>Ngủ ngoài trời</DisplayName>
+			<Desc>Ngủ ngoài trời, cả đêm lo lắng sợ hãi, ngủ không ngon.</Desc>
+			<StoryDesc>Đang âm thầm phàn nàn vì ngủ ngoài trời.</StoryDesc>
+		</Text>
+		<Text Name="Work">
+			<DisplayName>Công việc thú vị</DisplayName>
+			<Desc>[TXT] thật thú vị, khiến người ta tận hưởng.</Desc>
+			<StoryDesc>Đang cảm thấy hài lòng vì vừa làm công việc thú vị.</StoryDesc>
+		</Text>
+		<Text Name="FavoriteWork">
+			<DisplayName>Công việc cuốn hút</DisplayName>
+			<Desc>[TXT] thật sự hấp dẫn, đắm chìm trong đó đến mức không nhận ra thời gian trôi qua.</Desc>
+			<StoryDesc>Đang cảm thấy tiếc nuối vì vừa làm công việc cuốn hút.</StoryDesc>
+		</Text>
+		<Text Name="SocialContact9">
+			<DisplayName>Được chữa lành</DisplayName>
+			<Desc>Được [TXT] làm tan chảy bằng sự dịu dàng, cảm thấy được chữa lành.</Desc>
+			<StoryDesc>Vừa được ai đó chữa lành bằng sự dịu dàng.</StoryDesc>
+		</Text>
+		<Text Name="SocialContact14">
+			<DisplayName>Tỏ tình bị từ chối</DisplayName>
+			<Desc>Tỏ tình với [TXT], bị từ chối rồi, thật đau lòng.</Desc>
+			<StoryDesc>Đang chìm đắm trong nỗi đau thất bại khi tỏ tình.</StoryDesc>
+		</Text>
+		<Text Name="SocialContact15">
+			<DisplayName>Trở thành người yêu</DisplayName>
+			<Desc>Trở thành người yêu với [TXT], cảm thấy thật hạnh phúc.</Desc>
+			<StoryDesc>Đang chìm đắm trong niềm hạnh phúc vì tỏ tình thành công.</StoryDesc>
+		</Text>
+		<Text Name="Death1">
+			<DisplayName>Có người chết</DisplayName>
+			<Desc>Có người chết, cảm thấy hơi buồn.</Desc>
+			<StoryDesc>Đang cảm thấy hơi buồn vì sự sống mất đi.</StoryDesc>
+		</Text>
+		<Text Name="Death2">
+			<DisplayName>Đồng môn qua đời</DisplayName>
+			<Desc>Một đồng môn đã chết, thật buồn…</Desc>
+			<StoryDesc>Đang cảm thấy buồn vì đồng môn qua đời.</StoryDesc>
+		</Text>
+		<Text Name="Death3">
+			<DisplayName>Bằng Hữu qua đời</DisplayName>
+			<Desc>[TXT]… sao ngươi lại ra đi, nhớ những khoảng thời gian chúng ta bên nhau…</Desc>
+			<StoryDesc>Vừa lau nước mắt vì nhớ đến Bằng Hữu đã qua đời.</StoryDesc>
+		</Text>
+		<Text Name="Death4">
+			<DisplayName>Người yêu qua đời</DisplayName>
+			<Desc>Tại sao! Trời cao tại sao lại đối xử với ta như vậy… thật đau khổ… [TXT]… ta nhớ ngươi rất nhiều.</Desc>
+			<StoryDesc>Vừa đau khổ vô cùng vì nhớ đến người yêu đã qua đời.</StoryDesc>
+		</Text>
+		<Text Name="Death5">
+			<DisplayName>Thú cưng qua đời</DisplayName>
+			<Desc>[TXT] đáng yêu của ta, ngươi đã ở bên ta lâu như vậy, cuối cùng cũng rời xa ta.</Desc>
+			<StoryDesc>Đang rất nhớ nhung vì thú cưng qua đời.</StoryDesc>
+		</Text>
+		<Text Name="Death6">
+			<DisplayName>Người thân qua đời</DisplayName>
+			<Desc>Người thân của ta [TXT] đã qua đời, điều này khiến ta cảm thấy cô đơn và buồn bã.</Desc>
+			<StoryDesc>Đang chìm đắm trong nỗi đau mất người thân.</StoryDesc>
+		</Text>
+		<Text Name="Death7">
+			<DisplayName>Kẻ thù chết</DisplayName>
+			<Desc>[TXT] tên đáng chết này, cuối cùng cũng chết rồi.</Desc>
+			<StoryDesc>Đang vỗ tay vui mừng vì kẻ thù chết.</StoryDesc>
+		</Text>
+		<Text Name="Death8">
+			<DisplayName>Đồng môn qua đời</DisplayName>
+			<Desc>[TXT] của ta đã mãi mãi rời xa chúng ta…</Desc>
+			<StoryDesc>Đang cảm thấy rất đau buồn vì đồng môn qua đời.</StoryDesc>
+		</Text>
+		<Text Name="TaoismPractice1">
+			<DisplayName>Đang trên bờ vực đột phá</DisplayName>
+			<Desc>Ta cảm thấy cảnh giới của mình sắp đột phá!</Desc>
+			<StoryDesc>Đang tràn đầy động lực vì tu luyện đến bờ vực đột phá.</StoryDesc>
+		</Text>
+		<Text Name="TaoismPractice2">
+			<DisplayName>Đột phá thành công</DisplayName>
+			<Desc>Đột phá thành công rồi, tu vi lại tiến thêm một bước, rất vui.</Desc>
+			<StoryDesc>Đang cảm thấy đắc ý vì đột phá cảnh giới thành công.</StoryDesc>
+		</Text>
+		<Text Name="TaoismPractice3">
+			<DisplayName>Đột phá thất bại</DisplayName>
+			<Desc>Tiếc quá, đột phá cảnh giới thất bại rồi…</Desc>
+			<StoryDesc>Đang cảm thấy tiếc nuối vì thất bại trong đột phá cảnh giới.</StoryDesc>
+		</Text>
+		<Text Name="TaoismPractice4">
+			<DisplayName>Thiên kiếp sắp đến</DisplayName>
+			<Desc>Ta cảm thấy thiên kiếp của mình sắp đến, hồi hộp.</Desc>
+			<StoryDesc>Đang cảm thấy hơi bất an vì đối mặt thiên kiếp.</StoryDesc>
+		</Text>
+		<Text Name="TaoismPractice5">
+			<DisplayName>Vượt kiếp thành công</DisplayName>
+			<Desc>Vượt kiếp thành công rồi!</Desc>
+			<StoryDesc>Đang vui mừng rạng rỡ vì vượt kiếp thành công.</StoryDesc>
+		</Text>
+		<Text Name="TaoismPractice6">
+			<DisplayName>Vượt kiếp thất bại</DisplayName>
+			<Desc>Ư… vượt kiếp thất bại, tổn thất nặng nề…</Desc>
+			<StoryDesc>Đang cảm thấy tuyệt vọng vì vượt kiếp thất bại.</StoryDesc>
+		</Text>
+		<Text Name="MakeArt">
+			<DisplayName>Tác phẩm nghệ thuật</DisplayName>
+			<Desc>Đã tạo ra một tác phẩm nghệ thuật, đây là tâm huyết của ta!</Desc>
+			<StoryDesc>Đang hài lòng gật đầu vì tạo ra một tác phẩm tuyệt vời.</StoryDesc>
+		</Text>
+		<Text Name="Health1">
+			<DisplayName>Bị thương</DisplayName>
+			<Desc>Bị thương rồi, đau quá…</Desc>
+			<StoryDesc>Đang nhăn nhó vì bị thương.</StoryDesc>
+		</Text>
+		<Text Name="Health2">
+			<DisplayName>Bị bệnh</DisplayName>
+			<Desc>Bị bệnh rồi, khó chịu quá…</Desc>
+			<StoryDesc>Đang mang vẻ mặt đau khổ vì bị bệnh.</StoryDesc>
+		</Text>
+		<Text Name="Health3">
+			<DisplayName>Bị tàn tật</DisplayName>
+			<Desc>Bị tàn tật rồi… cảm thấy tương lai tối tăm…</Desc>
+			<StoryDesc>Đang mang vẻ mặt u ám vì trở thành người tàn tật.</StoryDesc>
+		</Text>
+		<Text Name="SeeSomething1">
+			<DisplayName>Thấy thi thể</DisplayName>
+			<Desc>Ta thấy một thi thể đặt ở vị trí dễ thấy.</Desc>
+			<StoryDesc>Đang cảm thấy không thoải mái vì vừa thấy thi thể.</StoryDesc>
+		</Text>
+		<Text Name="SeeSomething2">
+			<DisplayName>Thấy vết máu</DisplayName>
+			<Desc>Một vũng máu… không thoải mái…</Desc>
+			<StoryDesc>Đang mang vẻ mặt khó chịu vì vừa thấy vết máu khắp nơi.</StoryDesc>
+		</Text>
+		<Text Name="NotBury">
+			<DisplayName>Không được chôn cất</DisplayName>
+			<Desc>Chúng ta không thể chôn cất [TXT] một cách đàng hoàng.</Desc>
+			<StoryDesc>Đang cảm thấy bất bình vì đồng môn quá cố không được chôn cất tử tế.</StoryDesc>
+		</Text>
+		<Text Name="SayHi">
+			<DisplayName>Chào hỏi</DisplayName>
+			<Desc>Vừa chào hỏi [TXT].</Desc>
+			<StoryDesc>Vừa chào hỏi ai đó.</StoryDesc>
+		</Text>
+		<Text Name="AfterTalk">
+			<DisplayName>Trò chuyện</DisplayName>
+			<Desc>Vừa trò chuyện với [TXT], thật sự rất tốt.</Desc>
+			<StoryDesc>Vừa trò chuyện với ai đó, trông có vẻ tâm trạng tốt.</StoryDesc>
+		</Text>
+		<Text Name="DeepTalk">
+			<DisplayName>Tâm sự</DisplayName>
+			<Desc>Vừa tâm sự với [TXT], cảm thấy tâm trạng thoải mái hơn.</Desc>
+			<StoryDesc>Vừa tâm sự với ai đó, có vẻ rất xúc động.</StoryDesc>
+		</Text>
+		<Text Name="Neglect">
+			<DisplayName>Thờ ơ</DisplayName>
+			<Desc>Vừa nói vài câu với [TXT], [IT] có vẻ không muốn nói chuyện với ta, vừa hay ta cũng không muốn nói chuyện với [IT].</Desc>
+			<StoryDesc>Đang lẩm bẩm vì vừa bị phớt lờ.</StoryDesc>
+		</Text>
+		<Text Name="Quarrel">
+			<DisplayName>Cãi nhau</DisplayName>
+			<Desc>Vừa cãi nhau lớn với [TXT], thật sự rất giận.</Desc>
+			<StoryDesc>Đang cảm thấy tức giận vì vừa cãi nhau.</StoryDesc>
+		</Text>
+		<Text Name="Insult">
+			<DisplayName>Lăng mạ</DisplayName>
+			<Desc>Bị [TXT] xúc phạm, cảm thấy rất buồn.</Desc>
+			<StoryDesc>Đang cảm thấy khó chịu vì vừa bị xúc phạm.</StoryDesc>
+		</Text>
+		<Text Name="SayHiFight">
+			<DisplayName>Đánh nhau</DisplayName>
+			<Desc>Ta vừa trao đổi vài lời với [TXT], nhưng không hiểu sao cả hai đều bất ngờ nổi giận, kết quả là đánh nhau, thật tệ.</Desc>
+			<StoryDesc>Đang cảm thấy khó hiểu vì vừa đánh nhau.</StoryDesc>
+		</Text>
+		<Text Name="AfterTalkFight">
+			<DisplayName>Đánh nhau</DisplayName>
+			<Desc>Ta đã trò chuyện với [TXT], nhưng không hiểu tại sao cả hai lại vô cớ nổi giận, kết quả là đánh nhau, thật là tệ hại.</Desc>
+			<StoryDesc>Đang cảm thấy khó hiểu vì vừa đánh nhau.</StoryDesc>
+		</Text>
+		<Text Name="DeepTalkFight">
+			<DisplayName>Đánh nhau</DisplayName>
+			<Desc>Ta đã tâm sự thật lòng với [TXT], nhưng chúng ta lại xảy ra bất đồng kịch liệt, cuối cùng thậm chí còn động tay động chân. Điều này thực sự làm tổn thương tình cảm.</Desc>
+			<StoryDesc>Đang âm thầm hối hận vì vừa rồi đã động tay động chân.</StoryDesc>
+		</Text>
+		<Text Name="NeglectFight">
+			<DisplayName>Đánh nhau</DisplayName>
+			<Desc>Ta nói vài câu với [TXT], nhưng thái độ bất cẩn của chúng ta đã chọc giận đối phương, không nhịn được mà đánh nhau.</Desc>
+			<StoryDesc>Đang lẩm bẩm chửi rủa vì trận đánh vừa rồi.</StoryDesc>
+		</Text>
+		<Text Name="QuarrelFight">
+			<DisplayName>Đánh nhau</DisplayName>
+			<Desc>Ta đã cãi nhau với [TXT], nếu lời nói không hợp nhau, chỉ còn cách dùng tay chân để giải quyết vấn đề.</Desc>
+			<StoryDesc>Đang lẩm bẩm chửi rủa vì trận đánh vừa rồi.</StoryDesc>
+		</Text>
+		<Text Name="InsultFight">
+			<DisplayName>Đánh nhau</DisplayName>
+			<Desc>Ta và [TXT] đã nhục mạ lẫn nhau, loại người vô giáo dục như thế này chỉ có thể dùng nắm đấm để dạy dỗ.</Desc>
+			<StoryDesc>Đang xoa chỗ bị đánh và lớn tiếng chửi rủa.</StoryDesc>
+		</Text>
+		<Text Name="Fighting">
+			<DisplayName>Đánh nhau</DisplayName>
+			<Desc>Đã đánh nhau với [TXT], [IT] thật sự là một tên khốn.</Desc>
+			<StoryDesc>Đang xoa chỗ bị đánh và nhỏ giọng chửi rủa.</StoryDesc>
+		</Text>
+		<Text Name="BuildBody">
+			<DisplayName>Tái tạo cơ thể.</DisplayName>
+			<Desc>Cơ thể ta đã hồi phục, haha.</Desc>
+			<StoryDesc>Vẫn đang phấn khích vì cơ thể khuyết tật được tái tạo.</StoryDesc>
+		</Text>
+		<Text Name="FailInLove">
+			<DisplayName>Sa ngã.</DisplayName>
+			<Desc>Ta yêu [TXT], cảm giác này thật kỳ diệu.</Desc>
+			<StoryDesc>Đang cười ngốc nghếch vì yêu.</StoryDesc>
+		</Text>
+		<Text Name="SleepWithWhat">
+			<DisplayName>Sắp xếp tồi tệ.</DisplayName>
+			<Desc>Ta không thể ngủ chung với người đó.</Desc>
+			<StoryDesc>Đang tức giận vì sắp xếp chỗ ở tồi tệ tối qua.</StoryDesc>
+		</Text>
+		<Text Name="StayWithGood">
+			<DisplayName>Hạnh phúc.</DisplayName>
+			<Desc>Thích ở bên [TXT].</Desc>
+			<StoryDesc>Đang hồi tưởng cảm giác vừa ở bên người mình thích.</StoryDesc>
+		</Text>
+		<Text Name="SleepWithSpouse">
+			<DisplayName>Sự âu yếm.</DisplayName>
+			<Desc>Sống chung với [TXT].</Desc>
+			<StoryDesc>Đang mỉm cười hạnh phúc khi nghĩ về người yêu.</StoryDesc>
+		</Text>
+		<Text Name="SleepWithLover">
+			<DisplayName>Ngại ngùng.</DisplayName>
+			<Desc>Sống chung với [TXT].</Desc>
+			<StoryDesc>Đang hơi xấu hổ khi nghĩ về người yêu.</StoryDesc>
+		</Text>
+		<Text Name="FoundOrganization1">
+			<DisplayName>Thành lập môn phái.</DisplayName>
+			<Desc>Chúng ta ẩn cư tại đây, tránh đời tu luyện, hơn nữa còn tu luyện thành công, lập nên môn phái nhỏ của riêng mình. Đây là một khởi đầu rất tốt.</Desc>
+			<StoryDesc>Đang phấn khích vì thành lập môn phái.</StoryDesc>
+		</Text>
+		<Text Name="FoundOrganization2">
+			<DisplayName>Môn phái lớn mạnh.</DisplayName>
+			<Desc>Môn phái của chúng ta dần nổi danh, thật sự không dễ dàng. Hãy tiếp tục phát triển nó.</Desc>
+			<StoryDesc>Đang hào hứng khi nghĩ về việc mở rộng môn phái.</StoryDesc>
+		</Text>
+		<Text Name="FoundOrganization3">
+			<DisplayName>Động thiên được hoàn thành.</DisplayName>
+			<Desc>Đây là động thiên tiên cảnh thuộc về chúng ta.</Desc>
+			<StoryDesc>Đang tự hào vì môn phái trở thành động thiên phúc địa.</StoryDesc>
+		</Text>
+		<Text Name="BeSchoolMaster">
+			<DisplayName>Trở thành chưởng môn.</DisplayName>
+			<Desc>Ta nhất định sẽ dẫn dắt mọi người bước lên con đường tiên đạo.</Desc>
+			<StoryDesc>Đang hân hoan vì vừa nhậm chức chưởng môn.</StoryDesc>
+		</Text>
+		<Text Name="INeedTrousersM">
+			<DisplayName>Cần quần.</DisplayName>
+			<Desc>Môn phái không có nổi một cái quần sao?</Desc>
+			<StoryDesc>Đang tức giận vì không có quần để mặc.</StoryDesc>
+		</Text>
+		<Text Name="INeedClothesF">
+			<DisplayName>Cần áo.</DisplayName>
+			<Desc>Á! Tại sao ta không mặc áo? / Che ngực.</Desc>
+			<StoryDesc>Đang xấu hổ và tức giận vì không có áo để mặc.</StoryDesc>
+		</Text>
+		<Text Name="INeedTrousersF">
+			<DisplayName>Cần quần.</DisplayName>
+			<Desc>Á! Tại sao ta không có…? / Che mặt.</Desc>
+			<StoryDesc>Đang xấu hổ và tức giận vì không có quần để mặc.</StoryDesc>
+		</Text>
+		<Text Name="Kick1">
+			<DisplayName>Có người bị trục xuất.</DisplayName>
+			<Desc>Có người bị trục xuất.</Desc>
+			<StoryDesc>Đang hơi buồn vì có người bị trục xuất khỏi môn phái.</StoryDesc>
+		</Text>
+		<Text Name="Kick2">
+			<DisplayName>Đồng môn bị trục xuất.</DisplayName>
+			<Desc>Một đồng môn bị trục xuất, thật đáng tiếc.</Desc>
+			<StoryDesc>Đang bất mãn vì đồng môn bị trục xuất.</StoryDesc>
+		</Text>
+		<Text Name="Kick3">
+			<DisplayName>Bằng Hữu bị trục xuất.</DisplayName>
+			<Desc>Các người đang làm gì vậy? Tại sao lại để [TXT] của ta rời đi?</Desc>
+			<StoryDesc>Đang không thể tin nổi vì ngươi thân bị trục xuất khỏi môn phái.</StoryDesc>
+		</Text>
+		<Text Name="Kick4">
+			<DisplayName>Người yêu bị trục xuất.</DisplayName>
+			<Desc>Các người đang làm gì vậy? Tại sao lại để [TXT] của ta rời đi?</Desc>
+			<StoryDesc>Đang tức giận không kiềm chế được vì người yêu bị trục xuất khỏi môn phái.</StoryDesc>
+		</Text>
+		<Text Name="Kick5">
+			<DisplayName>Người thân bị trục xuất.</DisplayName>
+			<Desc>Các người đang làm gì vậy? Tại sao lại để [TXT] của ta rời đi?</Desc>
+			<StoryDesc>Đang bực bội vì người thân bị trục xuất khỏi môn phái.</StoryDesc>
+		</Text>
+		<Text Name="Kick6">
+			<DisplayName>Sư môn bị trục xuất.</DisplayName>
+			<Desc>[TXT] của ta bị buộc phải rời đi, chắc chắn có vấn đề gì đó.</Desc>
+			<StoryDesc>Đang bất bình vì đồng môn bị trục xuất khỏi môn phái.</StoryDesc>
+		</Text>
+		<Text Name="Kick7">
+			<DisplayName>Kẻ thù bị trục xuất.</DisplayName>
+			<Desc>[TXT] bị đuổi rồi sao? Haha.</Desc>
+			<StoryDesc>Đang cười vui vẻ vì kẻ thù bị trục xuất khỏi môn phái.</StoryDesc>
+		</Text>
+		<Text Name="Defection1">
+			<DisplayName>Có người phản bội.</DisplayName>
+			<Desc>Có người phản bội môn phái, thật là…</Desc>
+			<StoryDesc>Đang thắc mắc vì có người phản bội môn phái.</StoryDesc>
+		</Text>
+		<Text Name="Defection2">
+			<DisplayName>Người thân phản bội.</DisplayName>
+			<Desc>[TXT] của ta đã phản bội môn phái, tại sao lại như vậy…</Desc>
+			<StoryDesc>Đang giận dữ vì người thân phản bội môn phái.</StoryDesc>
+		</Text>
+		<Text Name="Defection3">
+			<DisplayName>Bằng Hữu phản bội.</DisplayName>
+			<Desc>[TXT] của ta đã phản bội môn phái, tại sao lại như vậy…</Desc>
+			<StoryDesc>Đang giận dữ vì Bằng Hữu phản bội môn phái.</StoryDesc>
+		</Text>
+		<Text Name="Defection4">
+			<DisplayName>Người yêu phản bội.</DisplayName>
+			<Desc>[TXT] của ta đã phản bội môn phái, tại sao lại như vậy…</Desc>
+			<StoryDesc>Đang không thể tin nổi vì người yêu phản bội môn phái.</StoryDesc>
+		</Text>
+		<Text Name="Defection5">
+			<DisplayName>Kẻ thù phản bội.</DisplayName>
+			<Desc>[TXT] chạy rồi sao? Xem như hắn biết điều.</Desc>
+			<StoryDesc>Đang hào hứng vì kẻ thù phản bội môn phái.</StoryDesc>
+		</Text>
+		<Text Name="DiscontentMood">
+			<DisplayName>Không Hài Lòng</DisplayName>
+			<Desc>Hơi bất mãn với cuộc sống hiện tại…</Desc>
+			<StoryDesc>Đang tức giận vì không hài lòng với hiện trạng.</StoryDesc>
+		</Text>
+		<Text Name="Mood_BasePracticeAchievements1">
+			<DisplayName>Trúc Cơ Tiểu Thành</DisplayName>
+			<Desc>Tập luyện mỗi ngày dường như có hiệu quả… Ta cảm thấy cơ thể khỏe hơn trước!</Desc>
+			<StoryDesc>Đang phấn khích vì vừa đạt được chút thành tựu trong việc xây dựng nền tảng.</StoryDesc>
+		</Text>
+		<Text Name="Mood_BasePracticeAchievements2">
+			<DisplayName>Trúc Cơ Hữu Thành</DisplayName>
+			<Desc>Tập luyện mỗi ngày thực sự có hiệu quả, ta cảm thấy cơ thể khỏe hơn rất nhiều, làm việc cũng nhẹ nhàng hơn.</Desc>
+			<StoryDesc>Đang phấn khởi vì xây dựng nền tảng thành công.</StoryDesc>
+		</Text>
+		<Text Name="BecomeDisciple">
+			<DisplayName>Thế giới mới.</DisplayName>
+			<Desc>Bước lên con đường tu tiên.</Desc>
+			<StoryDesc>Đang hào hứng vì vừa mở ra cánh cửa tu tiên.</StoryDesc>
+		</Text>
+		<Text Name="SeeGod">
+			<DisplayName>Chứng kiến phi thăng.</DisplayName>
+			<Desc>Tận mắt thấy có người phi thăng khỏi thế giới này, được khích lệ rất nhiều.</Desc>
+			<StoryDesc>Đang âm thầm quyết tâm vì chứng kiến có người phi thăng.</StoryDesc>
+		</Text>
+		<Text Name="TerribleThing1">
+			<DisplayName>Trải qua chuyện đáng sợ.</DisplayName>
+			<Desc>Có chuyện đáng sợ xảy ra với ta, sao hắn có thể làm vậy với ta.</Desc>
+			<StoryDesc>Đang hoảng sợ vì vừa trải qua chuyện đáng sợ.</StoryDesc>
+		</Text>
+		<Text Name="TerribleThing2">
+			<DisplayName>Chứng kiến chuyện đáng sợ.</DisplayName>
+			<Desc>Đã chứng kiến chuyện đáng sợ xảy ra với [TXT].</Desc>
+			<StoryDesc>Đang lo lắng vì chứng kiến chuyện đáng sợ xảy ra.</StoryDesc>
+		</Text>
+		<Text Name="TerribleThing3">
+			<DisplayName>Buồn cho Bằng Hữu.</DisplayName>
+			<Desc>Đã chứng kiến chuyện đáng sợ xảy ra với [TXT] của ta, thật lo lắng.</Desc>
+			<StoryDesc>Đang vừa tức giận vừa lo sợ vì chứng kiến chuyện đáng sợ xảy ra với Bằng Hữu.</StoryDesc>
+		</Text>
+		<Text Name="TerribleThing4">
+			<DisplayName>Buồn cho người yêu.</DisplayName>
+			<Desc>Đã chứng kiến chuyện đáng sợ xảy ra với [TXT] của ta, thật lo lắng.</Desc>
+			<StoryDesc>Đang vừa tức giận vừa lo sợ vì chứng kiến chuyện đáng sợ xảy ra với người yêu.</StoryDesc>
+		</Text>
+		<Text Name="TerribleThing5">
+			<DisplayName>Buồn cho người thân.</DisplayName>
+			<Desc>Đã chứng kiến chuyện đáng sợ xảy ra với [TXT] của ta, sao có thể như vậy?</Desc>
+			<StoryDesc>Đang vừa tức giận vừa lo sợ vì chứng kiến chuyện đáng sợ xảy ra với người thân.</StoryDesc>
+		</Text>
+		<Text Name="TerribleThing6">
+			<DisplayName>Chứng kiến chuyện đáng sợ.</DisplayName>
+			<Desc>Đã chứng kiến một chuyện rất đáng sợ.</Desc>
+			<StoryDesc>Đang lo lắng vì chứng kiến chuyện đáng sợ xảy ra.</StoryDesc>
+		</Text>
+		<Text Name="NiceThing1">
+			<DisplayName>Tiên pháp.</DisplayName>
+			<Desc>Ta đã được thi triển tiên pháp. Thật kỳ diệu.</Desc>
+			<StoryDesc>Đang hồi tưởng vì vừa được thi triển tiên thuật kỳ diệu.</StoryDesc>
+		</Text>
+		<Text Name="NiceThing1_1">
+			<DisplayName>Trải nghiệm tuyệt vời.</DisplayName>
+			<Desc>Ta đã trải qua một trải nghiệm khó quên, cảm giác này thật tuyệt vời.</Desc>
+			<StoryDesc>Đang mê mẩn vì vừa được thi triển tiên thuật kỳ diệu.</StoryDesc>
+		</Text>
+		<Text Name="NiceThing2">
+			<DisplayName>Chứng kiến thần thông.</DisplayName>
+			<Desc>Đã chứng kiến [TXT] được thi triển tiên pháp, thật ngưỡng mộ.</Desc>
+			<StoryDesc>Đang ngưỡng mộ vì thấy người khác được thi triển tiên thuật.</StoryDesc>
+		</Text>
+		<Text Name="NiceThing2_1">
+			<DisplayName>Chứng kiến điều kỳ diệu.</DisplayName>
+			<Desc>Đã chứng kiến người khác thi triển tiên pháp, thật kỳ diệu.</Desc>
+			<StoryDesc>Đang mơ tưởng vì thấy tiên nhân thi triển pháp thuật.</StoryDesc>
+		</Text>
+		<Text Name="NiceThing3">
+			<DisplayName>Vui cho Bằng Hữu.</DisplayName>
+			<Desc>Đã chứng kiến [TXT] của ta được tiên pháp chiếu cố, thật vui.</Desc>
+			<StoryDesc>Đang vui mừng vì thấy Bằng Hữu được thi triển tiên thuật.</StoryDesc>
+		</Text>
+		<Text Name="NiceThing4">
+			<DisplayName>Vui cho người yêu.</DisplayName>
+			<Desc>Đã chứng kiến [TXT] của ta được tiên pháp chiếu cố, thật tuyệt vời.</Desc>
+			<StoryDesc>Đang vui mừng vì thấy người yêu được thi triển tiên thuật.</StoryDesc>
+		</Text>
+		<Text Name="NiceThing5">
+			<DisplayName>Vui cho người thân.</DisplayName>
+			<Desc>Đã chứng kiến [TXT] của ta được tiên pháp chiếu cố, cảm thấy vui.</Desc>
+			<StoryDesc>Đang vui mừng vì thấy người thân được thi triển tiên thuật.</StoryDesc>
+		</Text>
+		<Text Name="Mood_LingStone">
+			<DisplayName>Linh khí cộng hưởng</DisplayName>
+			<Desc>Cảm giác hòa quyện với linh khí thật tuyệt vời.</Desc>
+			<StoryDesc>Đang cảm thấy dễ chịu vì tu luyện trong nơi linh khí dồi dào.</StoryDesc>
+		</Text>
+		<Text Name="Mood_LingStone1">
+			<DisplayName>Linh khí cộng hưởng sâu sắc.</DisplayName>
+			<Desc>Cảm giác hòa quyện với linh khí thật tuyệt vời.</Desc>
+			<StoryDesc>Đang cảm thấy dễ chịu vì tu luyện trong nơi linh khí dồi dào.</StoryDesc>
+		</Text>
+		<Text Name="Mood_Equipment_Fun">
+			<DisplayName>Đồ chơi thú vị.</DisplayName>
+			<Desc>Mang theo một món đồ chơi nhỏ, lúc rảnh rỗi chơi cũng thú vị.</Desc>
+			<StoryDesc>Đang thích thú chơi với một món đồ chơi nhỏ.</StoryDesc>
+		</Text>
+		<Text Name="Mood_PracticeFoodScanty">
+			<DisplayName>Không đủ tinh nguyên.</DisplayName>
+			<Desc>Không đủ tinh nguyên, không thể tu luyện.</Desc>
+			<StoryDesc>Đang bực bội vì không đủ tinh nguyên để tu luyện.</StoryDesc>
+		</Text>
+		<Text Name="SeeBodyPuppet">
+			<DisplayName>Có chút rợn người.</DisplayName>
+			<Desc>Ta đã thấy một thứ đáng sợ, nó vẫn còn động đậy!</Desc>
+			<StoryDesc>Đang cảm thấy có chút rợn người vì vừa thấy điều kỳ bí.</StoryDesc>
+		</Text>
+		<Text Name="Illusion1">
+			<DisplayName>Ảo giác hạnh phúc.</DisplayName>
+			<Desc>Wow, thế giới thật kỳ diệu!</Desc>
+			<StoryDesc>Đã thấy điều tuyệt vời mà người khác không biết.</StoryDesc>
+		</Text>
+		<Text Name="Illusion2">
+			<DisplayName>Ảo giác đáng sợ.</DisplayName>
+			<Desc>Ờ, thật kinh khủng!</Desc>
+			<StoryDesc>Đã thấy điều kỳ quái mà người khác không biết.</StoryDesc>
+		</Text>
+		<Text Name="BeResurrection">
+			<DisplayName>Phục sinh.</DisplayName>
+			<Desc>Ta đã phục sinh! Haha!</Desc>
+			<StoryDesc>Vẫn đang vui mừng vì được phục sinh.</StoryDesc>
+		</Text>
+		<Text Name="PaoZhang1">
+			<DisplayName>Pháo hoa thú vị.</DisplayName>
+			<Desc>Thứ này thật tuyệt, nhìn rất đẹp.</Desc>
+			<StoryDesc>Đang chìm đắm trong pháo hoa thú vị.</StoryDesc>
+		</Text>
+		<Text Name="PaoZhang2">
+			<DisplayName>Thật kinh khủng.</DisplayName>
+			<Desc>Wow! Thật kinh khủng!</Desc>
+			<StoryDesc>Đang chìm đắm trong cảm giác ghê tởm mãnh liệt.</StoryDesc>
+		</Text>
+	</List>
+</Texts>
+

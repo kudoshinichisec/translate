@@ -1,0 +1,60 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Stability">
+			<Descript>Độ ổn định {1}{0:N1}%</Descript>
+			<ToolTips>Độ ổn định sẽ giảm khi trận pháp bị tấn công. Nếu độ ổn định giảm xuống 0, trận pháp sẽ bị phá vỡ.</ToolTips>
+		</Text>
+		<Text Name="FabaoAtkPower">
+			<Descript>Khả năng điều khiển {1}{0:N1}</Descript>
+			<ToolTips>Sau khi hoàn thành trận pháp, trận trục khi điều khiển pháp bảo sẽ được tăng cường. \n Khả năng điều khiển ảnh hưởng đến mức độ tăng cường khi điều khiển pháp bảo sau khi tạo trận pháp.</ToolTips>
+			<LuaToolTips>string.format("Sau khi hoàn thành trận pháp, trận trục khi điều khiển pháp bảo sẽ được tăng cường.\
+Năng lực ngự khí ảnh hưởng đến mức độ tăng cường khi điều khiển pháp bảo sau khi bố trí trận pháp.\
+Hiện tại có thể tăng năng lực ngự khí: %.0f%%", (z.FabaoPowerK_Normal-1)*100)</LuaToolTips>
+		</Text>
+		<Text Name="MagicPower">
+			<Descript>Khả năng thuật pháp {1}{0:N1}</Descript>
+			<ToolTips>Sau khi hoàn thành trận pháp, trận trục khi thi triển thuật pháp sẽ được tăng cường. \n Khả năng thuật pháp ảnh hưởng đến mức độ tăng cường khi thi triển thuật pháp sau khi tạo trận pháp.</ToolTips>
+			<LuaToolTips>string.format("Sau khi hoàn thành trận pháp, trận trục khi thi triển thuật pháp sẽ được tăng cường.\
+Năng lực thuật pháp ảnh hưởng đến mức độ tăng cường khi thi triển thuật pháp sau khi bố trí trận pháp.\
+Hiện tại có thể tăng năng lực thuật pháp: %.0f%%", (z.MagicPowerK_Normal-1)*100)</LuaToolTips>
+		</Text>
+		<Text Name="Sheild">
+			<Descript>Khả năng phòng ngự {1}{0:N1}</Descript>
+			<ToolTips>Khi trận pháp bị tấn công, một phần sát thương sẽ được giảm và chia đều cho tất cả các thành viên trong trận pháp. \n Khả năng phòng ngự ảnh hưởng đến tỷ lệ giảm sát thương khi trận pháp bị tấn công.</ToolTips>
+			<LuaToolTips>string.format("Khi trận pháp bị tấn công, một phần sát thương sẽ được giảm và chia đều cho tất cả các thành viên trong trận pháp.
+Năng lực phòng ngự ảnh hưởng đến tỷ lệ giảm sát thương khi trận pháp bị tấn công.\
+Hiện tại có thể giảm tỷ lệ sát thương: %.0f%%", (1-z.EffectDamageP) * 100)</LuaToolTips>
+		</Text>
+		<Text Name="SkillCooldown">
+			<Descript>Khả năng vận hành {1}{0:N1}</Descript>
+			<ToolTips>Khi trận pháp vận hành, linh cơ sẽ dần tích lũy. Linh cơ của trận pháp có thể được sử dụng để kích hoạt một số khả năng đặc biệt của trận pháp. Ngoài ra, linh khí của các nhân vật trong trận pháp cũng sẽ được cân bằng tỷ lệ tương ứng. \n Khả năng vận hành ảnh hưởng đến tốc độ tích lũy linh cơ và chu kỳ cân bằng linh khí.</ToolTips>
+			<LuaToolTips>string.format("Khi trận pháp vận hành, linh cơ sẽ dần tích lũy. Linh cơ của trận pháp có thể được sử dụng để kích hoạt một số khả năng đặc biệt của trận pháp. Ngoài ra, linh khí của các nhân vật trong trận pháp cũng sẽ được cân bằng tỷ lệ tương ứng.\
+Năng lực vận hành ảnh hưởng đến tốc độ tích lũy linh cơ và chu kỳ cân bằng linh khí trong trận pháp.\
+Hiện tại giảm tỷ lệ chu kỳ vận hành: %.0f%%\
+Chu kỳ tích lũy linh cơ hiện tại là: %.0f giây\
+Chu kỳ cân bằng linh khí hiện tại là: %.0f giây", (1-z.EffectZrPointCDP)*100, ZhenMgr:GetZRAddDuration(z), 15 * z.EffectZrPointCDP)</LuaToolTips>
+		</Text>
+		<Text Name="ReduceCost">
+			<Descript>Hiệu suất trận pháp {1}{0:N1}</Descript>
+			<ToolTips>Khi tạo trận pháp, việc duy trì trận pháp và thi triển kỹ năng trận pháp sẽ tiêu hao linh khí của từng nhân vật trong trận pháp. Lượng linh khí tiêu hao khi duy trì trận pháp liên quan đến giới hạn linh khí của nhân vật trận trục. Lượng linh khí tiêu hao để thi triển kỹ năng trận pháp liên quan đến sức mạnh của kỹ năng. \n Hiệu suất trận pháp ảnh hưởng đến lượng linh khí tiêu hao khi thực hiện các hành động trong trận pháp.</ToolTips>
+			<LuaToolTips>string.format("Khi tạo trận pháp, việc duy trì trận pháp và thi triển kỹ năng trận pháp sẽ tiêu hao linh khí của từng nhân vật trong trận pháp. Lượng linh khí tiêu hao khi duy trì trận pháp liên quan đến giới hạn linh khí của nhân vật trận trục. Lượng linh khí tiêu hao để thi triển kỹ năng trận pháp liên quan đến sức mạnh của kỹ năng. \n Hiệu suất trận pháp ảnh hưởng đến lượng linh khí tiêu hao khi thực hiện các hành động trong trận pháp. \n Hiện tại có thể giảm tiêu hao: %.0f%%", (1-z.EffectCostP)*100)</LuaToolTips>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerup">
+			<Descript>Quy mô trận pháp {1}{0:N1}</Descript>
+			<ToolTips>Quy mô trận pháp chỉ số lượng điểm nút trong trận pháp. Số lượng điểm nút càng nhiều, quy mô trận pháp càng lớn.
+Trình độ của nhân vật trận trung trong trận pháp quyết định giới hạn quy mô trận pháp. Nếu quy mô trận pháp mà họ chủ trì vượt quá khả năng của họ, tính ổn định của trận pháp sẽ giảm mạnh. Ngược lại thì sẽ tăng lên.</ToolTips>
+			<LuaToolTips>string.format("Quy mô trận pháp chỉ số lượng điểm nút trong trận pháp. Số lượng điểm nút càng nhiều, quy mô trận pháp càng lớn. \n Độ tinh thông của nhân vật trận trục trong trận pháp quyết định giới hạn quy mô trận pháp. Nếu quy mô trận pháp vượt quá khả năng của nhân vật trận trục, độ ổn định trận pháp sẽ giảm mạnh. Ngược lại, độ ổn định sẽ tăng. \n Giá trị điều chỉnh độ ổn định trận pháp hiện tại: %.0f", z.fStabilityCoreNpcAddv)</LuaToolTips>
+		</Text>
+		<Text Name="NpcZhenPressurePowerup">
+			<Descript>Tải trọng trận pháp {1}{0:N1}</Descript>
+			<ToolTips>Tải trọng trận pháp chỉ mức độ phức tạp của cấu trúc trận pháp. Cấp độ phức tạp của trận nhãn càng cao, khoảng cách giữa trận nhãn và trận trục càng xa, tải trọng trận pháp càng lớn.
+Trình độ của nhân vật trận trung trong trận pháp quyết định giới hạn tải trọng của trận pháp. Nếu tải trọng trận pháp mà họ chủ trì vượt quá khả năng của họ, tiêu hao của trận pháp sẽ tăng mạnh. Ngược lại thì sẽ giảm đi.</ToolTips>
+			<LuaToolTips>string.format("Tải trọng trận pháp chỉ mức độ phức tạp của cấu trúc trận pháp. Cấp độ phức tạp của trận nhãn càng cao, khoảng cách giữa trận nhãn và trận trục càng xa, tải trọng trận pháp càng lớn. \n Độ tinh thông của nhân vật trận trục trong trận pháp quyết định giới hạn tải trọng trận pháp. Nếu tải trọng trận pháp vượt quá khả năng của nhân vật trận trục, mức tiêu hao sẽ tăng mạnh. Ngược lại, mức tiêu hao sẽ giảm. \n Tiêu hao linh khí mỗi giây hiện tại: %.0f", z.CostLingPerSec)</LuaToolTips>
+		</Text>
+		<Text Name="NpcZhenPoint">
+			<Descript>Linh cơ trận pháp {1}{0:N0}</Descript>
+			<ToolTips>Khi trận pháp vận hành, linh cơ sẽ dần tích lũy. Linh cơ trận pháp có thể được sử dụng để kích hoạt một số khả năng đặc biệt của trận pháp. Tuy nhiên, lượng linh cơ lưu trữ trong trận pháp có giới hạn. Khi linh cơ đầy, sẽ không tích lũy thêm.</ToolTips>
+		</Text>
+	</List>
+</Texts>
+

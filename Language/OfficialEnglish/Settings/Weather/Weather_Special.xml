@@ -1,0 +1,156 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LingUpWave_Sp">
+			<DisplayName>Linh khí cuồng triều</DisplayName>
+			<StoryDesc>Trong bùng nổ linh khí</StoryDesc>
+		</Text>
+		<Text Name="FireRain">
+			<DisplayName>Mưa vừa</DisplayName>
+		</Text>
+		<Text Name="Rainstorm_Teach">
+			<DisplayName>Mưa bão</DisplayName>
+			<StoryDesc>Trong cơn mưa lớn như thác đổ</StoryDesc>
+		</Text>
+		<Text Name="Rainstorm_Teach2">
+			<DisplayName>Mưa bão</DisplayName>
+			<StoryDesc>Trong cơn mưa lớn như thác đổ</StoryDesc>
+		</Text>
+		<Text Name="LightningStorm_Hack">
+			<DisplayName>Bão sấm sét</DisplayName>
+			<StoryDesc>Đảo ngược nhân quả, có thiên hòa.</StoryDesc>
+		</Text>
+		<Text Name="Rainstorm_AllSeason">
+			<DisplayName>Mưa bão</DisplayName>
+			<StoryDesc>Trong cơn mưa lớn như thác đổ</StoryDesc>
+		</Text>
+		<Text Name="Fohn_AllSeason">
+			<DisplayName>Gió nóng cháy</DisplayName>
+			<StoryDesc>Trong gió nóng cháy bỏng</StoryDesc>
+		</Text>
+		<Text Name="DustStorm_AllSeason">
+			<DisplayName>Bão cát</DisplayName>
+			<StoryDesc>Trong cơn cát vàng bay đầy trời</StoryDesc>
+		</Text>
+		<Text Name="Miasma_AllSeason">
+			<DisplayName>Khí độc</DisplayName>
+			<StoryDesc>Trong khí độc tràn ngập</StoryDesc>
+		</Text>
+		<Text Name="LightningStorm_AllSeason">
+			<DisplayName>Bão sấm sét</DisplayName>
+			<StoryDesc>Trong cơn bão sấm sét, trong tia chớp điên cuồng</StoryDesc>
+		</Text>
+		<Text Name="JinLingMiMan">
+			<DisplayName>Kim linh tràn ngập</DisplayName>
+			<StoryDesc>Trong linh khí thuộc tính kim tràn ngập</StoryDesc>
+		</Text>
+		<Text Name="MuLingMiMan">
+			<DisplayName>Mộc linh tràn ngập</DisplayName>
+			<StoryDesc>Trong linh khí thuộc tính mộc tràn ngập</StoryDesc>
+		</Text>
+		<Text Name="ShuiLingMiMan">
+			<DisplayName>Thủy linh tràn ngập</DisplayName>
+			<StoryDesc>Trong linh khí thuộc tính thủy tràn ngập</StoryDesc>
+		</Text>
+		<Text Name="HuoLingMiMan">
+			<DisplayName>Hỏa linh tràn ngập</DisplayName>
+			<StoryDesc>Trong linh khí thuộc tính hỏa tràn ngập</StoryDesc>
+		</Text>
+		<Text Name="TuLingMiMan">
+			<DisplayName>Thổ linh tràn ngập</DisplayName>
+			<StoryDesc>Trong linh khí thuộc tính thổ tràn ngập</StoryDesc>
+		</Text>
+		<Text Name="LingUpWave_Big">
+			<DisplayName>Linh khí dâng trào</DisplayName>
+			<StoryDesc>Trong linh khí dâng trào</StoryDesc>
+		</Text>
+		<Text Name="LingRarefiedWave_Big">
+			<DisplayName>Linh khí cạn kiệt</DisplayName>
+			<StoryDesc>Trong linh khí cạn kiệt</StoryDesc>
+		</Text>
+		<Text Name="Weather_Boss_Drought">
+			<DisplayName>Nhiệt độ cao bất thường</DisplayName>
+			<StoryDesc>Trong nhiệt độ cao bất thường</StoryDesc>
+		</Text>
+		<Text Name="Weather_Boss_HighTemp">
+			<DisplayName>Hạn hán gia tăng</DisplayName>
+			<StoryDesc>Trong hạn hán ngày càng nghiêm trọng</StoryDesc>
+		</Text>
+		<Text Name="DimCave">
+			<DisplayName>Hang động</DisplayName>
+			<StoryDesc>Hang động u ám</StoryDesc>
+		</Text>
+		<Text Name="ForestRain">
+			<DisplayName>Mưa rơi</DisplayName>
+			<StoryDesc>Rừng mưa đang có mưa</StoryDesc>
+		</Text>
+		<Text Name="LightSnow_Fov">
+			<DisplayName>Tuyết nhỏ</DisplayName>
+			<StoryDesc>Tuyết nhỏ bay bay, sợi bạc đầy trời, tuyết nhỏ rơi lả tả</StoryDesc>
+		</Text>
+		<Text Name="SunSet">
+			<DisplayName>Hoàng hôn</DisplayName>
+			<StoryDesc>Hoàng hôn</StoryDesc>
+		</Text>
+		<Text Name="DustPlace">
+			<DisplayName>Bão cát</DisplayName>
+			<StoryDesc>Trong cơn cát vàng bay đầy trời</StoryDesc>
+		</Text>
+		<Text Name="EverSnow">
+			<DisplayName>Tuyết nhỏ</DisplayName>
+			<StoryDesc>Tuyết nhỏ bay bay, sợi bạc đầy trời, tuyết nhỏ rơi lả tả</StoryDesc>
+		</Text>
+		<Text Name="Weather_Magic_ZhenShuiJieJie">
+			<DisplayName>Cửu Âm Chân Thủy Giới</DisplayName>
+			<StoryDesc>Trong giới Cửu Âm Chân Thủy</StoryDesc>
+		</Text>
+		<Text Name="Weather_Magic_BeiDouJianJie">
+			<DisplayName>Bắc Đẩu Kiếm Giới</DisplayName>
+			<StoryDesc>Trong giới Bắc Đẩu Kiếm</StoryDesc>
+		</Text>
+		<Text Name="Weather_Magic_ZhenHuoJieJie">
+			<DisplayName>Cửu Dương Thần Hỏa Giới</DisplayName>
+			<StoryDesc>Trong giới Cửu Dương Thần Hỏa</StoryDesc>
+		</Text>
+		<Text Name="LingUpWave_Mutation">
+			<DisplayName>Linh khí bùng nổ</DisplayName>
+			<StoryDesc>Trong bùng nổ linh khí</StoryDesc>
+		</Text>
+		<Text Name="Yang_Mutation">
+			<DisplayName>Place of Extreme Yang</DisplayName>
+			<StoryDesc>Chí Dương Chi Địa</StoryDesc>
+		</Text>
+		<Text Name="Yin_Mutation">
+			<DisplayName>Place of Extreme Yin</DisplayName>
+			<StoryDesc>Địa chí âm</StoryDesc>
+		</Text>
+		<Text Name="MouldRains_Mutation">
+			<DisplayName>Mùa mưa</DisplayName>
+			<StoryDesc>Trong mưa phùn kéo dài, trong mưa phùn dai dẳng</StoryDesc>
+		</Text>
+		<Text Name="Drought_Mutation">
+			<DisplayName>Hạn hán</DisplayName>
+			<StoryDesc>Trong ánh nắng gay gắt</StoryDesc>
+		</Text>
+		<Text Name="Rainstorm_Mutation">
+			<DisplayName>Bão lớn</DisplayName>
+			<StoryDesc>Trong cơn mưa lớn như thác đổ</StoryDesc>
+		</Text>
+		<Text Name="DustStorm_Mutation">
+			<DisplayName>Bão cát</DisplayName>
+			<StoryDesc>Trong cơn cát vàng bay đầy trời</StoryDesc>
+		</Text>
+		<Text Name="Miasma_Mutation">
+			<DisplayName>Khí độc</DisplayName>
+			<StoryDesc>Trong khí độc tràn ngập</StoryDesc>
+		</Text>
+		<Text Name="LightningStormNoLong_Mutation">
+			<DisplayName>Bão sấm</DisplayName>
+			<StoryDesc>Trong cơn bão sấm sét, trong tia chớp điên cuồng</StoryDesc>
+		</Text>
+		<Text Name="FohnNoFeng_Mutation">
+			<DisplayName>Gió nóng</DisplayName>
+			<StoryDesc>Trong gió nóng cháy bỏng</StoryDesc>
+		</Text>
+	</List>
+</Texts>
+

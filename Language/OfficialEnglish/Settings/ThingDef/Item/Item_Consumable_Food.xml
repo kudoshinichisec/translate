@@ -1,0 +1,28 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="SimpleFoodBase" sParam="Item">
+			<Item.FabaoSuffix>Linh bảo</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Cake" sParam="Item">
+			<ThingName>Bánh mì</ThingName>
+			<Desc>Lương khô đơn giản, có thể no bụng.</Desc>
+			<Item.FabaoSuffix>Bánh</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Jerky" sParam="Item">
+			<ThingName>Thịt khô</ThingName>
+			<Desc>Lương khô đơn giản, có thể no bụng.</Desc>
+			<Item.FabaoSuffix>Khô</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_PreservedFruit" sParam="Item">
+			<ThingName>Lý Thị Long Tiên Quả Bô</ThingName>
+			<Desc>[color=#FFA500]Xưa có quả, vị như mật.\nPhơi trên hiên, chờ ngày đẹp.\nNay có người, mắt như mật.\nSao mong đợi, ngày đẹp qua? \n[/color]Quả rồng khó bảo quản, chỉ có bí phương độc môn của Li gia ở Kim Lăng mới có thể chế thành mứt quả mà không mất dược tính.</Desc>
+			<Item.FabaoSuffix>Quả</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Yao_BoarMeat" sParam="Item">
+			<ThingName>Trư Yêu Đích Tinh Nhục</ThingName>
+			<Desc>Thịt tinh hoa của Trư Yêu, không thể nấu bằng lửa thường. Ăn trực tiếp có thể đại bổ tinh nguyên.</Desc>
+			<Item.FabaoSuffix>Khô</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>
+

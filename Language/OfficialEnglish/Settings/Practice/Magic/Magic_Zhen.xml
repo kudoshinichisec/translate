@@ -1,0 +1,17 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ZhenSheild">
+			<DisplayName>Hộ thuẫn</DisplayName>
+			<TargetDesc>Vui lòng chọn một công trình hoặc đạo cụ.</TargetDesc>
+		</Text>
+		<Text Name="ZhenAddModifier">
+			<DisplayName>Thêm modifier</DisplayName>
+			<TargetDesc>Vui lòng chọn một công trình hoặc đạo cụ.</TargetDesc>
+		</Text>
+		<Text Name="ZhenAura">
+			<DisplayName>Hào quang nhân tạo</DisplayName>
+			<TargetDesc>Vui lòng chọn một công trình hoặc đạo cụ.</TargetDesc>
+		</Text>
+	</List>
+</Texts>
+

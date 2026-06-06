@@ -1,0 +1,21 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Place_WuDang_Taizipo">
+			<DisplayName>Phục Chân Quán</DisplayName>
+			<Desc>Còn gọi là Thái Tử Pha, nơi đây từng là nơi Chân Vũ Đại Đế tu đạo khi còn là phàm nhân.</Desc>
+		</Text>
+		<Text Name="Place_WuDang_ZiXiaoGong">
+			<DisplayName>Tử Tiêu Cung</DisplayName>
+			<Desc>Tử Tiêu Cung nằm ở phía đông bắc đỉnh Triển Kỳ, thuộc đỉnh chính của núi Võ Đang – Thiên Trụ Phong. Nơi đây lưng tựa núi, mặt hướng nước, có nhiều tu sĩ sinh sống và tu luyện, là bảo địa phong thủy tuyệt hảo.</Desc>
+		</Text>
+		<Text Name="Place_WuDang_NanYanGong">
+			<DisplayName>Nam Nham Cung</DisplayName>
+			<Desc>Được xây dựng trên Nam Nham của núi Võ Đang, một bên là vực sâu biển mây, địa thế hiểm trở, cảnh quan tươi đẹp. Nơi đây có Long Đầu Hương nổi tiếng, rất linh nghiệm.</Desc>
+		</Text>
+		<Text Name="Place_WuDang_JinDing">
+			<DisplayName>Kim Đỉnh</DisplayName>
+			<Desc>Đứng trên đỉnh Thiên Trụ Phong, là đạo trường của Chân Vũ Đại Đế Huyền Thiên, cũng là nơi căn bản của đạo thống núi Võ Đang.</Desc>
+		</Text>
+	</List>
+</Texts>
+

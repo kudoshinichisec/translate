@@ -1,0 +1,46 @@
+野猪皮薄衣衫	Áo Mỏng da lợn rừng
+黑布薄下裳	Hắc bố bạc hạ thường
+火铜伐木斧	Rìu Hỏa Đồng Đốn Gỗ
+钟	Chuông
+心	Tim
+惊魂初定	Hồn phách ổn định
+思淼	Tư Miểu
+公西	Công Tây
+莲	Sen
+食物储量不足	Dự trữ thực phẩm không đủ
+药物储量不足	Dự trữ thuốc không đủ
+存档写入完成	Hoàn tất ghi lưu trữ
+有版本更新	Có phiên bản cập nhật
+游戏版本更新0.9736	Cập nhật phiên bản trò chơi 0.9736
+天岭神视纪要	Bản Ghi Chép Thần Thị Thiên Lĩnh
+蜀山十二都天	Thập Nhị Đô Thiên Thục Sơn
+阴阳不朽诀	Quyết Âm Dương Bất Tử
+冷月不坏诀	Lãnh Nguyệt Bất Hoại Quyết
+戊土不坏咒	Mậu Thổ Bất Hoại Chú
+金刚密卷	Kim Cương Mật Quyển
+少量的	Một chút
+奠基经	Kinh Điện Cơ
+戊己奠基秘册	Bí Sách Điền Cơ Mậu Kỷ
+中量的	Vừa
+坤元奠基密卷	Khôn Nguyên Điện Cơ Mật Quyển
+东华金刚秘册	Đông Hoa Kim Cương Bí Sách
+五内金刚宝典	Ngũ Nội Kim Cương Bảo Điển
+入道奠基密卷	Mật Quyển Nhập Đạo Điện Cơ
+大量的	Số lượng lớn
+长生金刚秘册	Trường Sinh Kim Cương Bí Sách
+五内摄神	Ngũ Nội Nhiếp Thần
+万里摄神典	Vạn Lý Nhiếp Thần Điển
+御气神农宝册	Ng御 Khí Thần Nông Bảo Sách
+冷月合一书	Sách Lạnh Nguyệt Hợp Nhất
+坤元神佑要诀	Khôn Nguyên Thần Hựu Yêu Quyết
+海量的	Cực lớn
+本源决意要诀	Yếu Quyết Quyết Ý Bản Nguyên
+归真沃野要诀	Quy Chân Ốc Dã Yêu Quyết
+麒麟流光神雷	Kỳ Lân Lưu Quang Thần Lôi
+御灵术	Ngự Linh Thuật
+求雨术	Cầu Vũ Thuật
+他化自在大法	Tha Hóa Tự Tại Đại Pháp
+摄神御鬼大法	Nhiếp Thần Ngự Quỷ Đại Pháp
+东海气摄纪要	Đông Hải Khí Nhiếp Ký Yếu
+
+

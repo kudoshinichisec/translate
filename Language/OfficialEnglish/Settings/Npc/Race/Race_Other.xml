@@ -1,0 +1,39 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SYS_LOST">
+			<DisplayName>Mô-đun bị mất</DisplayName>
+		</Text>
+		<Text Name="Puppet">
+			<DisplayName>Khôi lỗi</DisplayName>
+			<Desc>Công cụ nhân hình, có thể được pháp lực điều khiển.</Desc>
+		</Text>
+		<Text Name="NY_Zhuyao">
+			<DisplayName>Xuân Tiết Trư Yêu</DisplayName>
+		</Text>
+		<Text Name="NY_Shuyao">
+			<DisplayName>Xuân Tiết Thử Yêu</DisplayName>
+		</Text>
+		<Text Name="NY_Jingguai">
+			<DisplayName>Xuân Tiết Tiểu Yêu</DisplayName>
+		</Text>
+		<Text Name="NY_Jingguai2">
+			<DisplayName>Xuân Tiết Tiểu Yêu</DisplayName>
+		</Text>
+		<Text Name="BodyPart">
+			<DisplayName>Bộ phận cơ thể</DisplayName>
+		</Text>
+		<Text Name="MiniLong">
+			<DisplayName>Ấu Long</DisplayName>
+		</Text>
+		<Text Name="MiniFeng">
+			<DisplayName>Ấu Phượng</DisplayName>
+		</Text>
+		<Text Name="SP_Zhulong">
+			<DisplayName>Xuân Tiết Chúc Long</DisplayName>
+		</Text>
+		<Text Name="Hero1">
+			<DisplayName>Anh Hùng</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

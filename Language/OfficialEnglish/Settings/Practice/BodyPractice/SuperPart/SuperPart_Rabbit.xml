@@ -1,0 +1,23 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Rabbit_1">
+			<Prefix>Xích Ngọc</Prefix>
+			<Suffix>Đồng</Suffix>
+			<Desc>Bí thể thiên phú của Thố Yêu, dùng chân hỏa rèn luyện đôi mắt, sau đó dùng mộc sinh hỏa, mượn khí mộc của gan thúc đẩy, khiến đôi mắt có công năng thông diệu tinh huyền. Tu luyện đến trình độ tinh thâm thậm chí có thể quan sát sự biến đổi nhỏ nhất của nguyên khí trời đất.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ tỷ lệ trúng đích của tất cả bí thể của người luyện thể\nTăng nhẹ tỷ lệ phòng thủ thành công của tất cả bí thể của người luyện thể.</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng nhẹ tỷ lệ trấn áp pháp bảo của tất cả bí thể của người luyện thể\nTăng nhẹ tỷ lệ xuyên thủng linh khí hộ thuẫn của tất cả bí thể của người luyện thể.</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng nhẹ hiệu suất hô hấp của người luyện thể.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Rabbit_2">
+			<Prefix>Đăng Vân</Prefix>
+			<Suffix>Chân</Suffix>
+			<Desc>Bí thể thiên phú của Thố Yêu, dùng bí pháp rèn luyện đôi tai và hai chân, khiến chúng tạo ra mối liên hệ mờ mịt. Một khi phát hiện nguy cơ, có thể nhanh chóng thoát thân.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh tỷ lệ né tránh toàn diện của người luyện thể</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>
+

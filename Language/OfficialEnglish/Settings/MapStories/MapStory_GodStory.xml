@@ -1,0 +1,51 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="GodStory_1">
+			<DisplayName>Truyền đạo</DisplayName>
+			<Desc>[NAME] trong chuyến du ngoạn truyền đạo dọc đường, đồng thời giúp đỡ những người phàm gặp khó khăn.</Desc>
+			<Selections.0.Display>Đã hiểu</Selections.0.Display>
+		</Text>
+		<Text Name="GodStory_2">
+			<DisplayName>Truyền đạo</DisplayName>
+			<Desc>[NAME] trong chuyến du ngoạn tại [PLACE] gặp một số người phàm gặp khó khăn, liền giúp đỡ họ.</Desc>
+			<Selections.0.Display>Đã hiểu</Selections.0.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_1">
+			<DisplayName>Chiến tranh của người phàm</DisplayName>
+			<Desc>[NAME] đến [PLACE], phát hiện chiến tranh đang diễn ra, người dân nơi đây chịu nhiều đau khổ vì chiến tranh.</Desc>
+			<Selections.0.Display>Khuyên dừng chiến tranh</Selections.0.Display>
+			<Selections.1.Display>Trấn áp bằng sấm sét</Selections.1.Display>
+			<Selections.1.Tip>Kim đan kỳ</Selections.1.Tip>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_2">
+			<DisplayName>Dịch bệnh hoành hành</DisplayName>
+			<Desc>[NAME] đến [PLACE], phát hiện dịch bệnh nơi đây đã trở nên nghiêm trọng, nhiều ngôi làng không còn một con gà hay chó nào sống sót.</Desc>
+			<Selections.0.Display>Kiên nhẫn chữa trị</Selections.0.Display>
+			<Selections.0.Tip>Kim đan kỳ</Selections.0.Tip>
+			<Selections.1.Display>Cách ly tiêu diệt</Selections.1.Display>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_3">
+			<DisplayName>Yêu tà loạn thế</DisplayName>
+			<Desc>[NAME] đến [PLACE], phát hiện nơi đây yêu khí ngập tràn, dân chúng xung quanh hoang mang lo lắng, đầy rẫy bất an.</Desc>
+			<Selections.0.Display>Thiết kế diệt yêu</Selections.0.Display>
+			<Selections.1.Display>Chém giết bằng sấm sét</Selections.1.Display>
+			<Selections.1.Tip>Kim đan kỳ</Selections.1.Tip>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_4">
+			<DisplayName>Thiên tai bất ngờ</DisplayName>
+			<Desc>[NAME] đến [PLACE], phát hiện dân chúng nơi đây chết chóc nghiêm trọng, đang hoảng loạn tránh né tai họa.</Desc>
+			<Selections.0.Display>Cứu trợ dân chúng</Selections.0.Display>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_Gong_God_1">
+			<DisplayName>Pháp thuật thất truyền</DisplayName>
+			<Desc>[NAME] đến khe núi được người đại diện chỉ dẫn, chỉ thấy nơi đây ánh sét lóe lên mờ mờ, nhưng lại khác với pháp thuật sét hiện nay, dường như có một số thứ phi thường.</Desc>
+			<Selections.0.Display>Vào khe núi xem xét</Selections.0.Display>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>
+

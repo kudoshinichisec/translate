@@ -1,0 +1,82 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_LingZhi_DiaoXie">
+			<DisplayName>Giao cảm</DisplayName>
+			<Desc>Giao cảm với linh căn, cảm nhận khí tức buồn bã từ linh thực đang héo tàn, tâm trạng hơi xao động.</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_GT0_Jin">
+			<DisplayName>Giao cảm Kim Linh</DisplayName>
+			<Desc>Tu luyện gần linh căn Kim, vào trạng thái giao cảm với nó. Tăng thần thức, tăng tâm cảnh, giảm tốc độ tu luyện, tăng tiềm năng.</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_LT0_Jin">
+			<DisplayName>Giao cảm Kim Sát</DisplayName>
+			<Desc>Tu luyện gần linh căn Kim, vào trạng thái giao cảm với nó. Tăng thần thức, giảm tâm cảnh, tăng tốc độ tu luyện, giảm tiềm năng.</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_GT0_Mu">
+			<DisplayName>Giao cảm Mộc Linh</DisplayName>
+			<Desc>Tu luyện gần linh căn Mộc, vào trạng thái giao cảm với nó. Tăng căn cốt, tăng tâm cảnh, giảm tốc độ tu luyện, tăng tiềm năng.</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_LT0_Mu">
+			<DisplayName>Giao cảm Mộc Sát</DisplayName>
+			<Desc>Tu luyện gần linh căn Mộc, vào trạng thái giao cảm với nó. Tăng căn cốt, giảm tâm cảnh, tăng tốc độ tu luyện, giảm tiềm năng.</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_GT0_Shui">
+			<DisplayName>Giao cảm Thủy Linh</DisplayName>
+			<Desc>Tu luyện gần linh căn Thủy, vào trạng thái giao cảm với nó. Tăng mị lực, tăng tâm cảnh, giảm tốc độ tu luyện, tăng tiềm năng.</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_LT0_Shui">
+			<DisplayName>Giao cảm Thủy Sát</DisplayName>
+			<Desc>Tu luyện gần linh căn Thủy, vào trạng thái giao cảm với nó. Tăng mị lực, giảm tâm cảnh, tăng tốc độ tu luyện, giảm tiềm năng.</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_GT0_Huo">
+			<DisplayName>Giao cảm Hỏa Linh</DisplayName>
+			<Desc>Tu luyện gần linh căn Hỏa, vào trạng thái giao cảm với nó. Tăng ngộ tính, tăng tâm cảnh, giảm tốc độ tu luyện, tăng tiềm năng.</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_LT0_Huo">
+			<DisplayName>Giao cảm Hỏa Sát</DisplayName>
+			<Desc>Tu luyện gần linh căn Hỏa, vào trạng thái giao cảm với nó. Tăng ngộ tính, giảm tâm cảnh, tăng tốc độ tu luyện, giảm tiềm năng.</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_GT0_Tu">
+			<DisplayName>Giao cảm Thổ Linh</DisplayName>
+			<Desc>Tu luyện gần linh căn Thổ, vào trạng thái giao cảm với nó. Tăng cơ duyên, tăng tâm cảnh, giảm tốc độ tu luyện, tăng tiềm năng.</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_LT0_Tu">
+			<DisplayName>Giao cảm Thổ Sát</DisplayName>
+			<Desc>Tu luyện gần linh căn Thổ, vào trạng thái giao cảm với nó. Tăng cơ duyên, giảm tâm cảnh, tăng tốc độ tu luyện, giảm tiềm năng.</Desc>
+		</Text>
+		<Text Name="Story_LingZhi_XinJing1">
+			<DisplayName>Tâm cảnh không minh</DisplayName>
+			<Desc>Trong thời gian ngắn, tăng tâm cảnh.</Desc>
+		</Text>
+		<Text Name="Story_LingZhi_XinJing2">
+			<DisplayName>Tâm cảnh hỗn loạn</DisplayName>
+			<Desc>Trong thời gian ngắn, giảm tâm cảnh.</Desc>
+		</Text>
+		<Text Name="Story_LingZhi_MaxLing1">
+			<DisplayName>Linh khí bị cướp đoạt</DisplayName>
+		</Text>
+		<Text Name="Story_LingZhi_RipeLing1">
+			<DisplayName>Hiệu quả linh tính khi linh thực trưởng thành 1</DisplayName>
+		</Text>
+		<Text Name="Story_LingZhi_RipeLing2">
+			<DisplayName>Hiệu quả linh tính khi linh thực trưởng thành 2</DisplayName>
+		</Text>
+		<Text Name="Story_LingZhi_RipeLing3">
+			<DisplayName>Hiệu quả linh tính khi linh thực trưởng thành 3</DisplayName>
+		</Text>
+		<Text Name="Story_LingZhi_RipeLing4">
+			<DisplayName>Hiệu quả linh tính khi linh thực trưởng thành 4</DisplayName>
+		</Text>
+		<Text Name="Story_LingZhi_RipeLing5">
+			<DisplayName>Hiệu quả linh tính khi linh thực trưởng thành 5</DisplayName>
+		</Text>
+		<Text Name="Story_LingZhi_RipeLing_A">
+			<DisplayName>Linh tức tẩy rửa</DisplayName>
+			<Desc>Được khí tức của linh thực trưởng thành dưỡng ẩm, thương tổn nội môn toàn thân đều đang hồi phục.</Desc>
+		</Text>
+		<Text Name="Story_LingZhi_RipeSha">
+			<DisplayName>Hiệu quả sát tính khi linh thực trưởng thành</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

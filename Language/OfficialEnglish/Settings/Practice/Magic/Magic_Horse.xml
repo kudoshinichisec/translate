@@ -1,0 +1,10 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Magic_MakeHorse">
+			<DisplayName>Phong Linh Thuật</DisplayName>
+			<Desc>Sử dụng lên yêu thú bất tỉnh hoặc gục ngã có cảnh giới thấp hơn bản thân, phong ấn nó thành linh khế.</Desc>
+			<TargetDesc>Vui lòng chọn một yêu thú bất tỉnh.</TargetDesc>
+		</Text>
+	</List>
+</Texts>
+

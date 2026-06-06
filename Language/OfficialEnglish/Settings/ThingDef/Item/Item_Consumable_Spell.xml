@@ -1,0 +1,31 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_SpellPaper" sParam="Item">
+			<ThingName>Phù giấy</ThingName>
+			<Desc>Giấy được chế tạo đặc biệt, dùng thần niệm kéo chu sa trên giấy thành ký hiệu đặc thù có thể tạo thành bùa chú.</Desc>
+			<Item.FabaoSuffix>Phù, chú, cấm</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SpellPaperLv2" sParam="Item">
+			<ThingName>Linh Huyết Phù</ThingName>
+			<Desc>Giấy làm từ Yêu Linh Huyết, dùng thần niệm kéo chu sa trên giấy thành các ký hiệu đặc biệt để tạo thành bùa chú.</Desc>
+		</Text>
+		<Text Name="Item_SpellPaperLv3" sParam="Item">
+			<ThingName>Thần Phách Phù</ThingName>
+			<Desc>Bùa chú vẽ bằng Ninh Phách, dùng thần niệm kéo chu sa trên giấy thành các ký hiệu đặc biệt để tạo thành bùa chú.</Desc>
+		</Text>
+		<Text Name="Item_Spell" sParam="Item">
+			<ThingName>Phù chú</ThingName>
+			<Desc>Bùa chú vẽ thành công, mang trên người có thể tăng thêm một số khả năng nhất định.</Desc>
+			<Item.FabaoSuffix>Phù, chú, cấm</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SpellLv2" sParam="Item">
+			<ThingName>Phù chú</ThingName>
+			<Desc>Bùa chú vẽ thành công, mang trên người có thể tăng thêm một số khả năng nhất định.</Desc>
+		</Text>
+		<Text Name="Item_SpellLv3" sParam="Item">
+			<ThingName>Phù chú</ThingName>
+			<Desc>Bùa chú vẽ thành công, mang trên người có thể tăng thêm một số khả năng nhất định.</Desc>
+		</Text>
+	</List>
+</Texts>
+

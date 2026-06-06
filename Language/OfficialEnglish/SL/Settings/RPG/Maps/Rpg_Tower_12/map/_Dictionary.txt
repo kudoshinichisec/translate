@@ -1,0 +1,52 @@
+蜚皮休闲衣衫	Áo da phi Hưu Nhàn Thường
+蜚皮薄下裳	Xiêm mỏng da Phỉ
+金丝木弓	Cung kim ti mộc
+灵石五龙玄阳塔	Tháp Huyền Dương Ngũ Long Linh Thạch
+火铜巨型香炉	Hoả Đồng Cự Hình Hương Lô
+火铜莲心灯	Hoả Đồng Liên Tâm Đèn
+角色出生点	Điểm sinh nhân vật
+逻辑点	Điểm logic
+沈	Thẩm
+寂弦	Tịch Huyền
+身躯	Thân mình
+混元臂·左	Cánh tay Hỗn Nguyên - trái
+混元臂·右	Hỗn nguyên Cánh Tay·Phải
+天盾腿·左	Thiên thuẫn chân·trái
+天盾腿·右	Thiên Thuẫn Chân·Phải
+五行拳	Quyền Ngũ Hành
+鹰熊合形	Ưng Hùng Hợp Hình
+撼渊腿·左	Chân Hãm Uyên·Trái
+撼渊腿·右	Hám Uyên Chân·Phải
+九岳御天顶	Cửu Nhạc Ngự Thiên Đỉnh
+无形手·右	Vô Hình Tay·Phải
+焚神掌·左	Chưởng thiêu thần·Trái
+冻魄掌·右	Đông Phách Chưởng · Hữu
+千触邪臂	Thiên Xúc Tà Tí
+玄木盘根腿	Huyền Mộc Bàn Căn Chân
+六御摘雷手·左	Lục Ng御 Trích Lôi Thủ - Trái
+六御摘雷手·右	Lục Ngự Trích Lôi Thủ · Hữu
+妖御玄鳞	Yêu Ngự Huyền Lân
+捉月手	Tróc Nguyệt Thủ
+逐日腿	Trục Nhật Thối
+洞真之体	Động Chân Chi Thể
+外骨邪甲	Ngoại cốt tà giáp
+真阳玲珑心	Tâm Linh Lung Chân Dương
+玄阴琉璃心	Huyền Âm Lưu Ly Tâm
+天地洪炉	Hồng Lô Thiên Địa
+九烈神血	Cửu Liệt Thần Huyết
+蛮神心	Tâm Man Thần
+万兽归息	Vạn Thú Quy Tức
+超越之心	Siêu Việt Chi Tâm
+斥异之体	Thể Xua Dị Chất
+行	Hành
+屈	Khuất
+怜菡	Liên Hạm
+慵醉	Thung Túy
+永不磨灭之誓言	Lời thề không bao giờ phai mờ
+天下珍宝，尽归于王。王之众宝，万古光耀！	Bảo vật thiên hạ, đều thuộc về vương. Bảo vật của vương, vạn cổ rực rỡ!
+狂徒，国库禁地也敢恣意游荡，受死！	Kẻ cuồng ngông, dám tự do lang thang nơi cấm địa quốc khố, chịu chết đi!
+画地为牢	Vẽ đất làm lao
+防御，闪避，飞剑速度降低	Phòng thủ, né, tốc độ Phi Kiếm giảm
+此地有一尊玄黄宝塔，有着镇压时空的玄妙作用。	Có một tòa Bảo Tháp Huyền Hoàng ở nơi đây, có tác dụng huyền diệu trấn áp thời không.
+
+

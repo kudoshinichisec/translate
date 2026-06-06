@@ -1,0 +1,203 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="NpcFight_SneakValue">
+			<DisplayName>Giá trị tiềm hành</DisplayName>
+			<Desc>Mức độ ẩn nấp trong trạng thái tiềm hành, giá trị tiềm hành càng cao, càng khó bị phát hiện.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
+		</Text>
+		<Text Name="PotentialOfBasepracticeAddValue">
+			<DisplayName>Giá trị tăng tiềm năng</DisplayName>
+			<Desc>Giá trị tiềm năng của nhân vật, ảnh hưởng đến tốc độ xây dựng cơ sở và hiệu suất luyện tinh hóa khí.</Desc>
+		</Text>
+		<Text Name="GodPenaltyAddV">
+			<DisplayName>Tăng giá trị thiên phạt</DisplayName>
+			<Desc>Giá trị thiên phạt của nhân vật.</Desc>
+		</Text>
+		<Text Name="MaxAccumulativeLingAddV">
+			<DisplayName>Tăng giới hạn lò luyện</DisplayName>
+			<Desc>Tăng giá trị giới hạn lò luyện.</Desc>
+		</Text>
+		<Text Name="BasepracticeSpeedCoefficient">
+			<DisplayName>Tăng tốc độ xây dựng cơ sở</DisplayName>
+			<Desc>Tốc độ xây dựng cơ sở của đệ tử ngoại môn.</Desc>
+			<FunctionKind>Thuộc Tính Tu Luyện.</FunctionKind>
+		</Text>
+		<Text Name="DeepPracticeSpeedSpecialCoefficient">
+			<DisplayName>Giá trị tăng tốc độ tu luyện</DisplayName>
+			<Desc>Tốc độ nhận được tu vi của người tu luyện pháp kim đan.</Desc>
+			<FunctionKind>Thuộc Tính Tu Luyện.</FunctionKind>
+		</Text>
+		<Text Name="MindStateBaseValue">
+			<DisplayName>Giá trị cơ bản của tâm cảnh</DisplayName>
+			<Desc>Giá trị cơ bản của tâm cảnh đệ tử nội môn.</Desc>
+			<FunctionKind>Thuộc Tính Tu Luyện.</FunctionKind>
+		</Text>
+		<Text Name="SpeedOfMindStateCoefficient">
+			<DisplayName>Độ ổn định của tâm cảnh</DisplayName>
+			<Desc>Tốc độ thay đổi tâm cảnh của đệ tử nội môn.</Desc>
+		</Text>
+		<Text Name="SpeedOfMindStateCoefficientByMoods">
+			<DisplayName>Tâm trạng ảnh hưởng đến tốc độ thay đổi tâm cảnh.</DisplayName>
+		</Text>
+		<Text Name="SpeedOfMindStateCoefficientByMoods_Easy">
+			<DisplayName>Tâm trạng ảnh hưởng đến tốc độ thay đổi tâm cảnh.</DisplayName>
+		</Text>
+		<Text Name="InspirationCoefficient">
+			<DisplayName>Tỷ lệ ngộ tính</DisplayName>
+			<Desc>Người có ngộ tính cao dễ dàng đạt được sự giác ngộ trong cuộc sống.</Desc>
+		</Text>
+		<Text Name="LingAbsorbSpeed">
+			<DisplayName>Tăng tốc độ hấp thụ linh khí</DisplayName>
+		</Text>
+		<Text Name="_SPECIAL_NOADD_NpcLingMaxValue">
+			<DisplayName>Linh khí căn bản</DisplayName>
+			<Desc>Giá trị linh khí căn bản của tu sĩ.</Desc>
+			<FunctionKind>Thuộc Tính Tu Luyện</FunctionKind>
+		</Text>
+		<Text Name="NpcLingMaxValue">
+			<DisplayName>Giá trị linh khí tối đa.</DisplayName>
+			<Desc>Giá trị linh khí tối đa của nhân vật.</Desc>
+			<FunctionKind>Thuộc Tính Tu Luyện</FunctionKind>
+		</Text>
+		<Text Name="FabaoMake_SpeedAddV">
+			<DisplayName>Giá trị tăng tốc độ luyện chế pháp bảo</DisplayName>
+			<Desc>Tăng tốc độ luyện chế pháp bảo.</Desc>
+			<FunctionKind>Thuộc tính sản xuất</FunctionKind>
+		</Text>
+		<Text Name="FabaoMake_SuccessRateAddV">
+			<DisplayName>Giá trị tăng tỷ lệ thành công luyện chế pháp bảo</DisplayName>
+			<Desc>Tăng tỷ lệ thành công khi luyện chế pháp bảo.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="FabaoMake_LingInheritRateAddV">
+			<DisplayName>Giá trị tăng phẩm cấp pháp bảo luyện chế</DisplayName>
+			<Desc>Mức độ ảnh hưởng của nguyên liệu linh khí đến phẩm cấp pháp bảo khi luyện chế.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="FabaoMake_QualityAddV">
+			<DisplayName>Giá trị tăng chất lượng pháp bảo luyện chế</DisplayName>
+			<Desc>Tăng giá trị chất lượng sản phẩm khi luyện chế pháp bảo.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="FabaoMake_TwelveRateChance">
+			<DisplayName>Xác suất cơ bản luyện thành thần khí</DisplayName>
+			<Desc>Xác suất cơ bản luyện thành thần khí.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="DanMake_Speed">
+			<DisplayName>Tốc độ luyện chế đan dược</DisplayName>
+			<Desc>Tốc độ luyện chế mà kỹ năng luyện đan mang lại khi luyện chế đan dược.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="DanMake_SpeedAddV">
+			<DisplayName>Giá trị tăng tốc độ luyện chế đan dược</DisplayName>
+			<Desc>Tăng tốc độ luyện chế đan dược thêm vào.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="DanMake_SuccessRate">
+			<DisplayName>Tỷ lệ thành công luyện chế của kỹ năng luyện đan</DisplayName>
+			<Desc>Tỷ lệ thành công mà kỹ năng luyện đan mang lại khi luyện chế đan dược.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="DanMake_SuccessRateAddV">
+			<DisplayName>Giá trị tăng tỷ lệ thành công luyện chế đan dược</DisplayName>
+			<Desc>Tăng tỷ lệ thành công luyện chế đan dược thêm vào.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="DanMake_Yield">
+			<DisplayName>Tăng sản lượng luyện chế đan dược của kỹ năng luyện đan</DisplayName>
+			<Desc>Tăng sản lượng mà kỹ năng luyện đan mang lại khi luyện chế đan dược.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="DanMake_YieldAddP">
+			<DisplayName>Giá trị tăng sản lượng luyện chế đan dược</DisplayName>
+			<Desc>Tăng sản lượng luyện chế đan dược thêm vào.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="PracticeRateAddPFromDan">
+			<DisplayName>Hệ số tăng tỷ lệ Dột phá bình cảnh</DisplayName>
+			<Desc>Hệ số tăng tỷ lệ Dột phá bình cảnh.</Desc>
+		</Text>
+		<Text Name="WorldMapFlySpeed">
+			<DisplayName>Rèn luyện tốc độ bay</DisplayName>
+			<DisplayValue>{0:N1} dặm/giây</DisplayValue>
+			<Desc>Tốc độ tối đa khi ngự kiếm phi hành xuống núi rèn luyện.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
+		</Text>
+		<Text Name="WorldMapFlySpeedAddP">
+			<DisplayName>Tăng tốc độ phi hành luyện tập</DisplayName>
+			<Desc>Tăng tốc độ ngự kiếm phi hành khi xuống núi rèn luyện.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
+		</Text>
+		<Text Name="ExperienceNeckTimeCostCoefficient">
+			<DisplayName>Hệ số phóng đại thời gian bình cảnh luyện tập</DisplayName>
+			<Desc>Hệ số phóng đại thời gian cần thiết khi Dột phá bình cảnh và xuống núi rèn luyện.</Desc>
+		</Text>
+		<Text Name="NeckCountdownAddV">
+			<DisplayName>Thời gian trì hoãn đếm ngược bình cảnh</DisplayName>
+			<DisplayValue>{0:N0} giây</DisplayValue>
+			<Desc>Thời gian trì hoãn đếm ngược bình cảnh.</Desc>
+		</Text>
+		<Text Name="EsotericaNum">
+			<DisplayName>Giới hạn số lượng bí kíp</DisplayName>
+			<Desc>Số lượng tối đa của bí kíp.</Desc>
+		</Text>
+		<Text Name="AbilityLvAddV">
+			<DisplayName>Giá trị tăng đạo hạnh</DisplayName>
+			<Desc>Giá trị cộng thêm của đạo hạnh thực.</Desc>
+			<FunctionKind>Thuộc Tính Tu Luyện.</FunctionKind>
+		</Text>
+		<Text Name="ExperiencePrestigeAddP">
+			<DisplayName>Hệ số phóng đại danh vọng luyện tập</DisplayName>
+			<Desc>Tỷ lệ tăng danh vọng môn phái khi luyện tập.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
+		</Text>
+		<Text Name="ExperienceFindSpeedAddV">
+			<DisplayName>Tốc độ khám phá luyện tập</DisplayName>
+			<Desc>Tăng tốc độ khám phá địa điểm mới khi luyện tập.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
+		</Text>
+		<Text Name="NutritionToJingYuanK">
+			<DisplayName>Tỷ lệ nhận tinh nguyên</DisplayName>
+			<Desc>Giá trị tinh nguyên chuyển hóa từ mỗi điểm độ no.</Desc>
+			<FunctionKind>Thuộc Tính Tu Luyện.</FunctionKind>
+		</Text>
+		<Text Name="NutritionWaterAutoRecover">
+			<DisplayName>Hiệu suất hấp thụ khí</DisplayName>
+			<DisplayValue>{0:N2} điểm/giây</DisplayValue>
+			<Desc>Khả năng trực tiếp hấp thụ năng lượng từ thiên địa để duy trì độ đói và độ khát.</Desc>
+			<FunctionKind>Thuộc Tính Tu Luyện.</FunctionKind>
+		</Text>
+		<Text Name="YaoShou_BaseLing">
+			<DisplayName>Thuộc tính linh khí của yêu thú</DisplayName>
+			<Desc>Thuộc tính linh khí của yêu thú.</Desc>
+		</Text>
+		<Text Name="YaoShou_BaseAttack">
+			<DisplayName>Thuộc tính tấn công của yêu thú</DisplayName>
+			<Desc>Thuộc tính tấn công của yêu thú.</Desc>
+		</Text>
+		<Text Name="YaoShou_BaseFabaoNum">
+			<DisplayName>Thuộc tính số lượng pháp bảo của yêu thú</DisplayName>
+			<Desc>Thuộc tính số lượng pháp bảo của yêu thú.</Desc>
+		</Text>
+		<Text Name="GongMatch_JinAddV">
+			<DisplayName>Tăng độ phù hợp công pháp thuộc tính kim</DisplayName>
+		</Text>
+		<Text Name="GongMatch_MuAddV">
+			<DisplayName>Tăng độ phù hợp công pháp thuộc tính mộc</DisplayName>
+		</Text>
+		<Text Name="GongMatch_ShuiAddV">
+			<DisplayName>Tăng độ phù hợp công pháp thuộc tính thủy</DisplayName>
+		</Text>
+		<Text Name="GongMatch_HuoAddV">
+			<DisplayName>Tăng độ phù hợp công pháp thuộc tính hỏa</DisplayName>
+		</Text>
+		<Text Name="GongMatch_TuAddV">
+			<DisplayName>Tăng độ phù hợp công pháp thuộc tính thổ</DisplayName>
+		</Text>
+		<Text Name="GongMatch_NoneAddV">
+			<DisplayName>Tăng độ phù hợp công pháp không thuộc tính</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,131 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_QuenchingLabel_ChiYi">
+			<DisplayName>Xích Dị</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Base_Organ">
+			<DisplayName>Cơ Sở Bách Luyện Khí Quan</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Base_Bone">
+			<DisplayName>Cơ Sở Bách Luyện Cốt Cách</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Base_Flesh">
+			<DisplayName>Cơ Sở Bách Luyện Huyết Nhục</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv1_O01_All">
+			<DisplayName>Cơ Năng Hoạt Hóa</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_All">
+			<DisplayName>Tuyệt Cảnh Tiềm Năng</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O02_All">
+			<DisplayName>Tiên Thiên Phản Chiếu</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_O01_All">
+			<DisplayName>Nguyên Tổ Hóa (nội tạng)</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_O01_Xia">
+			<DisplayName>Cơ Năng Kích Hóa</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_O01_DaYaoYuanJing">
+			<DisplayName>Yêu Thực Tạng Khí</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_SiHunZhiXi">
+			<DisplayName>Tiềm Mặc Minh Tức</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_B01_WuHuiJingHua">
+			<DisplayName>Tà Sinh Cốt Văn</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_O01_WuHuiJingHua">
+			<DisplayName>Nội Thể Kích Biến</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_WuXingZhiJing">
+			<DisplayName>Không Hóa Chi Lực</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_ZhuLongYuanJing">
+			<DisplayName>U Minh Luân Chuyển</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_TaiYangJingHua">
+			<DisplayName>Thái Dương Tinh Hoa Hệ Liệt</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_TaiYinJingHua">
+			<DisplayName>Thái Âm Tinh Hoa Hệ Liệt</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A03_JieMieJingHua">
+			<DisplayName>Thiên Địa Chi Quang Trần</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A01_TaiXuJingHua">
+			<DisplayName>Thái Hư Thần Nguyên</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A02_TaiXuJingHua">
+			<DisplayName>Bát Cực Chân Lực</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A03_TaiXuJingHua">
+			<DisplayName>Ngũ Hành Vạn Hóa</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A01_XuanTianZiQi">
+			<DisplayName>Chu Thiên Tinh Huy</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A02_XuanTianZiQi">
+			<DisplayName>Tam Viên Tôn Lực</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A03_XuanTianZiQi">
+			<DisplayName>Ngũ Đức Tịch Kiếp</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_F01_Dong">
+			<DisplayName>Trầm Miên Chi Huyết</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_B01_Dong">
+			<DisplayName>Phong Tuyệt Chi Cốt</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_O01_Dong">
+			<DisplayName>Cơ Năng Quy Tàng</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_TaiYangJingHua">
+			<DisplayName>Thái Dương Chi Tức</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Brain">
+			<DisplayName>Bách Luyện Não</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Eye">
+			<DisplayName>Bách Luyện Nhãn</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Ear">
+			<DisplayName>Bách Luyện Nhĩ</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Nose">
+			<DisplayName>Bách Luyện Tị</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Mouth">
+			<DisplayName>Bách Luyện Chủy</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Throat">
+			<DisplayName>Bách Luyện Hầu</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Heart">
+			<DisplayName>Bách Luyện Tâm</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Liver">
+			<DisplayName>Bách Luyện Can</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Spleen">
+			<DisplayName>Lá lách luyện bách</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Lung">
+			<DisplayName>Bách Luyện Phế</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Kidney">
+			<DisplayName>Bách Luyện Thận</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Stomach">
+			<DisplayName>Bách Luyện Vị</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Intestines">
+			<DisplayName>Bách Luyện Tràng</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Genitals">
+			<DisplayName>Bách Luyện Dương Căn</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

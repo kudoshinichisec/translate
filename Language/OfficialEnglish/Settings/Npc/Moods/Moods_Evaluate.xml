@@ -1,0 +1,170 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BaseExpect1">
+			<DisplayName>Hoàn hồn sau cơn hoảng loạn.</DisplayName>
+			<Desc>Những ngày chạy trốn thực sự khiến người ta kiệt sức, nhưng dù sao đi nữa, còn sống là tốt rồi...</Desc>
+			<StoryDesc>Thầm cảm thấy may mắn vì thoát khỏi thảm họa.</StoryDesc>
+		</Text>
+		<Text Name="BaseExpect2">
+			<DisplayName>Rời xa loạn thế.</DisplayName>
+			<Desc>Dù nơi này chẳng có gì, nhưng dù sao đi nữa, được rời xa thế giới hỗn loạn bên ngoài chính là hạnh phúc lớn nhất.</Desc>
+			<StoryDesc>Đang tận hưởng sự yên bình khi rời xa thế giới hỗn loạn.</StoryDesc>
+		</Text>
+		<Text Name="BaseExpect3">
+			<DisplayName>Cuộc sống mới.</DisplayName>
+			<Desc>Có vẻ như mọi người đều thích cuộc sống ở đây: không có chiến tranh, không có thuế má nặng nề, dù cuộc sống có chút khó khăn nhưng vẫn có thể tự cung tự cấp. Đây có phải là một khởi đầu mới không? Ai cũng tràn đầy hy vọng.</Desc>
+			<StoryDesc>Thầm mong chờ sự khởi đầu của cuộc sống mới.</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect1">
+			<DisplayName>Nơi ở tồi tàn.</DisplayName>
+			<Desc>Nơi thế này có thể gọi là chỗ ở cho con người sao?</Desc>
+			<StoryDesc>Vừa tức giận vì nơi ở quá tệ.</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect2">
+			<DisplayName>Nơi ở kinh khủng.</DisplayName>
+			<Desc>Môi trường đáng sợ, có lẽ ngủ ngoài trời còn thoải mái hơn ở đây.</Desc>
+			<StoryDesc>Đang lẩm bẩm phàn nàn về nơi ở tồi tàn này.</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect3">
+			<DisplayName>Nơi ở tệ hại.</DisplayName>
+			<Desc>Thực sự rất sơ sài, chỉ là một nơi có thể che mưa chắn gió mà thôi.</Desc>
+			<StoryDesc>Vì căn phòng đơn sơ mà lộ vẻ không vui</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect4">
+			<DisplayName>Một căn phòng bình thường</DisplayName>
+			<Desc>Một căn phòng đúng chuẩn mực, bày trí rất đơn giản.</Desc>
+			<StoryDesc>Đang suy nghĩ cách cải thiện căn phòng</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect5">
+			<DisplayName>Căn phòng khá ổn</DisplayName>
+			<Desc>Bố trí trong nhà trông khá tốt.</Desc>
+			<StoryDesc>Vì căn phòng khá ổn mà nở nụ cười nhẹ</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect6">
+			<DisplayName>Căn phòng tinh tế</DisplayName>
+			<Desc>Cách bày trí ở đây rất tỉ mỉ, có thể thấy đã tốn nhiều công sức.</Desc>
+			<StoryDesc>Vì căn phòng ấm cúng mà cười rạng rỡ</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect7">
+			<DisplayName>Căn phòng lộng lẫy</DisplayName>
+			<Desc>Bố trí trong phòng quá lộng lẫy, gần như hoàn hảo.</Desc>
+			<StoryDesc>Vì phòng ngủ lộng lẫy mà vui mừng không ngớt</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect8">
+			<DisplayName>Cần một căn phòng</DisplayName>
+			<Desc>Ta muốn một căn phòng!</Desc>
+			<StoryDesc>Vì không có nơi ở mà tức giận</StoryDesc>
+		</Text>
+		<Text Name="IndependentRoomNeed">
+			<DisplayName>Ở cùng đệ tử ngoại môn</DisplayName>
+			<Desc>Hơi thở và tạp niệm của đệ tử ngoại môn thực sự ảnh hưởng đến việc tu hành... Ta hy vọng có thể tách phòng với họ.</Desc>
+			<StoryDesc>Vì tu hành chung phòng với đệ tử ngoại môn mà phiền muộn</StoryDesc>
+		</Text>
+		<Text Name="LiveWithBadMan">
+			<DisplayName>Sống chung khó xử</DisplayName>
+			<Desc>Ta và [TXT] chưa thân thiết đến mức tu hành chung phòng, điều này thật sự rất khó xử.</Desc>
+			<StoryDesc>Vì tu hành chung phòng với người chưa quen mà phiền lòng</StoryDesc>
+		</Text>
+		<Text Name="BedroomFengShuiExpect1">
+			<DisplayName>Phong thủy phòng kém</DisplayName>
+			<Desc>Nơi ta ở phong thủy không tốt lắm.</Desc>
+			<StoryDesc>Vì phong thủy phòng không tốt mà lộ vẻ phiền não</StoryDesc>
+		</Text>
+		<Text Name="BedroomFengShuiExpect2">
+			<DisplayName>Nhà xui xẻo</DisplayName>
+			<Desc>Phòng của ta thực sự có thể gọi là nhà xui xẻo, ở đây liệu có ổn không?</Desc>
+			<StoryDesc>Vì phong thủy phòng kém mà sắc mặt suy sụp</StoryDesc>
+		</Text>
+		<Text Name="BedroomFengShuiExpect3">
+			<DisplayName>Phòng không thể ở</DisplayName>
+			<Desc>Phòng này phong thủy quá kém, thực sự không thể ở được.</Desc>
+			<StoryDesc>Vì phong thủy phòng quá kém mà trông đầy vẻ giận dữ</StoryDesc>
+		</Text>
+		<Text Name="BedroomFengShuiExpect4">
+			<DisplayName>Phong thủy phòng tốt</DisplayName>
+			<Desc>Phòng của ta phong thủy khá ổn, điều này khiến ta vui vẻ.</Desc>
+			<StoryDesc>Vì phong thủy phòng tốt mà mặt mày rạng rỡ</StoryDesc>
+		</Text>
+		<Text Name="BedroomFengShuiExpect5">
+			<DisplayName>Nhà may mắn</DisplayName>
+			<Desc>Phòng của ta phong thủy cực kỳ tốt, người không am hiểu không thể bố trí được như vậy.</Desc>
+			<StoryDesc>Vì phong thủy phòng cực tốt mà cười tươi rạng rỡ</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect9">
+			<DisplayName>Phòng chật chội</DisplayName>
+			<Desc>Căn phòng này thực sự quá chật chội!</Desc>
+			<StoryDesc>Vì nghĩ đến căn phòng chật chội mà mặt đầy ưu tư</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect10">
+			<DisplayName>Phòng trống trải</DisplayName>
+			<Desc>Căn phòng này trống trơn, không thoải mái lắm.</Desc>
+			<StoryDesc>Vì căn phòng trống trải mà lẩm bẩm phàn nàn</StoryDesc>
+		</Text>
+		<Text Name="ClosedRoom">
+			<DisplayName>Không thể ra ngoài</DisplayName>
+			<Desc>Căn phòng này không có cửa, ta bị mắc kẹt rồi!</Desc>
+			<StoryDesc>Vì bị mắc kẹt trong phòng mà tức giận bừng bừng</StoryDesc>
+		</Text>
+		<Text Name="ClothesExpect1">
+			<DisplayName>Quần áo tồi tàn</DisplayName>
+			<Desc>Ta chỉ có thể mặc đồ rách nát như thế này sao? (Chất lượng dưới 30)</Desc>
+			<StoryDesc>Vì mặc đồ tồi tàn mà không hài lòng</StoryDesc>
+		</Text>
+		<Text Name="ClothesExpect2">
+			<DisplayName>Trang phục phù hợp</DisplayName>
+			<Desc>Quần áo mặc rất vừa vặn.</Desc>
+			<StoryDesc>Vì mặc đồ vừa vặn mà vui vẻ</StoryDesc>
+		</Text>
+		<Text Name="ClothesExpect3">
+			<DisplayName>Trang phục lộng lẫy</DisplayName>
+			<Desc>Bộ đồ này không chỉ thoải mái mà còn rất nổi bật.</Desc>
+			<StoryDesc>Vì mặc đồ lộng lẫy mà rạng rỡ</StoryDesc>
+		</Text>
+		<Text Name="BeautyExpect1">
+			<DisplayName>Môi trường tồi tệ</DisplayName>
+			<Desc>Môi trường xung quanh thật sự quá xấu xí, ngay cả ăn mày cũng không muốn ở đây.</Desc>
+			<StoryDesc>Vì môi trường xung quanh tồi tệ mà lộ vẻ chán ghét</StoryDesc>
+		</Text>
+		<Text Name="BeautyExpect2">
+			<DisplayName>Môi trường bẩn thỉu</DisplayName>
+			<Desc>Nơi này vừa bẩn vừa lộn xộn, khiến người ta khó chịu.</Desc>
+			<StoryDesc>Vì môi trường xung quanh bẩn thỉu mà bực bội</StoryDesc>
+		</Text>
+		<Text Name="BeautyExpect3">
+			<DisplayName>Cảnh quan bình thường</DisplayName>
+			<Desc>Phong cảnh ở đây cũng tạm ổn.</Desc>
+			<StoryDesc>Vì môi trường xung quanh bình thường mà gật đầu nhẹ</StoryDesc>
+		</Text>
+		<Text Name="BeautyExpect4">
+			<DisplayName>Phong cảnh độc đáo</DisplayName>
+			<Desc>Cảnh quan độc đáo, khiến người ta thích thú.</Desc>
+			<StoryDesc>Vừa đắm chìm trong phong cảnh độc đáo</StoryDesc>
+		</Text>
+		<Text Name="BeautyExpect5">
+			<DisplayName>Tuyệt cảnh nhân gian</DisplayName>
+			<Desc>Phong cảnh nơi đây thật tuyệt mỹ, khó tìm thấy trên đời.</Desc>
+			<StoryDesc>Vừa vì phong cảnh tuyệt mỹ mà thở dài cảm thán</StoryDesc>
+		</Text>
+		<Text Name="BeautyExpect6">
+			<DisplayName>Như chốn thần tiên</DisplayName>
+			<Desc>Đây chẳng lẽ là chốn thần tiên sao?</Desc>
+			<StoryDesc>Đang đắm chìm trong phong cảnh như chốn thần tiên</StoryDesc>
+		</Text>
+		<Text Name="NeedFabao">
+			<DisplayName>Cần pháp bảo</DisplayName>
+			<Desc>Đã bước vào con đường tiên đạo, sao có thể không có pháp bảo.</Desc>
+			<StoryDesc>Đang cảm thấy không hài lòng vì không có pháp bảo.</StoryDesc>
+		</Text>
+		<Text Name="NeedWeapon">
+			<DisplayName>Cần vũ khí</DisplayName>
+			<Desc>Ta cần một vũ khí để tự vệ và tiêu diệt kẻ địch.</Desc>
+			<StoryDesc>Đang cảm thấy bất an vì không có vũ khí.</StoryDesc>
+		</Text>
+		<Text Name="Jingguai_HappyHuman">
+			<DisplayName>Hóa thân thành người</DisplayName>
+			<Desc>Ta… ta đã biến thành người rồi? Cuối cùng ta đã trở thành người!</Desc>
+			<StoryDesc>Đang vui mừng vì hóa thân thành người.</StoryDesc>
+		</Text>
+	</List>
+</Texts>
+

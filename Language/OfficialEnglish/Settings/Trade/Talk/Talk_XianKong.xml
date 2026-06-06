@@ -1,0 +1,15 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Talk_XianKong">
+			<Hate.0>Nhìn thấy ngươi, cảm giác như một ngày tu luyện đều uổng phí.</Hate.0>
+			<Hate.1>Sao ngươi vẫn ở cảnh giới này? Lại thất bại trong việc đột phá à?</Hate.1>
+			<Submiss.0>(Vung tay) Nào, mang những thứ tốt nhất lên đây.</Submiss.0>
+			<Submiss.1>Đến nào, đến nào, bảo vật ở đây cứ thoải mái chọn.</Submiss.1>
+			<GiftLike.0>Wow, không tệ không tệ. Ngươi là ký sinh trùng à? Cái này cũng biết.</GiftLike.0>
+			<GiftLike.1>Hôm nay vốn đang khá buồn bực, cái này khiến ta tinh thần phấn chấn.</GiftLike.1>
+			<LowValueGift.0>Cái này dùng để châm thuốc không tệ.</LowValueGift.0>
+			<LowValueGift.1>Ngươi nghiêm túc đấy à? Bình thường ta sẽ không nhận đâu.</LowValueGift.1>
+		</Text>
+	</List>
+</Texts>
+

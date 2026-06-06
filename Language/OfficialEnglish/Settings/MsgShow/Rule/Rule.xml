@@ -1,0 +1,190 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FanRenEvent">
+			<DisplayName>Du lịch nhân gian</DisplayName>
+			<Desc>Khi du lịch thiên hạ, thái độ khi gặp trường hợp cần giao tiếp với người phàm.</Desc>
+			<Selection.0.DisplayName>Đối đãi ôn hòa</Selection.0.DisplayName>
+			<Selection.0.Desc>Giúp đỡ họ khi gặp khó khăn, cố gắng không gây ảnh hưởng tiêu cực khi làm việc.</Selection.0.Desc>
+			<Selection.1.DisplayName>Làm theo ý mình</Selection.1.DisplayName>
+			<Selection.1.Desc>Làm tùy ý, không quan tâm sẽ gây ảnh hưởng thế nào đến người phàm.</Selection.1.Desc>
+			<Selection.2.DisplayName>Phớt lờ</Selection.2.DisplayName>
+			<Selection.2.Desc>Những chuyện vặt vãnh nhân gian này không đáng để dành thời gian.</Selection.2.Desc>
+		</Text>
+		<Text Name="JiangHuFenZheng">
+			<DisplayName>Tranh chấp giang hồ</DisplayName>
+			<Desc>Khi du lịch thiên hạ, thái độ khi gặp trường hợp cần giao tiếp với người tu hành.</Desc>
+			<Selection.0.DisplayName>Người chính phái</Selection.0.DisplayName>
+			<Selection.0.Desc>Khi gặp loại sự kiện này, ưu tiên xử lý với thân phận chính phái.</Selection.0.Desc>
+			<Selection.1.DisplayName>Người tà phái</Selection.1.DisplayName>
+			<Selection.1.Desc>Khi gặp loại sự kiện này, ưu tiên xử lý với thân phận tà phái.</Selection.1.Desc>
+			<Selection.2.DisplayName>Không gây chuyện</Selection.2.DisplayName>
+			<Selection.2.Desc>Khi gặp loại sự kiện này, chủ động tránh xa, không gây rắc rối.</Selection.2.Desc>
+		</Text>
+		<Text Name="FindTreasure">
+			<DisplayName>Cơ duyên tiên gia</DisplayName>
+			<Desc>Khi du lịch thiên hạ, hành động khi gặp cơ duyên tiên gia.</Desc>
+			<Selection.0.DisplayName>Tìm kiếm cơ duyên</Selection.0.DisplayName>
+			<Selection.0.Desc>Khi gặp loại sự kiện này, ưu tiên chủ động khám phá cơ duyên.</Selection.0.Desc>
+			<Selection.1.DisplayName>Không gây chuyện</Selection.1.DisplayName>
+			<Selection.1.Desc>Khi gặp loại sự kiện này, chủ động tránh xa, không gây rắc rối.</Selection.1.Desc>
+		</Text>
+		<Text Name="FindProduce">
+			<DisplayName>Thu thập vật tư</DisplayName>
+			<Desc>Khi du lịch thiên hạ, thái độ khi gặp vật phẩm đặc sản địa phương.</Desc>
+			<Selection.0.DisplayName>Thu thập vật tư</Selection.0.DisplayName>
+			<Selection.0.Desc>Khi gặp loại sự kiện này, chủ động thu thập những vật phẩm này.</Selection.0.Desc>
+			<Selection.1.DisplayName>Phớt lờ</Selection.1.DisplayName>
+			<Selection.1.Desc>Khi gặp loại sự kiện này không cần lãng phí thời gian.</Selection.1.Desc>
+		</Text>
+		<Text Name="FindHighProduce">
+			<DisplayName>Thu thập bảo vật</DisplayName>
+			<Desc>Khi du lịch thiên hạ, thái độ khi gặp bảo vật hiếm đặc sản địa phương.</Desc>
+			<Selection.0.DisplayName>Thử tìm kiếm</Selection.0.DisplayName>
+			<Selection.0.Desc>Khi gặp loại sự kiện này, thử tìm kiếm bảo vật.</Selection.0.Desc>
+			<Selection.1.DisplayName>Phớt lờ</Selection.1.DisplayName>
+			<Selection.1.Desc>Khi gặp loại sự kiện này không cần lãng phí thời gian.</Selection.1.Desc>
+		</Text>
+		<Text Name="FindSecret">
+			<DisplayName>Chuyện lạ kỳ quái</DisplayName>
+			<Desc>Khi du lịch thiên hạ, thái độ khi gặp những chuyện kỳ lạ nghe được từ người khác.</Desc>
+			<Selection.0.DisplayName>Thăm dò khám phá</Selection.0.DisplayName>
+			<Selection.0.Desc>Khi gặp phải những sự kiện như vậy, hãy thử thăm dò và tìm hiểu chi tiết tình hình.</Selection.0.Desc>
+			<Selection.1.DisplayName>Phớt lờ</Selection.1.DisplayName>
+			<Selection.1.Desc>Khi gặp loại sự kiện này không cần lãng phí thời gian.</Selection.1.Desc>
+		</Text>
+		<Text Name="School_All">
+			<DisplayName>Ngoại giao môn phái</DisplayName>
+			<Desc>Bản thể logic</Desc>
+			<Selection.0.DisplayName>Thiện ý</Selection.0.DisplayName>
+			<Selection.0.Desc>Giao tiếp với họ bằng thái độ thân thiện.</Selection.0.Desc>
+			<Selection.1.DisplayName>Ác ý</Selection.1.DisplayName>
+			<Selection.1.Desc>Giao tiếp với họ bằng thái độ thù địch.</Selection.1.Desc>
+			<Selection.2.DisplayName>Không gây chuyện</Selection.2.DisplayName>
+			<Selection.2.Desc>Người gặp họ nên chủ động lánh xa, cố gắng tránh né.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_1">
+			<DisplayName>Ngoại giao môn phái-Đan Hà Động Thiên</DisplayName>
+			<Desc>Khi giao tiếp với Đan Hà Động Thiên, đệ tử môn phái ta áp dụng thái độ như thế nào.</Desc>
+			<Selection.0.DisplayName>Thiện ý</Selection.0.DisplayName>
+			<Selection.0.Desc>Giao tiếp với họ bằng thái độ thân thiện.</Selection.0.Desc>
+			<Selection.1.DisplayName>Ác ý</Selection.1.DisplayName>
+			<Selection.1.Desc>Giao tiếp với họ bằng thái độ thù địch.</Selection.1.Desc>
+			<Selection.2.DisplayName>Không gây chuyện</Selection.2.DisplayName>
+			<Selection.2.Desc>Người gặp họ nên chủ động lánh xa, cố gắng tránh né.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_2">
+			<DisplayName>Ngoại giao môn phái-Côn Lôn Cung</DisplayName>
+			<Desc>Khi giao tiếp với Côn Lôn Cung, đệ tử môn phái ta áp dụng thái độ như thế nào.</Desc>
+			<Selection.0.DisplayName>Thiện ý</Selection.0.DisplayName>
+			<Selection.0.Desc>Giao tiếp với họ bằng thái độ thân thiện.</Selection.0.Desc>
+			<Selection.1.DisplayName>Ác ý</Selection.1.DisplayName>
+			<Selection.1.Desc>Giao tiếp với họ bằng thái độ thù địch.</Selection.1.Desc>
+			<Selection.2.DisplayName>Không gây chuyện</Selection.2.DisplayName>
+			<Selection.2.Desc>Người gặp họ nên chủ động lánh xa, cố gắng tránh né.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_3">
+			<DisplayName>Ngoại giao môn phái-Cực Thiên Cung</DisplayName>
+			<Desc>Khi giao tiếp với Cực Thiên Cung, đệ tử môn phái ta áp dụng thái độ như thế nào.</Desc>
+			<Selection.0.DisplayName>Thiện ý</Selection.0.DisplayName>
+			<Selection.0.Desc>Giao tiếp với họ bằng thái độ thân thiện.</Selection.0.Desc>
+			<Selection.1.DisplayName>Ác ý</Selection.1.DisplayName>
+			<Selection.1.Desc>Giao tiếp với họ bằng thái độ thù địch.</Selection.1.Desc>
+			<Selection.2.DisplayName>Không gây chuyện</Selection.2.DisplayName>
+			<Selection.2.Desc>Người gặp họ nên chủ động lánh xa, cố gắng tránh né.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_4">
+			<DisplayName>Ngoại giao môn phái-Tử Tiêu Tông</DisplayName>
+			<Desc>Khi giao tiếp với Tử Tiêu Tông, đệ tử môn phái ta áp dụng thái độ như thế nào.</Desc>
+			<Selection.0.DisplayName>Thiện ý</Selection.0.DisplayName>
+			<Selection.0.Desc>Giao tiếp với họ bằng thái độ thân thiện.</Selection.0.Desc>
+			<Selection.1.DisplayName>Ác ý</Selection.1.DisplayName>
+			<Selection.1.Desc>Giao tiếp với họ bằng thái độ thù địch.</Selection.1.Desc>
+			<Selection.2.DisplayName>Không gây chuyện</Selection.2.DisplayName>
+			<Selection.2.Desc>Người gặp họ nên chủ động lánh xa, cố gắng tránh né.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_5">
+			<DisplayName>Ngoại giao môn phái-Huyền Nhất Đạo</DisplayName>
+			<Desc>Khi giao tiếp với Huyền Nhất Đạo, đệ tử môn phái ta áp dụng thái độ như thế nào.</Desc>
+			<Selection.0.DisplayName>Thiện ý</Selection.0.DisplayName>
+			<Selection.0.Desc>Giao tiếp với họ bằng thái độ thân thiện.</Selection.0.Desc>
+			<Selection.1.DisplayName>Ác ý</Selection.1.DisplayName>
+			<Selection.1.Desc>Giao tiếp với họ bằng thái độ thù địch.</Selection.1.Desc>
+			<Selection.2.DisplayName>Không gây chuyện</Selection.2.DisplayName>
+			<Selection.2.Desc>Người gặp họ nên chủ động lánh xa, cố gắng tránh né.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_6">
+			<DisplayName>Ngoại giao môn phái-Thanh Liên Kiếm Tông</DisplayName>
+			<Desc>Khi giao tiếp với Thanh Liên Kiếm Tông, đệ tử môn phái ta áp dụng thái độ như thế nào.</Desc>
+			<Selection.0.DisplayName>Thiện ý</Selection.0.DisplayName>
+			<Selection.0.Desc>Giao tiếp với họ bằng thái độ thân thiện.</Selection.0.Desc>
+			<Selection.1.DisplayName>Ác ý</Selection.1.DisplayName>
+			<Selection.1.Desc>Giao tiếp với họ bằng thái độ thù địch.</Selection.1.Desc>
+			<Selection.2.DisplayName>Không gây chuyện</Selection.2.DisplayName>
+			<Selection.2.Desc>Người gặp họ nên chủ động lánh xa, cố gắng tránh né.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_7">
+			<DisplayName>Ngoại giao môn phái-Thê Hà Động Thiên</DisplayName>
+			<Desc>Khi giao tiếp với Thê Hà Động Thiên, đệ tử môn phái ta áp dụng thái độ như thế nào.</Desc>
+			<Selection.0.DisplayName>Thiện ý</Selection.0.DisplayName>
+			<Selection.0.Desc>Giao tiếp với họ bằng thái độ thân thiện.</Selection.0.Desc>
+			<Selection.1.DisplayName>Ác ý</Selection.1.DisplayName>
+			<Selection.1.Desc>Giao tiếp với họ bằng thái độ thù địch.</Selection.1.Desc>
+			<Selection.2.DisplayName>Không gây chuyện</Selection.2.DisplayName>
+			<Selection.2.Desc>Người gặp họ nên chủ động lánh xa, cố gắng tránh né.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_8">
+			<DisplayName>Ngoại giao môn phái-Bách Man Sơn</DisplayName>
+			<Desc>Khi giao tiếp với Bách Man Sơn, đệ tử môn phái ta áp dụng thái độ như thế nào.</Desc>
+			<Selection.0.DisplayName>Thiện ý</Selection.0.DisplayName>
+			<Selection.0.Desc>Giao tiếp với họ bằng thái độ thân thiện.</Selection.0.Desc>
+			<Selection.1.DisplayName>Ác ý</Selection.1.DisplayName>
+			<Selection.1.Desc>Giao tiếp với họ bằng thái độ thù địch.</Selection.1.Desc>
+			<Selection.2.DisplayName>Không gây chuyện</Selection.2.DisplayName>
+			<Selection.2.Desc>Người gặp họ nên chủ động lánh xa, cố gắng tránh né.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_9">
+			<DisplayName>Ngoại giao môn phái-Thất Thiên Ổ</DisplayName>
+			<Desc>Khi giao tiếp với Thất Thiên Ổ, đệ tử môn phái ta áp dụng thái độ như thế nào.</Desc>
+			<Selection.0.DisplayName>Thiện ý</Selection.0.DisplayName>
+			<Selection.0.Desc>Giao tiếp với họ bằng thái độ thân thiện.</Selection.0.Desc>
+			<Selection.1.DisplayName>Ác ý</Selection.1.DisplayName>
+			<Selection.1.Desc>Giao tiếp với họ bằng thái độ thù địch.</Selection.1.Desc>
+			<Selection.2.DisplayName>Không gây chuyện</Selection.2.DisplayName>
+			<Selection.2.Desc>Người gặp họ nên chủ động lánh xa, cố gắng tránh né.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_10">
+			<DisplayName>Ngoại giao môn phái-Thất Sát Ma Cung</DisplayName>
+			<Desc>Khi giao tiếp với Thất Sát Ma Cung, đệ tử môn phái ta áp dụng thái độ như thế nào.</Desc>
+			<Selection.0.DisplayName>Thiện ý</Selection.0.DisplayName>
+			<Selection.0.Desc>Giao tiếp với họ bằng thái độ thân thiện.</Selection.0.Desc>
+			<Selection.1.DisplayName>Ác ý</Selection.1.DisplayName>
+			<Selection.1.Desc>Giao tiếp với họ bằng thái độ thù địch.</Selection.1.Desc>
+			<Selection.2.DisplayName>Không gây chuyện</Selection.2.DisplayName>
+			<Selection.2.Desc>Người gặp họ nên chủ động lánh xa, cố gắng tránh né.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_11">
+			<DisplayName>Ngoại giao môn phái-Hợp Hoan Tông</DisplayName>
+			<Desc>Khi giao tiếp với Hợp Hoan Tông, đệ tử môn phái ta áp dụng thái độ như thế nào.</Desc>
+			<Selection.0.DisplayName>Thiện ý</Selection.0.DisplayName>
+			<Selection.0.Desc>Giao tiếp với họ bằng thái độ thân thiện.</Selection.0.Desc>
+			<Selection.1.DisplayName>Ác ý</Selection.1.DisplayName>
+			<Selection.1.Desc>Giao tiếp với họ bằng thái độ thù địch.</Selection.1.Desc>
+			<Selection.2.DisplayName>Không gây chuyện</Selection.2.DisplayName>
+			<Selection.2.Desc>Người gặp họ nên chủ động lánh xa, cố gắng tránh né.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_12">
+			<DisplayName>Ngoại giao môn phái-Vạn Yêu Điện</DisplayName>
+			<Desc>Khi giao tiếp với Vạn Yêu Điện, đệ tử môn phái ta áp dụng thái độ như thế nào.</Desc>
+			<Selection.0.DisplayName>Thiện ý</Selection.0.DisplayName>
+			<Selection.0.Desc>Giao tiếp với họ bằng thái độ thân thiện.</Selection.0.Desc>
+			<Selection.1.DisplayName>Ác ý</Selection.1.DisplayName>
+			<Selection.1.Desc>Giao tiếp với họ bằng thái độ thù địch.</Selection.1.Desc>
+			<Selection.2.DisplayName>Không gây chuyện</Selection.2.DisplayName>
+			<Selection.2.Desc>Người gặp họ nên chủ động lánh xa, cố gắng tránh né.</Selection.2.Desc>
+		</Text>
+		<Text Name="lingguangyishan">
+			<DisplayName>Linh quang lóe sáng</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

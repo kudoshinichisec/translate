@@ -1,0 +1,27 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_7_Huo">
+			<DisplayName>Thái Thượng Vong Tình Đạo</DisplayName>
+			<Desc>Bí pháp truyền thừa của Cực Thiên Cung, tu hành pháp này cần người có dung mạo tuấn tú, mị lực kinh người mới có thể nhập môn. Sau khi nhập môn, người tu hành phải vào hồng trần rèn luyện, trước có tình, sau quên tình, trong khổ hải ngộ ra chân ngã bản tâm, phi thăng thành tiên. Vì phương thức tu hành pháp này đặc biệt, thường dẫn đến rắc rối nhân duyên, tình nghiệt quấn thân.</Desc>
+			<SelectDesc>Công pháp này sở trường về kiếm thuật và thuật thao túng lòng người, chỉ là việc đột phá cần rèn luyện thường xuyên. Có muốn lựa chọn tu luyện công pháp này không?</SelectDesc>
+			<Stages.0.DisplayName>Dưỡng Ngã</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Linh Khê</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Phá Vọng</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Thủy Hỏa</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.1.DisplayName>Chân Đan</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>Cực Tình</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Đại Dục</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nChướng ngại này cần thử đi thử lại, mới có thể dần dần đột phá.\nMị lực càng thấp, càng khó vượt qua.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Tân Sinh</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>Đắc Chân</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Ngũ Uẩn</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>[color=#D06508]\nChướng ngại này cần thử đi thử lại, mới có thể dần dần đột phá.\nMị lực càng thấp, càng khó vượt qua.[/color]</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Kiếp Không</Stages.3.Necks.1.DisplayName>
+			<Stages.4.DisplayName>Thái Thượng</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Chặt niệm</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>[color=#D06508]\nChướng ngại này rất khó vượt qua, và không có kinh nghiệm cộng thêm.[/color]</Stages.4.Necks.0.Desc>
+			<Stages.4.Necks.1.DisplayName>Vong Tình</Stages.4.Necks.1.DisplayName>
+		</Text>
+	</List>
+</Texts>
+

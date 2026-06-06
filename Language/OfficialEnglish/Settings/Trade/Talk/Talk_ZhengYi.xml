@@ -1,0 +1,12 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Talk_ZhengYi">
+			<Normal.0>Ở đây có các loại vật tư để lựa chọn.</Normal.0>
+			<Like.0>Ngươi đến rồi! Muốn làm gì?</Like.0>
+			<Submiss.0>Khách quý đến! Không kịp tiếp đón, mong ngươi thứ lỗi.</Submiss.0>
+			<GiftLike.0>Thật sự tặng ta thứ này? Ngươi đúng là người có tình có nghĩa!</GiftLike.0>
+			<LowValueGift.0>Vật vô dụng!</LowValueGift.0>
+		</Text>
+	</List>
+</Texts>
+

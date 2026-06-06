@@ -1,0 +1,113 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Item_WeaponKnife">
+			<List.0.Name>Cuồng chiến</List.0.Name>
+			<List.0.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.0.Desc>
+			<List.1.Name>Viêm ngục</List.1.Name>
+			<List.1.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.1.Desc>
+			<List.2.Name>Trảm điện</List.2.Name>
+			<List.2.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.2.Desc>
+			<List.3.Name>Thanh sương</List.3.Name>
+			<List.3.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.3.Desc>
+			<List.4.Name>Tinh thần</List.4.Name>
+			<List.4.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.4.Desc>
+		</Text>
+		<Text Name="Item_WeaponSword">
+			<List.0.Name>Tùng phong</List.0.Name>
+			<List.0.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.0.Desc>
+			<List.1.Name>Kỳ lân</List.1.Name>
+			<List.1.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.1.Desc>
+			<List.2.Name>Xà ảnh</List.2.Name>
+			<List.2.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.2.Desc>
+			<List.3.Name>Thanh minh</List.3.Name>
+			<List.3.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.3.Desc>
+			<List.4.Name>Tế nhật</List.4.Name>
+			<List.4.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.4.Desc>
+			<List.5.Name>Trảm cương</List.5.Name>
+			<List.5.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.5.Desc>
+			<List.6.Name>Cự khuyết</List.6.Name>
+			<List.6.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.6.Desc>
+			<List.7.Name>Bách trĩ</List.7.Name>
+			<List.7.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.7.Desc>
+			<List.8.Name>Ẩm huyết</List.8.Name>
+			<List.8.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.8.Desc>
+		</Text>
+		<Text Name="Item_WeaponLance">
+			<List.0.Name>Chấn sơn hà</List.0.Name>
+			<List.0.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.0.Desc>
+			<List.1.Name>Bách chiến</List.1.Name>
+			<List.1.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.1.Desc>
+			<List.2.Name>Lưu tinh</List.2.Name>
+			<List.2.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.2.Desc>
+			<List.3.Name>Đoạn ngục</List.3.Name>
+			<List.3.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.3.Desc>
+			<List.4.Name>Thiên đồ</List.4.Name>
+			<List.4.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.4.Desc>
+			<List.5.Name>Động huyền</List.5.Name>
+			<List.5.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.5.Desc>
+			<List.6.Name>Thiên kích</List.6.Name>
+			<List.6.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.6.Desc>
+			<List.7.Name>Tị ma nhận</List.7.Name>
+			<List.7.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.7.Desc>
+			<List.8.Name>Đại nhật</List.8.Name>
+			<List.8.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.8.Desc>
+			<List.9.Name>Viêm hoàng</List.9.Name>
+			<List.9.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.9.Desc>
+			<List.10.Name>Hung thần</List.10.Name>
+			<List.10.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.10.Desc>
+		</Text>
+		<Text Name="Item_WeaponHalbert">
+			<List.0.Name>Như ý</List.0.Name>
+			<List.0.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.0.Desc>
+			<List.1.Name>Tà trảo</List.1.Name>
+			<List.1.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.1.Desc>
+			<List.2.Name>Triệt hồn</List.2.Name>
+			<List.2.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.2.Desc>
+			<List.3.Name>Định hải</List.3.Name>
+			<List.3.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.3.Desc>
+			<List.4.Name>Long tước</List.4.Name>
+			<List.4.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.4.Desc>
+			<List.5.Name>Hạt</List.5.Name>
+			<List.5.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.5.Desc>
+			<List.6.Name>Thần lâm</List.6.Name>
+			<List.6.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.6.Desc>
+			<List.7.Name>Trấn ngục</List.7.Name>
+			<List.7.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.7.Desc>
+		</Text>
+		<Text Name="Item_WeaponAxeRing">
+			<List.0.Name>Phân thủy</List.0.Name>
+			<List.0.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.0.Desc>
+			<List.1.Name>Liệt phong</List.1.Name>
+			<List.1.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.1.Desc>
+			<List.2.Name>Luyện ngục</List.2.Name>
+			<List.2.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.2.Desc>
+			<List.3.Name>Truy tinh</List.3.Name>
+			<List.3.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.3.Desc>
+			<List.4.Name>Thanh không</List.4.Name>
+			<List.4.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.4.Desc>
+		</Text>
+		<Text Name="Item_WeaponBow">
+			<List.0.Name>Long cung</List.0.Name>
+			<List.0.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.0.Desc>
+			<List.1.Name>Phi tinh</List.1.Name>
+			<List.1.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.1.Desc>
+			<List.2.Name>Hung nha</List.2.Name>
+			<List.2.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.2.Desc>
+			<List.3.Name>Thiên hình</List.3.Name>
+			<List.3.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.3.Desc>
+			<List.4.Name>Xạ phách</List.4.Name>
+			<List.4.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.4.Desc>
+			<List.5.Name>U mệnh</List.5.Name>
+			<List.5.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.5.Desc>
+			<List.6.Name>Vị ương</List.6.Name>
+			<List.6.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.6.Desc>
+		</Text>
+		<Text Name="Item_WeaponWoodBow">
+			<List.0.Name>Thần mộc cung</List.0.Name>
+			<List.0.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.0.Desc>
+			<List.1.Name>Thiên nhẫn cung</List.1.Name>
+			<List.1.Desc>Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.</List.1.Desc>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,63 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_SpNpc_BasePropertie">
+			<DisplayName>Thuộc Tính Đảm Bảo</DisplayName>
+		</Text>
+		<Text Name="Modifier_SpNpc_BaseFightPropertie">
+			<DisplayName>Thuộc Tính Chiến Đấu Cơ Bản</DisplayName>
+		</Text>
+		<Text Name="Modifier_SpNpc_Ling">
+			<DisplayName>Linh</DisplayName>
+			<Desc>Người này căn cơ thâm hậu, linh khí sâu không lường được.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_Shield">
+			<DisplayName>Hộ</DisplayName>
+			<Desc>Người này thân đồng da sắt, rất giỏi thuật hộ thể.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoAtk">
+			<DisplayName>Sắc Bén</DisplayName>
+			<Desc>Người này điều khiển pháp khí như sấm sét, uy lực kinh thiên động địa.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoLing">
+			<DisplayName>Trọng</DisplayName>
+			<Desc>Người này điều khiển pháp khí như núi, thế lực vô cùng mạnh mẽ.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoSpeed">
+			<DisplayName>Tốc Độ</DisplayName>
+			<Desc>Người này điều khiển pháp khí như điện, tốc độ nhanh như sấm chớp.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoDisp">
+			<DisplayName>Tinh Tế</DisplayName>
+			<Desc>Pháp thuật điều khiển pháp khí của người này hoa mỹ vô song.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoNum">
+			<DisplayName>Phân Tách</DisplayName>
+			<Desc>Kiếm quang của người này phân hóa, có thể điều khiển pháp khí của sáu phương.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FightSkillAtk">
+			<DisplayName>Pháp</DisplayName>
+			<Desc>Thuật pháp của người này uy lực vô song thiên hạ.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FightSkillCD">
+			<DisplayName>Nhanh</DisplayName>
+			<Desc>Thuật pháp điều tức của người này cực kỳ nhanh chóng.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_Comeback">
+			<DisplayName>Kẻ Thù Truyền Kiếp</DisplayName>
+			<Desc>Gặp kẻ thù truyền kiếp, dưới sự thù hận sức mạnh vượt trội hơn trước.</Desc>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_Qi">
+			<DisplayName>Đảm Bảo Giai Đoạn Luyện Khí</DisplayName>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_Dan1">
+			<DisplayName>Đảm Bảo Giai Đoạn Kết Đan</DisplayName>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_Dan2">
+			<DisplayName>Đảm Bảo Giai Đoạn Kim Đan</DisplayName>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_God">
+			<DisplayName>Đảm Bảo Giai Đoạn Nguyên Thần</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

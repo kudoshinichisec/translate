@@ -1,0 +1,7 @@
+Ngự Vật,Kiếm,Thần Kiếm,Phi Kiếm,Kiếm Thần,Kim Kiếm,Ảo Kiếm,Kiếm Tôn,Kiếm Giả
+Thuật Pháp,Pháp Vương,Tế Lễ,Linh Thông,Chú Giả,Thuật Giả,Thần Chú,Thần Thuật,Thần Pháp
+Hộ Thể,Kim Cương,Sắt Bích,Sắt Tháp,Bất Hoại Thể,Bất Diệt Thể,Vô Cấu Thể,Đồng Thân
+Luyện Đan,Đan Vương,Dược Vương,Đan Sư,Y Tiên,Y Mạng,Dược Thánh
+Luyện Khí,Thần Công,Danh Công,Linh Công,Thánh Công,Thần Tác,Thiên
+
+

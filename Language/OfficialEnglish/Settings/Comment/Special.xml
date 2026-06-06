@@ -1,0 +1,25 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SpecialZhen">
+			<Notes>Bảng bình luận về trận pháp</Notes>
+			<Title>Trận pháp</Title>
+			<Desc>Tập hợp sức mạnh của mọi người thành một thể, đây chính là huyền cơ của đạo trận pháp.</Desc>
+		</Text>
+		<Text Name="SpecialElixirGas">
+			<Notes>Bảng bình luận về Đan khí</Notes>
+			<Title>Đan khí</Title>
+			<Desc>Đan khí trong Môn phái</Desc>
+		</Text>
+		<Text Name="SpecialSacrific">
+			<Notes>Bảng bình luận về lễ tế yêu</Notes>
+			<Title>Tế yêu</Title>
+			<Desc>Bảng Tế yêu</Desc>
+		</Text>
+		<Text Name="SpecialMutation">
+			<Notes>Bảng bình luận dị động thiên đạo</Notes>
+			<Title>Dị động thiên đạo</Title>
+			<Desc>Giới Thiên Đạo này bước vào giai đoạn cuối, Quy tắc Thiên Đạo vốn bất ổn ngày càng hỗn loạn.</Desc>
+		</Text>
+	</List>
+</Texts>
+

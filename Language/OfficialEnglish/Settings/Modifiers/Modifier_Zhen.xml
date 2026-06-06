@@ -1,0 +1,51 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Zhen_XianTianMuLing">
+			<DisplayName>Tiên Thiên Mộc Linh Giới</DisplayName>
+			<Desc>Kích hoạt tiềm năng cơ thể, tăng khả năng hồi phục tổn thương cơ thể của bản thân.</Desc>
+		</Text>
+		<Text Name="Zhen_ZTLYQLSJ">
+			<DisplayName>Chư Thiên Lục Ngự Thanh Linh Thắng Cảnh</DisplayName>
+			<Desc>Cải thiện tâm trạng, tâm cảnh, tốc độ tu luyện.</Desc>
+		</Text>
+		<Text Name="Zhen_ZhenEnginePower1">
+			<DisplayName>Khả năng chịu tải trận pháp ít</DisplayName>
+		</Text>
+		<Text Name="Zhen_ZhenEnginePower2">
+			<DisplayName>Khả năng chịu tải trận pháp vừa</DisplayName>
+		</Text>
+		<Text Name="Zhen_ZhenEnginePower3">
+			<DisplayName>Khả năng chịu tải trận pháp nhiều</DisplayName>
+		</Text>
+		<Text Name="Zhen_ZhenEnginePower4">
+			<DisplayName>Trận pháp cao cấp</DisplayName>
+		</Text>
+		<Text Name="Zhen_FashuhejiEffect">
+			<DisplayName>Pháp thuật hợp kích</DisplayName>
+			<Desc>Dùng sức mạnh của tất cả người trong trận pháp để thi triển pháp thuật tiếp theo</Desc>
+		</Text>
+		<Text Name="Zhen_LinkEffect">
+			<DisplayName>Kết trận</DisplayName>
+		</Text>
+		<Text Name="Zhen_LinkEffectCore">
+			<DisplayName>Trận trục</DisplayName>
+		</Text>
+		<Text Name="Zhen_RevealEffect">
+			<DisplayName>Lộ trận nhãn</DisplayName>
+			<Desc>Trận nhãn này đã bị lộ, tấn công vào nó có thể gây thêm tổn thương, cũng có thể che giấu bằng cách biến trận.</Desc>
+		</Text>
+		<Text Name="Zhen_CancelZhenRecover">
+			<DisplayName>Trận pháp hồi phục</DisplayName>
+			<Desc>Đang trong trạng thái hồi phục trận pháp</Desc>
+		</Text>
+		<Text Name="Zhen_ChangeEffect">
+			<DisplayName>Biến trận</DisplayName>
+			<Desc>Tạm thời thay đổi trận trung, sau khi thời gian kết thúc sẽ hoàn nguyên.</Desc>
+		</Text>
+		<Text Name="BDPW_Lock">
+			<DisplayName>Đánh dấu</DisplayName>
+			<Desc>Bị đánh dấu bởi Bắc Đẩu Phá Vọng</Desc>
+		</Text>
+	</List>
+</Texts>
+

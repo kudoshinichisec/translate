@@ -1,0 +1,116 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="HotStory_Fun_LingWu">
+			<DisplayName>Lĩnh hội</DisplayName>
+			<Desc>[NAME] linh quang lóe sáng!</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
+			<Selections.1.Display>Có điều lĩnh hội</Selections.1.Display>
+		</Text>
+		<Text Name="HotStory_Fun_LingWu_DuShu">
+			<DisplayName>Phát hiện</DisplayName>
+			<Desc>[NAME] khi lật xem cổ thư, đột nhiên phát hiện một chút bất thường.</Desc>
+			<Selections.0.Display>Có điều phát hiện</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Make_LingWu">
+			<DisplayName>Lĩnh hội</DisplayName>
+			<Desc>[NAME] linh quang lóe sáng!</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Make_LingGan">
+			<DisplayName>Lĩnh hội</DisplayName>
+			<Desc>[NAME] linh quang lóe sáng!</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Work_LingWu">
+			<DisplayName>Lĩnh hội</DisplayName>
+			<Desc>[NAME] linh quang lóe sáng!</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Work_LingWu_Feed">
+			<DisplayName>Lĩnh hội</DisplayName>
+			<Desc>[NAME] linh quang lóe sáng!</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Make_LingWu_CookingFailed">
+			<DisplayName>Lĩnh hội</DisplayName>
+			<Desc>[NAME] linh quang lóe sáng!</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Make_LingWu_CookingSucceed">
+			<DisplayName>Lĩnh hội</DisplayName>
+			<Desc>[NAME] linh quang lóe sáng!</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_LingWu">
+			<DisplayName>Lĩnh hội</DisplayName>
+			<Desc>[NAME] linh quang lóe sáng!</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_Brokening">
+			<DisplayName>Đột phá cảm ngộ</DisplayName>
+			<Desc>[NAME] trong lúc đột phá đã cảm ngộ được một loại đại đạo nào đó giữa trời đất.</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_BrokenSucceed">
+			<DisplayName>Cảm ngộ</DisplayName>
+			<Desc>[NAME] khi đột phá thành công đã cảm ngộ được một loại đại đạo nào đó giữa trời đất.</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_BrokenFailed">
+			<DisplayName>Cảm ngộ</DisplayName>
+			<Desc>[NAME] sau khi đột phá thất bại đã cảm ngộ được một loại đại đạo nào đó giữa trời đất.</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_Golding">
+			<DisplayName>Kết đan cảm ngộ</DisplayName>
+			<Desc>[NAME] khi kết đan đã bước vào cảnh giới thiên nhân hợp nhất.</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_GoldSucceed">
+			<DisplayName>Cảm ngộ</DisplayName>
+			<Desc>[NAME] khi kết đan thành công đã bắt được một tia linh quang.</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_ThunderSucceed">
+			<DisplayName>Độ kiếp cảm ngộ</DisplayName>
+			<Desc>[NAME] khi độ kiếp thành công đã lén nắm bắt được một tia thiên cơ.</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_RefiningDan">
+			<DisplayName>Luyện đan cảm ngộ</DisplayName>
+			<Desc>[NAME] trong lúc luyện đan bỗng nhiên linh cảm dồi dào, có điều cảm ngộ.</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_RefiningDanFailed">
+			<DisplayName>Luyện đan cảm ngộ</DisplayName>
+			<Desc>[NAME] sau khi luyện đan thất bại lại có chút ngộ ra điều gì đó.</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_Refining">
+			<DisplayName>Luyện khí cảm ngộ</DisplayName>
+			<Desc>[NAME] trong lúc luyện khí bỗng nhiên linh cảm dồi dào, có điều cảm ngộ.</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_RefiningGod">
+			<DisplayName>Luyện khí cảm ngộ</DisplayName>
+			<Desc>[NAME] linh quang lóe sáng!</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_RefiningFailed">
+			<DisplayName>Luyện khí cảm ngộ</DisplayName>
+			<Desc>[NAME] sau khi luyện khí thất bại lại có chút ngộ ra điều gì đó.</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Fei_LingWu">
+			<DisplayName>Linh cảm bất ngờ</DisplayName>
+			<Desc>[NAME] trong lúc chơi đùa với Phi, đột nhiên có điều cảm ngộ, thậm chí lĩnh hội được điều gì đó từ Phi.</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_LuShu_LingWu">
+			<DisplayName>Linh cảm bất ngờ</DisplayName>
+			<Desc>[NAME] trong lúc chơi đùa với Lộc Thục, đột nhiên có điều cảm ngộ, thậm chí lĩnh hội được điều gì đó từ Lộc Thục.</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>
+

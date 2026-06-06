@@ -1,0 +1,21 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Build_Discipline">
+			<DisplayName>Viện Giới Luật</DisplayName>
+			<Desc>Viện Giới Luật là nơi đệ tử thụ giới, người dân bình thường cũng có thể tham quan nghi thức thụ giới. Mở khóa chính sách thụ giới, dùng uy nghiêm để trị an xã hội.</Desc>
+		</Text>
+		<Text Name="Build_Secret">
+			<DisplayName>Mật Các</DisplayName>
+			<Desc>Mật Các nằm ở một góc nhỏ, thường không mở cửa cho người dân. Mở khóa chính sách mật mưu, dùng âm mưu để làm lung lay trật tự xã hội hoặc các thế lực khác.</Desc>
+		</Text>
+		<Text Name="Build_Sermon">
+			<DisplayName>Thần Điện</DisplayName>
+			<Desc>Thần Điện được xây dựng với tượng thần, người dân có thể đến trước tượng thần để cầu nguyện, truyền bá đạo pháp. Mở khóa khuynh hướng truyền đạo, dùng sức hút của môn phái để cảm hóa chúng sinh.</Desc>
+		</Text>
+		<Text Name="Build_Recuit">
+			<DisplayName>Điện Linh Quan</DisplayName>
+			<Desc>Điện Linh Quan được dùng để tổ chức nghi thức nhập giáo, những người có duyên có thể gia nhập môn phái tại đây. Mở khóa kỹ năng chiêu mộ, có thể thu nhận nhân tài.</Desc>
+		</Text>
+	</List>
+</Texts>
+

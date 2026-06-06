@@ -1,0 +1,49 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Story_PracticeSpeed1">
+			<DisplayName>Tăng 5% tốc độ tu luyện.</DisplayName>
+			<Desc>Tăng 5% tốc độ tu luyện.</Desc>
+		</Text>
+		<Text Name="Story_LingMax1">
+			<DisplayName>Tăng 2% giới hạn linh khí tối đa từ gốc rễ.</DisplayName>
+			<Desc>Tăng 2% giới hạn linh khí tối đa từ gốc rễ.</Desc>
+		</Text>
+		<Text Name="Story_FabaoPower1">
+			<DisplayName>Tăng 5% uy lực pháp bảo từ gốc rễ.</DisplayName>
+			<Desc>Tăng 5% uy lực pháp bảo từ gốc rễ.</Desc>
+		</Text>
+		<Text Name="Story_LingAbsorbSpeed1">
+			<DisplayName>Tăng 10% tốc độ hấp thụ linh khí từ gốc rễ.</DisplayName>
+			<Desc>Tăng 10% tốc độ hấp thụ linh khí từ gốc rễ.</Desc>
+		</Text>
+		<Text Name="Story_WorldMapFlySpeedAddP1">
+			<DisplayName>Tăng 50% tốc độ phi hành bằng kiếm.</DisplayName>
+			<Desc>Tăng 50% tốc độ phi hành bằng kiếm.</Desc>
+		</Text>
+		<Text Name="Story_ShieldConversionRate1">
+			<DisplayName>Tăng 10% hiệu quả khiên linh khí.</DisplayName>
+			<Desc>Tăng 10% hiệu quả khiên linh khí.</Desc>
+		</Text>
+		<Text Name="Story_DragonBlood">
+			<DisplayName>Long chi huyết mạch</DisplayName>
+			<Desc>Thức Tỉnh Huyết Mạch Rồng: Tăng 20% căn cốt; tăng 20% thần thức; tăng tối đa linh khí cơ bản lên 25%.</Desc>
+		</Text>
+		<Text Name="Modifier_Story_BossLong_Wish1">
+			<DisplayName>Ban Tặng</DisplayName>
+		</Text>
+		<Text Name="Modifier_Story_BossLong_Wish2">
+			<DisplayName>Ban Tặng</DisplayName>
+		</Text>
+		<Text Name="Modifier_Story_BossLong_Wish3">
+			<DisplayName>Ban Tặng</DisplayName>
+		</Text>
+		<Text Name="Modifier_Story_BossLong_Wish4">
+			<DisplayName>Ban Tặng</DisplayName>
+		</Text>
+		<Text Name="Modifier_GreenBrothel">
+			<DisplayName>Tâm Trạng Tốt</DisplayName>
+			<Desc>Sau khi giải trí tại Lục Lâu Phường, sẽ có tâm trạng tốt kéo dài 5 ngày.</Desc>
+		</Text>
+	</List>
+</Texts>
+

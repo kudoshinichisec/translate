@@ -1,0 +1,203 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SysTool_Fun1">
+			<DisplayName>Xúc Xắc</DisplayName>
+		</Text>
+		<Text Name="SysTool_Fun2">
+			<DisplayName>Chuông</DisplayName>
+		</Text>
+		<Text Name="SysTool_Fun3">
+			<DisplayName>Vòng Tay</DisplayName>
+		</Text>
+		<Text Name="SysTool_Fun4">
+			<DisplayName>Khăn Tay</DisplayName>
+		</Text>
+		<Text Name="SysTool_Fun5">
+			<DisplayName>Túi Thơm</DisplayName>
+		</Text>
+		<Text Name="SysTool_Fun6">
+			<DisplayName>Thẻ Thánh Huyền Thiên Thượng Đế</DisplayName>
+		</Text>
+		<Text Name="SysTool_WhiteHair">
+			<DisplayName>Tập Thơ Tóc Trắng</DisplayName>
+		</Text>
+		<Text Name="SysTool_Axe">
+			<DisplayName>Rìu</DisplayName>
+		</Text>
+		<Text Name="SysTool_Pickaxe">
+			<DisplayName>Cuốc</DisplayName>
+		</Text>
+		<Text Name="SysTool_Sickle">
+			<DisplayName>Dụng Cụ Nông Nghiệp</DisplayName>
+		</Text>
+		<Text Name="SysTool_Acupuncture">
+			<DisplayName>Châm Cứu</DisplayName>
+		</Text>
+		<Text Name="SysTool_Umbrella">
+			<DisplayName>Ô</DisplayName>
+		</Text>
+		<Text Name="SysTool_LunHui1">
+			<DisplayName>Thế Giới Tươi Đẹp</DisplayName>
+		</Text>
+		<Text Name="SysTool_LunHui_QiYuan1">
+			<DisplayName>Tâm Nguyện Cầu</DisplayName>
+			<Desc>Mang theo tâm nguyện cầu, những người xung quanh cảm thấy bình an vui vẻ.</Desc>
+		</Text>
+		<Text Name="SysTool_LunHui_QiYuan2">
+			<DisplayName>Kỳ Nguyện Chi Lực</DisplayName>
+		</Text>
+		<Text Name="SysTool_SP_BaiYuShi">
+			<DisplayName>Bạch Ngọc Thạch</DisplayName>
+			<Desc>Bị ảnh hưởng bởi ngọc bạch, khả năng hồi phục tăng gấp đôi.</Desc>
+		</Text>
+		<Text Name="SysTool_QingLianShan_SiXiang">
+			<DisplayName>Già Thiên</DisplayName>
+			<Desc>Che giấu thiên cơ, có thể không bị thiên kiếp quấy rối trong chín năm.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_Yao_WolfAtk">
+			<DisplayName>Yêu Lang Đích Tiêm Nha</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_Yao_RabbitLuck">
+			<DisplayName>Thỏ Yêu Đích Cước</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_Yao_SnakeHanLin">
+			<DisplayName>Yêu Xà Đích Hàn Lân</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_Yao_BearPiMao">
+			<DisplayName>Hùng Yêu Đích Bột Cảnh Mao</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_Yao_TurtleKe">
+			<DisplayName>Cự Quy Đích Kiên Xác</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_Yao_CattleJiao">
+			<DisplayName>Yêu Ngưu Giác</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_Yao_TigerZhui">
+			<DisplayName>Hổ Vương Cốt</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_Yao_ChickenGuan">
+			<DisplayName>Kim Dương Quan</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_DragonScale">
+			<DisplayName>Long Lân</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_BossFeng_HuoYu">
+			<DisplayName>Phượng Vũ</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_BossFeng_TouYu">
+			<DisplayName>Phượng Đầu Vũ</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_BossLong_Jiao">
+			<DisplayName>Long Thiên Giác</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_BossZhuLong_TianLin">
+			<DisplayName>Vảy Rồng Thiên Của Chúc Long</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_BossZhuLong_LongYu">
+			<DisplayName>Hỗn Độn Long Ngọc</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_BossLong_NiLin">
+			<DisplayName>Vảy Ngược Của Giao Long</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_BossFeng_HongYu">
+			<DisplayName>Phượng Hoàng Diễm Ngọc</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_TaiYiMiDian">
+			<DisplayName>Hiệu Ứng Mang Theo Bí Sách Thái Nhất</DisplayName>
+		</Text>
+		<Text Name="SysTool_StoneCutter">
+			<DisplayName>Hồ Nê Đao</DisplayName>
+			<Desc>Công cụ xây dựng do một hành giả chế tạo, có thể tăng tốc độ xây dựng đáng kể.</Desc>
+		</Text>
+		<Text Name="SysTool_SewingDefender">
+			<DisplayName>Phùng Nhân Hộ Oản</DisplayName>
+			<Desc>Trông giống như một băng tay, thực ra có thể mượn lực từ khuỷu tay để tăng tốc độ may vá.</Desc>
+		</Text>
+		<Text Name="SysTool_MillVell">
+			<DisplayName>Ma Diện Chi Già</DisplayName>
+			<Desc>Che mặt lại, vì không ai nhận ra ngươi, có thể thoải mái mài bột, thậm chí các công việc thủ công khác cũng nhanh hơn, dù làm tốt hay xấu cũng không ai biết là ngươi làm.</Desc>
+		</Text>
+		<Text Name="Mibao_Yuanshenxinjian">
+			<DisplayName>Tâm Kiếm Nguyên Thần</DisplayName>
+		</Text>
+		<Text Name="Mibao_Wuqileifu">
+			<DisplayName>Ngũ Khí Lôi Phù</DisplayName>
+		</Text>
+		<Text Name="Mibao_Longxinyinyanggui">
+			<DisplayName>Long Tâm Âm Dương</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_XianBoneBall">
+			<DisplayName>Thần Xá Lợi</DisplayName>
+		</Text>
+		<Text Name="Mibao_GodFabaoYuQi">
+			<DisplayName>Thánh Vật Điều Khiển Pháp Khí</DisplayName>
+		</Text>
+		<Text Name="Mibao_GodFabaoShuFa">
+			<DisplayName>Thánh Vật Thuật Pháp</DisplayName>
+		</Text>
+		<Text Name="Mibao_GodFabaoHuTi">
+			<DisplayName>Thánh Vật Hộ Thể</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SP_Clothes1">
+			<DisplayName>Pháp Y 1</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SP_Clothes2">
+			<DisplayName>Pháp Y 2</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SP_Clothes3">
+			<DisplayName>Pháp Y 3</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SP_Clothes4">
+			<DisplayName>Pháp Y 4</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SP_Clothes5">
+			<DisplayName>Pháp Y 5</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SP_Clothes6">
+			<DisplayName>Pháp Y 6</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SP_Clothes7">
+			<DisplayName>Pháp Y 7</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SP_Clothes8">
+			<DisplayName>Pháp Y 8</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SP_Clothes9">
+			<DisplayName>Pháp Y 9</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SP_Clothes10">
+			<DisplayName>Pháp Y 10</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SP_Trousers1">
+			<DisplayName>Pháp Quần 1</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SP_Trousers2">
+			<DisplayName>Pháp Quần 2</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SP_Trousers3">
+			<DisplayName>Pháp Quần 3</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SP_Trousers4">
+			<DisplayName>Pháp Quần 4</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SP_Trousers5">
+			<DisplayName>Pháp Quần 5</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SP_Trousers6">
+			<DisplayName>Pháp Quần 6</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SP_Trousers7">
+			<DisplayName>Pháp Quần 7</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SP_Trousers8">
+			<DisplayName>Pháp Quần 8</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SP_Trousers9">
+			<DisplayName>Pháp Quần 9</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SP_Trousers10">
+			<DisplayName>Pháp Quần 10</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,137 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="AgentConstructionHeYin">
+			<Title>Đại diện xây dựng-Hà Âm Thành</Title>
+			<Desc>Đại diện xây dựng-Hà Âm Thành</Desc>
+		</Text>
+		<Text Name="AgentManagementHeYin">
+			<Title>Quản lý đại diện-Hà Âm Thành</Title>
+			<Desc>Quản lý đại diện-Hà Âm Thành</Desc>
+		</Text>
+		<Text Name="BeliefManagementHeYin">
+			<Title>Quản lý tín ngưỡng-Hà Âm Thành</Title>
+			<Desc>Quản lý tín ngưỡng-Hà Âm Thành</Desc>
+		</Text>
+		<Text Name="AgentConstructionGuanHai">
+			<Title>Đại diện xây dựng-Quan Hải Thành</Title>
+			<Desc>Đại diện xây dựng-Quan Hải Thành</Desc>
+		</Text>
+		<Text Name="AgentManagementGuanHai">
+			<Title>Quản lý đại diện-Quan Hải Thành</Title>
+			<Desc>Quản lý đại diện-Quan Hải Thành</Desc>
+		</Text>
+		<Text Name="BeliefManagementGuanhai">
+			<Title>Quản lý tín ngưỡng-Quan Hải Thành</Title>
+			<Desc>Quản lý tín ngưỡng-Quan Hải Thành</Desc>
+		</Text>
+		<Text Name="AgentConstructionPanShe">
+			<Title>Đại diện xây dựng-Trại Bàn Xà</Title>
+			<Desc>Đại diện xây dựng-Trại Bàn Xà</Desc>
+		</Text>
+		<Text Name="AgentManagementPanShe">
+			<Title>Quản lý đại diện-Trại Bàn Xà</Title>
+			<Desc>Quản lý đại diện-Trại Bàn Xà</Desc>
+		</Text>
+		<Text Name="BeliefManagementPanShe">
+			<Title>Quản lý tín ngưỡng-Trại Bàn Xà</Title>
+			<Desc>Quản lý tín ngưỡng-Trại Bàn Xà</Desc>
+		</Text>
+		<Text Name="AgentConstructionFeng">
+			<Title>Đại diện xây dựng-Thành Phong</Title>
+			<Desc>Đại diện xây dựng-Thành Phong</Desc>
+		</Text>
+		<Text Name="AgentManagementFeng">
+			<Title>Quản lý đại diện-Thành Phong</Title>
+			<Desc>Quản lý đại diện-Thành Phong</Desc>
+		</Text>
+		<Text Name="BeliefManagementFeng">
+			<Title>Quản lý tín ngưỡng-Thành Phong</Title>
+			<Desc>Quản lý tín ngưỡng-Thành Phong</Desc>
+		</Text>
+		<Text Name="AgentConstructionDaLiang">
+			<Title>Đại diện xây dựng-Thành Đại Lương</Title>
+			<Desc>Đại diện xây dựng-Thành Đại Lương</Desc>
+		</Text>
+		<Text Name="AgentManagementDaLiang">
+			<Title>Quản lý đại diện-Thành Đại Lương</Title>
+			<Desc>Quản lý đại diện-Thành Đại Lương</Desc>
+		</Text>
+		<Text Name="BeliefManagementDaLiang">
+			<Title>Quản lý tín ngưỡng-Thành Đại Lương</Title>
+			<Desc>Quản lý tín ngưỡng-Thành Đại Lương</Desc>
+		</Text>
+		<Text Name="AgentConstructionZhongYuan">
+			<Title>Đại diện xây dựng-Trung Nguyên</Title>
+			<Desc>Đại diện xây dựng-Trung Nguyên</Desc>
+		</Text>
+		<Text Name="AgentManagementZhongYuan">
+			<Title>Quản lý đại diện-Trung Nguyên</Title>
+			<Desc>Quản lý đại diện-Trung Nguyên</Desc>
+		</Text>
+		<Text Name="BeliefManagementZhongYuan">
+			<Title>Quản lý tín ngưỡng-Trung Nguyên</Title>
+			<Desc>Quản lý tín ngưỡng-Trung Nguyên</Desc>
+		</Text>
+		<Text Name="AgentConstructionJiangAnWoYe">
+			<Title>Đại diện xây dựng-Giang Ngạn Phì Nhiêu</Title>
+			<Desc>Đại diện xây dựng-Giang Ngạn Phì Nhiêu</Desc>
+		</Text>
+		<Text Name="AgentManagementJiangAnWoYe">
+			<Title>Quản lý đại diện-Giang Ngạn Phì Nhiêu</Title>
+			<Desc>Quản lý đại diện-Giang Ngạn Phì Nhiêu</Desc>
+		</Text>
+		<Text Name="BeliefManagementJiangAnWoYe">
+			<Title>Quản lý tín ngưỡng-Giang Ngạn Phì Nhiêu</Title>
+			<Desc>Quản lý tín ngưỡng-Giang Ngạn Phì Nhiêu</Desc>
+		</Text>
+		<Text Name="AgentConstructionDaXueYuan">
+			<Title>Đại diện xây dựng-Đại Tuyết Nguyên</Title>
+			<Desc>Đại diện xây dựng-Đại Tuyết Nguyên</Desc>
+		</Text>
+		<Text Name="AgentManagementDaXueYuan">
+			<Title>Quản lý đại diện-Đại Tuyết Nguyên</Title>
+			<Desc>Quản lý đại diện-Đại Tuyết Nguyên</Desc>
+		</Text>
+		<Text Name="BeliefManagementDaXueYuan">
+			<Title>Quản lý tín ngưỡng-Đại Tuyết Nguyên</Title>
+			<Desc>Quản lý tín ngưỡng-Đại Tuyết Nguyên</Desc>
+		</Text>
+		<Text Name="AgentConstructionDaMo">
+			<Title>Đại diện xây dựng-Đại Mạc</Title>
+			<Desc>Đại diện xây dựng-Đại Mạc</Desc>
+		</Text>
+		<Text Name="AgentManagementDaMo">
+			<Title>Quản lý đại diện-Đại Mạc</Title>
+			<Desc>Quản lý đại diện-Đại Mạc</Desc>
+		</Text>
+		<Text Name="BeliefManagementDaMo">
+			<Title>Quản lý tín ngưỡng-Đại Mạc</Title>
+			<Desc>Quản lý tín ngưỡng-Đại Mạc</Desc>
+		</Text>
+		<Text Name="AgentConstructionNanHuang">
+			<Title>Đại diện xây dựng-Nam Hoang</Title>
+			<Desc>Đại diện xây dựng-Nam Hoang</Desc>
+		</Text>
+		<Text Name="AgentManagementNanHuang">
+			<Title>Quản lý đại diện-Nam Hoang</Title>
+			<Desc>Quản lý đại diện-Nam Hoang</Desc>
+		</Text>
+		<Text Name="BeliefManagementNanHuang">
+			<Title>Quản lý tín ngưỡng-Nam Hoang</Title>
+			<Desc>Quản lý tín ngưỡng-Nam Hoang</Desc>
+		</Text>
+		<Text Name="AgentConstructionOurPlace">
+			<Title>Đại diện xây dựng-Lĩnh Nam</Title>
+			<Desc>Đại diện xây dựng-Lĩnh Nam</Desc>
+		</Text>
+		<Text Name="AgentManagementOurPlace">
+			<Title>Quản lý đại diện-Lĩnh Nam</Title>
+			<Desc>Quản lý đại diện-Lĩnh Nam</Desc>
+		</Text>
+		<Text Name="BeliefManagementOurPlace">
+			<Title>Quản lý tín ngưỡng-Lĩnh Nam</Title>
+			<Desc>Quản lý tín ngưỡng-Lĩnh Nam</Desc>
+		</Text>
+	</List>
+</Texts>
+

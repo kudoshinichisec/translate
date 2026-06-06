@@ -1,0 +1,47 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="YGAnimal_SnakeBody">
+			<Part.Parts.0.DisplayName>Phần đầu</Part.Parts.0.DisplayName>
+			<Part.Parts.0.Parts.0.DisplayName>Xương đầu</Part.Parts.0.Parts.0.DisplayName>
+			<Part.Parts.0.Parts.1.DisplayName>Não</Part.Parts.0.Parts.1.DisplayName>
+			<Part.Parts.0.Parts.2.DisplayName>Mắt trái</Part.Parts.0.Parts.2.DisplayName>
+			<Part.Parts.0.Parts.3.DisplayName>Mắt phải</Part.Parts.0.Parts.3.DisplayName>
+			<Part.Parts.0.Parts.4.DisplayName>Mũi</Part.Parts.0.Parts.4.DisplayName>
+			<Part.Parts.0.Parts.5.DisplayName>Miệng</Part.Parts.0.Parts.5.DisplayName>
+			<Part.Parts.0.Parts.6.DisplayName>Họng</Part.Parts.0.Parts.6.DisplayName>
+			<Part.Parts.0.Parts.7.DisplayName>Răng nanh trên</Part.Parts.0.Parts.7.DisplayName>
+			<Part.Parts.0.Parts.8.DisplayName>Răng nanh dưới</Part.Parts.0.Parts.8.DisplayName>
+			<Part.Parts.0.Parts.9.DisplayName>Lưỡi dài</Part.Parts.0.Parts.9.DisplayName>
+			<Part.Parts.0.Parts.10.DisplayName>Đầu</Part.Parts.0.Parts.10.DisplayName>
+			<Part.Parts.1.DisplayName>Thân mình</Part.Parts.1.DisplayName>
+			<Part.Parts.1.Parts.0.DisplayName>Xương sườn dày đặc</Part.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.1.Parts.1.DisplayName>Cột sống</Part.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.1.Parts.2.DisplayName>Tim</Part.Parts.1.Parts.2.DisplayName>
+			<Part.Parts.1.Parts.3.DisplayName>Gan</Part.Parts.1.Parts.3.DisplayName>
+			<Part.Parts.1.Parts.4.DisplayName>Lá lách</Part.Parts.1.Parts.4.DisplayName>
+			<Part.Parts.1.Parts.5.DisplayName>Phổi</Part.Parts.1.Parts.5.DisplayName>
+			<Part.Parts.1.Parts.6.DisplayName>Thận</Part.Parts.1.Parts.6.DisplayName>
+			<Part.Parts.1.Parts.7.DisplayName>Dạ dày</Part.Parts.1.Parts.7.DisplayName>
+			<Part.Parts.1.Parts.8.DisplayName>Ruột</Part.Parts.1.Parts.8.DisplayName>
+			<Part.Parts.1.Parts.9.DisplayName>Roi</Part.Parts.1.Parts.9.DisplayName>
+			<Part.Parts.1.Parts.10.DisplayName>Cơ thân mình</Part.Parts.1.Parts.10.DisplayName>
+			<Part.Parts.1.Parts.11.DisplayName>Lân phiến</Part.Parts.1.Parts.11.DisplayName>
+			<Part.Parts.1.Parts.12.DisplayName>Thân mình</Part.Parts.1.Parts.12.DisplayName>
+			<Part.Parts.1.Parts.13.DisplayName>Đuôi dài</Part.Parts.1.Parts.13.DisplayName>
+			<Part.Parts.2.DisplayName>Toàn thân</Part.Parts.2.DisplayName>
+			<Part.Parts.3.DisplayName>Kinh mạch</Part.Parts.3.DisplayName>
+			<Part.Parts.3.Parts.0.DisplayName>Tử Phủ</Part.Parts.3.Parts.0.DisplayName>
+			<Part.Parts.3.Parts.1.DisplayName>Giáng Cung</Part.Parts.3.Parts.1.DisplayName>
+			<Part.Parts.3.Parts.2.DisplayName>Đan Điền</Part.Parts.3.Parts.2.DisplayName>
+			<Part.Parts.3.Parts.3.DisplayName>Nhâm Mạch</Part.Parts.3.Parts.3.DisplayName>
+			<Part.Parts.3.Parts.4.DisplayName>Đốc Mạch</Part.Parts.3.Parts.4.DisplayName>
+			<Part.Parts.3.Parts.5.DisplayName>Xung Mạch</Part.Parts.3.Parts.5.DisplayName>
+			<Part.Parts.3.Parts.6.DisplayName>Đới Mạch</Part.Parts.3.Parts.6.DisplayName>
+			<Part.Parts.3.Parts.7.DisplayName>Âm Duy Mạch</Part.Parts.3.Parts.7.DisplayName>
+			<Part.Parts.3.Parts.8.DisplayName>Âm Kiều Mạch</Part.Parts.3.Parts.8.DisplayName>
+			<Part.Parts.3.Parts.9.DisplayName>Dương Duy Mạch</Part.Parts.3.Parts.9.DisplayName>
+			<Part.Parts.3.Parts.10.DisplayName>Dương Kiều Mạch</Part.Parts.3.Parts.10.DisplayName>
+		</Text>
+	</List>
+</Texts>
+

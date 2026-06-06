@@ -1,0 +1,68 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="TrousersBase" sParam="Item">
+			<Item.FabaoSuffix>Áo, Giáp, Che, Áo Choàng</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SummerTrousers" sParam="Item">
+			<ThingName>Bạc Hạ Thường</ThingName>
+			<Desc>Trang phục khá thoáng khí, cũng có thể giữ ấm nhẹ.</Desc>
+		</Text>
+		<Text Name="Item_SilkTrousers" sParam="Item">
+			<ThingName>Thanh Lương Hạ Thường</ThingName>
+			<Desc>Trang phục thoải mái và rộng rãi, mặc vào cảm thấy rất mát mẻ.</Desc>
+		</Text>
+		<Text Name="Item_PracticeTrousers" sParam="Item">
+			<ThingName>Tu Hành Hạ Thường</ThingName>
+			<Desc>Trang phục tiêu chuẩn của môn phái, khá ấm nhưng không thoáng khí.</Desc>
+		</Text>
+		<Text Name="Item_FormalTrousers" sParam="Item">
+			<ThingName>Hưu Nhàn Hạ Thường</ThingName>
+			<Desc>Trang phục rất thông thường, khá ấm nhưng không thoáng khí.</Desc>
+		</Text>
+		<Text Name="Item_WinterTrousers" sParam="Item">
+			<ThingName>Hậu Chế Hạ Thường</ThingName>
+			<Desc>Làm từ chất liệu dày dặn, rất giữ ấm.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers1" sParam="Item">
+			<ThingName>long lân hạ thường</ThingName>
+			<Desc>Pháp y được dệt từ vảy rồng, khi mặc có thể tăng cấp kỹ năng hộ thể và giúp người mặc đi trên gió, vô cùng huyền diệu.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers2" sParam="Item">
+			<ThingName>Hạ Thường Âm Hoàn</ThingName>
+			<Desc>Pháp y ngưng tụ sức mạnh thuần âm, khi mặc có thể tăng cấp kỹ năng pháp thuật và giúp người mặc đi trên gió, vô cùng huyền diệu.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers3" sParam="Item">
+			<ThingName>Hạ Thường Tận Diệt</ThingName>
+			<Desc>Pháp y ngưng tụ sức mạnh thuần dương, khi mặc có thể tăng cấp kỹ năng ngự khí và giúp người mặc đi trên gió, vô cùng huyền diệu.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers4" sParam="Item">
+			<ThingName>Hạ Thường Tề Thiên</ThingName>
+			<Desc>Pháp y có thể che giấu thiên cơ, khi mặc có thể giảm đạo hạnh và giúp người mặc đi trên gió, vô cùng huyền diệu.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers5" sParam="Item">
+			<ThingName>Hạ Thường Dương Hoa</ThingName>
+			<Desc>Pháp y chứa sức mạnh trừ ma, khi mặc có thể xua đuổi tâm ma, nâng cao tâm cảnh và giúp người mặc đi trên gió, vô cùng huyền diệu.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers6" sParam="Item">
+			<ThingName>Hạ Thường Nhật Viêm</ThingName>
+			<Desc>Pháp y ngưng tụ sức mạnh thuần dương, khi mặc có thể tăng cấp kỹ năng ngự khí và giúp người mặc đi trên gió, vô cùng huyền diệu.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers7" sParam="Item">
+			<ThingName>Hạ Thường Hỏa Hoán</ThingName>
+			<Desc>Pháp y được may từ da của Hỏa Quang Thử, khi mặc có thể tăng cấp kỹ năng hộ thể, giảm hiệu quả sát thương thuộc tính hỏa và giúp người mặc đi trên gió, vô cùng huyền diệu.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers8" sParam="Item">
+			<ThingName>Váy Tiên Lưu Huyền Hải</ThingName>
+			<Desc>Pháp y có thể che giấu thiên cơ, khi mặc có thể giảm đạo hạnh và giúp người mặc đi trên gió, vô cùng huyền diệu.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers9" sParam="Item">
+			<ThingName>Hạ Thường U Huyền</ThingName>
+			<Desc>Pháp y ngưng tụ sức mạnh thuần âm, khi mặc có thể tăng cấp kỹ năng pháp thuật và giúp người mặc đi trên gió, vô cùng huyền diệu.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers10" sParam="Item">
+			<ThingName>Hạ Thường Thanh Hạc</ThingName>
+			<Desc>Pháp y chứa sức mạnh trừ ma, khi mặc có thể xua đuổi tâm ma, nâng cao tâm cảnh và giúp người mặc đi trên gió, vô cùng huyền diệu.</Desc>
+		</Text>
+	</List>
+</Texts>
+

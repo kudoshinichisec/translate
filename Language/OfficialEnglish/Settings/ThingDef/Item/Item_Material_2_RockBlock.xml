@@ -1,0 +1,43 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="RockBlockBase" sParam="Item">
+			<Item.FabaoSuffix>Đá, Ấn, Bi, Giác, Khuê, Khuyết, Trấn</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BrownRockBlock" sParam="Item">
+			<ThingName>Gạch đá nâu</ThingName>
+			<Desc>Gạch được cắt từ đá nâu, rất phổ biến, có thể sử dụng hiệu quả hơn để chế tạo, nhưng tính thẩm mỹ rất kém.</Desc>
+			<Item.BeMaterial.NamePrefix>Đá nâu</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_GrayRockBlock" sParam="Item">
+			<ThingName>Gạch đá xám</ThingName>
+			<Desc>Gạch được cắt từ đá xám, có thể sử dụng hiệu quả hơn để chế tạo, tính thẩm mỹ ở mức trung bình.</Desc>
+			<Item.BeMaterial.NamePrefix>Đá xám</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_MarbleBlock" sParam="Item">
+			<ThingName>Gạch đá cẩm thạch</ThingName>
+			<Desc>Gạch được cắt từ đá cẩm thạch, có thể sử dụng hiệu quả hơn để chế tạo. Hoa văn khá đẹp mắt.</Desc>
+			<Item.BeMaterial.NamePrefix>Đá cẩm thạch</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_JadeBlock" sParam="Item">
+			<ThingName>Gạch ngọc</ThingName>
+			<Desc>Gạch được cắt từ đá ngọc, có thể sử dụng hiệu quả hơn để chế tạo.</Desc>
+			<Item.BeMaterial.NamePrefix>Đá ngọc</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SkyStoneBlock" sParam="Item">
+			<ThingName>Gạch Thiên trụ thạch</ThingName>
+			<Desc>Gạch được cắt từ Thiên trụ thạch, có thể sử dụng hiệu quả hơn để chế tạo.</Desc>
+			<Item.BeMaterial.NamePrefix>Thiên trụ thạch</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingStoneBlock" sParam="Item">
+			<ThingName>Gạch linh thạch</ThingName>
+			<Desc>Gạch được cắt từ linh thạch, có thể sử dụng hiệu quả hơn để chế tạo.</Desc>
+			<Item.BeMaterial.NamePrefix>Linh thạch</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingCrystalBlock" sParam="Item">
+			<ThingName>Gạch tinh linh</ThingName>
+			<Desc>Gạch được cắt từ tinh linh, có thể sử dụng hiệu quả hơn để chế tạo.</Desc>
+			<Item.BeMaterial.NamePrefix>Tinh linh</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>
+

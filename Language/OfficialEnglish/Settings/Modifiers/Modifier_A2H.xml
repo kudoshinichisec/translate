@@ -1,0 +1,61 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Animal2HumanThinkFull">
+			<DisplayName>Đầy suy nghĩ</DisplayName>
+			<Desc>Suy nghĩ đã đầy</Desc>
+		</Text>
+		<Text Name="Animal2HumanFeelLing">
+			<DisplayName>Linh trí mơ hồ</DisplayName>
+			<Desc>Có cảm giác mơ hồ về linh trí.</Desc>
+		</Text>
+		<Text Name="AnimalToHuman">
+			<DisplayName>Bán hóa hình</DisplayName>
+			<Desc>Đang trong trạng thái bán hóa hình.</Desc>
+		</Text>
+		<Text Name="LingShou_fanshi">
+			<DisplayName>Linh thú phản phệ</DisplayName>
+			<Desc>Sau một thời gian sẽ phản phệ pháp bảo, linh khí pháp bảo giảm một nửa, hiệu quả pháp bảo thuộc tính hỏa tăng gấp đôi, hiệu quả pháp bảo thuộc tính thổ giảm một nửa.</Desc>
+		</Text>
+		<Text Name="ToHumanThunderComing">
+			<DisplayName>Thiên kiếp hóa hình</DisplayName>
+			<Desc>Thiên kiếp hóa hình đang được tích tụ</Desc>
+		</Text>
+		<Text Name="Modifier_LingChong_Heal">
+			<DisplayName>Đồng hành</DisplayName>
+			<Desc>Dưới sự đồng hành của linh thú, vết thương hồi phục nhanh hơn.</Desc>
+		</Text>
+		<Text Name="Modifier_LingChong_Stay">
+			<DisplayName>Đồng hành</DisplayName>
+			<Desc>Khi tu luyện có linh thú đồng hành, tâm cảnh trở nên bình ổn hơn.</Desc>
+		</Text>
+		<Text Name="Modifier_GlitterEyes">
+			<DisplayName>Hỏa Nhãn Kim Tinh</DisplayName>
+			<Desc>Sở hữu lực Hỏa Nhãn Kim Tinh của Huyền Phượng, có thể nhìn thấu chân diện thật của một số vật phẩm trong đấu giá.</Desc>
+		</Text>
+		<Text Name="Modifier_Shelter">
+			<DisplayName>Hộ thể</DisplayName>
+			<Desc>Trong thời gian ngắn tăng mạnh độ bền của linh khí hộ thể và bí thể.</Desc>
+		</Text>
+		<Text Name="Modifier_YG_RealPower">
+			<DisplayName>Chân lực nguyên thân (Lực)</DisplayName>
+			<Desc>Đốt cháy mạnh mẽ nguồn sống bản nguyên, kích phát lực lượng nguyên thân của yêu tộc, tăng mạnh uy lực ngự khí, uy lực bí thể.</Desc>
+		</Text>
+		<Text Name="Modifier_YG_RealRecover">
+			<DisplayName>Chân lực nguyên thân (Hàm)</DisplayName>
+			<Desc>Đốt cháy mạnh mẽ nguồn sống bản nguyên, kích phát lực lượng nguyên thân của yêu tộc, tăng mạnh khả năng hồi phục cơ thể, tốc độ hồi phục linh khí pháp bảo, tốc độ hồi phục chân khí bí thể.</Desc>
+		</Text>
+		<Text Name="Modifier_YG_RealWisdom">
+			<DisplayName>Chân lực nguyên thân (Trí)</DisplayName>
+			<Desc>Đốt cháy mạnh mẽ nguồn sống bản nguyên, kích phát lực lượng nguyên thân của yêu tộc, tăng mạnh uy lực pháp thuật, tỷ lệ tấn công chính xác của bí thể, tỷ lệ phòng thủ thành công, tỷ lệ xuyên thủng linh khí hộ thể, tỷ lệ trấn áp pháp bảo.</Desc>
+		</Text>
+		<Text Name="Modifier_YG_RealShield">
+			<DisplayName>Chân lực nguyên thân (Hộ)</DisplayName>
+			<Desc>Đốt cháy mạnh mẽ nguồn sống bản nguyên, kích phát lực lượng nguyên thân của yêu tộc, tăng mạnh uy lực ngự khí, uy lực bí thể, độ bền của linh khí hộ thể và bí thể.</Desc>
+		</Text>
+		<Text Name="Modifier_YG_NormalPower">
+			<DisplayName>Yêu thân</DisplayName>
+			<Desc>Trong trạng thái yêu thân, năng lực chiến đấu được tăng cường, tốc độ luyện thân cũng nhanh hơn. Nhưng dưới sự thúc đẩy của bản năng hoang dã, tu hành giả bị ảnh hưởng lớn đến trí tuệ, tốc độ học tập và tâm cảnh.</Desc>
+		</Text>
+	</List>
+</Texts>
+

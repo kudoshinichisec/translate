@@ -1,0 +1,30 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mood_BigFish">
+			<DisplayName>Câu được cá lớn.</DisplayName>
+			<Desc>Vừa câu được cá lớn, tâm trạng sảng khoái.</Desc>
+			<StoryDesc>Câu được cá lớn, cảm thấy rất vui vẻ.</StoryDesc>
+		</Text>
+		<Text Name="Mood_BigBigFish">
+			<DisplayName>Câu được cá khổng lồ.</DisplayName>
+			<Desc>Vừa câu được cá khổng lồ, tâm trạng sảng khoái.</Desc>
+			<StoryDesc>Câu được cá khổng lồ, cảm thấy cực kỳ vui vẻ.</StoryDesc>
+		</Text>
+		<Text Name="Mood_BeFished">
+			<DisplayName>Bị câu lên.</DisplayName>
+			<Desc>Trúng bẫy, bị câu lên.</Desc>
+			<StoryDesc>Bị kéo lên bờ, có chút tức giận.</StoryDesc>
+		</Text>
+		<Text Name="Mood_FishSmell">
+			<DisplayName>Mùi hôi thối</DisplayName>
+			<Desc>Ăn cá bơn vằn độc, cả người bốc mùi hôi thối.</Desc>
+			<StoryDesc>Ăn cá bơn vằn độc, cả người bốc mùi hôi thối.</StoryDesc>
+		</Text>
+		<Text Name="Mood_FishGood">
+			<DisplayName>Dư vị.</DisplayName>
+			<Desc>Ăn cá ánh trăng tươi ngon, tâm trạng sảng khoái.</Desc>
+			<StoryDesc>Ăn cá ánh trăng tươi ngon, tâm trạng sảng khoái.</StoryDesc>
+		</Text>
+	</List>
+</Texts>
+

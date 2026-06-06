@@ -1,0 +1,50 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="ClothBase" sParam="Item">
+			<Desc>Vải được dệt từ bông, có thể dùng để chế tạo quần áo và các vật dụng khác.</Desc>
+			<Item.FabaoSuffix>Lụa, sa, la</Item.FabaoSuffix>
+			<Item.BeMaterial.NamePrefix>Vải</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CottonCloth" sParam="Item">
+			<ThingName>Vải hoa</ThingName>
+			<Desc>Vải được dệt từ bông với họa tiết hoa, có thể dùng để chế tạo quần áo và các vật dụng khác.</Desc>
+			<Item.BeMaterial.NamePrefix>Vải hoa</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_DeepBlueCloth" sParam="Item">
+			<ThingName>Vải lam chàm</ThingName>
+			<Desc>Vải được dệt từ bông với màu lam chàm, có thể dùng để chế tạo quần áo và các vật dụng khác.</Desc>
+			<Item.BeMaterial.NamePrefix>Vải lam chàm</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_PurpleCloth" sParam="Item">
+			<ThingName>Vải tím</ThingName>
+			<Desc>Vải được dệt từ bông với màu tím, có thể dùng để chế tạo quần áo và các vật dụng khác.</Desc>
+			<Item.BeMaterial.NamePrefix>Vải tím</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_YellowCloth" sParam="Item">
+			<ThingName>Hoàng bố</ThingName>
+			<Desc>Vải được dệt từ bông với màu vàng, có thể dùng để chế tạo quần áo và các vật dụng khác.</Desc>
+			<Item.BeMaterial.NamePrefix>Hoàng bố</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BlueCloth" sParam="Item">
+			<ThingName>Vải xanh</ThingName>
+			<Desc>Vải được dệt từ bông với màu xanh, có thể dùng để chế tạo quần áo và các vật dụng khác.</Desc>
+			<Item.BeMaterial.NamePrefix>Vải xanh</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_RedCloth" sParam="Item">
+			<ThingName>Vải đỏ</ThingName>
+			<Desc>Vải được dệt từ bông với màu đỏ, có thể dùng để chế tạo quần áo và các vật dụng khác.</Desc>
+			<Item.BeMaterial.NamePrefix>Vải đỏ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_WhiteCloth" sParam="Item">
+			<ThingName>Vải trắng</ThingName>
+			<Desc>Vải được dệt từ bông với màu trắng, có thể dùng để chế tạo quần áo và các vật dụng khác.</Desc>
+			<Item.BeMaterial.NamePrefix>Vải trắng</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BlackCloth" sParam="Item">
+			<ThingName>Hắc bộ</ThingName>
+			<Desc>Vải được dệt từ bông với màu đen, có thể dùng để chế tạo quần áo và các vật dụng khác.</Desc>
+			<Item.BeMaterial.NamePrefix>Hắc bộ</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>
+

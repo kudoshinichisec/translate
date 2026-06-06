@@ -1,0 +1,66 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="God_Xiuwei">
+			<DisplayName>Thiên tâm quan</DisplayName>
+			<Desc>Ngồi tĩnh tọa và chuyển hóa tín ngưỡng tích lũy của bản thân thành tu vi.</Desc>
+		</Text>
+		<Text Name="God_Xiuwei1">
+			<DisplayName>Thần tâm quan</DisplayName>
+			<Desc>Ngồi tĩnh tọa và chuyển hóa tín ngưỡng tích lũy của bản thân thành tu vi với tốc độ cực nhanh, nhưng tỷ lệ chuyển hóa thấp.</Desc>
+		</Text>
+		<Text Name="God_Xiuwei2">
+			<DisplayName>Quy nhất quan</DisplayName>
+			<Desc>Ngồi tĩnh tọa và nhanh chóng chuyển hóa tín ngưỡng tích lũy của bản thân thành tu vi, nhưng tỷ lệ chuyển hóa hơi thấp.</Desc>
+		</Text>
+		<Text Name="God_XinZhai">
+			<DisplayName>Tâm Trai</DisplayName>
+			<Desc>Vào trạng thái tâm trai, giảm dần ảnh hưởng của tâm trạng lên cảm xúc bản thân và duy trì trong một thời gian sau khi hoàn thành. Thời gian tâm trai kéo dài bao lâu thì hiệu quả sẽ duy trì bấy lâu.</Desc>
+		</Text>
+		<Text Name="God_ResurrectionA">
+			<DisplayName>Hoàn hồn thuật.</DisplayName>
+			<Desc>Hồi sinh một nhân vật đang hấp hối hoặc đã chết. Bản thân nhận được 10 điểm thần tính.</Desc>
+			<TargetDesc>Vui lòng chọn nhân vật đã chết hoặc đang hấp hối.</TargetDesc>
+		</Text>
+		<Text Name="God_ResurrectionB">
+			<DisplayName>Âm dương nghịch chuyển.</DisplayName>
+			<Desc>Hồi sinh tất cả các nhân vật phe ta trong cảnh đang hấp hối hoặc đã chết. Bản thân nhận được 100 điểm thần tính.</Desc>
+		</Text>
+		<Text Name="God_DefuseZhinian">
+			<DisplayName>Tịnh tâm</DisplayName>
+			<Desc>Giải quyết một chấp niệm cho nhân vật và nhận được một tinh thể chấp niệm.</Desc>
+			<TargetDesc>Vui lòng chọn nhân vật đã hiện chấp niệm.</TargetDesc>
+		</Text>
+		<Text Name="God_GodLike">
+			<DisplayName>Thần hóa</DisplayName>
+			<Desc>Thi triển pháp thuật để tăng tạm thời thần tính của bản thân lên mức cực hạn. Tuy nhiên, mỗi lần sử dụng sẽ tăng vĩnh viễn 1 điểm thần tính.</Desc>
+		</Text>
+		<Text Name="God_BeliveMe">
+			<DisplayName>Khuyên hóa</DisplayName>
+			<Desc>Khuyên bảo nhân vật phe ngươi hoặc phe trung lập nội môn, cố gắng chuyển hóa họ thành tín đồ cốt lõi.</Desc>
+			<TargetDesc>Vui lòng chọn nhân vật cần khuyên bảo.</TargetDesc>
+		</Text>
+		<Text Name="God_Jingxin">
+			<DisplayName>Tĩnh Tâm</DisplayName>
+			<Desc>Thi triển lên một nhân vật không tu luyện thần đạo, giảm hệ số phóng đại cảm xúc của họ 25%, kéo dài 7 ngày.</Desc>
+			<TargetDesc>Vui lòng chọn một nhân vật không tu luyện thần đạo.</TargetDesc>
+		</Text>
+		<Text Name="God_ProductUp1">
+			<DisplayName>Cảm hoá thuật</DisplayName>
+			<Desc>Trong 10 ngày, tăng 100% sản lượng tài sản cơ bản của khu vực mà thần linh của ngươi đang cư ngụ.</Desc>
+		</Text>
+		<Text Name="God_ProductUp2">
+			<DisplayName>Ứng nguyện thuật.</DisplayName>
+			<Desc>Trong 4 ngày, tăng 200% sản lượng tài sản cơ bản của khu vực mà thần linh của ngươi đang cư ngụ.</Desc>
+		</Text>
+		<Text Name="God_ProductUp3">
+			<DisplayName>Duy tôn pháp</DisplayName>
+			<Desc>Trong 1 ngày, tăng 500% sản lượng tài sản cơ bản của khu vực mà thần linh của ngươi đang cư ngụ.</Desc>
+		</Text>
+		<Text Name="God_TongLing_Plant">
+			<DisplayName>Thần ân tứ mệnh</DisplayName>
+			<Desc>Hoa cây có mệnh, cỏ cây vô tình. Để làm cho thực vật thông linh, cần một người tu luyện thần đạo dùng 1 điểm nhân tính của bản thân làm dẫn, tiêu hao 9 tinh thể chấp niệm và 1 viên nguyên linh chi bạch để thử đánh thức linh của nó. Kết quả thông linh cần một thời gian mới xuất hiện. Thực vật đang trong quá trình thông linh không thể bị thông linh lần nữa. Thần tính của người thi triển càng cao, số lần thực vật được thông linh càng nhiều, xác suất thành công càng cao.</Desc>
+			<TargetDesc>Vui lòng chọn một thực vật</TargetDesc>
+		</Text>
+	</List>
+</Texts>
+

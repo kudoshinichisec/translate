@@ -1,0 +1,119 @@
+ID	Desc
+
+1	Chủ sở hữu phòng đều là phàm nhân
+2	Chủ sở hữu phòng đều là luyện khí
+3	Chủ sở hữu phòng đều là kết đan
+4	Chủ sở hữu phòng đều là kim đan
+5	Chủ sở hữu phòng đều là nguyên thần
+6	Chủ sở hữu phòng đều là chân tiên còn sống
+7	Chủ sở hữu phòng đều là đệ tử nội môn
+8	Chủ sở hữu phòng đều là đệ tử ngoại môn
+9	Chủ sở hữu phòng đều là khách
+10	Chủ sở hữu phòng đều trên 30 tuổi
+11	Chủ sở hữu phòng đều trên 90 tuổi
+12	Chủ sở hữu phòng đều trên 270 tuổi
+13	Chủ sở hữu phòng đều trên 810 tuổi
+14	Chủ sở hữu phòng đều trên 2430 tuổi
+15	Chủ sở hữu phòng đều dưới 30 tuổi
+16	Chủ sở hữu phòng đều dưới 90 tuổi
+17	Chủ sở hữu phòng đều dưới 270 tuổi
+18	Chủ sở hữu phòng đều dưới 810 tuổi
+19	Chủ sở hữu phòng đều dưới 2430 tuổi
+20	Tổng tuổi của chủ sở hữu phòng nhỏ hơn 100 tuổi
+21	Tổng tuổi của chủ sở hữu phòng nhỏ hơn 200 tuổi
+22	Tổng tuổi của chủ sở hữu phòng nhỏ hơn 500 tuổi
+23	Tổng tuổi của chủ sở hữu phòng nhỏ hơn 1000 tuổi
+24	Tổng tuổi của chủ sở hữu phòng lớn hơn 500 tuổi
+25	Tổng tuổi của chủ sở hữu phòng lớn hơn 1000 tuổi
+26	Tổng tuổi của chủ sở hữu phòng lớn hơn 2000 tuổi
+27	Tổng tuổi của chủ sở hữu phòng lớn hơn 4000 tuổi
+28	Chủ sở hữu phòng đều là nam giới
+29	Chủ sở hữu phòng đều là nữ giới
+30	Chủ sở hữu phòng có cả nam và nữ
+31	Phòng thuộc về 1 người
+32	Phòng thuộc về 2 người
+33	Phòng thuộc về 3 người
+34	Số người sở hữu phòng không dưới 3 người
+35	Số người sở hữu phòng không dưới 5 người
+36	Số người sở hữu phòng không quá 3 người
+37	Số người sở hữu phòng không quá 5 người
+38	Trong phòng ít nhất có 1 cái giường
+39	Trong phòng ít nhất có 2 cái giường
+40	Trong phòng ít nhất có 3 cái giường
+41	Trong phòng tối đa có 1 cái giường
+42	Trong phòng tối đa có 2 cái giường
+43	Trong phòng tối đa có 3 cái giường
+44	Trong phòng ít nhất có 1 cái giường đôi
+45	Trong phòng ít nhất có 1 thiết bị chiếu sáng
+46	Trong phòng ít nhất có 2 thiết bị chiếu sáng
+47	Trong phòng ít nhất có 3 thiết bị chiếu sáng
+48	Trong phòng tối đa có 1 thiết bị chiếu sáng
+49	Trong phòng tối đa có 2 thiết bị chiếu sáng
+50	Trong phòng tối đa có 3 thiết bị chiếu sáng
+51	Trong phòng ít nhất có 1 cái bể nước
+52	Trong phòng ít nhất có 1 cái bình phong
+53	Trong phòng ít nhất có 1 bức tượng
+54	Trong phòng ít nhất có 1 cái đỉnh
+55	Trong phòng ít nhất có 1 cái lư hương
+56	Trong phòng ít nhất có 1 chậu cây
+57	Trong phòng ít nhất có 1 lá cờ
+58	Trong phòng ít nhất có 1 kệ sách
+59	Trong phòng ít nhất có 1 ngôi mộ
+60	Trong phòng ít nhất có 2 cái bể nước
+61	Trong phòng ít nhất có 2 cái bình phong
+62	Trong phòng ít nhất có 2 bức tượng
+63	Trong phòng ít nhất có 2 cái đỉnh
+64	Trong phòng ít nhất có 2 cái lư hương
+65	Trong phòng ít nhất có 2 chậu cây
+66	Trong phòng ít nhất có 2 lá cờ
+67	Trong phòng ít nhất có 2 kệ sách
+68	Trong phòng không được có vùng nước
+69	Trong phòng ít nhất có 1 vùng nước
+70	Trong phòng ít nhất có 1 vùng linh địa
+71	Trong phòng không được có đất liền
+72	Trong phòng ít nhất có 1 công trình tương ứng với ngũ hành của trấn vật
+73	Trong phòng ít nhất có 2 công trình tương ứng với ngũ hành của trấn vật
+74	Trong phòng ít nhất có 3 công trình tương ứng với ngũ hành của trấn vật
+75	Trong phòng không có công trình nào tương khắc với ngũ hành của trấn vật
+76	Trong phòng tối đa có 1 công trình tương khắc với ngũ hành của trấn vật
+77	Trong phòng tối đa có 2 công trình tương khắc với ngũ hành của trấn vật
+78	Trong phòng tối đa có 3 công trình tương khắc với ngũ hành của trấn vật
+79	Trong phòng ít nhất có 1 công trình có ngũ hành giống với trấn vật
+80	Trong phòng ít nhất có 2 công trình có ngũ hành giống với trấn vật
+81	Trong phòng ít nhất có 3 công trình có ngũ hành giống với trấn vật
+82	Giá trị linh khí của trấn vật không thấp hơn 1000
+83	Giá trị linh khí của trấn vật không thấp hơn 5000
+84	Giá trị linh khí của trấn vật không thấp hơn 10000
+85	Giá trị linh khí của trấn vật không thấp hơn 30000
+86	Giá trị linh khí của trấn vật không cao hơn 1000
+87	Giá trị linh khí của trấn vật không cao hơn 5000
+88	Giá trị linh khí của trấn vật không cao hơn 10000
+89	Giá trị linh khí của trấn vật không cao hơn 30000
+90	Khu đất nơi trấn vật có linh khí dày đặc
+91	Tất cả công trình trong phòng đều có phong thủy xấu (tiểu hung/hung/đại hung)
+92	Tất cả công trình trong phòng đều có phong thủy tốt (tiểu cát/cát/đại cát)
+93	Trong phòng không có công trình đại cát
+94	Trong phòng có duy nhất một công trình đại cát
+95	Trong phòng tối đa có 1 công trình đại cát
+96	Trong phòng tối đa có 2 công trình đại cát
+97	Trong phòng có ít nhất 1 công trình đại hung
+98	Trong phòng có ít nhất 2 công trình đại hung
+99	Trong phòng chỉ có 1 trấn vật phong thủy
+100	Trong phòng chỉ có 1 trấn vật phong thủy
+101	Trong phòng chỉ có 1 trấn vật phong thủy
+102	Trong phòng chỉ có 1 trấn vật phong thủy
+103	Trong phòng chỉ có 1 trấn vật phong thủy
+10001	Giá trị linh khí của trấn vật không thấp hơn 100000
+10002	Trong phòng có ít nhất 5 công trình đại hung
+10003	Trong phòng có duy nhất 1 trấn vật phong thủy
+10004	Trong phòng có duy nhất 8 thiết bị chiếu sáng
+10005	Trong phòng ít nhất có 3 cái bếp
+10006	Trong phòng có duy nhất 7 thiết bị chiếu sáng
+10007	Trong phòng có duy nhất 5 ngôi mộ
+10008	Trong phòng có duy nhất 2 cái lư hương
+10009	Trong phòng có duy nhất 2 lá cờ
+10010	Trong phòng có duy nhất 1 cái giường
+10011	Trong phòng không được có đệm ngồi pháp tọa
+20000	Trong phòng chỉ có một trấn vật thông linh
+
+

@@ -1,0 +1,44 @@
+Trong trò chơi có nhiều phím tắt, chẳng hạn như sử dụng CTRL + phím số để lập đội hình; ~ tấn công. Chi tiết có thể xem trong F11.
+Bí quyết phong thủy nằm ở thuộc tính ngũ hành của khu đất sinh ra thuộc tính xây dựng, xây dựng đài quan sát có thể xem thuộc tính ngũ hành của khu đất.
+Đệ tử ngoại môn bị thương, chọn nhân vật lang trung sẽ tự động đi chữa trị. Dược liệu không cần phải sử dụng chủ động.
+Tốc độ tu luyện có thể sử dụng thần hành phù, phân ảnh đột không phù để nâng cao.
+Đầu game có thể đến Tiểu Lương Sơn tu luyện để lấy bông, giải quyết vấn đề quần áo.
+Phong thủy và mức độ thẩm mỹ của phòng sẽ ảnh hưởng liên tục đến tâm trạng của đệ tử.
+Lát sàn có thể nâng cao độ thẩm mỹ.
+Danh vọng môn phái sẽ ảnh hưởng đến sức mạnh của kẻ thù tấn công.
+Sàn nhà có thể điều chỉnh thuộc tính ngũ hành của mặt đất hiện tại.
+Thịt cũng có ích, chẳng hạn như đặt vào ruộng, hoặc làm thành búp bê...
+Vật thể hoặc công trình thuộc tính hỏa có thể nâng cao nhiệt độ xung quanh hoặc trong phòng.
+Vật thể hoặc công trình thuộc tính thủy có thể hạ thấp nhiệt độ xung quanh hoặc trong phòng.
+Đặt Bàn Long Chung ở vị trí thích hợp có thể bảo vệ an toàn tính mạng của đệ tử ngoại môn.
+Độ màu mỡ của đất, nồng độ linh khí, v.v., đều ảnh hưởng đến hiệu quả sinh trưởng của cây trồng.
+Diện tích phòng tối thiểu là 4, tối đa là 400.
+Trong phòng, nhiệt độ sẽ tăng giảm đồng đều, chứ không tập trung ở một điểm nào.
+Nếu có đệ tử không may qua đời, nhớ chôn cất họ.
+Trồng lúa mì là nguồn thực phẩm chính.
+Đến thành phố có thể chiêu mộ đệ tử, mua sắm vật tư.
+Tiếp tục khám phá các địa điểm chính trong bản đồ lớn sẽ mở khóa các địa điểm mới có thể sử dụng.
+Cự Ngân Hạnh khá hiếm, có thể gặp nhưng không thể cầu.
+Đặt bể nước ở vị trí thích hợp, công việc và sinh hoạt của đệ tử sẽ thuận tiện hơn.
+Tham gia hội nghị Tiên Duyên hàng năm có thể thu hút nhiều đệ tử ngoại môn đến bái sơn.
+Hội pháp Côn Luân hàng năm chỉ cho phép đệ tử Kim Đan kỳ trở lên tham gia, đệ tử cấp thấp chỉ có thể quan sát.
+Giữ phím CTRL khi tháo dỡ có thể được sử dụng để tái xây dựng hàng loạt.
+Giữ phím CTRL khi hủy bỏ có thể được sử dụng để vô hiệu hóa/khôi phục hàng loạt.
+Trộm đồ của các môn phái khác có thể dẫn đến sự sụp đổ.
+Tiên giới là một nơi có nhiệt độ, tất nhiên không phải chỉ là mỏ Đồng hoả.
+Khi sức mạnh môn phái quá yếu, đó là lúc bị người khác chèn ép.
+Đại trận cổ xưa tuy mạnh mẽ, nhưng tự tạo trận cũng có thể hủy diệt trời đất.
+Kéo chọn hoặc nhấp đúp có thể chọn nhiều đơn vị.
+Giữ phím Shift có thể chọn nhiều đơn vị.
+Tin đồn tiên giới: Có môn phái trưởng lão ăn bánh mì có hàm lượng linh khí quá cao dẫn đến nổ thân mà chết...
+Tin đồn tiên giới: Có người phát hiện ra bí kíp cổ xưa trong chiếc hộp đá cổ...
+Tin đồn tiên giới: Ngay cả tiên nhân cũng khó cưỡng lại sự vui vẻ do món ăn mang lại...
+Tin đồn tiên giới: Đau răng là bệnh khó chữa nhất, không có cái thứ hai...
+Tin đồn tiên giới: Thanh Liên Kiếm Tông trên núi Thục rất giàu có...
+Tin đồn tiên giới: Nếu phong thủy của mộ quá kém, vào ban đêm sẽ xảy ra những điều kinh khủng...
+Tin đồn tiên giới: Có một cách để khiến bầu trời luôn quang đãng, điều này liên quan đến thần thú cổ xưa...
+Tin đồn tiên giới: Khu vực nước nông có thể lát sàn...
+Tin đồn tiên giới: Đệ tử có tính sạch sẽ rất khó phục vụ...
+Tin đồn tiên giới: Đã có tu sĩ đánh cắp được bảo vật quý giá từ thiên kiếp...
+
+

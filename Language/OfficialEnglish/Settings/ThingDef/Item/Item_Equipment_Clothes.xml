@@ -1,0 +1,68 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="ClothesBase" sParam="Item">
+			<Item.FabaoSuffix>Áo, Giáp, Che, Áo Choàng</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SummerClothes" sParam="Item">
+			<ThingName>Áo Mỏng</ThingName>
+			<Desc>Trang phục khá thoáng khí, cũng có thể giữ ấm nhẹ.</Desc>
+		</Text>
+		<Text Name="Item_SilkClothes" sParam="Item">
+			<ThingName>Áo Mát Mẻ</ThingName>
+			<Desc>Trang phục thoải mái và rộng rãi, mặc vào cảm thấy rất mát mẻ.</Desc>
+		</Text>
+		<Text Name="Item_PracticeClothes" sParam="Item">
+			<ThingName>Áo Tu Hành</ThingName>
+			<Desc>Trang phục tiêu chuẩn của môn phái, khá ấm nhưng không thoáng khí.</Desc>
+		</Text>
+		<Text Name="Item_FormalClothes" sParam="Item">
+			<ThingName>Áo Thường Nhật</ThingName>
+			<Desc>Trang phục rất thông thường, khá ấm nhưng không thoáng khí.</Desc>
+		</Text>
+		<Text Name="Item_WinterClothes" sParam="Item">
+			<ThingName>Áo Dày</ThingName>
+			<Desc>Làm từ chất liệu dày dặn, rất giữ ấm.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes1" sParam="Item">
+			<ThingName>Long lân pháp y</ThingName>
+			<Desc>Pháp y được dệt từ vảy rồng, mặc vào có thể tăng cấp độ kỹ năng bảo vệ cơ thể.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes2" sParam="Item">
+			<ThingName>Pháp Y Âm Hoàn</ThingName>
+			<Desc>Pháp y tụ tập lực âm tinh khiết, mặc vào có thể tăng cấp độ kỹ năng thuật pháp.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes3" sParam="Item">
+			<ThingName>Pháp Y Tàn Diệt</ThingName>
+			<Desc>Pháp y tụ tập lực dương tinh khiết, mặc vào có thể tăng cấp độ kỹ năng điều khiển pháp khí.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes4" sParam="Item">
+			<ThingName>Pháp Y Tề Thiên</ThingName>
+			<Desc>Pháp y có thể che giấu thiên cơ, mặc vào có thể giảm đạo hạnh.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes5" sParam="Item">
+			<ThingName>Áo Lông Dương Hoa</ThingName>
+			<Desc>Pháp y có lực trừ ma, mặc vào có thể xua đuổi tâm ma, tăng cường tâm trạng.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes6" sParam="Item">
+			<ThingName>Áo Vàng Lửa Mặt Trời</ThingName>
+			<Desc>Pháp y tụ tập lực dương tinh khiết, mặc vào có thể tăng cấp độ kỹ năng điều khiển pháp khí.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes7" sParam="Item">
+			<ThingName>Hỏa Hoán Y</ThingName>
+			<Desc>Pháp y được may từ da của dị thú Hỏa Quang Thử, khi mặc có thể nâng cao cấp độ kỹ năng hộ thể và giảm hiệu quả sát thương thuộc tính hỏa.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes8" sParam="Item">
+			<ThingName>Huyền Hải Lưu Tiên Bào</ThingName>
+			<Desc>Pháp y có thể che giấu thiên cơ, mặc vào có thể giảm đạo hạnh.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes9" sParam="Item">
+			<ThingName>U Huyền Pháp Y</ThingName>
+			<Desc>Pháp y tụ tập lực âm tinh khiết, mặc vào có thể tăng cấp độ kỹ năng thuật pháp.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes10" sParam="Item">
+			<ThingName>Thanh Hạc Vân Thường</ThingName>
+			<Desc>Pháp y có lực trừ ma, mặc vào có thể xua đuổi tâm ma, tăng cường tâm trạng.</Desc>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,14 @@
+农田	Ruộng
+木墙	Tường gỗ
+木栅栏	Hàng rào gỗ
+木小方桌	Bàn vuông gỗ nhỏ
+木桌子	Bàn gỗ
+灰石炉灶	Bếp Đá xám
+灰石置物台	Bàn để đồ đá xám
+灰石水缸	Đá Xám Chum Nước
+灰石门	Cổng đá xám
+灵石磨坊	Xưởng Xay Linh Thạch
+木篝火	Lửa trại
+母牛	Bò cái
+
+

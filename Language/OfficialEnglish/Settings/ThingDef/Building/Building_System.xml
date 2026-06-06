@@ -1,0 +1,152 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="SYS_LOASBUILDING" sParam="Building">
+			<ThingName>Công trình bị lãng quên</ThingName>
+			<Desc>Vật bị thất lạc, không ai biết đây là gì.\n(Mô-đun bị mất)</Desc>
+		</Text>
+		<Text Name="FillSoil" sParam="Building">
+			<ThingName>Cải tạo đất</ThingName>
+			<Desc>Biến đổi một khu vực thành đất, công việc này tiêu tốn nhiều thời gian.</Desc>
+		</Text>
+		<Text Name="FillFertileSoil" sParam="Building">
+			<ThingName>Cải tạo đất màu mỡ</ThingName>
+			<Desc>Biến đổi một khu vực đất thành đất màu mỡ, công việc này tiêu tốn nhiều thời gian.</Desc>
+		</Text>
+		<Text Name="FillShallowWater" sParam="Building">
+			<ThingName>Cải tạo nước nông</ThingName>
+			<Desc>Biến đổi một khu vực đất thành nước nông, công việc này tiêu tốn nhiều thời gian.</Desc>
+		</Text>
+		<Text Name="NPCBornPoint_SchoolCore" sParam="Building">
+			<ThingName>Điểm sinh nhân vật cốt lõi môn phái</ThingName>
+		</Text>
+		<Text Name="NPCBornPoint_Ordinary" sParam="Building">
+			<ThingName>Điểm sinh người phàm</ThingName>
+		</Text>
+		<Text Name="NPCBornPoint_Random" sParam="Building">
+			<ThingName>Tu sĩ tiêu chuẩn</ThingName>
+		</Text>
+		<Text Name="NPCBornPoint_Fill" sParam="Building">
+			<ThingName>Tu sĩ bổ sung</ThingName>
+		</Text>
+		<Text Name="NPCBornPoint_JYMonster" sParam="Building">
+			<ThingName>Điểm sinh yêu thú</ThingName>
+		</Text>
+		<Text Name="NPCBornPoint_Animal" sParam="Building">
+			<ThingName>Điểm sinh động vật</ThingName>
+		</Text>
+		<Text Name="BDSetPoint_Gong" sParam="Building">
+			<ThingName>Điểm sinh công pháp</ThingName>
+		</Text>
+		<Text Name="NPCBornPoint_RPG" sParam="Building">
+			<ThingName>Điểm sinh nhân vật</ThingName>
+		</Text>
+		<Text Name="NormalPoint_RPG" sParam="Building">
+			<ThingName>Điểm logic</ThingName>
+		</Text>
+		<Text Name="BDSetPoint_Outs" sParam="Building">
+			<ThingName>Điểm cơ sở mở rộng công trình</ThingName>
+			<StoryBnts.0.Name>Xuất nội dung công trình</StoryBnts.0.Name>
+		</Text>
+		<Text Name="FillBuild_Hide" sParam="Building">
+			<Desc>Công trình ẩn, dùng để tạo bề mặt</Desc>
+		</Text>
+		<Text Name="FillBuild_Empty" sParam="Building">
+			<Desc>Công trình ẩn, dùng để định vị</Desc>
+		</Text>
+		<Text Name="HideBuild_Empty" sParam="Building">
+			<Desc>Công trình ẩn, dùng để định vị, bản thân không có ý nghĩa</Desc>
+		</Text>
+		<Text Name="Building_SwordTower" sParam="Building">
+			<ThingName>Tháp trấn kiếm</ThingName>
+			<Desc>Tòa tháp khổng lồ dưới lòng đất, dường như dùng để trấn áp thứ gì đó</Desc>
+			<StoryBnts.0.Name>Tiếp xúc</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử dùng thần thức để tiếp xúc với nó.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_HenZhiBei" sParam="Building">
+			<ThingName>Bia hận</ThingName>
+			<Desc>Một tấm bia khắc chữ "Bia hận", hận là ai?</Desc>
+			<StoryBnts.0.Name>Tiếp xúc</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử dùng thần thức để tiếp xúc với nó.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_LongZhiBei" sParam="Building">
+			<ThingName>Long bia</ThingName>
+			<Desc>Trên đó khắc chữ "Bia rồng" và tỏa ra mùi khó chịu. Rồng cũng cần được chôn cất sao?</Desc>
+			<StoryBnts.0.Name>Tiếp xúc</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử dùng thần thức để tiếp xúc với nó.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ShouZhiBei" sParam="Building">
+			<ThingName>Bia thú</ThingName>
+			<Desc>Khắc chữ "Bia thú".</Desc>
+			<StoryBnts.0.Name>Tiếp xúc</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử dùng thần thức để tiếp xúc với nó.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_JiZhiBei" sParam="Building">
+			<ThingName>Bia cực</ThingName>
+			<Desc>Khắc chữ "Bia cực".</Desc>
+			<StoryBnts.0.Name>Tiếp xúc</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử dùng thần thức để tiếp xúc với nó.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_HuanZhiBei" sParam="Building">
+			<ThingName>Bia ảo</ThingName>
+			<Desc>Khắc chữ "Bia ảo".</Desc>
+			<StoryBnts.0.Name>Tiếp xúc</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử dùng thần thức để tiếp xúc với nó.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ZhongBei" sParam="Building">
+			<ThingName>Bia chung cuộc</ThingName>
+			<Desc>Khắc chữ "Bia chung cuộc".</Desc>
+			<StoryBnts.0.Name>Tiếp xúc</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử dùng thần thức để tiếp xúc với nó.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_LingBei" sParam="Building">
+			<ThingName>Bia linh</ThingName>
+			<Desc>Khắc chữ "Bia linh".</Desc>
+			<StoryBnts.0.Name>Tiếp xúc</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử dùng thần thức để tiếp xúc với nó.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_XingBei" sParam="Building">
+			<ThingName>Bia tinh</ThingName>
+			<Desc>Khắc chữ "Bia tinh".</Desc>
+			<StoryBnts.0.Name>Tiếp xúc</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử dùng thần thức để tiếp xúc với nó.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_MuBei" sParam="Building">
+			<ThingName>Bia mộc</ThingName>
+			<Desc>Khắc chữ "Bia mộc".</Desc>
+			<StoryBnts.0.Name>Tiếp xúc</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử dùng thần thức để tiếp xúc với nó.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_TaiYiMen" sParam="Building">
+			<ThingName>Sơn môn Thái Nhất</ThingName>
+			<Desc>Sơn môn của Thái Nhất Môn.</Desc>
+			<StoryBnts.0.Name>Bái môn</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Bái Thái Nhất Môn</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="StreetNoLight" sParam="Building">
+			<ThingName>Cột đèn</ThingName>
+			<Desc>Công trình chiếu sáng tinh xảo, sẽ phát sáng vào ban đêm, soi sáng khu vực xung quanh.</Desc>
+			<StoryBnts.0.Name>Xem xét</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Xem xét</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="FireLantern" sParam="Building">
+			<ThingName>Đèn lồng</ThingName>
+			<StoryBnts.0.Name>Xem xét</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Xem xét</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="GolemLantern" sParam="Building">
+			<ThingName>Cột đèn</ThingName>
+			<StoryBnts.0.Name>Xem xét</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Xem xét</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="OddLantern" sParam="Building">
+			<ThingName>Đèn lồng</ThingName>
+			<StoryBnts.0.Name>Xem xét</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Xem xét</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_TaiYiTower" sParam="Building">
+			<ThingName>Tháp trấn</ThingName>
+			<Desc>Bảo tháp của Thái Nhất Môn. Sống sót sau thảm họa diệt môn.</Desc>
+		</Text>
+	</List>
+</Texts>
+

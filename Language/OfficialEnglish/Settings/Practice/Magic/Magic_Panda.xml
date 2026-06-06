@@ -1,0 +1,19 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LcSchoolPanda">
+			<DisplayName>Đại sứ Tiên Giới</DisplayName>
+			<Desc>Phái đi đến một môn phái, cải thiện mối quan hệ giữa môn phái đó và môn phái của ta.</Desc>
+			<sParam2>Mạc</sParam2>
+		</Text>
+		<Text Name="PandaLingXi">
+			<DisplayName>Bằng Hữu thiên nhiên.</DisplayName>
+			<Desc>Thuần hóa một con dã thú.</Desc>
+			<TargetDesc>Vui lòng chọn một động vật không thuộc phe ngươi.</TargetDesc>
+		</Text>
+		<Text Name="Magic_YG_RealYinYang">
+			<DisplayName>Nguyên Thân Chân Lực (Hỗn)</DisplayName>
+			<Desc>Đốt cháy mạnh mẽ nguồn gốc sinh mệnh, kích phát sức mạnh nguyên hình của yêu tộc, tăng mạnh uy lực ngự khí, uy lực bí thể, linh khí hộ thuẫn và độ bền bí thể. Kích hoạt kỹ năng lần nữa sẽ ngừng hiệu quả này.</Desc>
+		</Text>
+	</List>
+</Texts>
+

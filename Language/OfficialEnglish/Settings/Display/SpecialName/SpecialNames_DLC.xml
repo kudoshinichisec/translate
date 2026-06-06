@@ -1,0 +1,1546 @@
+<SpecialNames>
+  <List>
+	<SpecialItem Name="Item_HomeFood">
+		<Item_BambooShoot>
+			<li Name="Lương Phan Trúc Duẩn" Desc="" />
+			<li Name="Sao Trúc Duẩn" Desc="" />
+			<li Name="Lỗ Trấp Nộn Duẩn" Desc="" />
+			<li Name="Trúc Duẩn Sao Nhục" Desc="" />
+			<li Name="Hương Lạt Thúy Duẩn" Desc="" />
+			<li Name="Du Muộn Trúc Duẩn" Desc="" />
+			<li Name="Trúc Duẩn Sao Tịch Nhục" Desc="" />
+		</Item_BambooShoot>
+		<Fish_StoneCrab>
+			<li Name="Thanh Chưng Bàng Giải" Desc="" />
+			<li Name="Bàng Giải Thang" Desc="" />
+			<li Name="Gia Thường Sao Bàng Giải" Desc="" />
+			<li Name="Giải Nhục Chúc" Desc="" />
+			<li Name="Đậu Hủ Đôn Giải" Desc="" />
+			<li Name="Lạt Lỗ Giải" Desc="" />
+			<li Name="Hương Lỗ Giải" Desc="" />
+			<li Name="Giải Nhục Sao Phạn" Desc="" />
+		</Fish_StoneCrab>
+		<Fish_ChillyCrab>
+			<li Name="Thanh Chưng Bàng Giải" Desc="" />
+			<li Name="Bàng Giải Thang" Desc="" />
+			<li Name="Gia Thường Sao Bàng Giải" Desc="" />
+			<li Name="Giải Nhục Chúc" Desc="" />
+			<li Name="Đậu Hủ Đôn Giải" Desc="" />
+			<li Name="Lạt Lỗ Giải" Desc="" />
+			<li Name="Hương Lỗ Giải" Desc="" />
+			<li Name="Giải Nhục Sao Phạn" Desc="" />
+		</Fish_ChillyCrab>
+		<Fish_JadeCrab>
+			<li Name="Thanh Chưng Bàng Giải" Desc="" />
+			<li Name="Bàng Giải Thang" Desc="" />
+			<li Name="Gia Thường Sao Bàng Giải" Desc="" />
+			<li Name="Giải Nhục Chúc" Desc="" />
+			<li Name="Đậu Hủ Đôn Giải" Desc="" />
+			<li Name="Lạt Lỗ Giải" Desc="" />
+			<li Name="Hương Lỗ Giải" Desc="" />
+			<li Name="Giải Nhục Sao Phạn" Desc="" />
+		</Fish_JadeCrab>
+		<Fish_FireCrab>
+			<li Name="Thanh Chưng Bàng Giải" Desc="" />
+			<li Name="Bàng Giải Thang" Desc="" />
+			<li Name="Gia Thường Sao Bàng Giải" Desc="" />
+			<li Name="Giải Nhục Chúc" Desc="" />
+			<li Name="Đậu Hủ Đôn Giải" Desc="" />
+			<li Name="Lạt Lỗ Giải" Desc="" />
+			<li Name="Hương Lỗ Giải" Desc="" />
+			<li Name="Giải Nhục Sao Phạn" Desc="" />
+		</Fish_FireCrab>
+
+		<Fish_r2>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_r2>
+		<Fish_r3>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_r3>
+		<Fish_r4>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_r4>
+		<Fish_r5>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_r5>
+		<Fish_r6>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_r6>
+		<Fish_r7>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_r7>
+		<Fish_r8>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_r8>
+		<Fish_r9>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_r9>
+		<Fish_r10>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_r10>
+		<Fish_r11>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_r11>
+		<Fish_r12>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_r12>
+		<Fish_r13>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_r13>
+
+		<Fish_BaiHuang>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_BaiHuang>
+		<Fish_Black>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_Black>
+		<Fish_BlueFish>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_BlueFish>
+		<Fish_FenLi>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_FenLi>
+		<Fish_HongGui>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_HongGui>
+		<Fish_HongHuang>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_HongHuang>
+		<Fish_Huang>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_Huang>
+		<Fish_Ji>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_Ji>
+		<Fish_QingHei>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_QingHei>
+		<Fish_RedFish>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_RedFish>
+		<Fish_s1>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_s1>
+		<Fish_s10>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_s10>
+		<Fish_s11>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_s11>
+		<Fish_s12>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_s12>
+		<Fish_s2>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_s2>
+		<Fish_s3>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_s3>
+		<Fish_s4>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_s4>
+		<Fish_s5>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_s5>
+		<Fish_s6>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_s6>
+		<Fish_s7>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_s7>
+		<Fish_s8>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_s8>
+		<Fish_s9>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_s9>
+		<Fish_t1>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_t1>
+		<Fish_t10>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_t10>
+		<Fish_t11>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_t11>
+		<Fish_t12>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_t12>
+		<Fish_t2>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_t2>
+		<Fish_t3>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_t3>
+		<Fish_t4>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_t4>
+		<Fish_t5>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_t5>
+		<Fish_t6>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_t6>
+		<Fish_t7>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_t7>
+		<Fish_t8>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_t8>
+		<Fish_t9>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_t9>
+		<Fish_XieLi>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_XieLi>
+		<Shrimp1>
+			<li Name="Thanh Chưng Hà" Desc="" />
+			<li Name="Sao Hà Nhân" Desc="" />
+		</Shrimp1>
+		<Shrimp2>
+			<li Name="Thanh Chưng Hà" Desc="" />
+			<li Name="Sao Hà Nhân" Desc="" />
+		</Shrimp2>
+		<Shrimp3>
+			<li Name="Thanh Chưng Hà" Desc="" />
+			<li Name="Sao Hà Nhân" Desc="" />
+		</Shrimp3>
+		<Shrimp4>
+			<li Name="Thanh Chưng Hà" Desc="" />
+			<li Name="Sao Hà Nhân" Desc="" />
+		</Shrimp4>
+		<Shrimp5>
+			<li Name="Thanh Chưng Hà" Desc="" />
+			<li Name="Sao Hà Nhân" Desc="" />
+		</Shrimp5>
+		<Shrimp6>
+			<li Name="Thanh Chưng Hà" Desc="" />
+			<li Name="Sao Hà Nhân" Desc="" />
+		</Shrimp6>
+		<Shrimp7>
+			<li Name="Thanh Chưng Hà" Desc="" />
+			<li Name="Sao Hà Nhân" Desc="" />
+		</Shrimp7>
+		<Shrimp8>
+			<li Name="Thanh Chưng Hà" Desc="" />
+			<li Name="Sao Hà Nhân" Desc="" />
+		</Shrimp8>
+		<Shrimp9>
+			<li Name="Thanh Chưng Hà" Desc="" />
+			<li Name="Sao Hà Nhân" Desc="" />
+		</Shrimp9>
+		<Shrimp10>
+			<li Name="Thanh Chưng Hà" Desc="" />
+			<li Name="Sao Hà Nhân" Desc="" />
+		</Shrimp10>
+		<Shrimp11>
+			<li Name="Thanh Chưng Hà" Desc="" />
+			<li Name="Sao Hà Nhân" Desc="" />
+		</Shrimp11>
+		<Shrimp12>
+			<li Name="Thanh Chưng Hà" Desc="" />
+			<li Name="Sao Hà Nhân" Desc="" />
+		</Shrimp12>
+	</SpecialItem>
+	<SpecialItem Name="Item_DeliciousFood">
+		<Item_BambooShoot>
+			<li Name="Trúc Duẩn Bài Cốt" Desc="" />
+			<li Name="Khảo Trúc Duẩn" Desc="" />
+			<li Name="Thanh Duẩn Sao Mộc Nhĩ" Desc="" />
+			<li Name="Tam Sắc Duẩn Ti" Desc="" />
+			<li Name="Đậu Cán Trúc Duẩn" Desc="" />
+			<li Name="Toan Duẩn Thang Phấn" Desc="" />
+			<li Name="Đản Sao Trúc Duẩn" Desc="" />
+		</Item_BambooShoot>
+
+		<Fish_StoneCrab>
+			<li Name="Giải Nhục Bảo" Desc="" />
+			<li Name="Hương Lạt Giải" Desc="" />
+			<li Name="Thanh Chưng Giải Thối" Desc="" />
+			<li Name="Giải Hoàng Phấn Ti Bảo" Desc="" />
+			<li Name="Túy Giải" Desc="" />
+			<li Name="Giải Phấn Đậu Hủ" Desc="" />
+			<li Name="Tương Bạo Thu Giải" Desc="" />
+		</Fish_StoneCrab>
+		<Fish_ChillyCrab>
+			<li Name="Giải Nhục Bảo" Desc="" />
+			<li Name="Hương Lạt Giải" Desc="" />
+			<li Name="Thanh Chưng Giải Thối" Desc="" />
+			<li Name="Giải Hoàng Phấn Ti Bảo" Desc="" />
+			<li Name="Túy Giải" Desc="" />
+			<li Name="Giải Phấn Đậu Hủ" Desc="" />
+			<li Name="Tương Bạo Thu Giải" Desc="" />
+		</Fish_ChillyCrab>
+		<Fish_JadeCrab>
+			<li Name="Giải Nhục Bảo" Desc="" />
+			<li Name="Hương Lạt Giải" Desc="" />
+			<li Name="Thanh Chưng Giải Thối" Desc="" />
+			<li Name="Giải Hoàng Phấn Ti Bảo" Desc="" />
+			<li Name="Túy Giải" Desc="" />
+			<li Name="Giải Phấn Đậu Hủ" Desc="" />
+			<li Name="Tương Bạo Thu Giải" Desc="" />
+		</Fish_JadeCrab>
+		<Fish_FireCrab>
+			<li Name="Giải Nhục Bảo" Desc="" />
+			<li Name="Hương Lạt Giải" Desc="" />
+			<li Name="Thanh Chưng Giải Thối" Desc="" />
+			<li Name="Giải Hoàng Phấn Ti Bảo" Desc="" />
+			<li Name="Túy Giải" Desc="" />
+			<li Name="Giải Phấn Đậu Hủ" Desc="" />
+			<li Name="Tương Bạo Thu Giải" Desc="" />
+		</Fish_FireCrab>
+
+		<Fish_r2>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_r2>
+		<Fish_r3>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_r3>
+		<Fish_r4>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_r4>
+		<Fish_r5>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_r5>
+		<Fish_r6>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_r6>
+		<Fish_r7>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_r7>
+		<Fish_r8>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_r8>
+		<Fish_r9>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_r9>
+		<Fish_r10>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_r10>
+		<Fish_r11>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_r11>
+		<Fish_r12>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_r12>
+		<Fish_r13>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_r13>
+
+		<Fish_BaiHuang>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_BaiHuang>
+		<Fish_Black>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_Black>
+		<Fish_BlueFish>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_BlueFish>
+		<Fish_FenLi>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_FenLi>
+		<Fish_HongGui>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_HongGui>
+		<Fish_HongHuang>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_HongHuang>
+		<Fish_Huang>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_Huang>
+		<Fish_Ji>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_Ji>
+		<Fish_QingHei>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_QingHei>
+		<Fish_RedFish>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_RedFish>
+		<Fish_s1>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_s1>
+		<Fish_s10>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_s10>
+		<Fish_s11>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_s11>
+		<Fish_s12>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_s12>
+		<Fish_s2>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_s2>
+		<Fish_s3>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_s3>
+		<Fish_s4>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_s4>
+		<Fish_s5>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_s5>
+		<Fish_s6>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_s6>
+		<Fish_s7>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_s7>
+		<Fish_s8>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_s8>
+		<Fish_s9>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_s9>
+		<Fish_t1>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_t1>
+		<Fish_t10>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_t10>
+		<Fish_t11>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_t11>
+		<Fish_t12>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_t12>
+		<Fish_t2>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_t2>
+		<Fish_t3>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_t3>
+		<Fish_t4>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_t4>
+		<Fish_t5>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_t5>
+		<Fish_t6>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_t6>
+		<Fish_t7>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_t7>
+		<Fish_t8>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_t8>
+		<Fish_t9>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_t9>
+		<Fish_XieLi>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_XieLi>
+		<Shrimp1>
+			<li Name="Hoàng Kim Hà Nhân Sao Phạn" Desc="" />
+			<li Name="Hà Giáo Hoàng" Desc="" />
+		</Shrimp1>
+		<Shrimp2>
+			<li Name="Hoàng Kim Hà Nhân Sao Phạn" Desc="" />
+			<li Name="Hà Giáo Hoàng" Desc="" />
+		</Shrimp2>
+		<Shrimp3>
+			<li Name="Hoàng Kim Hà Nhân Sao Phạn" Desc="" />
+			<li Name="Hà Giáo Hoàng" Desc="" />
+		</Shrimp3>
+		<Shrimp4>
+			<li Name="Hoàng Kim Hà Nhân Sao Phạn" Desc="" />
+			<li Name="Hà Giáo Hoàng" Desc="" />
+		</Shrimp4>
+		<Shrimp5>
+			<li Name="Hoàng Kim Hà Nhân Sao Phạn" Desc="" />
+			<li Name="Hà Giáo Hoàng" Desc="" />
+		</Shrimp5>
+		<Shrimp6>
+			<li Name="Hoàng Kim Hà Nhân Sao Phạn" Desc="" />
+			<li Name="Hà Giáo Hoàng" Desc="" />
+		</Shrimp6>
+		<Shrimp7>
+			<li Name="Hoàng Kim Hà Nhân Sao Phạn" Desc="" />
+			<li Name="Hà Giáo Hoàng" Desc="" />
+		</Shrimp7>
+		<Shrimp8>
+			<li Name="Hoàng Kim Hà Nhân Sao Phạn" Desc="" />
+			<li Name="Hà Giáo Hoàng" Desc="" />
+		</Shrimp8>
+		<Shrimp9>
+			<li Name="Hoàng Kim Hà Nhân Sao Phạn" Desc="" />
+			<li Name="Hà Giáo Hoàng" Desc="" />
+		</Shrimp9>
+		<Shrimp10>
+			<li Name="Hoàng Kim Hà Nhân Sao Phạn" Desc="" />
+			<li Name="Hà Giáo Hoàng" Desc="" />
+		</Shrimp10>
+		<Shrimp11>
+			<li Name="Hoàng Kim Hà Nhân Sao Phạn" Desc="" />
+			<li Name="Hà Giáo Hoàng" Desc="" />
+		</Shrimp11>
+		<Shrimp12>
+			<li Name="Hoàng Kim Hà Nhân Sao Phạn" Desc="" />
+			<li Name="Hà Giáo Hoàng" Desc="" />
+		</Shrimp12>
+	</SpecialItem>
+	<SpecialItem Name="Item_DelicacyFood">
+		<Item_BambooShoot>
+			<li Name="Mai Nhục Xuân Duẩn" Desc="Đặt thịt ba chỉ và măng tươi vào nồi, thêm rượu nấu và hầm. Khi mở nắp, hương thơm ngào ngạt, khiến người ta thèm thuồng." />
+			<li Name="Ngọc Bản Hoành Chi" Desc="Sử dụng măng tươi mùa xuân, cắt thành miếng nhỏ sau đó tạo hình bằng dao, bày thành hình cây ngọc, màu sắc và hương vị đều tuyệt vời." />
+		</Item_BambooShoot>
+
+		<Fish_StoneCrab>
+			<li Name="Long Bào Thang Bao" Desc="Trộn đều lòng đỏ cua tươi với thịt, sau đó bọc bằng lớp bột mỏng làm thành hình bánh bao nhỏ, hấp chín, toàn bộ bánh bao đều được lấp đầy bằng dầu cua vàng, có tin đồn rằng hoàng đế ngay cả khi không mặc long bào cũng phải hút một miếng." />
+			<li Name="Hoàng Tửu Chưng Giải" Desc="Sử dụng rượu vàng hảo hạng để hấp cua vào cuối mùa thu, rượu vàng có thể xua tan cái lạnh trong thịt cua, bổ sung khí dương. Vị ngọt tươi ngon của thịt cua hòa quyện hoàn hảo với vị ngọt của rượu vàng, là sự kết hợp tuyệt vời." />
+		</Fish_StoneCrab>
+		<Fish_ChillyCrab>
+			<li Name="Long Bào Thang Bao" Desc="Trộn đều lòng đỏ cua tươi với thịt, sau đó bọc bằng lớp bột mỏng làm thành hình bánh bao nhỏ, hấp chín, toàn bộ bánh bao đều được lấp đầy bằng dầu cua vàng, có tin đồn rằng hoàng đế ngay cả khi không mặc long bào cũng phải hút một miếng." />
+			<li Name="Hoàng Tửu Chưng Giải" Desc="Sử dụng rượu vàng hảo hạng để hấp cua vào cuối mùa thu, rượu vàng có thể xua tan cái lạnh trong thịt cua, bổ sung khí dương. Vị ngọt tươi ngon của thịt cua hòa quyện hoàn hảo với vị ngọt của rượu vàng, là sự kết hợp tuyệt vời." />
+		</Fish_ChillyCrab>
+		<Fish_JadeCrab>
+			<li Name="Long Bào Thang Bao" Desc="Trộn đều lòng đỏ cua tươi với thịt, sau đó bọc bằng lớp bột mỏng làm thành hình bánh bao nhỏ, hấp chín, toàn bộ bánh bao đều được lấp đầy bằng dầu cua vàng, có tin đồn rằng hoàng đế ngay cả khi không mặc long bào cũng phải hút một miếng." />
+			<li Name="Hoàng Tửu Chưng Giải" Desc="Sử dụng rượu vàng hảo hạng để hấp cua vào cuối mùa thu, rượu vàng có thể xua tan cái lạnh trong thịt cua, bổ sung khí dương. Vị ngọt tươi ngon của thịt cua hòa quyện hoàn hảo với vị ngọt của rượu vàng, là sự kết hợp tuyệt vời." />
+		</Fish_JadeCrab>
+		<Fish_FireCrab>
+			<li Name="Long Bào Thang Bao" Desc="Trộn đều lòng đỏ cua tươi với thịt, sau đó bọc bằng lớp bột mỏng làm thành hình bánh bao nhỏ, hấp chín, toàn bộ bánh bao đều được lấp đầy bằng dầu cua vàng, có tin đồn rằng hoàng đế ngay cả khi không mặc long bào cũng phải hút một miếng." />
+			<li Name="Hoàng Tửu Chưng Giải" Desc="Sử dụng rượu vàng hảo hạng để hấp cua vào cuối mùa thu, rượu vàng có thể xua tan cái lạnh trong thịt cua, bổ sung khí dương. Vị ngọt tươi ngon của thịt cua hòa quyện hoàn hảo với vị ngọt của rượu vàng, là sự kết hợp tuyệt vời." />
+		</Fish_FireCrab>
+
+		<Fish_r2>
+			<li Name="Hưởng Du Trường Ngư Ti" Desc="Cắt thịt lươn tươi thành sợi mỏng, xào với gia vị, yêu cầu độ chính xác và tốc độ cao trong việc sử dụng dao." />
+			<li Name="Dương Thông Trường Ngư Bối" Desc="Nấu chín thịt lươn tươi, xào với hành tây để loại bỏ mùi tanh, thực sự là món ăn bổ dưỡng và ngon miệng." />
+		</Fish_r2>
+		<Fish_r3>
+			<li Name="Hưởng Du Trường Ngư Ti" Desc="Cắt thịt lươn tươi thành sợi mỏng, xào với gia vị, yêu cầu độ chính xác và tốc độ cao trong việc sử dụng dao." />
+			<li Name="Dương Thông Trường Ngư Bối" Desc="Nấu chín thịt lươn tươi, xào với hành tây để loại bỏ mùi tanh, thực sự là món ăn bổ dưỡng và ngon miệng." />
+		</Fish_r3>
+		<Fish_r4>
+			<li Name="Hưởng Du Trường Ngư Ti" Desc="Cắt thịt lươn tươi thành sợi mỏng, xào với gia vị, yêu cầu độ chính xác và tốc độ cao trong việc sử dụng dao." />
+			<li Name="Dương Thông Trường Ngư Bối" Desc="Nấu chín thịt lươn tươi, xào với hành tây để loại bỏ mùi tanh, thực sự là món ăn bổ dưỡng và ngon miệng." />
+		</Fish_r4>
+		<Fish_r5>
+			<li Name="Hưởng Du Trường Ngư Ti" Desc="Cắt thịt lươn tươi thành sợi mỏng, xào với gia vị, yêu cầu độ chính xác và tốc độ cao trong việc sử dụng dao." />
+			<li Name="Dương Thông Trường Ngư Bối" Desc="Nấu chín thịt lươn tươi, xào với hành tây để loại bỏ mùi tanh, thực sự là món ăn bổ dưỡng và ngon miệng." />
+		</Fish_r5>
+		<Fish_r6>
+			<li Name="Hưởng Du Trường Ngư Ti" Desc="Cắt thịt lươn tươi thành sợi mỏng, xào với gia vị, yêu cầu độ chính xác và tốc độ cao trong việc sử dụng dao." />
+			<li Name="Dương Thông Trường Ngư Bối" Desc="Nấu chín thịt lươn tươi, xào với hành tây để loại bỏ mùi tanh, thực sự là món ăn bổ dưỡng và ngon miệng." />
+		</Fish_r6>
+		<Fish_r7>
+			<li Name="Hưởng Du Trường Ngư Ti" Desc="Cắt thịt lươn tươi thành sợi mỏng, xào với gia vị, yêu cầu độ chính xác và tốc độ cao trong việc sử dụng dao." />
+			<li Name="Dương Thông Trường Ngư Bối" Desc="Nấu chín thịt lươn tươi, xào với hành tây để loại bỏ mùi tanh, thực sự là món ăn bổ dưỡng và ngon miệng." />
+		</Fish_r7>
+		<Fish_r8>
+			<li Name="Hưởng Du Trường Ngư Ti" Desc="Cắt thịt lươn tươi thành sợi mỏng, xào với gia vị, yêu cầu độ chính xác và tốc độ cao trong việc sử dụng dao." />
+			<li Name="Dương Thông Trường Ngư Bối" Desc="Nấu chín thịt lươn tươi, xào với hành tây để loại bỏ mùi tanh, thực sự là món ăn bổ dưỡng và ngon miệng." />
+		</Fish_r8>
+		<Fish_r9>
+			<li Name="Hưởng Du Trường Ngư Ti" Desc="Cắt thịt lươn tươi thành sợi mỏng, xào với gia vị, yêu cầu độ chính xác và tốc độ cao trong việc sử dụng dao." />
+			<li Name="Dương Thông Trường Ngư Bối" Desc="Nấu chín thịt lươn tươi, xào với hành tây để loại bỏ mùi tanh, thực sự là món ăn bổ dưỡng và ngon miệng." />
+		</Fish_r9>
+		<Fish_r10>
+			<li Name="Hưởng Du Trường Ngư Ti" Desc="Cắt thịt lươn tươi thành sợi mỏng, xào với gia vị, yêu cầu độ chính xác và tốc độ cao trong việc sử dụng dao." />
+			<li Name="Dương Thông Trường Ngư Bối" Desc="Nấu chín thịt lươn tươi, xào với hành tây để loại bỏ mùi tanh, thực sự là món ăn bổ dưỡng và ngon miệng." />
+		</Fish_r10>
+		<Fish_r11>
+			<li Name="Hưởng Du Trường Ngư Ti" Desc="Cắt thịt lươn tươi thành sợi mỏng, xào với gia vị, yêu cầu độ chính xác và tốc độ cao trong việc sử dụng dao." />
+			<li Name="Dương Thông Trường Ngư Bối" Desc="Nấu chín thịt lươn tươi, xào với hành tây để loại bỏ mùi tanh, thực sự là món ăn bổ dưỡng và ngon miệng." />
+		</Fish_r11>
+		<Fish_r12>
+			<li Name="Hưởng Du Trường Ngư Ti" Desc="Cắt thịt lươn tươi thành sợi mỏng, xào với gia vị, yêu cầu độ chính xác và tốc độ cao trong việc sử dụng dao." />
+			<li Name="Dương Thông Trường Ngư Bối" Desc="Nấu chín thịt lươn tươi, xào với hành tây để loại bỏ mùi tanh, thực sự là món ăn bổ dưỡng và ngon miệng." />
+		</Fish_r12>
+		<Fish_r13>
+			<li Name="Hưởng Du Trường Ngư Ti" Desc="Cắt thịt lươn tươi thành sợi mỏng, xào với gia vị, yêu cầu độ chính xác và tốc độ cao trong việc sử dụng dao." />
+			<li Name="Dương Thông Trường Ngư Bối" Desc="Nấu chín thịt lươn tươi, xào với hành tây để loại bỏ mùi tanh, thực sự là món ăn bổ dưỡng và ngon miệng." />
+		</Fish_r13>
+
+		<Fish_BaiHuang>	
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_BaiHuang>
+		<Fish_Black>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_Black>
+		<Fish_BlueFish>	
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_BlueFish>
+		<Fish_FenLi>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_FenLi>
+		<Fish_HongGui>	
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_HongGui>
+		<Fish_HongHuang>	
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_HongHuang>
+		<Fish_Huang>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_Huang>
+		<Fish_Ji>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_Ji>
+		<Fish_QingHei>	
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_QingHei>
+		<Fish_RedFish>	
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_RedFish>
+		<Fish_s1>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_s1>
+		<Fish_s10>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_s10>
+		<Fish_s11>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_s11>
+		<Fish_s12>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_s12>
+		<Fish_s2>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_s2>
+		<Fish_s3>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_s3>
+		<Fish_s4>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_s4>
+		<Fish_s5>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_s5>
+		<Fish_s6>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_s6>
+		<Fish_s7>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_s7>
+		<Fish_s8>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_s8>
+		<Fish_s9>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_s9>
+		<Fish_t1>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_t1>
+		<Fish_t10>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_t10>
+		<Fish_t11>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_t11>
+		<Fish_t12>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_t12>
+		<Fish_t2>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_t2>
+		<Fish_t3>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_t3>
+		<Fish_t4>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_t4>
+		<Fish_t5>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_t5>
+		<Fish_t6>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_t6>
+		<Fish_t7>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_t7>
+		<Fish_t8>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_t8>
+		<Fish_t9>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_t9>
+		<Fish_XieLi>		
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_XieLi>
+
+		<Shrimp1>
+			<li Name="Túy Hà" Desc="Ngâm tôm trong rượu mạnh, mềm mại và ngọt ngào." />
+			<li Name="Phượng Vĩ Hà" Desc="Bọc đuôi tôm bằng bột mì, chiên cho đến khi bên ngoài giòn rụm, bên trong mềm mại." />
+		</Shrimp1>
+		<Shrimp2>
+			<li Name="Túy Hà" Desc="Ngâm tôm trong rượu mạnh, mềm mại và ngọt ngào." />
+			<li Name="Phượng Vĩ Hà" Desc="Bọc đuôi tôm bằng bột mì, chiên cho đến khi bên ngoài giòn rụm, bên trong mềm mại." />
+		</Shrimp2>
+		<Shrimp3>
+			<li Name="Túy Hà" Desc="Ngâm tôm trong rượu mạnh, mềm mại và ngọt ngào." />
+			<li Name="Phượng Vĩ Hà" Desc="Bọc đuôi tôm bằng bột mì, chiên cho đến khi bên ngoài giòn rụm, bên trong mềm mại." />
+		</Shrimp3>
+		<Shrimp4>
+			<li Name="Túy Hà" Desc="Ngâm tôm trong rượu mạnh, mềm mại và ngọt ngào." />
+			<li Name="Phượng Vĩ Hà" Desc="Bọc đuôi tôm bằng bột mì, chiên cho đến khi bên ngoài giòn rụm, bên trong mềm mại." />
+		</Shrimp4>
+		<Shrimp5>
+			<li Name="Túy Hà" Desc="Ngâm tôm trong rượu mạnh, mềm mại và ngọt ngào." />
+			<li Name="Phượng Vĩ Hà" Desc="Bọc đuôi tôm bằng bột mì, chiên cho đến khi bên ngoài giòn rụm, bên trong mềm mại." />
+		</Shrimp5>
+		<Shrimp6>
+			<li Name="Túy Hà" Desc="Ngâm tôm trong rượu mạnh, mềm mại và ngọt ngào." />
+			<li Name="Phượng Vĩ Hà" Desc="Bọc đuôi tôm bằng bột mì, chiên cho đến khi bên ngoài giòn rụm, bên trong mềm mại." />
+		</Shrimp6>
+		<Shrimp7>
+			<li Name="Túy Hà" Desc="Ngâm tôm trong rượu mạnh, mềm mại và ngọt ngào." />
+			<li Name="Phượng Vĩ Hà" Desc="Bọc đuôi tôm bằng bột mì, chiên cho đến khi bên ngoài giòn rụm, bên trong mềm mại." />
+		</Shrimp7>
+		<Shrimp8>
+			<li Name="Túy Hà" Desc="Ngâm tôm trong rượu mạnh, mềm mại và ngọt ngào." />
+			<li Name="Phượng Vĩ Hà" Desc="Bọc đuôi tôm bằng bột mì, chiên cho đến khi bên ngoài giòn rụm, bên trong mềm mại." />
+		</Shrimp8>
+		<Shrimp9>
+			<li Name="Túy Hà" Desc="Ngâm tôm trong rượu mạnh, mềm mại và ngọt ngào." />
+			<li Name="Phượng Vĩ Hà" Desc="Bọc đuôi tôm bằng bột mì, chiên cho đến khi bên ngoài giòn rụm, bên trong mềm mại." />
+		</Shrimp9>
+		<Shrimp10>
+			<li Name="Túy Hà" Desc="Ngâm tôm trong rượu mạnh, mềm mại và ngọt ngào." />
+			<li Name="Phượng Vĩ Hà" Desc="Bọc đuôi tôm bằng bột mì, chiên cho đến khi bên ngoài giòn rụm, bên trong mềm mại." />
+		</Shrimp10>
+		<Shrimp11>
+			<li Name="Túy Hà" Desc="Ngâm tôm trong rượu mạnh, mềm mại và ngọt ngào." />
+			<li Name="Phượng Vĩ Hà" Desc="Bọc đuôi tôm bằng bột mì, chiên cho đến khi bên ngoài giòn rụm, bên trong mềm mại." />
+		</Shrimp11>
+		<Shrimp12>
+			<li Name="Túy Hà" Desc="Ngâm tôm trong rượu mạnh, mềm mại và ngọt ngào." />
+			<li Name="Phượng Vĩ Hà" Desc="Bọc đuôi tôm bằng bột mì, chiên cho đến khi bên ngoài giòn rụm, bên trong mềm mại." />
+		</Shrimp12>
+	</SpecialItem>
+</List>
+</SpecialNames>
+

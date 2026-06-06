@@ -1,0 +1,21 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Rpg_Tower_0_Talk1">
+			<Nodes.0.Text>Lối vào.</Nodes.0.Text>
+			<Nodes.1.Text>Vậy, khách quý từ xa đến, xin hỏi có việc gì?</Nodes.1.Text>
+			<Nodes.2.Text>Vô Hà Hữu Chi Hương? Đây là nơi nào?</Nodes.2.Text>
+			<Nodes.3.Text>Ta có thể làm gì ở đây?</Nodes.3.Text>
+			<Nodes.4.Text>Ta muốn xuống dưới xem thử!</Nodes.4.Text>
+			<Nodes.5.Text>Tạm biệt.</Nodes.5.Text>
+			<Nodes.6.Text>À... nơi này chẳng qua là chỗ tích tụ của những mảnh vụn... Nói sao nhỉ. Những điều đã qua, những thứ cố chấp không thể bị thời gian tiêu hóa, không cam lòng tan biến mà tụ lại nơi đây, nói vậy ngươi có hiểu không?</Nodes.6.Text>
+			<Nodes.7.Text>Hử? Đã bao lâu rồi? Vô Hà Hữu Chi Hương lại có người ngoài đến... Thật là hiếm thấy.</Nodes.7.Text>
+			<Nodes.8.Text>Làm gì? Nếu là ngươi, ta sẽ không làm gì cả, nghỉ ngơi một chút ở đây. Nhưng nếu ngươi thật sự chán, cũng có thể xuống dưới xem thử. Nhưng ta nhắc ngươi, việc này không có lợi ích gì, vì đó chỉ là những mảnh vụn chưa bị tiêu hóa mà thôi...</Nodes.8.Text>
+			<Nodes.9.Text>Được rồi được rồi, ta biết mà. Nhưng phải cẩn thận đấy, những mảnh vụn đó không giống ta yêu chuộng hòa bình...</Nodes.9.Text>
+			<Nodes.10.Text>Hử? Muốn đi rồi à? Khi nào rảnh thì đến ngồi chơi, thật sự đã lâu lắm rồi ta không gặp người sống.</Nodes.10.Text>
+			<Nodes.12.Text>Có thể nói cho ta biết độ sâu mà ta đang ở không?</Nodes.12.Text>
+			<Nodes.13.Text>Hử, độ sâu mà ngươi đang ở? Để ta xem...
+Độ sâu hiện tại: [LUA=WorldLua:GetWorldFlag(5000)] </Nodes.13.Text>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,5 @@
+Thông Dụng,Thải Vân,Hàng Long,Hoàn Không,Huyễn Không,Hợp Thiên,Thiên Tâm,Tử Vân,Ngũ Vân,Tử Hà,Tử Vi,Thiên Phủ,Thất Sát,Lạc Anh,Lạc Ảnh,Thiên Thiền,Thiên Xu,Thiên Tuyền,Thiên Cơ,Thiên Quyền,Ngọc Hành,Khai Dương,Dao Quang,Thiên Huyền,Vô Thượng,Vô Cực,Vạn Tượng,Phi Tinh,Vạn Thế,Tinh Túc,Lưu Tinh,Thương Khung,Liên Hoa,Vân Lãng,Đại Nhật,Tam Thanh,Trùng Hư,Thiên Cương,Bạch Hồng,Tiên Thiên,Phi Vũ,Thiên Địa,Càn Khôn,Cửu Cung,Tam Tài,Tứ Tượng,Ngũ Hành,Lục Hợp,Thất Tinh,Bát Cực,Thái Cực,Vô Cực,,,,,,,,,,,,,,,,,,,,,,,
+Thiện,Thần,Thánh,Huyền Quang,Lưu Quang,Thiên Quang,Cực Quang,Nghê Quang,Trảm Ma,Đồ Ma,Luyện Ma,Khu Tà,Tịch Tà,Đãng Ma,Tí Thế,Thiên Tâm,Vấn Tâm,Luyện Tâm,Địch Tâm,Ngũ Sắc,Đạo Đức
+Ác,Ma,Yêu,Quỷ,Hồn,Lục Huyết,Ẩm Huyết,Xích Huyết,Linh Huyết,Luyện Hồn,Dẫn Hồn,Vạn Hồn,Thiên Hồn,Âm Hồn,Sí Hồn,Trảm Phách,Thất Phách,Ác Phách,Vạn Cốt,Bạch Cốt,Linh Cốt,Dị Cốt,Ma Cốt,Ma Cốt,Trảm Tiên,Đồ Thần,Tru Thần
+
+

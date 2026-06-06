@@ -1,0 +1,148 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FacialScar">
+			<DisplayName>Sẹo trên mặt</DisplayName>
+			<Desc>Một vết sẹo dữ tợn hằn trên khuôn mặt.</Desc>
+		</Text>
+		<Text Name="UglyFace1">
+			<DisplayName>Diện mạo xấu xí</DisplayName>
+			<Desc>Người này trông rất xấu xí, khiến người khác chán ghét.</Desc>
+		</Text>
+		<Text Name="UglyFace2">
+			<DisplayName>Xấu xí đến cực điểm</DisplayName>
+			<Desc>Người này trông không giống con người, khiến người khác sợ hãi.</Desc>
+		</Text>
+		<Text Name="BeautifulFace1">
+			<DisplayName>Dung mạo tuấn mỹ</DisplayName>
+			<Desc>Khuôn mặt của người này vô cùng tuấn tú.</Desc>
+		</Text>
+		<Text Name="BeautifulFace2">
+			<DisplayName>Vẻ đẹp kinh diễm</DisplayName>
+			<Desc>Khuôn mặt của người này vô cùng tuấn tú.</Desc>
+		</Text>
+		<Text Name="OldViscusInjury">
+			<DisplayName>Nội tạng tổn thương cũ</DisplayName>
+			<Desc>Nội tạng của người này từng bị thương nặng, mãi không thể hồi phục.</Desc>
+		</Text>
+		<Text Name="CrippleLeft">
+			<DisplayName>Chân trái khập khiễng</DisplayName>
+			<Desc>Chân trái của người này bị bệnh mãn tính nên không linh hoạt.</Desc>
+		</Text>
+		<Text Name="CrippleRight">
+			<DisplayName>Chân phải khập khiễng</DisplayName>
+			<Desc>Chân phải của người này bị bệnh mãn tính nên không linh hoạt.</Desc>
+		</Text>
+		<Text Name="BanLeftTibia">
+			<DisplayName>Cụt chân trái</DisplayName>
+			<Desc>Chân phải của người này đã bị cụt.</Desc>
+		</Text>
+		<Text Name="BanRightTibia">
+			<DisplayName>Cụt chân phải</DisplayName>
+			<Desc>Chân phải của người này đã bị cụt.</Desc>
+		</Text>
+		<Text Name="BanLeftScapula">
+			<DisplayName>Cụt tay trái</DisplayName>
+			<Desc>Tay trái của người này bị cụt đến tận vai.</Desc>
+		</Text>
+		<Text Name="BanRightScapula">
+			<DisplayName>Cụt tay phải</DisplayName>
+			<Desc>Tay phải của người này bị cụt đến tận vai.</Desc>
+		</Text>
+		<Text Name="Deaf">
+			<DisplayName>Điếc tai</DisplayName>
+			<Desc>Người này bị khiếm thính bẩm sinh.</Desc>
+		</Text>
+		<Text Name="BanLeftEye">
+			<DisplayName>Mù mắt trái</DisplayName>
+			<Desc>Mắt trái đã bị mù.</Desc>
+		</Text>
+		<Text Name="BanRightEye">
+			<DisplayName>Mù mắt phải</DisplayName>
+			<Desc>Mắt phải đã bị mù.</Desc>
+		</Text>
+		<Text Name="BanLeftEar">
+			<DisplayName>Điếc tai trái</DisplayName>
+			<Desc>Tai trái đã bị điếc.</Desc>
+		</Text>
+		<Text Name="BanRightEar">
+			<DisplayName>Điếc tai phải</DisplayName>
+			<Desc>Tai phải đã bị điếc.</Desc>
+		</Text>
+		<Text Name="MeridianIncomplete">
+			<DisplayName>Kinh Mạch Khiếm Khuyết</DisplayName>
+			<Desc>Người này sinh ra đã có kinh mạch bị khiếm khuyết.</Desc>
+		</Text>
+		<Text Name="HealthOverdraft1">
+			<DisplayName>Thể Lực Suy Kiệt</DisplayName>
+			<Desc>Người này đã tiêu hao thể lực quá mức, tuổi thọ ngắn hơn người bình thường.</Desc>
+		</Text>
+		<Text Name="HealthOverdraft2">
+			<DisplayName>Cơ Thể Suy Nhược</DisplayName>
+			<Desc>Người này tiêu hao thể lực nghiêm trọng, tuổi thọ ngắn hơn người bình thường rất nhiều.</Desc>
+		</Text>
+		<Text Name="HealthMaintain1">
+			<DisplayName>Bảo Dưỡng Tốt</DisplayName>
+			<Desc>Người này rất biết cách bảo dưỡng, tuổi thọ dài hơn người bình thường.</Desc>
+		</Text>
+		<Text Name="HealthMaintain2">
+			<DisplayName>Sống Trong Nhung Lụa</DisplayName>
+			<Desc>Người này rất biết cách bảo dưỡng, tuổi thọ dài hơn người bình thường rất nhiều.</Desc>
+		</Text>
+		<Text Name="ColdPatience">
+			<DisplayName>Chịu Lạnh Tốt</DisplayName>
+			<Desc>Người này sống lâu năm ở vùng lạnh, rất thích nghi với cái lạnh.</Desc>
+		</Text>
+		<Text Name="HotPatience">
+			<DisplayName>Chịu Nóng Tốt</DisplayName>
+			<Desc>Người này sống lâu năm ở vùng nóng, rất thích nghi với cái nóng.</Desc>
+		</Text>
+		<Text Name="DarkPatience">
+			<DisplayName>Thích Bóng Tối</DisplayName>
+			<Desc>Người này thích những nơi tối tăm.</Desc>
+		</Text>
+		<Text Name="HighMan">
+			<DisplayName>Cao Lớn</DisplayName>
+			<Desc>Người này có vóc dáng cao lớn hơn người bình thường rất nhiều, thân hình mạnh mẽ khiến họ quen giải quyết vấn đề bằng bạo lực.</Desc>
+		</Text>
+		<Text Name="LowMan">
+			<DisplayName>Lùn Nhỏ</DisplayName>
+			<Desc>Người này có vóc dáng lùn nhỏ, giống như một đứa trẻ, sự yếu ớt của cơ thể khiến họ quen suy nghĩ và quan sát để giải quyết vấn đề.</Desc>
+		</Text>
+		<Text Name="NoHair">
+			<DisplayName>Đầu Trọc</DisplayName>
+			<Desc>Người này không có tóc.</Desc>
+		</Text>
+		<Text Name="LeftHanded">
+			<DisplayName>Thuận Tay Trái</DisplayName>
+			<Desc>Người này quen sử dụng tay trái.</Desc>
+		</Text>
+		<Text Name="Mute">
+			<DisplayName>Câm</DisplayName>
+			<Desc>Người này không thể giao tiếp với người khác.</Desc>
+		</Text>
+		<Text Name="BanRightMiddleFinger">
+			<DisplayName>Mất Ngón Tay</DisplayName>
+		</Text>
+		<Text Name="RunFast">
+			<DisplayName>Bước Đi Nhanh Nhẹn</DisplayName>
+			<Desc>Người này chân tay linh hoạt, bước đi nhanh nhẹn.</Desc>
+		</Text>
+		<Text Name="Indigestion">
+			<DisplayName>Tiêu Hóa Kém</DisplayName>
+			<Desc>Người này có hệ tiêu hóa không tốt, hấp thụ thức ăn kém.</Desc>
+		</Text>
+		<Text Name="IronStomach">
+			<DisplayName>Dạ Dày Sắt</DisplayName>
+			<Desc>Người này có thể chất bẩm sinh đặc biệt, hấp thụ thức ăn rất tốt.</Desc>
+		</Text>
+		<Text Name="GoodEyesight">
+			<DisplayName>Thị Lực Tốt</DisplayName>
+			<Desc>Người này có đôi mắt rất tốt, có thể nhìn rất xa.</Desc>
+		</Text>
+		<Text Name="ShallowSleep">
+			<DisplayName>Ngủ Không Sâu</DisplayName>
+			<Desc>Người này không ngủ ngon giấc.</Desc>
+		</Text>
+	</List>
+</Texts>
+

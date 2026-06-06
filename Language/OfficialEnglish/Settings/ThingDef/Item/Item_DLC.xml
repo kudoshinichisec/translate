@@ -1,0 +1,29 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_BambooShoot" sParam="Item">
+			<ThingName>Trúc Duẩn</ThingName>
+			<Desc>Một số Trúc Duẩn, là rễ của cây tre, có thể dùng để chế biến món ăn, giòn và ngon miệng.</Desc>
+			<Item.FabaoSuffix>Dây, Tơ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Bamboo" sParam="Item">
+			<ThingName>Cây tre</ThingName>
+			<Desc>Một bó tre, có thể dùng để làm cần câu và một số công trình xây dựng. Chỉ có yêu thú mới có thể ăn được.</Desc>
+			<Item.FabaoSuffix>Tre</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_FishStick" sParam="Item">
+			<ThingName>Cần câu</ThingName>
+			<Desc>Một chiếc cần câu. Cá hiếm dễ bị thu hút bởi cần câu cấp cao. Một số loại cá chỉ bị thu hút bởi cần câu ngũ hành đặc biệt và chỉ xuất hiện vào mùa và thời gian nhất định.</Desc>
+			<Item.FabaoSuffix>Tre, Tơ, Dây</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_PandaJade" sParam="Item">
+			<ThingName>Ngọc bội Thiên Mặc</ThingName>
+			<Desc>Ngọc bội tìm thấy từ Đại Trúc Lâm, dường như là một món trong bộ vật phẩm.</Desc>
+			<StoryBnts.0.Name>Xem xét</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Xem Ngọc Bội Thiên Mặc.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_HorseFromJY_Panda" sParam="Item">
+			<ThingName>Linh Khế: Mặc</ThingName>
+		</Text>
+	</List>
+</Texts>
+

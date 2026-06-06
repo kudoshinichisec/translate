@@ -1,0 +1,19 @@
+Tag	TargetType	Q	MA	SA	FA	fParam	sParam	BanNpc
+类型标签	0是目标不论仙凡1是目标为凡人2是目标为仙人3是目标为仙人且我比其境界高4是目标为仙人且我比其境界低4是目标为仙人且我与其境界一样	问题	无成功失败/中性回答	成功回答	失败回答	数值参数(SECRET为事件ID)	文本参数	
+Chat_Place_WuDang_JinDing	0	Ở đây có loài cá nào đặc biệt không?	Người ta nói rằng trong đám mây gần đây có một loại cua, chúng chỉ xuất hiện vào mùa hè.					Npc_WuDang_1
+Chat_Place_WuDang_NanYanGong	0	Ở đây có loài cá nào đặc biệt không?	Người ta nói rằng trong đám mây gần đây có một loại cua, chúng chỉ xuất hiện vào mùa hè.					Npc_WuDang_1
+Chat_Place_WuDang_ZiXiaoGong	0	Ở đây có loài cá nào đặc biệt không?	Người ta nói rằng trong đám mây gần đây có một loại cua, chúng chỉ xuất hiện vào mùa hè.					Npc_WuDang_1
+Chat_Place_WuDang_Taizipo	0	Ở đây có loài cá nào đặc biệt không?	Người ta nói rằng trong đám mây gần đây có một loại cua, chúng chỉ xuất hiện vào mùa hè.					Npc_WuDang_1
+Chat_Place_WuDang_JinDing	0	Ở đây có loài cá nào đặc biệt không?	Người ta nói rằng trong đám mây gần đây có một loại cua, chúng chỉ ăn các vật phẩm thuộc kim loại.					Npc_WuDang_1
+Chat_Place_WuDang_NanYanGong	0	Ở đây có loài cá nào đặc biệt không?	Người ta nói rằng trong đám mây gần đây có một loại cua, chúng chỉ ăn các vật phẩm thuộc kim loại.					Npc_WuDang_1
+Chat_Place_WuDang_ZiXiaoGong	0	Ở đây có loài cá nào đặc biệt không?	Người ta nói rằng trong đám mây gần đây có một loại cua, chúng chỉ ăn các vật phẩm thuộc kim loại.					Npc_WuDang_1
+Chat_Place_WuDang_Taizipo	0	Ở đây có loài cá nào đặc biệt không?	Người ta nói rằng trong đám mây gần đây có một loại cua, chúng chỉ ăn các vật phẩm thuộc kim loại.					Npc_WuDang_1
+Chat_Place_WuDang_JinDing	0	Ở đây có loài cá nào đặc biệt không?	Hãy chú ý nhìn vào đám mây gần đây, có một loại cá đen đang bơi, nhưng ban ngày thì không nhìn thấy.					Npc_WuDang_1
+Chat_Place_WuDang_NanYanGong	0	Ở đây có loài cá nào đặc biệt không?	Hãy chú ý nhìn vào đám mây gần đây, có một loại cá đen đang bơi, nhưng ban ngày thì không nhìn thấy.					Npc_WuDang_1
+Chat_Place_WuDang_ZiXiaoGong	0	Ở đây có loài cá nào đặc biệt không?	Hãy chú ý nhìn vào đám mây gần đây, có một loại cá đen đang bơi, nhưng ban ngày thì không nhìn thấy.					Npc_WuDang_1
+Chat_Place_WuDang_Taizipo	0	Ở đây có loài cá nào đặc biệt không?	Hãy chú ý nhìn vào đám mây gần đây, có một loại cá đen đang bơi, nhưng ban ngày thì không nhìn thấy.					Npc_WuDang_1
+Chat_Npc_Npc_WuDang_1	0	Đạo hữu……	Đạo hữu này, ngươi và ta có duyên đấy! Chúng ta nên kết bạn, kết nghĩa kim lan, mời làm đồng đạo…					
+Chat_Npc_Npc_WuDang_1	0	Đạo hữu dạo này thế nào?	Quạc quạc, Võ Đang vô địch vịt!					
+Chat_Npc_Npc_WuDang_1	0	Đạo hữu sáng tạo thế giới thế nào rồi?	Ừ, tạo thế giới vốn không dễ dàng, vẫn còn thiếu chút thời gian, bạn đạo đừng vội.					
+
+

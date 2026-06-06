@@ -1,0 +1,163 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Sys_Lost">
+			<DisplayName>Mô-đun bị mất</DisplayName>
+		</Text>
+		<Text Name="zhuxianzhen">
+			<DisplayName>Trận pháp Tru Tiên</DisplayName>
+			<Description>Trận sát đầu tiên từ khi Vũ Trụ Khai Tịch, trận đồ triển khai hóa thành bốn cổng cờ, trên mỗi cổng treo một thanh kiếm, bao quanh trung tâm. Dưới sự thúc đẩy của nguyên linh, bốn kiếm cùng lúc rung động, trận trung kiếm khí tung hoành, ngay cả vạn kiếp chân tiên cũng khó tồn tại.</Description>
+			<NodeName.0>Tru Tiên Trận Đồ</NodeName.0>
+			<NodeName.1>Tru Tiên Kiếm</NodeName.1>
+			<NodeName.2>Lục Tiên Kiếm</NodeName.2>
+			<NodeName.3>Hãm Tiên Kiếm</NodeName.3>
+			<NodeName.4>Tuyệt Tiên Kiếm</NodeName.4>
+			<SuitEffect.0.Description>Khả năng điều khiển tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Độ ổn định</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Khả năng điều khiển tăng thêm</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Kỹ năng mới: Tru Tiên</SuitEffect.3.Description>
+		</Text>
+		<Text Name="qixingzhen">
+			<DisplayName>Bắc Đẩu Chân Võ Sát Ma Đại Trận</DisplayName>
+			<Description>Truyền thuyết rằng đây là tiên trận truyền từ Chân Võ Đãng Ma Đại Đế của Cửu Trùng Thiên Tiên Cảnh, trận này có thể dẫn lực lượng của Thất Tinh Tinh Tú ngưng tụ Bắc Đẩu Phá Vọng Thần Quang, sát ma diệt yêu, vạn tà tránh xa.</Description>
+			<NodeName.0>Thiên Quyền Kiếm</NodeName.0>
+			<NodeName.1>Thiên Xu Kiếm</NodeName.1>
+			<NodeName.2>Thiên Xuyên Kiếm</NodeName.2>
+			<NodeName.3>Thiên Cơ Kiếm</NodeName.3>
+			<NodeName.4>Ngọc Hành Kiếm</NodeName.4>
+			<NodeName.5>Khai Dương Kiếm</NodeName.5>
+			<NodeName.6>Dao Quang Kiếm</NodeName.6>
+			<SuitEffect.0.Description>Khả năng thuật pháp tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Độ ổn định tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Khả năng vận hành tăng thêm</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Khả năng thuật pháp tăng thêm</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Kỹ năng mới: Bắc Đẩu Phá Vọng</SuitEffect.4.Description>
+		</Text>
+		<Text Name="wufangbumiezhen">
+			<DisplayName>Thiên Địa Ngũ Phương Bất Diệt Trận</DisplayName>
+			<Description>Đại trận được bố trí dựa trên năm cờ sinh ra từ khai thiên lập địa, phía bắc là Chân Võ Tạc Điêu, phía nam là Ly Địa Diễm Quang, chính giữa là Mậu Kỷ Hạnh Hoàng, phía tây là Tố Sắc Vân Giới, phía đông là Thanh Liên Bảo Sắc. Ngũ hành hội tụ có thể bố trí Thiên Địa Ngũ Phương Bất Diệt Giới, vạn pháp tránh xa, không gì có thể xâm nhập.</Description>
+			<NodeName.0>Thiên Địa Ngũ Phương Bất Diệt Trận Đồ</NodeName.0>
+			<NodeName.1>Tố Sắc Vân Giới Kỳ</NodeName.1>
+			<NodeName.2>Thanh Liên Bảo Sắc Kỳ</NodeName.2>
+			<NodeName.3>Tiềm Mặc Minh Tức</NodeName.3>
+			<NodeName.4>Ly Địa Diễm Quang Kỳ</NodeName.4>
+			<NodeName.5>Mậu Kỷ Hạnh Hoàng Kỳ</NodeName.5>
+			<SuitEffect.0.Description>Khả năng phòng ngự tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Độ ổn định tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Khả năng phòng ngự tăng thêm</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Kỹ năng mới: Ngũ Phương Bất Diệt Giới</SuitEffect.3.Description>
+		</Text>
+		<Text Name="liuyuzhen">
+			<DisplayName>Chư Thiên Lục Ngự Hành Pháp Nghi Quỹ</DisplayName>
+			<Description>Nghi quy Hành Pháp Lục Ngự Thiên Đình, tạo trận này có thể triển khai Thắng Cảnh Thanh Linh Lục Ngự Chư Thiên, biến phàm gian thành tiên cảnh, giúp tâm thần con người sáng suốt không u sầu.</Description>
+			<NodeName.0>Huyền Cùng Hạo Thiên Ngọc Hoàng Nghi Quy</NodeName.0>
+			<NodeName.1>Câu Trần Thượng Cung Thiên Hoàng Nghi Quy</NodeName.1>
+			<NodeName.2>Bắc Cực Tử Vi Thái Hoàng Nghi Quy</NodeName.2>
+			<NodeName.3>Đông Cực Thái Ất Cứu Khổ Nghi Quy</NodeName.3>
+			<NodeName.4>Thần Tiêu Ngọc Thanh Trường Sinh Nghi Quy</NodeName.4>
+			<NodeName.5>Thừa Thiên Hiệu Pháp Hậu Thổ Nghi Quy</NodeName.5>
+			<SuitEffect.0.Description>Độ ổn định tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Kỹ năng mới: Thắng Cảnh Thanh Linh Lục Ngự Chư Thiên</SuitEffect.1.Description>
+		</Text>
+		<Text Name="longxingzhen">
+			<DisplayName>Cửu Ngự Phú Long Hình Trận</DisplayName>
+			<Description>Một trận pháp kỳ lạ được bố trí dựa trên thân thể của giao long, tương truyền đây là trận pháp Ngự Long, khi bày trận có thể mượn sức mạnh của long hồn để thi triển những thần thông trận pháp vô cùng mạnh mẽ.</Description>
+			<NodeName.0>Nghịch Lân Long</NodeName.0>
+			<NodeName.1>Giác Long</NodeName.1>
+			<NodeName.2>Giác Long</NodeName.2>
+			<NodeName.3>Long trảo</NodeName.3>
+			<NodeName.4>Long trảo</NodeName.4>
+			<NodeName.5>Lân Long</NodeName.5>
+			<NodeName.6>Long trảo</NodeName.6>
+			<NodeName.7>Long trảo</NodeName.7>
+			<NodeName.8>Long chi nhận vĩ</NodeName.8>
+			<SuitEffect.0.Description>Kỹ năng mới: Long Ngâm Thần Chú</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Khả năng thuật pháp tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Kỹ năng mới: Long Hồn Thần Liệt Pháp</SuitEffect.2.Description>
+		</Text>
+		<Text Name="fengjianzhen">
+			<DisplayName>Chân Phượng Vũ Kiếm Trận</DisplayName>
+			<Description>Một trận pháp kỳ lạ được bố trí dựa trên thân thể của hung phượng, tương truyền đây là trận pháp Ngự Phượng, khi bày trận có thể mượn sức mạnh của phượng hồn để thi triển những thần thông trận pháp vô cùng mạnh mẽ.</Description>
+			<NodeName.0>Ngọc Chân Diễm</NodeName.0>
+			<NodeName.1>Vũ Tận Diệt</NodeName.1>
+			<NodeName.2>Vũ Tị Thiên</NodeName.2>
+			<NodeName.3>Cốt Huyền Không</NodeName.3>
+			<NodeName.4>Vũ Xích Liệt</NodeName.4>
+			<NodeName.5>Vũ Xích Liệt</NodeName.5>
+			<NodeName.6>Cốt Huyền Không</NodeName.6>
+			<NodeName.7>Vũ Xích Liệt</NodeName.7>
+			<NodeName.8>Vũ Xích Liệt</NodeName.8>
+			<SuitEffect.0.Description>Kỹ năng mới: Phượng Ngự Thần Kiếm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Khả năng điều khiển tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Kỹ năng mới: Niết Bàn</SuitEffect.2.Description>
+		</Text>
+		<Text Name="yinyangzhen">
+			<DisplayName>Âm Dương Nhị Hành Thần Trận</DisplayName>
+			<Description>Một trận pháp được tổng kết từ sự luân chuyển của âm dương trong trời đất, tương truyền trận pháp này vận dụng đạo lý âm dương để bố trí, âm dương chuyển hóa, vô cùng linh hoạt.</Description>
+			<NodeName.0>Thiên Đạo Hỗn Độn Âm Dương</NodeName.0>
+			<NodeName.1>Âm Luật Thiên Đạo</NodeName.1>
+			<NodeName.2>Dương Luật Thiên Đạo</NodeName.2>
+			<SuitEffect.0.Description>Khả năng điều khiển tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Khả năng thuật pháp tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Khả năng phòng ngự tăng thêm</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Khả năng vận hành tăng thêm</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Hiệu suất trận pháp tăng thêm</SuitEffect.4.Description>
+		</Text>
+		<Text Name="sanyinzhen">
+			<DisplayName>Tam Âm Tam Tuyệt Trận</DisplayName>
+			<Description>Một trận pháp được bố trí dựa trên ý nghĩa thuần âm của thiên, địa, nhân tam tài, tương truyền trận pháp này có thể tụ hợp thuần âm chi lực trong thiên hạ, nhờ đó mà uy lực đại tăng.</Description>
+			<NodeName.0>Tuyệt Đạo Thiên Âm</NodeName.0>
+			<NodeName.1>Tuyệt Mệnh Địa Âm</NodeName.1>
+			<NodeName.2>Tuyệt Vận Nhân Âm</NodeName.2>
+			<SuitEffect.0.Description>Hiệu suất trận pháp tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Khả năng thuật pháp tăng thêm</SuitEffect.1.Description>
+		</Text>
+		<Text Name="bamen_ji">
+			<DisplayName>Bát Môn Huyền Kim Thiên Kiếp Kiếm Trận·Cát Tường</DisplayName>
+			<Description>Nghe nói trận này dựa vào lý của tám môn mà thành trận, môn Sinh tương ứng, có thể nâng cao lực phòng ngự của trận pháp.</Description>
+			<NodeName.0>Bật</NodeName.0>
+			<NodeName.1>Hưu</NodeName.1>
+			<NodeName.2>Sinh</NodeName.2>
+			<SuitEffect.0.Description>Hiệu suất trận pháp tăng thêm</SuitEffect.0.Description>
+		</Text>
+		<Text Name="bamen_xiong">
+			<DisplayName>Bát Môn Huyền Kim Thiên Kiếp Kiếm Trận·Hung Kiếp</DisplayName>
+			<Description>Nghe nói trận này dựa vào lý của tám môn mà thành trận, môn Tử tương ứng, có thể nâng cao lực phòng ngự của khí cụ.</Description>
+			<NodeName.0>Tử</NodeName.0>
+			<NodeName.1>Kinh</NodeName.1>
+			<NodeName.2>Thương</NodeName.2>
+			<SuitEffect.0.Description>Khả năng điều khiển tăng thêm</SuitEffect.0.Description>
+		</Text>
+		<Text Name="bamen_zhong">
+			<DisplayName>Bát Môn Huyền Kim Thiên Kiếp Kiếm Trận·Trung Bình</DisplayName>
+			<Description>Nghe nói trận này dựa vào lý của tám môn mà thành trận, môn Trung tương ứng, có thể khiến trận pháp ngưng luyện.</Description>
+			<NodeName.0>Đỗ</NodeName.0>
+			<NodeName.1>Cảnh</NodeName.1>
+			<SuitEffect.0.Description>Độ ổn định tăng thêm</SuitEffect.0.Description>
+		</Text>
+		<Text Name="jiayimushenzhen">
+			<DisplayName>Tiên Thiên Giáp Ất Mộc Thần Trận</DisplayName>
+			<Description>Tụ tập nguyên tinh Tiên Thiên Giáp Ất Mộc thành trận, truyền thuyết rằng trận này có thể đánh thức khí sinh phát trong trời đất, hồi sinh vạn vật.</Description>
+			<NodeName.0>Thân Mộc Chi Quán</NodeName.0>
+			<NodeName.1>Thân Mộc Chi Chi</NodeName.1>
+			<NodeName.2>Thân Mộc Chi Diệp</NodeName.2>
+			<NodeName.3>Thân Mộc Chi Cán</NodeName.3>
+			<NodeName.4>Thân Mộc Chi Căn</NodeName.4>
+			<SuitEffect.0.Description>Hiệu suất trận pháp tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Khả năng vận hành tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Kỹ năng mới: Tiên Thiên Mộc Linh Giới</SuitEffect.2.Description>
+		</Text>
+		<Text Name="wuyuezhen">
+			<DisplayName>Ngũ Phong Trấn Quy Hư</DisplayName>
+			<Description>Dùng thần tủy của Quy Hư Ngũ Thần Phong để tạo trận, truyền thuyết rằng trận này có thể dùng hình dạng ngũ phong để trấn giữ một phương, kiên cố không thể phá.</Description>
+			<NodeName.0>Hình Đái Dư</NodeName.0>
+			<NodeName.1>Hình Viên Khiếu</NodeName.1>
+			<NodeName.2>Hình Phương Hồ</NodeName.2>
+			<NodeName.3>Hình Doanh Châu</NodeName.3>
+			<NodeName.4>Hình Bồng Lai</NodeName.4>
+			<SuitEffect.0.Description>Khả năng phòng ngự tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Hiệu suất trận pháp tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Kỹ năng mới: Ngũ Phong Ngự Giới</SuitEffect.2.Description>
+		</Text>
+	</List>
+</Texts>
+

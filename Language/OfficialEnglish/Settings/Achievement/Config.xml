@@ -1,0 +1,74 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="kind_1">
+			<Desc>Phi thăng: {0:F0} người</Desc>
+		</Text>
+		<Text Name="kind_2">
+			<Desc>Luyện tập: {0:F0} lần</Desc>
+		</Text>
+		<Text Name="kind_3">
+			<Desc>Luyện đan: {0:F0} lần</Desc>
+		</Text>
+		<Text Name="kind_4">
+			<Desc>Luyện bảo: {0:F0} lần</Desc>
+		</Text>
+		<Text Name="kind_5">
+			<Desc>Vẽ bùa: {0:F0} lần</Desc>
+		</Text>
+		<Text Name="kind_6">
+			<Desc>Hạ sát sinh vật: {0:F0} con</Desc>
+		</Text>
+		<Text Name="kind_7">
+			<Desc>Giết chết tu sĩ: {0:F0} người</Desc>
+		</Text>
+		<Text Name="kind_8">
+			<Desc>Chế biến thức ăn: {0:F0} loại</Desc>
+		</Text>
+		<Text Name="kind_9">
+			<Desc>Tác phẩm nghệ thuật quý hiếm: {0:F0} cái</Desc>
+		</Text>
+		<Text Name="kind_10">
+			<Desc>Thuyết phục thành công: {0:F0} lần</Desc>
+		</Text>
+		<Text Name="kind_11">
+			<Desc>Học được bí kíp: {0:F0} quyển</Desc>
+		</Text>
+		<Text Name="kind_12">
+			<Desc>Đệ tử đã chết: {0:F0} người</Desc>
+		</Text>
+		<Text Name="kind_13">
+			<Desc>Đệ tử nội môn tử vong: {0:F0} người</Desc>
+		</Text>
+		<Text Name="kind_14">
+			<Desc>Đoạt xác: {0:F0} lần</Desc>
+		</Text>
+		<Text Name="kind_15">
+			<Desc>Nhập định: {0:F0} giây</Desc>
+		</Text>
+		<Text Name="kind_16">
+			<Desc>Tìm hồn đại pháp: {0:F0} lần</Desc>
+		</Text>
+		<Text Name="kind_17">
+			<Desc>Chiếm đoạt tuổi thọ: {0:F0} giây</Desc>
+		</Text>
+		<Text Name="kind_18">
+			<Desc>Luyện hồn: {0:F0} lần</Desc>
+		</Text>
+		<Text Name="kind_19">
+			<Desc>Nhiếp thần ngự quỷ: {0:F0} lần</Desc>
+		</Text>
+		<Text Name="kind_20">
+			<Desc>Luyện hóa xác chết: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_21">
+			<Desc>Hiến tế: {0:F0} lần</Desc>
+		</Text>
+		<Text Name="kind_22">
+			<Desc>Ký sinh hồn thể: {0:F0} lần</Desc>
+		</Text>
+		<Text Name="kind_23">
+			<Desc>Thu nhận pháp bảo trấn phái: {0:F0} cái</Desc>
+		</Text>
+	</List>
+</Texts>
+

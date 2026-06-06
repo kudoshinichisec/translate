@@ -1,0 +1,58 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="RockBase" sParam="Item">
+			<Item.FabaoSuffix>Đá, Ấn, Bi, Giác, Khuê, Khuyết, Trấn</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BrownRock" sParam="Item">
+			<ThingName>Đá nâu</ThingName>
+			<Desc>Đá màu nâu, rất phổ biến.</Desc>
+			<Item.BeMaterial.NamePrefix>Đá nâu</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_GrayRock" sParam="Item">
+			<ThingName>Đá xám</ThingName>
+			<Desc>Đá màu xám, rất phổ biến.</Desc>
+			<Item.BeMaterial.NamePrefix>Đá xám</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Marble" sParam="Item">
+			<ThingName>Đá cẩm thạch</ThingName>
+			<Desc>Đá cẩm thạch, là loại đá thường thấy, có hoa văn đẹp mắt.</Desc>
+			<Item.BeMaterial.NamePrefix>Đá cẩm thạch</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Jade" sParam="Item">
+			<ThingName>Đá ngọc</ThingName>
+			<Desc>Đá mịn và cứng, có độ bóng, hơi trong suốt, rất đẹp và giàu linh khí.</Desc>
+			<Item.BeMaterial.NamePrefix>Ngọc</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_JadeEssence" sParam="Item">
+			<ThingName>Ngọc tuỷ</ThingName>
+			<Desc>Tinh hoa của ngọc, nhẹ và mịn, rất đẹp, thường được dùng làm đồ trang trí cao cấp hoặc làm thuốc.</Desc>
+			<Item.BeMaterial.NamePrefix>Ngọc tuỷ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_StoneEssence" sParam="Item">
+			<ThingName>Tinh thạch</ThingName>
+			<Desc>Tinh hoa của đá, nhẹ và cứng, có thể dùng làm thuốc.</Desc>
+			<Item.BeMaterial.NamePrefix>Tinh thạch</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SkyStone" sParam="Item">
+			<ThingName>Thiên trụ thạch</ThingName>
+			<Desc>Loại đá hiếm, truyền thuyết kể rằng được khai thác từ trụ trời, chứa đựng linh khí thuộc tính đất mạnh mẽ.</Desc>
+			<Item.BeMaterial.NamePrefix>Thiên trụ thạch</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_ExtremeJade" sParam="Item">
+			<ThingName>Thiên Lăng Thần Ngọc</ThingName>
+			<Desc>Bảo vật được giới tu hành săn lùng, tự nhiên có dạng tinh thể hình cột, có khả năng thích nghi linh khí vượt trội.</Desc>
+			<Item.BeMaterial.NamePrefix>Thiên Lăng Ngọc</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingStone" sParam="Item">
+			<ThingName>Linh thạch</ThingName>
+			<Desc>Thể rắn được hình thành từ linh khí cô đặc cao, có thể sử dụng để hồi phục 500 điểm linh khí và tăng cường độ tương thích với linh khí trong một khoảng thời gian.</Desc>
+			<Item.BeMaterial.NamePrefix>Linh thạch</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingCrystal" sParam="Item">
+			<ThingName>Tinh linh</ThingName>
+			<Desc>Tinh thể được hình thành từ linh khí cô đặc cao, có thể sử dụng để hồi phục 20000 điểm linh khí và tăng cường đáng kể độ tương thích với linh khí trong một khoảng thời gian.</Desc>
+			<Item.BeMaterial.NamePrefix>Tinh linh</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>
+

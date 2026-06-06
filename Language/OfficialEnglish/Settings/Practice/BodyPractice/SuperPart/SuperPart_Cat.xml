@@ -1,0 +1,19 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Cat_1">
+			<Prefix>Cửu Sinh Huyền Mệnh</Prefix>
+			<Suffix>Thân</Suffix>
+			<Desc>Bí thể truyền từ thiên phú của Miêu Yêu, sử dụng lực huyền nguyệt để luyện tim và não, khi luyện thành có thể tăng mạnh độ bền của cơ thể, rất khó bị tổn thương chí mạng. Mèo có chín mạng cũng xuất phát từ đây.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh độ bền của cơ thể người luyện thể</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Cat_2">
+			<Prefix>Cửu Dạ Huyền Tinh</Prefix>
+			<Suffix>Mắt</Suffix>
+			<Desc>Bí thể truyền từ thiên phú của Miêu Yêu, sử dụng khí huyền thiên tím để luyện đôi mắt, khi luyện thành có thể nhìn thấu mọi điểm yếu, cải thiện toàn diện khả năng xuyên thủng linh khí hộ thuẫn.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh tỷ lệ đánh trúng của tất cả bí thể của người luyện thể\nTăng mạnh tỷ lệ thành công phòng thủ của tất cả bí thể của người luyện thể</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>
+

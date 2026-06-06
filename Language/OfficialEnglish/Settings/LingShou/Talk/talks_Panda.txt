@@ -1,0 +1,24 @@
+talk	notarget	thing
+BabySleep1	Tu Tu muốn ngủ	
+BabySleep2	Tu Tu buồn ngủ	
+BabySleep3	Tu Tu sắp đi ngủ rồi	
+BabyPandaTalk	Tu Tu lại tiến bộ rồi	
+BabySilly	Tu Tu muốn chơi với Tiên Tiên	
+BabyFollow1	Theo Tiên Tiên	
+BabyFollow2	Đi đến chỗ Tiên Tiên	
+Roll	Lăn lăn	
+Chop	Tập luyện một chút	
+Happy	Thật vui	
+PlayBB	Nhìn xem tôi giỏi thế nào	
+NotEat_Item_Bamboo	Tôi không ăn được cây tre	Tôi sẽ không ăn cần tre
+NotEat_Item_BambooShoot	Tôi không ăn được măng tre	Tôi sẽ không ăn măng tre
+WannaEat_Item_Bamboo	Tôi thật muốn ăn cây tre	Tôi rất muốn ăn cần tre
+WannaEat_Item_BambooShoot	Tôi thật muốn ăn măng tre	Tôi rất muốn ăn măng tre
+DoTalkEat_Item_Bamboo	Tôi đang ăn cây tre	Tôi đang ăn cần tre
+DoTalkEat_Item_BambooShoot	Tôi đang ăn măng tre	Tôi đang ăn măng tre
+CantEat_Item_Bamboo	Tôi không có cây tre để ăn	Tôi không có cần tre để ăn
+CantEat_Item_BambooShoot	Tôi không có măng tre để ăn	Tôi không có măng tre để ăn
+EatTogether	Ăn cùng Tiên Tiên	
+BabyHelpPlay	Cùng họ chơi	Cùng chơi với {0}
+
+

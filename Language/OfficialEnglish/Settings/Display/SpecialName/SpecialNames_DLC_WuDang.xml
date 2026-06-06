@@ -1,0 +1,88 @@
+<SpecialNames>
+  <List>
+	<SpecialItem Name="Item_HomeFood">
+		<Fish_SkyCrab>
+			<li Name="Thanh Chưng Bàng Giải" Desc="" />
+			<li Name="Bàng Giải Thang" Desc="" />
+			<li Name="Gia Thường Sao Bàng Giải" Desc="" />
+			<li Name="Giải Nhục Chúc" Desc="" />
+			<li Name="Đậu Hủ Đôn Giải" Desc="" />
+			<li Name="Lạt Lỗ Giải" Desc="" />
+			<li Name="Hương Lỗ Giải" Desc="" />
+			<li Name="Giải Nhục Sao Phạn" Desc="" />
+		</Fish_SkyCrab>
+		<Fish_SkySnake>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_SkySnake>
+		<Fish_SkyFish>
+			<li Name="Ngư Nhục Quái Phạn" Desc="" />
+			<li Name="Ngư Nhục Bính" Desc="" />
+			<li Name="Ngư Nhục Quyển" Desc="" />
+			<li Name="Khảo Ngư" Desc="" />
+			<li Name="Cán Tạc Ngư" Desc="" />
+			<li Name="Thanh Thủy Ngư" Desc="" />
+			<li Name="Thanh Chưng Ngư" Desc="" />
+			<li Name="Hồng Thiêu Ngư" Desc="" />
+		</Fish_SkyFish>
+	</SpecialItem>
+	<SpecialItem Name="Item_DeliciousFood">
+		<Fish_SkyCrab>
+			<li Name="Giải Nhục Bảo" Desc="" />
+			<li Name="Hương Lạt Giải" Desc="" />
+			<li Name="Thanh Chưng Giải Thối" Desc="" />
+			<li Name="Giải Hoàng Phấn Ti Bảo" Desc="" />
+			<li Name="Túy Giải" Desc="" />
+			<li Name="Giải Phấn Đậu Hủ" Desc="" />
+			<li Name="Tương Bạo Thu Giải" Desc="" />
+		</Fish_SkyCrab>
+		<Fish_SkySnake>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_SkySnake>
+		<Fish_SkyFish>
+			<li Name="Hỏa Bạo Trường Ngư Phiến" Desc="" />
+			<li Name="Trường Ngư Bảo Tử Phạn" Desc="" />
+			<li Name="Thủy Chử Ngư" Desc="" />
+			<li Name="Ngư Nhục Hoàn Tử" Desc="" />
+			<li Name="Ngư Cao" Desc="" />
+			<li Name="Tam Ngư Oa" Desc="" />
+			<li Name="Toan Thang Ngư" Desc="" />
+			<li Name="Tửu Nhưỡng Ngư" Desc="" />
+			<li Name="Hương Tiên Ngư Phiến" Desc="" />
+			<li Name="Cao Thang Muộn Ngư" Desc="" />
+			<li Name="Đóa Tiêu Ngư Đầu" Desc="" />
+		</Fish_SkyFish>
+	</SpecialItem>
+	<SpecialItem Name="Item_DelicacyFood">
+		<Fish_SkyCrab>
+			<li Name="Long Bào Thang Bao" Desc="Trộn đều lòng đỏ cua tươi với thịt, sau đó bọc bằng lớp bột mỏng làm thành hình bánh bao nhỏ, hấp chín, toàn bộ bánh bao đều được lấp đầy bằng dầu cua vàng, có tin đồn rằng hoàng đế ngay cả khi không mặc long bào cũng phải hút một miếng." />
+			<li Name="Hoàng Tửu Chưng Giải" Desc="Sử dụng rượu vàng hảo hạng để hấp cua vào cuối mùa thu, rượu vàng có thể xua tan cái lạnh trong thịt cua, bổ sung khí dương. Vị ngọt tươi ngon của thịt cua hòa quyện hoàn hảo với vị ngọt của rượu vàng, là sự kết hợp tuyệt vời." />
+		</Fish_SkyCrab>
+		<Fish_SkySnake>
+			<li Name="Hưởng Du Trường Ngư Ti" Desc="Cắt thịt lươn tươi thành sợi mỏng, xào với gia vị, yêu cầu độ chính xác và tốc độ cao trong việc sử dụng dao." />
+			<li Name="Dương Thông Trường Ngư Bối" Desc="Nấu chín thịt lươn tươi, xào với hành tây để loại bỏ mùi tanh, thực sự là món ăn bổ dưỡng và ngon miệng." />
+		</Fish_SkySnake>
+		<Fish_SkyFish>	
+			<li Name="Hóa Long Thang" Desc="Lấy ý nghĩa cá nhảy hóa rồng, bí quyết của món súp này nằm ở thứ tự nấu ăn phức tạp và cách sử dụng gia vị, hương vị thơm ngon vượt xa các món cá thông thường." />
+			<li Name="Dương Phương Tàng Ngư" Desc="Đặt cá vào giữa miếng thịt cừu lớn đã được cắt, thêm gia vị rồi nấu chung, hương vị cực kỳ ngon. Vì cá tươi và thịt cừu tươi hòa quyện, tạo nên hương vị càng thêm tươi ngon. Thịt cừu mềm mại và thơm, bên trong ẩn chứa cá tươi ngon." />
+		</Fish_SkyFish>
+	</SpecialItem>
+</List>
+</SpecialNames>
+

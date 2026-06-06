@@ -1,0 +1,145 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BuildMine">
+			<DisplayName>Tạo Sơn Thuật</DisplayName>
+			<Desc>Tiêu hao lượng lớn linh lực, kéo các khoáng sản sâu trong lòng đất lên bề mặt.</Desc>
+			<TargetDesc>Vui lòng chọn một vùng đất trống.</TargetDesc>
+		</Text>
+		<Text Name="BuildRain">
+			<DisplayName>Cam Lâm Thuật</DisplayName>
+			<Desc>Gọi một trận mưa nhỏ trong một khu vực, có thể dập tắt lửa và tăng nhẹ tốc độ sinh trưởng của cây cối.</Desc>
+			<TargetDesc>Vui lòng chọn một địa điểm</TargetDesc>
+		</Text>
+		<Text Name="Prophesy">
+			<DisplayName>Chu Thiên Thần Toán</DisplayName>
+			<Desc>Tiêu hao tuổi thọ để suy đoán thiên cơ, cố gắng đạt được khả năng biết trước trong một tháng tới. Đạo hạnh, ngộ tính, cơ duyên càng cao, tỷ lệ thành công càng lớn.</Desc>
+		</Text>
+		<Text Name="Prophesy_MapStory">
+			<DisplayName>Đại Diễn Thần Toán</DisplayName>
+			<Desc>Tiêu hao tuổi thọ để suy đoán thiên cơ, cố gắng đạt được một bí ẩn. Đạo hạnh, ngộ tính, cơ duyên càng cao, tỷ lệ thành công càng lớn.</Desc>
+		</Text>
+		<Text Name="BuildSea">
+			<DisplayName>Khai Hồ Thuật</DisplayName>
+			<Desc>Thi triển thần thông, biến một khu vực thành nước nông.</Desc>
+			<TargetDesc>Vui lòng chọn một vùng đất trống.</TargetDesc>
+		</Text>
+		<Text Name="BuildLand">
+			<DisplayName>Tạo Lục Thuật</DisplayName>
+			<Desc>Thi triển thần thông, biến một khu vực thành đất.</Desc>
+			<TargetDesc>Vui lòng chọn một vùng đất trống.</TargetDesc>
+		</Text>
+		<Text Name="BuildLing">
+			<DisplayName>Linh thổ sáng tạo</DisplayName>
+			<Desc>Sử dụng bí pháp để kích hoạt một lần linh hiệu của hạt ngọc tạo hóa, biến một khu vực thành linh thổ.</Desc>
+			<TargetDesc>Vui lòng chọn một vùng đất trống.</TargetDesc>
+		</Text>
+		<Text Name="BuildLingWater">
+			<DisplayName>Linh trì tạo hóa</DisplayName>
+			<Desc>Sử dụng bí pháp để kích hoạt một lần linh hiệu của hạt ngọc tạo hóa, biến một khu vực thành linh thủy.</Desc>
+			<TargetDesc>Vui lòng chọn một vùng đất trống.</TargetDesc>
+		</Text>
+		<Text Name="BuildFertileSoil">
+			<DisplayName>Đất màu sáng tạo</DisplayName>
+			<Desc>Sử dụng bí pháp để kích hoạt một hạt cát ngọc tạo hóa, biến một khu vực thành đất màu mỡ.</Desc>
+			<TargetDesc>Vui lòng chọn một vùng đất trống.</TargetDesc>
+		</Text>
+		<Text Name="FengshuiItemOpen">
+			<DisplayName>Phong Thủy Giám Định</DisplayName>
+			<Desc>Tiêu hao linh thạch để kích hoạt vật trấn phong thủy, xác định đặc tính của nó.</Desc>
+			<TargetDesc>Vui lòng chọn một vật trấn phong thủy chưa được xác định.</TargetDesc>
+		</Text>
+		<Text Name="FengshuiItemCreate">
+			<DisplayName>Phong Thủy Ngưng Luyện</DisplayName>
+			<Desc>Tiêu hao tinh huyết bản nguyên để ban cho một vật phẩm thuộc tính vật trấn phong thủy. Tuy nhiên, do chưa được luyện qua thời gian, vật trấn phong thủy tạo ra bằng pháp này có hiệu quả yếu và không thể trở thành vật trấn phong thủy thông linh.\n[color=#FF0000]Theo sự biến đổi thiên cơ, thần thông này dường như đã mất tác dụng[/color].</Desc>
+			<TargetDesc>Vui lòng chọn một đạo cụ không phải vật trấn phong thủy</TargetDesc>
+		</Text>
+		<Text Name="LingXiZhou">
+			<DisplayName>Linh Tê Chú</DisplayName>
+			<Desc>Sử dụng thần niệm để cảm ứng thần niệm của đối phương, cố gắng thuyết phục họ gia nhập phe ta. Đạo hạnh bản thân càng cao, chênh lệch cảnh giới và cảm giác giữa hai bên càng lớn, tỷ lệ thành công càng cao. Nếu mục tiêu có tu vi, họ phải ở trạng thái bất tỉnh. Chỉ có thể sử dụng một lần trên cùng một mục tiêu.</Desc>
+			<TargetDesc>Vui lòng chọn một kẻ địch chưa bị sử dụng chú linh hạc.</TargetDesc>
+		</Text>
+		<Text Name="XinYinJue">
+			<DisplayName>Tâm Ấn Quyết</DisplayName>
+			<Desc>Sử dụng tâm tương thông để tạo cộng hưởng, cố gắng thuyết phục đối phương gia nhập phe ta. Đạo hạnh bản thân càng cao, chênh lệch cảnh giới giữa hai bên càng lớn, tỷ lệ thành công càng cao. Nếu hai bên có đặc tính sinh ra hoặc lịch sử tương tự hoặc quan hệ họ hàng, tỷ lệ thành công tăng đáng kể. Nếu mục tiêu có tu vi, họ phải ở trạng thái bất tỉnh. Pháp này rất nguy hiểm, nếu thất bại, mục tiêu sẽ chết, bản thân cũng bị thương.</Desc>
+			<TargetDesc>Vui lòng chọn một kẻ địch</TargetDesc>
+		</Text>
+		<Text Name="TianMoWu">
+			<DisplayName>Thiên Ma Vũ</DisplayName>
+			<Desc>Thi triển thiên ma vũ, chuyển hóa mục tiêu sang phe ta. Theo thời gian trôi qua, khả năng mục tiêu tỉnh táo dần tăng. Chênh lệch cảnh giới và mị lực giữa hai bên càng lớn, khả năng tỉnh táo càng thấp. Nếu mục tiêu có tu vi, họ phải ở trạng thái bất tỉnh. Pháp này mỗi lần thi triển sẽ làm tổn hại thần trí của mục tiêu.</Desc>
+			<TargetDesc>Vui lòng chọn một kẻ địch</TargetDesc>
+		</Text>
+		<Text Name="WuYinKeShen">
+			<DisplayName>Ngũ Ấn Khắc Thần</DisplayName>
+			<Desc>Sử dụng pháp thuật bá đạo để cưỡng ép tẩy não, chuyển hóa mục tiêu sang phe ta trong một thời gian. Chênh lệch cảnh giới và ngộ tính giữa hai bên càng lớn, thời gian duy trì càng dài. Nếu mục tiêu có tu vi, họ phải ở trạng thái bất tỉnh. Pháp này mỗi lần thi triển sẽ kéo dài thời gian duy trì rất nhiều, nhưng sẽ gây tổn hại không thể phục hồi cho thần thức của mục tiêu.</Desc>
+			<TargetDesc>Vui lòng chọn một kẻ địch</TargetDesc>
+		</Text>
+		<Text Name="FenShenZhiShu">
+			<DisplayName>Phân Thần Chi Thuật</DisplayName>
+			<Desc>Vận hành nguyên thần bản mệnh, cưỡng ép phân tách để tạo thêm một phân thần. Trong quá trình này, giới hạn linh khí tối đa sẽ giảm và cơ thể nhanh chóng lão hóa. Số lần sử dụng phân thần thuật càng nhiều, cái giá phải trả càng lớn.</Desc>
+		</Text>
+		<Text Name="LinghunKaowen">
+			<DisplayName>Hỏi cung linh hồn</DisplayName>
+			<Desc>Có thể thực hiện tra khảo linh hồn đối với nhân vật đang hấp hối, cố gắng lấy được bí mật của đối phương.</Desc>
+			<TargetDesc>Vui lòng chọn nhân vật cần tra khảo.</TargetDesc>
+		</Text>
+		<Text Name="LiuRenShensuan">
+			<DisplayName>Lục Nhâm Thần Toán</DisplayName>
+			<Desc>Chọn một nhân vật, cố gắng lấy được hành tung của họ. Đạo hạnh càng cao, thông tin thu được càng nhiều, tỷ lệ thành công càng cao.</Desc>
+		</Text>
+		<Text Name="Linghunwenzhong">
+			<DisplayName>Pháp truy tung thần linh.</DisplayName>
+			<Desc>Chọn một nhân vật, cố gắng lấy được hành tung của họ. Số lượng thần dân càng nhiều, thông tin thu được càng nhiều, tỷ lệ thành công càng cao.</Desc>
+		</Text>
+		<Text Name="YouTongLing_Item">
+			<DisplayName>Huyền Hồn Tạo Mệnh</DisplayName>
+			<Desc>Tiêu hao 7 viên u bạch, 3 viên linh phách và 1 viên nguyên linh chi bạch, cố gắng thông linh vật phẩm mục tiêu. Kết quả thông linh cần một thời gian mới xuất hiện. Vật phẩm đang trong quá trình thông linh không thể bị thông linh lần nữa. Đạo hạnh của người thi triển càng cao, số lần vật phẩm được thông linh càng nhiều, xác suất thành công càng cao.</Desc>
+			<TargetDesc>Vui lòng chọn một vật phẩm.</TargetDesc>
+		</Text>
+		<Text Name="LingTongLing_Building">
+			<DisplayName>Mệnh Hỏa Trúc Linh</DisplayName>
+			<Desc>Tiêu hao 10 năm mệnh nguyên và 1 viên nguyên linh chi bạch, cố gắng thông linh một tòa kiến trúc mục tiêu. Kết quả thông linh cần một thời gian mới xuất hiện. Kiến trúc đang trong quá trình thông linh không thể bị thông linh lần nữa. Đạo hạnh của người thi triển càng cao, số lần kiến trúc được thông linh càng nhiều, xác suất thành công càng cao.</Desc>
+			<TargetDesc>Vui lòng chọn một kiến trúc.</TargetDesc>
+		</Text>
+		<Text Name="ZaoHuaSuTi">
+			<DisplayName>Tạo Hóa Tố Thể</DisplayName>
+			<Desc>Tiêu hao một viên ngọc tạo hóa, tái tạo tuổi của mục tiêu về trạng thái 14 tuổi và phục hồi toàn bộ bộ phận cơ thể bị mất. Nếu sử dụng trên tinh quái, sẽ tạo ra một cơ thể hoàn toàn mới cho nó.</Desc>
+			<TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
+		</Text>
+		<Text Name="DianHua">
+			<DisplayName>Hơi thở của tạo hóa</DisplayName>
+			<Desc>Thi triển pháp thuật mô phỏng những biến hóa của thiên đạo, khiến động vật cảm nhận được sự huyền diệu của tạo hóa, thúc đẩy linh trí của chúng thức tỉnh. Hành động này làm tổn hại thiên đạo, tiêu hao tuổi thọ.</Desc>
+			<TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
+		</Text>
+		<Text Name="Magic_Angry">
+			<DisplayName>Thông tâm: Phẫn hận</DisplayName>
+			<Desc>Sử dụng linh khí thuộc tính mộc, làm động vật sinh ra cảm xúc phẫn hận, thúc đẩy linh trí của chúng thức tỉnh. Hành động này làm tổn hại thiên đạo, tiêu hao tuổi thọ.</Desc>
+			<TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
+		</Text>
+		<Text Name="Magic_Happy">
+			<DisplayName>Thông tâm: Vui vẻ.</DisplayName>
+			<Desc>Sử dụng linh khí thuộc tính hỏa, làm động vật sinh ra cảm xúc vui vẻ, thúc đẩy linh trí của chúng thức tỉnh. Hành động này làm tổn hại thiên đạo, tiêu hao tuổi thọ.</Desc>
+			<TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
+		</Text>
+		<Text Name="Magic_Miss">
+			<DisplayName>Thông tâm: Tưởng nhớ.</DisplayName>
+			<Desc>Sử dụng linh khí thuộc tính Thổ, làm cho động vật sinh ra cảm xúc tưởng niệm, thúc đẩy sự thức tỉnh linh trí. Hành động này gây tổn thương đến thiên đạo, tiêu hao thọ nguyên.</Desc>
+			<TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
+		</Text>
+		<Text Name="Magic_Afraid">
+			<DisplayName>Thông tâm: Sợ hãi</DisplayName>
+			<Desc>Sử dụng linh khí thuộc tính Thủy, làm cho động vật sinh ra cảm xúc sợ hãi, thúc đẩy sự thức tỉnh linh trí. Hành động này gây tổn thương đến thiên đạo, tiêu hao thọ nguyên.</Desc>
+			<TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
+		</Text>
+		<Text Name="Magic_Worry">
+			<DisplayName>Thông tâm: Lo lắng</DisplayName>
+			<Desc>Sử dụng linh khí thuộc tính Kim, làm cho động vật sinh ra cảm xúc lo lắng, thúc đẩy sự thức tỉnh linh trí. Hành động này gây tổn thương đến thiên đạo, tiêu hao thọ nguyên.</Desc>
+			<TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
+		</Text>
+		<Text Name="Magic_YuanLing">
+			<DisplayName>Nguyên Linh Bổ Thiên Quyết</DisplayName>
+			<Desc>Sử dụng trên phôi bảo vật bí mật, tiêu hao 1 viên Nguyên Linh Chi Phách, làm thỏa mãn điều kiện kích hoạt ngay lập tức.</Desc>
+			<TargetDesc>Vui lòng chọn một phôi pháp bảo</TargetDesc>
+		</Text>
+	</List>
+</Texts>
+

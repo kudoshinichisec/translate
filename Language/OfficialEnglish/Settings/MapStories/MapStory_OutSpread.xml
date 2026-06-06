@@ -1,0 +1,49 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="OutSpread_Start">
+			<DisplayName>Tái thiết lực lượng đại diện</DisplayName>
+			<Desc>Người dân nơi này trước đây đều thờ phụng môn phái Thái Nhất, giờ không còn ai để thờ phụng, nhiều người đã mất đi nghề nghiệp.</Desc>
+			<Selections.0.Display>Hỏi cho rõ ràng</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Accelerate">
+			<DisplayName>Sự kiện lao động</DisplayName>
+			<Desc>Đại diện [NAME] giám sát lao động trở về.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_TreasureHunt">
+			<DisplayName>Sự kiện tìm báu vật</DisplayName>
+			<Desc>Đại diện [NAME] tìm báu vật trở về.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="Outs1">
+			<DisplayName>Trên đường đi</DisplayName>
+			<Desc>Đại diện [NAME] gặp phải cướp bóc.</Desc>
+			<Selections.0.Display>Tặng một ít linh thạch</Selections.0.Display>
+			<Selections.1.Display>Thuyết phục</Selections.1.Display>
+		</Text>
+		<Text Name="Outs2">
+			<DisplayName>Trên đường đi</DisplayName>
+			<Desc>Đại diện [NAME] gặp một nhóm dân lưu lạc. Họ không có nhà để về, rất đáng thương.</Desc>
+			<Selections.0.Display>Tặng một ít linh thạch</Selections.0.Display>
+			<Selections.1.Display>Thuyết phục</Selections.1.Display>
+		</Text>
+		<Text Name="Outs3">
+			<DisplayName>Trên đường đi</DisplayName>
+			<Desc>Đại diện [NAME] gặp vài tán tu đang bắt nạt một số nông dân.</Desc>
+			<Selections.0.Display>Tặng một ít linh thạch</Selections.0.Display>
+			<Selections.1.Display>Thuyết phục</Selections.1.Display>
+			<Selections.2.Display>Giả vờ không nhìn thấy</Selections.2.Display>
+		</Text>
+		<Text Name="CollectFaith">
+			<DisplayName>Thu thập tín ngưỡng</DisplayName>
+			<Desc>Ở nơi này có tín đồ của chúng ta, có thể thu thập tín ngưỡng.</Desc>
+			<Selections.0.Display>Thu thập</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_GoodMood">
+			<DisplayName>Lục Lâu Phường</DisplayName>
+			<Desc>Lục Lâu Phường là nơi để các đệ tử tu tiên giải trí.</Desc>
+			<Selections.0.Display>Giải trí</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>
+

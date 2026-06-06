@@ -1,0 +1,117 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Sys_Lost">
+			<Descript>Mô-đun bị mất</Descript>
+			<Tip>Mô-đun bị mất</Tip>
+		</Text>
+		<Text Name="StabilityBasev">
+			<Descript>Giá trị cơ bản độ ổn định trận pháp {1}{0}</Descript>
+		</Text>
+		<Text Name="StabilityBasep">
+			<Descript>Giá trị cơ bản độ ổn định trận pháp {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="StabilityAddv">
+			<Descript>Độ ổn định trận pháp {1}{0}</Descript>
+		</Text>
+		<Text Name="StabilityAddp">
+			<Descript>Độ ổn định trận pháp {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="FabaoAtkPowerBasev">
+			<Descript>Giá trị cơ bản khả năng điều khiển trận pháp {1}{0}</Descript>
+		</Text>
+		<Text Name="FabaoAtkPowerBasep">
+			<Descript>Giá trị cơ bản khả năng điều khiển trận pháp {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="FabaoAtkPowerAddv">
+			<Descript>Khả năng điều khiển trận pháp {1}{0}</Descript>
+		</Text>
+		<Text Name="FabaoAtkPowerAddp">
+			<Descript>Khả năng điều khiển trận pháp {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="MagicPowerBasev">
+			<Descript>Giá trị cơ bản khả năng thuật pháp trận pháp {1}{0}</Descript>
+		</Text>
+		<Text Name="MagicPowerBasep">
+			<Descript>Giá trị cơ bản khả năng thuật pháp trận pháp {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="MagicPowerAddv">
+			<Descript>Khả năng thuật pháp trận pháp {1}{0}</Descript>
+		</Text>
+		<Text Name="MagicPowerAddp">
+			<Descript>Khả năng thuật pháp trận pháp {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="SheildBasev">
+			<Descript>Giá trị cơ bản khả năng phòng ngự trận pháp {1}{0}</Descript>
+		</Text>
+		<Text Name="SheildBasep">
+			<Descript>Giá trị cơ bản khả năng phòng ngự trận pháp {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="SheildAddv">
+			<Descript>Khả năng phòng ngự trận pháp {1}{0}</Descript>
+		</Text>
+		<Text Name="SheildAddp">
+			<Descript>Khả năng phòng ngự trận pháp {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="SkillCooldownBasev">
+			<Descript>Giá trị cơ bản khả năng vận hành trận pháp {1}{0}</Descript>
+		</Text>
+		<Text Name="SkillCooldownBasep">
+			<Descript>Giá trị cơ bản khả năng vận hành trận pháp {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="SkillCooldownAddv">
+			<Descript>Khả năng vận hành trận pháp {1}{0}</Descript>
+		</Text>
+		<Text Name="SkillCooldownAddp">
+			<Descript>Khả năng vận hành trận pháp {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="ReduceCostBasev">
+			<Descript>Giá trị cơ bản hiệu suất trận pháp {1}{0}</Descript>
+		</Text>
+		<Text Name="ReduceCostBasep">
+			<Descript>Giá trị cơ bản hiệu suất trận pháp {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="ReduceCostAddv">
+			<Descript>Hiệu suất trận pháp {1}{0}</Descript>
+		</Text>
+		<Text Name="ReduceCostAddp">
+			<Descript>Hiệu suất trận pháp {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerupBasev">
+			<Descript>Quy mô trận pháp {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerupBasep">
+			<Descript>Quy mô trận pháp {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerupAddv">
+			<Descript>Quy mô trận pháp {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerupAddp">
+			<Descript>Quy mô trận pháp {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcZhenPressurePowerupBasev">
+			<Descript>Tải trọng trận pháp {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcZhenPressurePowerupBasep">
+			<Descript>Tải trọng trận pháp {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcZhenPressurePowerupAddv">
+			<Descript>Tải trọng trận pháp {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcZhenPressurePowerupAddp">
+			<Descript>Tải trọng trận pháp {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcZhenPointBasev">
+			<Descript>Giá trị cơ bản giới hạn linh cơ trận pháp {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcZhenPointBasep">
+			<Descript>Giá trị cơ bản giới hạn linh cơ trận pháp {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcZhenPointAddv">
+			<Descript>Giới hạn linh cơ trận pháp {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcZhenPointAddp">
+			<Descript>Giới hạn linh cơ trận pháp {1}{0:P2}</Descript>
+		</Text>
+	</List>
+</Texts>
+

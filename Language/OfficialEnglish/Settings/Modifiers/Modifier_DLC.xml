@@ -1,0 +1,21 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="YinYangErosion">
+			<DisplayName>Xâm thực âm dương</DisplayName>
+			<Desc>Sử dụng sức mạnh âm dương để giảm phòng thủ của kẻ địch.</Desc>
+		</Text>
+		<Text Name="BambooBedFeel">
+			<DisplayName>Lương ý</DisplayName>
+			<Desc>Giường trúc mang lại cảm giác mát lạnh từng đợt.</Desc>
+		</Text>
+		<Text Name="Modifier_YG_YinYangForce">
+			<DisplayName>Nguyên Thân Chân Lực (Hỗn)</DisplayName>
+			<Desc>Đốt cháy mạnh mẽ nguồn sống bản nguyên, kích phát lực lượng nguyên thân của yêu tộc, tăng mạnh uy lực ngự khí, uy lực bí thể, độ bền của linh khí hộ thể và bí thể.</Desc>
+		</Text>
+		<Text Name="Fish_EndureHunger">
+			<DisplayName>Chống đói</DisplayName>
+			<Desc>Sau khi ăn cá rô vàng, khả năng chống đói tăng lên.</Desc>
+		</Text>
+	</List>
+</Texts>
+

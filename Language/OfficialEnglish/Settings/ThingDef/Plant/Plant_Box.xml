@@ -1,0 +1,41 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Box_Cargo" sParam="Plant">
+			<ThingName>Rương cũ</ThingName>
+			<Desc>Một chiếc hòm hàng còn khá nguyên vẹn, dường như bị bỏ rơi trong lúc người ta chạy trốn chiến loạn.</Desc>
+			<StoryBnts.0.Name>Tìm kiếm</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tìm kiếm chiếc hòm này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse" sParam="Plant">
+			<ThingName>Xác mục nát</ThingName>
+			<Desc>Một bộ xác đã mục nát từ lâu, không biết vì sao lại chết ở đây.</Desc>
+			<StoryBnts.0.Name>Tìm kiếm</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tìm kiếm bộ xác này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse_OldMan1" sParam="Plant">
+			<ThingName>Xác mục nát</ThingName>
+			<Desc>Một bộ xác đã mục nát từ lâu, không biết vì sao lại chết ở đây.</Desc>
+			<StoryBnts.0.Name>Tìm kiếm</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tìm kiếm bộ xác này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse_OldMan2" sParam="Plant">
+			<ThingName>Xác mục nát</ThingName>
+			<Desc>Một bộ xác đã mục nát từ lâu, không biết vì sao lại chết ở đây.</Desc>
+			<StoryBnts.0.Name>Tìm kiếm</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tìm kiếm bộ xác này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse_BeastMan" sParam="Plant">
+			<ThingName>Xác nửa mục nát</ThingName>
+			<Desc>Một bộ xác bị mục nát một nửa, không hiểu sao thú hoang lại không ăn nó.</Desc>
+			<StoryBnts.0.Name>Tiếp xúc</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử dùng thần thức tiếp xúc với âm hồn của nó.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse_ShiXiong" sParam="Plant">
+			<ThingName>Xác tươi mới</ThingName>
+			<Desc>Một bộ xác vừa mới chết không lâu, không biết vì sao lại ở đây.</Desc>
+			<StoryBnts.0.Name>Tìm kiếm</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tìm kiếm bộ xác này.</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>
+

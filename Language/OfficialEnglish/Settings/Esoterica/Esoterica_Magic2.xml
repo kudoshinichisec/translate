@@ -1,0 +1,25 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Magic_MakeHorse_1">
+			<DisplayName>Phong Linh Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Phong Linh Thuật\nSử dụng lên yêu thú đang hôn mê hoặc ngã xuống có cảnh giới thấp hơn bản thân để phong ấn thành linh khế.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_WanWuTongLing1">
+			<DisplayName>Huyền Hồn Tạo Mệnh</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Huyền Hồn Tạo Mệnh\nTiêu hao 7 viên U Phách và 3 viên Linh Phách, thử khiến một vật phẩm thông linh. Kết quả thông linh cần một khoảng thời gian để xuất hiện. Khi vật phẩm đang trong quá trình thông linh, không thể tiếp tục thông linh lần nữa. Đạo hạnh của người thi triển càng cao, số lần thông linh của vật phẩm càng nhiều, tỷ lệ thành công càng lớn.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_WanWuTongLing2">
+			<DisplayName>Mệnh Hỏa Trúc Linh</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Mệnh Hỏa Trúc Linh\nTiêu hao mười năm mệnh nguyên và 1 viên nguyên linh chi phách, cố gắng làm cho kiến trúc mục tiêu thông linh. Kết quả thông linh cần một thời gian để xuất hiện. Trong quá trình thông linh, kiến trúc không thể được thông linh lần nữa. Đạo hạnh của người thi pháp càng cao, số lần kiến trúc đã được thông linh càng nhiều, xác suất thông linh thành công càng cao.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_ZaoHuaSuTi">
+			<DisplayName>Tạo Hóa Tố Thể</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Tạo Hóa Tố Thể\nTiêu hao một viên tạo hóa ngọc tử, tái tạo tuổi tác của mục tiêu về trạng thái 14 tuổi và khôi phục tất cả các bộ phận cơ thể đã mất.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_YuanLing">
+			<DisplayName>Nguyên Linh Bổ Thiên Quyết</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Nguyên Linh Bổ Thiên Quyết\nSử dụng trên phôi bảo bí, tiêu hao 1 viên nguyên linh chi phách, làm cho điều kiện kích hoạt của nó được thỏa mãn ngay lập tức.[/color][/size]</EffectDesc>
+		</Text>
+	</List>
+</Texts>
+

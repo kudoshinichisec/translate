@@ -1,0 +1,87 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="JYRabbit">
+			<DisplayName>Thỏ Yêu</DisplayName>
+			<Desc>Động vật chưa thức tỉnh linh trí nhưng có được sức mạnh: Thỏ yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="JYChicken">
+			<DisplayName>Yêu Kê</DisplayName>
+			<Desc>Động vật chưa thức tỉnh linh trí nhưng có được sức mạnh: Gà yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="JYWolf">
+			<DisplayName>Yêu Lang</DisplayName>
+			<Desc>Động vật chưa thức tỉnh linh trí nhưng có được sức mạnh: Sói yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="JYSnake">
+			<DisplayName>Yêu Xà</DisplayName>
+			<Desc>Động vật chưa thức tỉnh linh trí nhưng có được sức mạnh: Rắn yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="JYBoar">
+			<DisplayName>Yêu Trư</DisplayName>
+			<Desc>Động vật chưa thức tỉnh linh trí nhưng có được sức mạnh: Lợn yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="JYBear">
+			<DisplayName>Yêu Hùng</DisplayName>
+			<Desc>Động vật chưa thức tỉnh linh trí nhưng có được sức mạnh: Gấu yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="JYFrog">
+			<DisplayName>Yêu Oa</DisplayName>
+			<Desc>Động vật chưa thức tỉnh linh trí nhưng có được sức mạnh: Ếch yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="JYTurtle">
+			<DisplayName>Yêu Quy</DisplayName>
+			<Desc>Động vật chưa thức tỉnh linh trí nhưng có được sức mạnh: Rùa yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="JYCat">
+			<DisplayName>Yêu Miêu</DisplayName>
+			<Desc>Động vật chưa thức tỉnh linh trí nhưng có được sức mạnh: Mèo yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="JYCattle">
+			<DisplayName>Yêu Ngưu</DisplayName>
+			<Desc>Động vật chưa thức tỉnh linh trí nhưng có được sức mạnh: Trâu yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="JYTiger">
+			<DisplayName>Yêu Hổ</DisplayName>
+			<Desc>Động vật chưa thức tỉnh linh trí nhưng có được sức mạnh: Hổ yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="JYLongpuNight">
+			<DisplayName>Long chi nô bộc (Đêm)</DisplayName>
+			<Desc>Kẻ phục vụ được biến hóa từ sức mạnh Âm Dương</Desc>
+		</Text>
+		<Text Name="JYLongpuDay">
+			<DisplayName>Long chi nô bộc (Ngày)</DisplayName>
+			<Desc>Kẻ phục vụ được biến hóa từ sức mạnh Âm Dương</Desc>
+		</Text>
+		<Text Name="JYZhuLongENian">
+			<DisplayName>Ác Niệm Long Hình</DisplayName>
+			<Desc>Sự hiện thân của tà niệm trong lòng</Desc>
+		</Text>
+		<Text Name="JYZhuLongShanNian">
+			<DisplayName>Thiện Niệm Long Hình</DisplayName>
+			<Desc>Sự hiện thân của thiện niệm trong lòng</Desc>
+		</Text>
+	</List>
+</Texts>
+

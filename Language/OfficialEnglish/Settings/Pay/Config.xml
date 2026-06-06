@@ -1,0 +1,14 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="CosmeticPack_XiaoWuJian">
+			<Display>Gói skin đồ vật nhỏ</Display>
+		</Text>
+		<Text Name="CosmeticPack_Building">
+			<Display>Gói da kiến trúc</Display>
+		</Text>
+		<Text Name="CosmeticPack_Others">
+			<Display>Gói giao diện khế ước/Linh thú/Búp bê</Display>
+		</Text>
+	</List>
+</Texts>
+

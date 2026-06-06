@@ -1,0 +1,65 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BornComa">
+			<DisplayName>Hôn mê</DisplayName>
+			<Desc>Rơi vào trạng thái hôn mê.</Desc>
+		</Text>
+		<Text Name="FightPowerUp">
+			<DisplayName>Tăng trưởng sức mạnh</DisplayName>
+			<Desc>Tấn công và phòng thủ được nâng cao từ gốc rễ.</Desc>
+		</Text>
+		<Text Name="FightPowerUp_DiMu">
+			<DisplayName>Địa Mẫu Sát Khí</DisplayName>
+			<Desc>Dưới tác động của Địa Mẫu Sát Khí, sức mạnh được tăng cường đáng kể.</Desc>
+		</Text>
+		<Text Name="JiaoLongFightPowerUp">
+			<DisplayName>Huyền Thủy Chi Lực</DisplayName>
+			<Desc>Linh khí và sức tấn công của Giao Long được tăng lên.</Desc>
+		</Text>
+		<Text Name="XiongFengFightPowerUp">
+			<DisplayName>Xích Hỏa Chi Lực</DisplayName>
+			<Desc>Linh khí và sức tấn công của Hung Phượng được tăng lên.</Desc>
+		</Text>
+		<Text Name="ZhulongFightPowerUp">
+			<DisplayName>Âm Dương Chi Lực</DisplayName>
+			<Desc>Linh khí và sức tấn công của Chúc Long được tăng lên.</Desc>
+		</Text>
+		<Text Name="JiaoLongFightPowerUp2">
+			<DisplayName>Huyền Thủy Chi Lực</DisplayName>
+			<Desc>Linh khí và sức tấn công của Giao Long được tăng lên.</Desc>
+		</Text>
+		<Text Name="JiaoLongFightPowerUp3">
+			<DisplayName>Huyền Thủy Chi Lực</DisplayName>
+			<Desc>Linh khí và sức tấn công của Giao Long được tăng lên.</Desc>
+		</Text>
+		<Text Name="JiaoLongFightPowerUp4">
+			<DisplayName>Huyền Thủy Chi Lực</DisplayName>
+			<Desc>Linh khí và sức tấn công của Giao Long được tăng lên.</Desc>
+		</Text>
+		<Text Name="XiongFengFightPowerUp2">
+			<DisplayName>Xích Hỏa Chi Lực</DisplayName>
+			<Desc>Linh khí và sức tấn công của Hung Phượng được tăng lên.</Desc>
+		</Text>
+		<Text Name="XiongFengFightPowerUp3">
+			<DisplayName>Xích Hỏa Chi Lực</DisplayName>
+			<Desc>Linh khí và sức tấn công của Hung Phượng được tăng lên.</Desc>
+		</Text>
+		<Text Name="ZhulongFightPowerUp2">
+			<DisplayName>Âm Dương Chi Lực</DisplayName>
+			<Desc>Linh khí và sức tấn công của Chúc Long được tăng lên.</Desc>
+		</Text>
+		<Text Name="ZhulongFightPowerUp3">
+			<DisplayName>Âm Dương Chi Lực</DisplayName>
+			<Desc>Linh khí và sức tấn công của Chúc Long được tăng lên.</Desc>
+		</Text>
+		<Text Name="ZhulongFightPowerUp4">
+			<DisplayName>Âm Dương Chi Lực</DisplayName>
+			<Desc>Linh khí và sức tấn công của Chúc Long được tăng lên.</Desc>
+		</Text>
+		<Text Name="Dan_LingTree">
+			<DisplayName>Linh khí cộng hưởng</DisplayName>
+			<Desc>Cộng hưởng với linh khí trong Linh Thụ, có thể tăng tốc độ hồi phục linh khí.</Desc>
+		</Text>
+	</List>
+</Texts>
+

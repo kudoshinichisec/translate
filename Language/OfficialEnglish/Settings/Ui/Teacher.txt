@@ -1,0 +1,29 @@
+ID	Unlock	TXT
+10000及以上不参与随机 必须连续	该内容在几级解锁	内容
+1	1	Nếu muốn nhanh chóng đứng vững, vẫn cần sớm lên kế hoạch cho ruộng đất, trồng cây nông nghiệp thì tốt hơn.
+2	4	Không biết người tấn công môn Thái Nhất từ đâu đến, có vẻ như giới tu hành sắp không yên ổn rồi...
+3	3	[color=#D06508]Thịt khô[/color], [color=#D06508]bánh mì[/color] thì bền lâu hơn thực phẩm tươi sống.
+4	3	Nếu muốn nhanh chóng xây dựng nền tảng, có thể sử dụng [color=#D06508]Đan xây dựng nền tảng[/color].
+5	4	Đường tu hành nhớ kỹ không nên phân tâm, đã là đệ tử nội môn thì không nên bận tâm đến chuyện vặt, làm chậm trễ việc tu hành.
+6	4	Khi tu hành tiêu hao [color=#D06508]tinh nguyên[/color], tất cả sẽ chuyển hóa thành [color=#D06508]giới hạn linh khí[/color], điều này được gọi là luyện tinh hóa khí. Đạo môn chính thống có tu vi thâm hậu chính là vì lý do này.
+7	1	Nếu thiếu thức ăn, có thể [color=#D06508]thu hoạch[/color] thực vật xung quanh hoặc [color=#D06508]săn bắn[/color] động vật xung quanh. Nếu cần thiết, ta cũng sẽ ra tay giúp đỡ.
+8	1	Công việc bên ngoài môn rất tẻ nhạt, nếu cần thiết nên xây dựng một số [color=#D06508]cơ sở giải trí[/color] để tự điều chỉnh.
+9	1	[color=#D06508]Khám phá[/color] sẽ tiêu hao rất nhiều [color=#D06508]năng lượng[/color], trong giai đoạn đầu cần khám phá xung quanh một cách hợp lý.
+10	3	Trong [color=#D06508]Tài liệu Thái Nhất (F1)[/color] có rất nhiều thông tin quan trọng. Nếu có thắc mắc, cứ việc tham khảo.
+11	1	Nên sớm xây dựng [color=#D06508]giếng[/color] để có nguồn nước sạch.
+12	1	Đừng phát lệnh quá nhiều trong một lần, điều này sẽ khiến các đệ tử bận rộn không kịp.
+13	4	Năm đại công pháp của môn Thái Nhất, chẳng lẽ chỉ còn lại một mạch này sao...
+14	4	Sắp rồi sắp rồi...
+15	4	Tôi đã gặp nhiều bạn nhỏ, có một số phương pháp thực sự là...
+16	4	Ánh mắt của các ngươi có vẻ không thân thiện lắm.
+17	4	Giới tu hành không yên ổn, chuyện đâm sau lưng tôi cũng đã thấy nhiều, các ngươi nhỏ hãy cẩn thận.
+18	4	Tôi chỉ yên tâm rời đi khi các ngươi đã đi vào quỹ đạo.
+10000	-1	Ở đây có lẽ tạm thời an toàn rồi, các ngươi có thể [color=#D06508]chặt cây[/color] một chút, nhóm [color=#D06508]lửa trại[/color] lên.
+10001	-1	Ừm... các ngươi hãy nhanh chóng xây dựng một [color=#D06508]điểm chế biến vật liệu[/color], biến [color=#D06508]gỗ thô[/color] thành [color=#D06508]gỗ[/color] để chờ sử dụng sau.
+10002	-1	Mùa xuân lạnh lẽo, các ngươi có thể xây dựng một [color=#D06508]bức tường[/color] để bao quanh thành [color=#D06508]nhà[/color]. Như vậy cũng coi như có chỗ che gió che mưa, thuận tiện để an cư.
+10003	-1	Ta và môn chủ cảu các ngươi là bạn cũ, Thái Nhất gặp nạn, ta nghe tin mà đến, nhưng thật tiếc là đã muộn. Chỉ mong trời có linh, không tuyệt Thái Nhất. Cuối cùng cũng đã tìm thấy các ngươi! Hãy yên tâm, ta sẽ ở đây bế quan một thời gian để bảo vệ các ngươi. Trên con đường tu hành có gì không hiểu, đừng ngần ngại, cứ hỏi.
+10004	-1	Đã đến lúc rời đi, trời phù hộ Thái Nhất... hy vọng các ngươi tu hành thuận lợi.
+10005	-1	Thấy các ngươi dần dần đi vào quỹ đạo, tôi rất an lòng. Tôi sẽ bảo vệ các ngươi một thời gian nữa, có vấn đề gì cứ thoải mái hỏi.
+10006	-1	Ai...
+
+

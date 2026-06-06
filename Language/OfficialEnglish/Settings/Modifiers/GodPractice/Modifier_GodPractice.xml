@@ -1,0 +1,33 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="GodPractice_GodPowerEffect">
+			<DisplayName>Thần tính</DisplayName>
+			<Desc>Khi thần tính tăng, nhân vật càng kiểm soát thần lực cao, khả năng chiến đấu cũng mạnh hơn, đồng thời hệ số thu nhỏ tâm trạng cũng tăng lên.</Desc>
+		</Text>
+		<Text Name="GodPractice_GodPowerEffect_A">
+			<DisplayName>Thần tính</DisplayName>
+			<Desc>Hiệu quả thực tế của thần tính từ 0-30 điểm</Desc>
+		</Text>
+		<Text Name="GodPractice_GodPowerEffect_B">
+			<DisplayName>Thần tính</DisplayName>
+			<Desc>Hiệu quả thực tế của thần tính từ 30-100 điểm</Desc>
+		</Text>
+		<Text Name="GodPractice_Xinzhai">
+			<DisplayName>Tâm Trai</DisplayName>
+			<Desc>Thông qua tâm trai, tạm thời giảm ảnh hưởng của tâm trạng, thời gian tâm trai càng dài, hiệu quả sau khi thành công càng lâu. Trong quá trình tâm trai, tâm cảnh sẽ không thay đổi.</Desc>
+		</Text>
+		<Text Name="GodPractice_GodLike">
+			<DisplayName>Thần hóa</DisplayName>
+			<Desc>Tạm thời điều chỉnh thần tính đến 99.99%, kéo dài 300 giây, sau khi kết thúc sẽ vĩnh viễn nhận được 1% thần tính.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_XinYang_KeJi">
+			<DisplayName>Khắc kỷ</DisplayName>
+			<Desc>Tu hành tín ngưỡng-Khắc kỷ</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_XinYang_ZongYu">
+			<DisplayName>Phóng túng</DisplayName>
+			<Desc>Tu hành tín ngưỡng-Phóng túng</Desc>
+		</Text>
+	</List>
+</Texts>
+

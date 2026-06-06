@@ -1,0 +1,23 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="MainHall_Base">
+			<DisplayName>Điện Chính Sơ Cấp</DisplayName>
+		</Text>
+		<Text Name="MainHall1">
+			<Desc>Điện Chính là biểu tượng của thế lực đại diện chúng ta, nơi dân chúng có thể tìm hiểu và biết đến chúng ta. Mở khóa chính sách Bố Thí, thể hiện lòng nhân đức của phe ta.</Desc>
+		</Text>
+		<Text Name="MainHall2">
+			<DisplayName>Điện Chính Trung Cấp</DisplayName>
+			<Desc>Điện Chính là biểu tượng của thế lực đại diện chúng ta, nơi dân chúng có thể tìm hiểu và biết đến chúng ta. Mở khóa chính sách Bố Thí, thể hiện lòng nhân đức của phe ta. Điện Chính Trung Cấp có diện tích lớn hơn, có thể xây dựng thêm nhiều công trình. Đồng thời có thể thiết lập tượng thần, trực tiếp chuyển tín ngưỡng cho các tu sĩ thần đạo.</Desc>
+		</Text>
+		<Text Name="MainHall3">
+			<DisplayName>Điện Chính Cao Cấp</DisplayName>
+			<Desc>Điện Chính là biểu tượng của thế lực đại diện chúng ta, nơi dân chúng có thể tìm hiểu và biết đến chúng ta. Mở khóa chính sách Bố Thí, thể hiện lòng nhân đức của phe ta. Điện Chính Cao Cấp mở rộng ảnh hưởng của chúng ta, cho phép xây dựng kỳ quan dân gian tại nơi này.</Desc>
+		</Text>
+		<Text Name="MainHall4">
+			<DisplayName>Điện Chính Cao Cấp</DisplayName>
+			<Desc>Điện Chính là biểu tượng của thế lực đại diện chúng ta, nơi dân chúng có thể tìm hiểu và biết đến chúng ta. Mở khóa chính sách Bố Thí, thể hiện lòng nhân đức của phe ta. Điện Chính Cao Cấp mở rộng ảnh hưởng của chúng ta, cho phép xây dựng kỳ quan dân gian tại nơi này.</Desc>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,295 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Guard_LeiBu_1">
+			<DisplayName>Lôi Công</DisplayName>
+			<Names>Doanh</Names>
+			<Desc>Hộ pháp nắm giữ lực sấm sét, cung phụng có thể tăng toàn diện các năng lực, đồng thời tăng thêm cấp độ kỹ năng ngự khí, uy lực pháp bảo, nhưng sẽ giảm tốc độ phục hồi linh khí pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_2">
+			<DisplayName>Điện Mẫu</DisplayName>
+			<Names>Giang</Names>
+			<Desc>Hộ pháp nắm giữ lực tia chớp, cung phụng có thể tăng toàn diện các năng lực, đồng thời tăng thêm cấp độ kỹ năng ngự khí, tốc độ phục hồi linh khí pháp bảo, nhưng sẽ giảm uy lực pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_3">
+			<DisplayName>Vân Đình Thần Tướng</DisplayName>
+			<Names>Thiểm</Names>
+			<Desc>Hộ pháp nắm giữ lực điều khiển mây gió, cung phụng có thể tăng nhẹ các năng lực, đồng thời tăng thêm cấp độ kỹ năng hộ thể, nhưng sẽ giảm uy lực pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_4">
+			<DisplayName>Ngự Lôi Thần Tướng</DisplayName>
+			<Names>Chấn</Names>
+			<Desc>Hộ pháp nắm giữ lực tạo mưa sinh lôi, cung phụng có thể tăng nhẹ các năng lực, đồng thời tăng thêm cấp độ kỹ năng hộ thể, nhưng sẽ giảm tốc độ phục hồi linh khí pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_5">
+			<DisplayName>Liệt Khuyết Sứ</DisplayName>
+			<Names>Cung</Names>
+			<Desc>Một trong năm sứ giả Lôi Bộ, cung phụng có thể tăng tuổi thọ và linh khí tối đa, đồng thời tăng thêm uy lực pháp bảo, linh khí pháp bảo, tốc độ phục hồi linh khí pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_6">
+			<DisplayName>Phích Lịch Sứ</DisplayName>
+			<Names>Sấm sét</Names>
+			<Desc>Một trong năm sứ giả Lôi Bộ, cung phụng có thể tăng tuổi thọ và linh khí tối đa, đồng thời tăng thêm uy lực pháp bảo, nhưng sẽ giảm độ bền hộ thuẫn.</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_7">
+			<DisplayName>Thần Tiêu Sứ</DisplayName>
+			<Names>Huyền</Names>
+			<Desc>Một trong năm sứ giả Lôi Bộ, cung phụng có thể tăng tuổi thọ và linh khí tối đa, đồng thời tăng thêm uy lực pháp bảo, uy lực pháp thuật, tiêu hao pháp thuật.</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_8">
+			<DisplayName>Thiên Đô Sứ</DisplayName>
+			<Names>Định</Names>
+			<Desc>Một trong năm sứ giả Lôi Bộ, cung phụng có thể tăng tuổi thọ và linh khí tối đa, đồng thời tăng thêm cấp độ kỹ năng ngự khí, pháp thuật, hộ thể.</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_9">
+			<DisplayName>Ngọc Xu Sứ</DisplayName>
+			<Names>Trụ</Names>
+			<Desc>Một trong năm sứ giả Lôi Bộ, cung phụng có thể tăng mạnh tuổi thọ và linh khí tối đa, đồng thời học được thần thông: 《Quy Nhất Quan》.</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_1">
+			<DisplayName>Thiên Nhân</DisplayName>
+			<Names>Đế</Names>
+			<Desc>Đứng đầu trong Bát Bộ Chúng, cung phụng có thể tăng mạnh toàn diện tất cả năng lực, đồng thời học được thần thông: 《Thần Tâm Quan》.</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_2">
+			<DisplayName>Long Vương</DisplayName>
+			<Names>Long</Names>
+			<Desc>Vị vua nắm giữ sinh linh biển cả trong Bát Bộ Chúng, cung phụng có thể tăng nhẹ tất cả năng lực, học được pháp thuật: 《Ngự Long Khiếu》, đồng thời tăng thêm cấp độ kỹ năng pháp thuật, uy lực pháp thuật, nhưng sẽ tăng gấp đôi tiêu hao pháp thuật.</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_3">
+			<DisplayName>Dạ Xoa</DisplayName>
+			<Names>La</Names>
+			<Desc>Vị vua hộ pháp đại diện cho sự nhanh nhẹn và bí ẩn trong Bát Bộ Chúng, cung phụng có thể tăng nhẹ các năng lực, học được pháp thuật: 《Dạ Xoa Huyết Chú》, đồng thời tăng thêm uy lực pháp thuật, tiêu hao pháp thuật, giảm thời gian niệm pháp thuật.</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_4">
+			<DisplayName>Kiền Đà Bà</DisplayName>
+			<Names>Huyễn</Names>
+			<Desc>Hộ pháp đại diện cho sự biến hóa mờ mịt trong Bát Bộ Chúng, cung phụng có thể tăng nhẹ các năng lực, đồng thời tăng thêm tốc độ phục hồi linh khí pháp bảo, giảm tiêu hao linh khí pháp thuật.</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_5">
+			<DisplayName>A Tu La</DisplayName>
+			<Names>Ma</Names>
+			<Desc>Hộ pháp đại diện cho sát lục và ác niệm trong Bát Bộ Chúng, cung phụng có thể tăng nhẹ các năng lực, học được pháp thuật: 《Tu La Kiếm》, đồng thời tăng thêm cấp độ kỹ năng chiến đấu, ngự khí, pháp thuật, hộ thể.</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_6">
+			<DisplayName>Ca Lâu La</DisplayName>
+			<Names>Bằng</Names>
+			<Desc>Đại diện cho thần uy trang nghiêm trong Bát Bộ Chúng, phụng thờ có thể tăng nhẹ các khả năng, đồng thời tăng thêm tốc độ bay của pháp khí, tốc độ pháp bảo, tốc độ xoay chuyển pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_7">
+			<DisplayName>Cận Na La</DisplayName>
+			<Names>Nhạc</Names>
+			<Desc>Đại diện cho sự tốt đẹp và yên tĩnh trong Bát Bộ Chúng, phụng thờ có thể tăng nhẹ các khả năng, học được thuật pháp: Tĩnh Lặng, đồng thời tăng thêm sức quyến rũ, tuổi thọ và linh khí tối đa.</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_8">
+			<DisplayName>Ma Hô La Già</DisplayName>
+			<Names>Kiếp nạn</Names>
+			<Desc>Đại diện cho vua của chúng sinh trên mặt đất trong Bát Bộ Chúng, phụng thờ có thể tăng nhẹ các khả năng, nhận được thần thông: Quy Nhất Quan, đồng thời tăng thêm cấp độ kỹ năng hộ thuẫn và cường độ hộ thuẫn.</Desc>
+		</Text>
+		<Text Name="Guard_YouMing_1">
+			<DisplayName>Thông U Phán Quan</DisplayName>
+			<Names>Lý</Names>
+			<Desc>Hộ pháp cai quản sinh tử trong thế giới U Minh, phụng thờ có thể tăng tất cả các khả năng, nhận được thần thông: Âm Dương Nghịch Chuyển, đồng thời tăng thêm cấp độ kỹ năng phòng ngự và linh khí tối đa.</Desc>
+		</Text>
+		<Text Name="Guard_YouMing_2">
+			<DisplayName>Hắc Y Vô Thường</DisplayName>
+			<Names>Phạm</Names>
+			<Desc>Sứ giả câu hồn trong thế giới U Minh, phụng thờ có thể tăng nhẹ tất cả các khả năng, học được thuật pháp: Hộ Vô Thường, đồng thời tăng thêm cấp độ kỹ năng điều khiển pháp khí, uy lực pháp bảo, linh khí pháp bảo và tốc độ hồi phục linh khí pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_YouMing_3">
+			<DisplayName>Bạch Bào Vô Thường</DisplayName>
+			<Names>Tạ</Names>
+			<Desc>Sứ giả câu hồn trong thế giới U Minh, phụng thờ có thể tăng nhẹ tất cả các khả năng, đồng thời tăng thêm cấp độ kỹ năng thuật pháp, uy lực thuật pháp và tiêu hao thuật pháp.</Desc>
+		</Text>
+		<Text Name="Guard_YouMing_4">
+			<DisplayName>Ngưu Đầu U Sứ</DisplayName>
+			<Names>Bò</Names>
+			<Desc>Người tuần tra trong thế giới U Minh, phụng thờ có thể tăng nhẹ tất cả các khả năng, đồng thời tăng thêm cường độ hộ thuẫn và uy lực pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_YouMing_5">
+			<DisplayName>Mã Diện Quỷ Tướng</DisplayName>
+			<Names>Mã</Names>
+			<Desc>Người tuần tra trong thế giới U Minh, phụng thờ có thể tăng nhẹ tất cả các khả năng, đồng thời tăng thêm cường độ hộ thuẫn và uy lực thuật pháp.</Desc>
+		</Text>
+		<Text Name="Guard_YouMing_6">
+			<DisplayName>Dẫn Độ Nhân</DisplayName>
+			<Names>Mạnh</Names>
+			<Desc>Người dẫn đường sông U Minh, phụng thờ có thể tăng tuổi thọ và linh khí tối đa, đồng thời nhận được thần thông: Hoàn Hồn Thuật, tăng thêm uy lực pháp bảo và uy lực thuật pháp.</Desc>
+		</Text>
+		<Text Name="Guard_YouMing_7">
+			<DisplayName>Âm Sơn Vệ</DisplayName>
+			<Names>Hà</Names>
+			<Desc>Người bảo vệ Âm Sơn trong thế giới U Minh, phụng thờ có thể tăng tuổi thọ và linh khí tối đa, đồng thời tăng thêm cường độ hộ thuẫn và nhận được thần thông: Quy Nhất Quan.</Desc>
+		</Text>
+		<Text Name="Guard_Other_1">
+			<DisplayName>Tham Lang Tinh</DisplayName>
+			<Names>Lục</Names>
+			<Desc>Linh tinh tú, hung sát phi thường, phụng thờ sẽ tăng tất cả các khả năng, đồng thời tăng thêm uy lực pháp bảo và uy lực thuật pháp, nhưng giảm mạnh tuổi thọ.</Desc>
+		</Text>
+		<Text Name="Guard_Other_2">
+			<DisplayName>Thất Sát Tinh</DisplayName>
+			<Names>Sát</Names>
+			<Desc>Linh tinh tú, hung sát phi thường, phụng thờ sẽ tăng tất cả các khả năng, đồng thời tăng thêm uy lực pháp bảo và uy lực thuật pháp, nhưng giảm mạnh giới hạn linh khí.</Desc>
+		</Text>
+		<Text Name="Guard_Other_3">
+			<DisplayName>Phá Quân Tinh</DisplayName>
+			<Names>Quân</Names>
+			<Desc>Linh tinh tú, hung sát phi thường, phụng thờ sẽ tăng tất cả các khả năng, đồng thời tăng thêm uy lực pháp bảo và uy lực thuật pháp, nhưng giảm mạnh cường độ hộ thuẫn.</Desc>
+		</Text>
+		<Text Name="Guard_Other_4">
+			<DisplayName>Xích Linh</DisplayName>
+			<Names>Đỏ</Names>
+			<Desc>Hộ pháp Ngũ Phương Ngũ Hành thời thượng cổ, phụng thờ sẽ tăng nhẹ tất cả các khả năng, đồng thời tăng thêm cấp độ kỹ năng thuật pháp và uy lực thuật pháp.</Desc>
+		</Text>
+		<Text Name="Guard_Other_5">
+			<DisplayName>Bạch Linh</DisplayName>
+			<Names>Trắng</Names>
+			<Desc>Hộ pháp Ngũ Phương Ngũ Hành thời thượng cổ, phụng thờ sẽ tăng nhẹ tất cả các khả năng, đồng thời tăng thêm cấp độ kỹ năng pháp bảo, uy lực pháp bảo, giới hạn linh khí pháp bảo và tốc độ hồi phục linh khí pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_Other_6">
+			<DisplayName>Hoàng Linh</DisplayName>
+			<Names>Cơ</Names>
+			<Desc>Hộ pháp Ngũ Phương Ngũ Hành thời thượng cổ, phụng thờ sẽ tăng nhẹ tất cả các khả năng, đồng thời tăng thêm cấp độ kỹ năng hộ thể và cường độ hộ thuẫn.</Desc>
+		</Text>
+		<Text Name="Guard_Other_7">
+			<DisplayName>Hắc Linh</DisplayName>
+			<Names>Chấp</Names>
+			<Desc>Hộ pháp Ngũ Phương Ngũ Hành thời thượng cổ, phụng thờ sẽ tăng nhẹ tất cả các khả năng, đồng thời tăng thêm cảm giác khí.</Desc>
+		</Text>
+		<Text Name="Guard_Other_8">
+			<DisplayName>Thanh Linh</DisplayName>
+			<Names>Linh</Names>
+			<Desc>Hộ pháp Ngũ Phương Ngũ Hành thời thượng cổ, phụng thờ sẽ tăng nhẹ tất cả các khả năng, đồng thời tăng thêm linh khí tối đa.</Desc>
+		</Text>
+		<Text Name="Guard_Other_9">
+			<DisplayName>Hải Linh</DisplayName>
+			<Names>Vương</Names>
+			<Desc>Hộ pháp không rõ nguồn gốc từ thần đạo nào, phụng thờ sẽ tăng nhẹ tất cả các khả năng, đồng thời tăng thêm uy lực thuật pháp.</Desc>
+		</Text>
+		<Text Name="Guard_Other_10">
+			<DisplayName>Sơn Linh</DisplayName>
+			<Names>Thái</Names>
+			<Desc>Linh hộ pháp của núi non, phụng thờ sẽ tăng nhẹ tất cả các khả năng, đồng thời tăng thêm cường độ hộ thuẫn.</Desc>
+		</Text>
+		<Text Name="Guard_Other_11">
+			<DisplayName>Hoa Linh</DisplayName>
+			<Names>Hương</Names>
+			<Desc>Linh hộ pháp của trăm hoa, phụng thờ sẽ tăng nhẹ tất cả các khả năng, học được thuật pháp: Vạn Hoa Chú, đồng thời tăng thêm linh khí tối đa.</Desc>
+		</Text>
+		<Text Name="Guard_Other_12">
+			<DisplayName>Cự Linh</DisplayName>
+			<Names>Sùng</Names>
+			<Desc>Hộ pháp mang sức mạnh to lớn, phụng thờ sẽ tăng nhẹ tất cả các khả năng, đồng thời tăng thêm khả năng đẩy lùi pháp bảo và chống đẩy lùi pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_Base_1">
+			<DisplayName>Kim Tinh</DisplayName>
+			<Names>Nhận</Names>
+			<Desc>Hộ pháp không chủ khắp nơi trong trời đất. Phụng thờ hộ pháp này có thể tăng cấp độ kỹ năng pháp bảo, uy lực pháp bảo, giới hạn linh khí pháp bảo và tốc độ hồi phục linh khí pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_Base_2">
+			<DisplayName>Mộc Tinh</DisplayName>
+			<Names>Diệp</Names>
+			<Desc>Hộ pháp không chủ khắp nơi trong trời đất. Phụng thờ hộ pháp này có thể tăng linh khí tối đa.</Desc>
+		</Text>
+		<Text Name="Guard_Base_3">
+			<DisplayName>Thủy Tinh</DisplayName>
+			<Names>Lưu</Names>
+			<Desc>Hộ pháp không chủ khắp nơi trong trời đất. Phụng thờ hộ pháp này có thể tăng cảm giác khí.</Desc>
+		</Text>
+		<Text Name="Guard_Base_4">
+			<DisplayName>Hỏa Tinh</DisplayName>
+			<Names>Diễm</Names>
+			<Desc>Hộ pháp không chủ khắp nơi trong trời đất. Phụng thờ hộ pháp này có thể tăng cấp độ kỹ năng thuật pháp và uy lực thuật pháp.</Desc>
+		</Text>
+		<Text Name="Guard_Base_5">
+			<DisplayName>Thổ Tinh</DisplayName>
+			<Names>Trần</Names>
+			<Desc>Hộ pháp không chủ khắp nơi trong trời đất. Phụng thờ hộ pháp này có thể tăng cấp độ kỹ năng hộ thể và cường độ hộ thuẫn.</Desc>
+		</Text>
+		<Text Name="Guard_Base_6">
+			<DisplayName>Thổ Sát</DisplayName>
+			<Names>Tham</Names>
+			<Desc>Hộ pháp không chủ khắp nơi trong trời đất. Phụng thờ hộ pháp này có thể tăng tuổi thọ.</Desc>
+		</Text>
+		<Text Name="Guard_Base_7">
+			<DisplayName>Mộc Sát</DisplayName>
+			<Names>Linh</Names>
+			<Desc>Hộ pháp không chủ khắp nơi trong trời đất. Phụng thờ hộ pháp này có thể tăng giới hạn linh khí tối đa.</Desc>
+		</Text>
+		<Text Name="Guard_Base_8">
+			<DisplayName>Kim Sát</DisplayName>
+			<Names>Diệt</Names>
+			<Desc>Hộ pháp không chủ khắp nơi trong trời đất. Phụng thờ hộ pháp này có thể tăng uy lực pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_Base_9">
+			<DisplayName>Hồ Tinh</DisplayName>
+			<Names>Tại</Names>
+			<Desc>Hộ pháp không chủ khắp nơi trong trời đất. Phụng thờ hộ pháp này có thể tăng tốc độ hồi phục linh khí pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_Base_10">
+			<DisplayName>Tinh Tinh</DisplayName>
+			<Names>Minh</Names>
+			<Desc>Hộ pháp không chủ khắp nơi trong trời đất. Phụng thờ hộ pháp này có thể tăng linh khí pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_Base_11">
+			<DisplayName>Nham Tinh</DisplayName>
+			<Names>Hậu</Names>
+			<Desc>Hộ pháp không chủ khắp nơi trong trời đất. Phụng thờ hộ pháp này có thể tăng cường độ hộ thuẫn.</Desc>
+		</Text>
+		<Text Name="Guard_Base_12">
+			<DisplayName>Hỏa Sát</DisplayName>
+			<Names>Xích</Names>
+			<Desc>Hộ pháp không chủ khắp nơi trong trời đất. Phụng thờ hộ pháp này có thể tăng sát thương thuật pháp.</Desc>
+		</Text>
+		<Text Name="Guard_Base_13">
+			<DisplayName>Thủy Sát</DisplayName>
+			<Names>Quyết</Names>
+			<Desc>Hộ pháp không chủ khắp nơi trong trời đất. Phụng thờ hộ pháp này có thể giảm tiêu hao thuật pháp.</Desc>
+		</Text>
+		<Text Name="Guard_Base_14">
+			<DisplayName>Phong Tinh</DisplayName>
+			<Names>Khiếu</Names>
+			<Desc>Hộ pháp không chủ khắp nơi trong trời đất. Phụng thờ hộ pháp này có thể tăng tốc độ bay của thuật pháp và pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_Base_15">
+			<DisplayName>Phong Sát</DisplayName>
+			<Names>Minh</Names>
+			<Desc>Hộ pháp không chủ khắp nơi trong trời đất. Phụng thờ hộ pháp này có thể tăng tốc độ xoay chuyển pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_Base_16">
+			<DisplayName>Nham Sát</DisplayName>
+			<Names>Chấp</Names>
+			<Desc>Hộ pháp không chủ khắp nơi trong trời đất. Phụng thờ hộ pháp này có thể tăng khoảng cách đẩy lùi pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_Base_17">
+			<DisplayName>Nhẫn Sát</DisplayName>
+			<Names>Kiên</Names>
+			<Desc>Hộ pháp không chủ khắp nơi trong trời đất. Phụng thờ hộ pháp này có thể tăng khả năng chống đẩy lùi pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_Base_18">
+			<DisplayName>Mộc Cương</DisplayName>
+			<Names>Diệp</Names>
+			<Desc>Hộ pháp không chủ khắp nơi trong trời đất. Phụng thờ hộ pháp này có thể giảm thời gian niệm thuật pháp.</Desc>
+		</Text>
+		<Text Name="Guard_Base_19">
+			<DisplayName>Thủy Cương</DisplayName>
+			<Names>Ba</Names>
+			<Desc>Hộ pháp không chủ khắp nơi trong trời đất. Phụng thờ hộ pháp này có thể giảm tiêu hao thuật pháp.</Desc>
+		</Text>
+		<Text Name="Guard_Base_20">
+			<DisplayName>Kim Cương</DisplayName>
+			<Names>Đồng</Names>
+			<Desc>Hộ pháp không chủ khắp nơi trong trời đất. Phụng thờ hộ pháp này có thể tăng cấp độ kỹ năng điều khiển pháp khí.</Desc>
+		</Text>
+		<Text Name="Guard_Base_21">
+			<DisplayName>Hỏa Cương</DisplayName>
+			<Names>Diễm</Names>
+			<Desc>Hộ pháp không chủ khắp nơi trong trời đất. Phụng thờ hộ pháp này có thể tăng cấp độ kỹ năng thuật pháp.</Desc>
+		</Text>
+		<Text Name="Guard_Base_22">
+			<DisplayName>Thổ Cương</DisplayName>
+			<Names>Mạch</Names>
+			<Desc>Hộ pháp không chủ khắp nơi trong trời đất. Phụng thờ hộ pháp này có thể tăng cấp độ kỹ năng hộ thể.</Desc>
+		</Text>
+	</List>
+</Texts>
+

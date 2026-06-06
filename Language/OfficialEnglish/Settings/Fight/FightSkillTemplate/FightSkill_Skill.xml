@@ -1,0 +1,14 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SYS_LOST">
+			<DisplayName>Mô-đun bị mất</DisplayName>
+		</Text>
+		<Text Name="TSkillSkill">
+			<DisplayName>Tăng cường thuật pháp</DisplayName>
+		</Text>
+		<Text Name="SkillSkill_Gong10_1">
+			<DisplayName>Phần Nhật Chân Pháp</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

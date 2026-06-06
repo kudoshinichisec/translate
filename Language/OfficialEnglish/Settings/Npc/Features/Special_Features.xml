@@ -1,0 +1,466 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SonOfDestiny">
+			<DisplayName>Con của định mệnh</DisplayName>
+			<Desc>Người này được sinh ra từ vận khí của trời đất, là con của định mệnh không thể chối cãi.</Desc>
+		</Text>
+		<Text Name="YinBody">
+			<DisplayName>Thân thể thuần âm</DisplayName>
+			<Desc>Người này có thể chất thuần âm, tuổi thọ rất ngắn. Nhưng lại rất cuốn hút và có thiên phú tu luyện tuyệt vời.</Desc>
+		</Text>
+		<Text Name="YangBody">
+			<DisplayName>Thân thể thuần dương</DisplayName>
+			<Desc>Người này có thể chất thuần dương, tuổi thọ lâu dài, bẩm sinh hiếu chiến và rất cuốn hút. Nhưng họ lại rất khó kiểm soát tâm trạng của mình.</Desc>
+		</Text>
+		<Text Name="Cleanliness">
+			<DisplayName>Sạch sẽ</DisplayName>
+			<Desc>Người này có tính sạch sẽ.</Desc>
+		</Text>
+		<Text Name="Slovenly">
+			<DisplayName>Lôi thôi</DisplayName>
+			<Desc>Người này rất lôi thôi.</Desc>
+		</Text>
+		<Text Name="DragonBlood">
+			<DisplayName>Long huyết giả</DisplayName>
+			<Desc>Người này có dòng máu rồng mỏng manh trong cơ thể, điều này khiến họ nhạy bén và mạnh mẽ hơn người khác. Nhưng bản năng hoang dã truyền từ tổ tiên cũng khiến họ khó kiểm soát cảm xúc.</Desc>
+		</Text>
+		<Text Name="DemonBlood">
+			<DisplayName>Người có dòng máu ma</DisplayName>
+			<Desc>Người này có dòng máu ma mỏng manh trong cơ thể, điều này khiến họ nhạy cảm với nội khí. Nhưng cũng khiến tâm trạng của họ dễ bị dao động.</Desc>
+		</Text>
+		<Text Name="Realization">
+			<DisplayName>Nhận thức</DisplayName>
+			<Desc>Mặc dù người này không thể nhận thức được sự thật rằng mình là một kẻ luân hồi, nhưng [IT] vẫn sở hữu một loại giác ngộ bẩm sinh, giúp [IT] tập trung tốt hơn vào cuộc sống hiện tại.</Desc>
+		</Text>
+		<Text Name="Retarded">
+			<DisplayName>Thiểu năng</DisplayName>
+			<Desc>Nhãn đặc tính thiểu năng</Desc>
+		</Text>
+		<Text Name="LunHui_1">
+			<DisplayName>Minh sát thu hào</DisplayName>
+			<Desc>Người này có đôi mắt tinh tường như điện, nhìn thấu mọi chi tiết nhỏ nhặt.</Desc>
+		</Text>
+		<Text Name="LunHui_2">
+			<DisplayName>Linh tính</DisplayName>
+			<Desc>Người này có linh tính sâu sắc, sở hữu sự lĩnh ngộ vượt trội.</Desc>
+		</Text>
+		<Text Name="LunHui_3">
+			<DisplayName>Ôm chí lớn</DisplayName>
+			<Desc>Người này một lòng hướng đạo, chịu đựng gian khổ tu hành tốt hơn người khác.</Desc>
+		</Text>
+		<Text Name="LunHui_4">
+			<DisplayName>Kẻ không ngủ</DisplayName>
+			<Desc>Người này thiên phú dị bẩm, tràn đầy năng lượng, thức khuya không thành vấn đề.</Desc>
+		</Text>
+		<Text Name="LunHui_5">
+			<DisplayName>Quy Tốc</DisplayName>
+			<Desc>Người này đi rất chậm, thực sự rất chậm.</Desc>
+		</Text>
+		<Text Name="LunHui_6">
+			<DisplayName>Người xuyên không</DisplayName>
+			<Desc>Quá trình xuyên không giúp người này có tuổi thọ dài và thể chất đặc biệt không sợ nóng lạnh.</Desc>
+		</Text>
+		<Text Name="LunHui_7">
+			<DisplayName>Huyết mạch Phượng Hoàng</DisplayName>
+			<Desc>Người này sinh ra mang huyết mạch Phượng Hoàng, nhưng trong xã hội hiện đại, nơi pháp môn tu luyện đã thất truyền, điều này không có tác dụng gì.</Desc>
+		</Text>
+		<Text Name="LunHui_8">
+			<DisplayName>Người hiện đại</DisplayName>
+			<Desc>Kiến thức và tư duy hiện đại giúp [IT] tỏa sáng trong thế giới này, nhưng cũng khiến [IT] không thể đảm nhận nhiều công việc thời cổ đại. Đồng thời, góc nhìn hiện đại cũng khiến [IT] không thể yêu bất kỳ ai trong thế giới này.</Desc>
+		</Text>
+		<Text Name="LunHui_9">
+			<DisplayName>Thiên Sinh Công Đức</DisplayName>
+			<Desc>Người này sinh ra đã mang đại công đức, được trời cao khoan dung đặc biệt.</Desc>
+		</Text>
+		<Text Name="LunHui_10">
+			<DisplayName>Người hiện đại</DisplayName>
+			<Desc>Kiến thức và tư duy hiện đại giúp [IT] sở hữu trí tuệ siêu phàm, nhưng sự phản kháng mạnh mẽ đối với mê tín phong kiến khiến con đường tu hành của [IT] trở nên khó khăn gấp bội.</Desc>
+		</Text>
+		<Text Name="LunHui_11">
+			<DisplayName>Người hiện đại</DisplayName>
+			<Desc>Cuộc sống hiện đại khiến [IT] quen với việc ẩn giấu sự tồn tại của mình, đến mức cảm giác tồn tại của [IT] thấp đến nỗi ngay cả thiên đạo của thế giới này cũng bỏ qua [IT], khiến đạo hạnh bẩm sinh ít ỏi. [IT] không thể đảm nhận nhiều công việc thời cổ đại và chỉ muốn phi thăng để trở về thế giới của mình, không muốn lưu luyến nơi này.</Desc>
+		</Text>
+		<Text Name="LunHui_12">
+			<DisplayName>Nhân định thắng thiên</DisplayName>
+			<Desc>Người này đã bù đắp khiếm khuyết thể chất bằng bốn mươi năm khổ luyện không ngừng, tạo nền tảng vững chắc cho tu hành. Những trải nghiệm này cũng giúp [IT] chịu đựng gian khổ tu hành tốt hơn người khác.</Desc>
+		</Text>
+		<Text Name="LunHui_13">
+			<DisplayName>Lười biếng</DisplayName>
+			<Desc>[IT] làm việc không nhanh không chậm, thường xuyên lang thang vô định trên đường.</Desc>
+		</Text>
+		<Text Name="LunHui_14">
+			<DisplayName>Kế hoạch</DisplayName>
+			<Desc>Cuộc sống văn phòng lâu năm khiến [IT] không giỏi lao động chân tay. Tuy nhiên, trí tưởng tượng phong phú giúp [IT] nhanh chóng hòa nhập vào thế giới này.</Desc>
+		</Text>
+		<Text Name="LunHui_15">
+			<DisplayName>Tà khí nhập thể</DisplayName>
+			<Desc>Người này từng tu luyện công pháp tà đạo và có thể chất đặc biệt. Mặc dù việc xây dựng nền tảng khó khăn hơn người khác, nhưng tiềm năng của [IT] lại vượt xa người thường.</Desc>
+		</Text>
+		<Text Name="LunHui_16">
+			<DisplayName>Thần thụ</DisplayName>
+			<Desc>Người này từng được tiên nhân báo mộng, thay đổi thể chất và sở hữu tuổi thọ dài lâu.</Desc>
+		</Text>
+		<Text Name="LunHui_17">
+			<DisplayName>Cuồng kiếm</DisplayName>
+			<Desc>Người này sinh ra đã yêu kiếm như mạng sống, có thể nói là sinh ra vì kiếm.</Desc>
+		</Text>
+		<Text Name="LunHui_18">
+			<DisplayName>Người hiện đại</DisplayName>
+			<Desc>Cuộc sống hiện đại lâu năm khiến [IT] có thể chất yếu ớt, nhưng bù lại có tầm nhìn rộng mở và tư duy tiên tiến.</Desc>
+		</Text>
+		<Text Name="LunHui_19">
+			<DisplayName>Bước chân vô ảnh</DisplayName>
+			<Desc>Người này lĩnh hội được bước chân vô ảnh từ loài chồn bay, giúp tốc độ di chuyển vượt xa người thường.</Desc>
+		</Text>
+		<Text Name="LunHui_20">
+			<DisplayName>Trượng nghĩa</DisplayName>
+			<Desc>Người này sống nghĩa khí, khiến người khác có thiện cảm.</Desc>
+		</Text>
+		<Text Name="LunHui_21">
+			<DisplayName>Lỗ mãng</DisplayName>
+			<Desc>Người này lỗ mãng, làm việc qua loa, dễ kích động.</Desc>
+		</Text>
+		<Text Name="LunHui_22">
+			<DisplayName>Nhát gan</DisplayName>
+			<Desc>Người này nhát gan, làm việc cực kỳ cẩn trọng.</Desc>
+		</Text>
+		<Text Name="LunHui_23">
+			<DisplayName>Lướt cỏ kinh phong</DisplayName>
+			<Desc>Người này thân pháp nhanh nhẹn, tốc độ di chuyển cực kỳ nhanh.</Desc>
+		</Text>
+		<Text Name="LunHui_24">
+			<DisplayName>Thích ngủ</DisplayName>
+			<Desc>Người này rất thích ngủ, dễ dàng buồn ngủ bất cứ lúc nào.</Desc>
+		</Text>
+		<Text Name="LunHui_25">
+			<DisplayName>Phong thái Ngụy Tấn</DisplayName>
+			<Desc>Người này mang phong thái Ngụy Tấn, học thức uyên bác, có sức hút đặc biệt.</Desc>
+		</Text>
+		<Text Name="LunHui_26">
+			<DisplayName>Người yêu thích xương</DisplayName>
+			<Desc>Người này có niềm đam mê mãnh liệt với xương.</Desc>
+		</Text>
+		<Text Name="LunHui_27">
+			<DisplayName>Ngư dân</DisplayName>
+			<Desc>Người này giỏi đánh cá, mắt nhanh tay lẹ.</Desc>
+		</Text>
+		<Text Name="LunHui_28">
+			<DisplayName>Tắc Nhâm Chi Ca</DisplayName>
+			<Desc>Giọng hát của người này tuyệt vời, có sức mê hoặc như Siren trong truyền thuyết.</Desc>
+		</Text>
+		<Text Name="LunHui_29">
+			<DisplayName>Thanh niên văn nghệ</DisplayName>
+			<Desc>Người này có cảm xúc phong phú và tâm hồn nhạy cảm, có trí tưởng tượng phi thường bẩm sinh.</Desc>
+		</Text>
+		<Text Name="LunHui_30">
+			<DisplayName>Thư thái</DisplayName>
+			<Desc>Người này luôn tự tin, lúc nào cũng trông rất thư thái, không bao giờ hoảng loạn.</Desc>
+		</Text>
+		<Text Name="LunHui_31">
+			<DisplayName>Người gánh vác</DisplayName>
+			<Desc>Người này bị động nhận trách nhiệm, được mọi người yêu thích.</Desc>
+		</Text>
+		<Text Name="LunHui_32">
+			<DisplayName>Kẻ may mắn</DisplayName>
+			<Desc>Người này sinh ra đã là kẻ may mắn, khiến người khác ghen tị.</Desc>
+		</Text>
+		<Text Name="LunHui_33">
+			<DisplayName>Bạo S</DisplayName>
+			<Desc>Người này là một bạo S, emmm.</Desc>
+		</Text>
+		<Text Name="LunHui_34">
+			<DisplayName>Khí vận siêu quần</DisplayName>
+			<Desc>Người này sinh ra đã có khí vận siêu quần.</Desc>
+		</Text>
+		<Text Name="LunHui_35">
+			<DisplayName>Động Vật Chi Hữu</DisplayName>
+			<Desc>Người này yêu động vật, không thể làm nghề săn bắn.</Desc>
+		</Text>
+		<Text Name="LunHui_36">
+			<DisplayName>Công nghệ tương lai</DisplayName>
+			<Desc>Người này nắm giữ bí quyết công nghệ tương lai, làm việc hiệu quả hơn, di chuyển nhanh hơn.</Desc>
+		</Text>
+		<Text Name="LunHui_37">
+			<DisplayName>Chủ tịch</DisplayName>
+			<Desc>Là một chủ tịch được lòng dân, được nhân viên yêu mến.</Desc>
+		</Text>
+		<Text Name="LunHui_38">
+			<DisplayName>Hiệp đạo linh hoạt</DisplayName>
+			<Desc>Người này là một hiệp đạo, mang trong lòng chính nghĩa, thân pháp nhanh nhẹn.</Desc>
+		</Text>
+		<Text Name="LunHui_39">
+			<DisplayName>Kẻ bất tử</DisplayName>
+			<Desc>Người này có sức bền phi thường, chịu nóng chịu lạnh, thân thủ nhanh nhẹn, tuổi thọ dài lâu.</Desc>
+		</Text>
+		<Text Name="LunHui_40">
+			<DisplayName>Rối loạn ám ảnh cưỡng chế</DisplayName>
+			<Desc>Người này mắc chứng rối loạn ám ảnh cưỡng chế, làm việc rất chậm nhưng chất lượng cao.</Desc>
+		</Text>
+		<Text Name="LunHui_41">
+			<DisplayName>Hiệp nghĩa hào sảng</DisplayName>
+			<Desc>Người này có tấm lòng hiệp nghĩa, tính cách hào sảng, khiến người khác có thiện cảm ngay từ lần đầu gặp.</Desc>
+		</Text>
+		<Text Name="LunHui_42">
+			<DisplayName>Thần trù</DisplayName>
+			<Desc>Người này có kỹ năng nấu ăn vô song.</Desc>
+		</Text>
+		<Text Name="LunHui_43">
+			<DisplayName>Chủ nghĩa hoàn hảo</DisplayName>
+			<Desc>Người này có chủ nghĩa hoàn hảo, làm việc rất chậm, nhưng làm rất tốt.</Desc>
+		</Text>
+		<Text Name="LunHui_44">
+			<DisplayName>Ba trăm sáu mươi nghề</DisplayName>
+			<Desc>Quan tâm đến mọi thứ, làm gì cũng vui vẻ.</Desc>
+		</Text>
+		<Text Name="LunHui_45">
+			<DisplayName>Hành động thần kỳ</DisplayName>
+			<Desc>Người này hành động nhanh nhẹn, ánh mắt như điện.</Desc>
+		</Text>
+		<Text Name="LunHui_46">
+			<DisplayName>Nghệ thuật nói bụng</DisplayName>
+			<Desc>Người này không thích nói chuyện, giao tiếp bằng nghệ thuật nói bụng.</Desc>
+		</Text>
+		<Text Name="LunHui_47">
+			<DisplayName>Người ở giang hồ</DisplayName>
+			<Desc>Người này bẩm sinh là người giang hồ.</Desc>
+		</Text>
+		<Text Name="LunHui_48">
+			<DisplayName>Được yêu thích</DisplayName>
+			<Desc>Người này bẩm sinh được mọi người yêu thích!</Desc>
+		</Text>
+		<Text Name="LunHui_49">
+			<DisplayName>Mất trí nhớ</DisplayName>
+			<Desc>Người này quên quá khứ, chỉ tận hưởng cuộc sống hiện tại!</Desc>
+		</Text>
+		<Text Name="LunHui_50">
+			<DisplayName>Cục cục cục</DisplayName>
+			<Desc>Cục cục cục</Desc>
+		</Text>
+		<Text Name="LunHui_51">
+			<DisplayName>Tài năng xuất chúng</DisplayName>
+			<Desc>Người này có tài năng xuất chúng, bẩm sinh chịu được lạnh và nóng, có đủ khả năng tu luyện.</Desc>
+		</Text>
+		<Text Name="LunHui_52">
+			<DisplayName>Trĩ Chi Trớ Chú</DisplayName>
+			<Desc>Người này bị định mệnh nguyền rủa, mãi mãi bị trĩ hành hạ.</Desc>
+		</Text>
+		<Text Name="LunHui_53">
+			<DisplayName>Người lười</DisplayName>
+			<Desc>Không thể làm việc nặng, cả đời cũng không thể làm việc nặng!</Desc>
+		</Text>
+		<Text Name="LunHui_54">
+			<DisplayName>Trường Độ Kinh Nhân</DisplayName>
+			<Desc>Người này có chiều dài ấn tượng, khiến người khác phải thán phục.</Desc>
+		</Text>
+		<Text Name="LunHui_55">
+			<DisplayName>Quan sát sao đêm</DisplayName>
+			<Desc>Người này thường xuyên quan sát sao đêm, đã luyện thành khả năng không cần ngủ nhiều.</Desc>
+		</Text>
+		<Text Name="LunHui_56">
+			<DisplayName>Miệng lưỡi</DisplayName>
+			<Desc>Người này có tài ăn nói, rất giỏi trong việc thuyết phục người khác.</Desc>
+		</Text>
+		<Text Name="LunHui_57">
+			<DisplayName>Hạt giống tu luyện</DisplayName>
+			<Desc>Người này có tài năng xuất chúng, có khả năng tu luyện tốt.</Desc>
+		</Text>
+		<Text Name="LunHui_58">
+			<DisplayName>Thật thà</DisplayName>
+			<Desc>Kinh nghiệm thực tế của người này khiến người khác phải ngưỡng mộ.</Desc>
+		</Text>
+		<Text Name="LunHui_59">
+			<DisplayName>Khoa học</DisplayName>
+			<Desc>Kinh nghiệm khoa học của người này khiến họ tràn đầy niềm tin.</Desc>
+		</Text>
+		<Text Name="LunHui_60">
+			<DisplayName>Tài năng xuất chúng</DisplayName>
+			<Desc>Người này có tài năng xuất chúng, thông minh hơn người, học hỏi rất nhanh.</Desc>
+		</Text>
+		<Text Name="LunHui_61">
+			<DisplayName>Lương y như từ mẫu</DisplayName>
+			<Desc>Người này có y thuật cao siêu, lấy việc cứu người làm nhiệm vụ của mình.</Desc>
+		</Text>
+		<Text Name="LunHui_62">
+			<DisplayName>Cuồng tu tiên</DisplayName>
+			<Desc>Người này một lòng tu tiên, mỗi ngày tu luyện hơn 15 giờ, như người điên.</Desc>
+		</Text>
+		<Text Name="LunHui_63">
+			<DisplayName>Thợ thủ công thần</DisplayName>
+			<Desc>Người này có tài năng xuất chúng, sản phẩm chất lượng rất cao.</Desc>
+		</Text>
+		<Text Name="LunHui_64">
+			<DisplayName>Đan họa</DisplayName>
+		</Text>
+		<Text Name="LunHui_65">
+			<DisplayName>Thầy vẽ phù</DisplayName>
+			<Desc>Người này đã vẽ hàng triệu phù chú, có thể gọi là bậc thầy vẽ phù.</Desc>
+		</Text>
+		<Text Name="LunHui_66">
+			<DisplayName>Người đẹp ngực lớn</DisplayName>
+			<Desc>Người này đẹp và có vòng một lớn, sức hấp dẫn vô cùng.</Desc>
+		</Text>
+		<Text Name="LunHui_67">
+			<DisplayName>Y Liệu Binh</DisplayName>
+			<Desc>Người này có y thuật phi thường, tay nghề khôi phục sức khỏe.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_1">
+			<DisplayName>Kiêu ngạo</DisplayName>
+			<Desc>Người này có tính cách rất khó chịu, quan tâm đến người khác nhưng không thể nói ra.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_2">
+			<DisplayName>Lưỡi độc</DisplayName>
+			<Desc>Người này có lời nói rất độc, thường khiến người khác không nói được.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_3">
+			<DisplayName>Chính trực</DisplayName>
+			<Desc>Người này rất chính trực.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_4">
+			<DisplayName>Xảo quyệt</DisplayName>
+			<Desc>Người này rất xảo quyệt, không tin tưởng ai.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_5">
+			<DisplayName>Yêu ca hát</DisplayName>
+			<Desc>Người này tự tin và phóng khoáng, rất thích ca hát.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_6">
+			<DisplayName>Kiên trì</DisplayName>
+			<Desc>Người này có ý chí kiên cường, có thể chống lại sự mơ hồ trong tu luyện.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_7">
+			<DisplayName>Giọng nói quyến rũ</DisplayName>
+			<Desc>Người này có giọng nói quyến rũ, khiến người khác nghe xong cảm thấy thư giãn.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_8">
+			<DisplayName>Không giỏi giao tiếp</DisplayName>
+			<Desc>Người này thường tự kỷ, không giỏi giao tiếp.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_9">
+			<DisplayName>Điều chỉnh tuổi thọ</DisplayName>
+		</Text>
+		<Text Name="LunHui_Kong_10">
+			<DisplayName>Diễn Kỹ Xuất Chúng</DisplayName>
+			<Desc>Người này có tài năng xuất chúng, diễn xuất xuất sắc!</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_11">
+			<DisplayName>Tò mò</DisplayName>
+			<Desc>Người này rất tò mò, thích tìm hiểu mọi việc.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_12">
+			<DisplayName>Thọ Mệnh Bổ Chính Đại</DisplayName>
+		</Text>
+		<Text Name="LunHui_Kong_13">
+			<DisplayName>Đánh Tráo Trời Đất</DisplayName>
+			<Desc>Người này có số mệnh vô cùng hiếm có, dường như bị trời quên, bẩm sinh tuổi thọ rất dài.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_14">
+			<DisplayName>Chưởng môn</DisplayName>
+			<Desc>Tên thân mật của Bằng Hữu trong phòng livestream.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_15">
+			<DisplayName>Tri Danh Giải Thuyết</DisplayName>
+			<Desc>Người này rất cuốn hút, trong quá trình bình luận cho người khác đã thu hút được rất nhiều người theo dõi và fan hâm mộ.</Desc>
+		</Text>
+		<Text Name="Inborn_Jin_lost">
+			<DisplayName>Tiên Thiên Kim Tổn</DisplayName>
+			<Desc>Tu luyện công pháp thuộc kim loại khó khăn hơn, và dễ bị tổn thương bởi thuộc tính lửa.</Desc>
+		</Text>
+		<Text Name="Inborn_Mu_lost">
+			<DisplayName>Tiên Thiên Mộc Tổn</DisplayName>
+			<Desc>Tu luyện công pháp thuộc gỗ khó khăn hơn, và dễ bị tổn thương bởi thuộc tính kim loại.</Desc>
+		</Text>
+		<Text Name="Inborn_Shui_lost">
+			<DisplayName>Tiên Thiên Thủy Tổn</DisplayName>
+			<Desc>Tu luyện công pháp thuộc nước khó khăn hơn, và dễ bị tổn thương bởi thuộc tính đất.</Desc>
+		</Text>
+		<Text Name="Inborn_Huo_lost">
+			<DisplayName>Tiên Thiên Hỏa Tổn</DisplayName>
+			<Desc>Việc tu luyện công pháp thuộc tính Hỏa khó khăn hơn, và dễ bị tổn thương bởi thuộc tính Thủy.</Desc>
+		</Text>
+		<Text Name="Inborn_Tu_lost">
+			<DisplayName>Tiên Thiên Thổ Tổn</DisplayName>
+			<Desc>Việc tu luyện công pháp thuộc tính Thổ khó khăn hơn, và dễ bị tổn thương bởi thuộc tính Mộc.</Desc>
+		</Text>
+		<Text Name="Inborn_Jin_Add">
+			<DisplayName>Tiên Thiên Kim Đức</DisplayName>
+			<Desc>Việc tu luyện công pháp thuộc tính Kim dễ dàng hơn, và có thể chống lại tổn thương thuộc tính Mộc tốt hơn.</Desc>
+		</Text>
+		<Text Name="Inborn_Mu_Add">
+			<DisplayName>Tiên Thiên Mộc Đức</DisplayName>
+			<Desc>Việc tu luyện công pháp thuộc tính Mộc dễ dàng hơn, và có thể chống lại tổn thương thuộc tính Thổ tốt hơn.</Desc>
+		</Text>
+		<Text Name="Inborn_Shui_Add">
+			<DisplayName>Tiên Thiên Thủy Đức</DisplayName>
+			<Desc>Việc tu luyện công pháp thuộc tính Thủy dễ dàng hơn, và có thể chống lại tổn thương thuộc tính Hỏa tốt hơn.</Desc>
+		</Text>
+		<Text Name="Inborn_Huo_Add">
+			<DisplayName>Tiên Thiên Hỏa Đức</DisplayName>
+			<Desc>Việc tu luyện công pháp thuộc tính Hỏa dễ dàng hơn, và có thể chống lại tổn thương thuộc tính Kim tốt hơn.</Desc>
+		</Text>
+		<Text Name="Inborn_Tu_Add">
+			<DisplayName>Tiên Thiên Thổ Đức</DisplayName>
+			<Desc>Việc tu luyện công pháp thuộc tính Thổ dễ dàng hơn, và có thể chống lại tổn thương thuộc tính Thủy tốt hơn.</Desc>
+		</Text>
+		<Text Name="Features_JingGuai_0">
+			<DisplayName>Tinh Quái Chi Hồn</DisplayName>
+			<Desc>Bản chất vốn là vật chết trong trời đất, bất ngờ cảm nhận huyền diệu mà sinh ra ý thức. Bản tính lơ đãng, khó tập trung tâm thần để lĩnh hội đạo pháp. Tuy nhiên, vì tâm trí đơn thuần, khó bị chấp niệm và tạp niệm quấy nhiễu, từ góc độ này mà nói, đây là một tâm tính tu hành hạng nhất.</Desc>
+		</Text>
+		<Text Name="Features_JingGuai_1">
+			<DisplayName>Thể linh chú</DisplayName>
+			<Desc>Bản thân vốn là linh thạch thành linh, trời sinh linh khí căn bản cao hơn người thường một bậc.</Desc>
+		</Text>
+		<Text Name="Features_JingGuai_2">
+			<DisplayName>Thể hấp khí</DisplayName>
+			<Desc>Bản thân vốn là vật thực phẩm, trời sinh sở hữu năng lực hấp khí cực cao, không bao giờ đói.</Desc>
+		</Text>
+		<Text Name="Features_JingGuai_3">
+			<DisplayName>Thể điều khiển pháp khí</DisplayName>
+			<Desc>Bản thân vốn là pháp bảo thành linh, trời sinh càng giỏi điều khiển pháp bảo.</Desc>
+		</Text>
+		<Text Name="Sys_YuSheTeXing1">
+			<DisplayName>Thiết lập 1</DisplayName>
+		</Text>
+		<Text Name="Sys_YuSheTeXing2">
+			<DisplayName>Thiết lập 2</DisplayName>
+		</Text>
+		<Text Name="Sys_YuSheTeXing3">
+			<DisplayName>Thiết lập 3</DisplayName>
+		</Text>
+		<Text Name="Sys_YuSheTeXing4">
+			<DisplayName>Thiết lập 4</DisplayName>
+		</Text>
+		<Text Name="LunHui_Kong_100">
+			<DisplayName>Khéo Đoạt Thiên Cơ</DisplayName>
+			<Desc>Tiền kiếp người này khéo đoạt thiên cơ, đời này sinh ra đã có thọ nguyên cực dài.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_101">
+			<DisplayName>Sinh nhi tri chi</DisplayName>
+			<Desc>Người này sinh ra đã biết nói, trong đầu chứa đủ loại tri thức, thiên văn địa lý đều tinh thông, tốc độ học tập cũng kinh người; song cũng vì vậy mà thường bị mọi người xung quanh coi là dị thường.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_102">
+			<DisplayName>Tiền Trần Vị Tận</DisplayName>
+			<Desc>Người này thường bị quấy nhiễu bởi ký ức nhiều đời, ngủ không yên và khó bình ổn tâm cảnh.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_103">
+			<DisplayName>Thiên phú đan đạo</DisplayName>
+			<Desc>Sau nhiều lần xuyên việt, người đứng đầu về luyện đan đến từ thế giới Vạn Yêu.\nMặc dù ký ức kiếp trước của người này mờ nhạt, nhưng vẫn sở hữu tài năng luyện đan xuất chúng. Lại do thường xuyên bổ sung dược phẩm, cơ thể trông rất khỏe mạnh.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_104">
+			<DisplayName>Tư thế vô địch</DisplayName>
+			<Desc>Sau nhiều lần xuyên không, người vô địch nhân gian đến từ thế giới Vạn Yêu.\nKý ức về kiếp trước của người này mơ hồ, nhưng thường mơ thấy cảnh mình diệt rồng sát phượng, chống lại cửu trùng thiên kiếp, vì thế tin chắc đời này cũng có thể lập nên đại nghiệp. Sự tự tin đó khiến nhiều người xung quanh tự nguyện đi theo.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_105">
+			<DisplayName>Kỳ Tài Tu Luyện</DisplayName>
+			<Desc>Sau nhiều lần xuyên việt, người đầu tiên phi thăng cực nhanh đến từ thế giới Vạn Yêu.\nNgười này có thiên phú cảm nhận khí xuất chúng, lại cực kỳ nhạy bén trong tu luyện, thường có thể suy một biết ba, làm ít được nhiều.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_106">
+			<DisplayName>Chiến cuồng thiên sinh</DisplayName>
+			<Desc>Sau nhiều lần vượt qua, là người đứng đầu về thần tốc chinh phạt của thế giới Vạn Yêu. \nNgười này từ nhỏ đã hiếu chiến hung hãn, gây nhiều thù oán. Nhưng thần lực bẩm sinh cùng quyền cước công pháp điêu luyện khiến không ai địch lại, một đấu mười cũng là chuyện thường, danh xưng 'Chiến Cuồng' lan truyền từ đó.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_107">
+			<DisplayName>Thợ săn yêu ma</DisplayName>
+			<Desc>Sau nhiều lần xuyên qua, người số một trong việc diệt yêu trừ ma đến từ thế giới Vạn Yêu.\nBởi thỉnh thoảng những ký ức mờ ảo về kiếp trước lóe lên trong đầu, người này đã quyết tâm trở thành Kiếm Tiên để diệt sạch yêu ma từ khi còn nhỏ. Nhờ vậy, người này luôn có một cảm giác rất quen thuộc với thuật Ngự Vật Đấu Pháp.</Desc>
+		</Text>
+	</List>
+</Texts>
+

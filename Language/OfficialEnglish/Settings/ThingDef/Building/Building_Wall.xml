@@ -1,0 +1,41 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Wall" sParam="Building">
+			<ThingName>Bức tường</ThingName>
+			<Desc>Cấu trúc công trình cơ bản, có thể kết hợp với núi để tạo thành nhà khép kín. Phòng tối thiểu cần 3 ô, tối đa không quá 400 ô.</Desc>
+		</Text>
+		<Text Name="Barrier2" sParam="Building">
+			<ThingName>Hàng rào</ThingName>
+			<Desc>Hàng rào đá hoặc kim loại đơn giản để phân chia khu vực, không thể tạo thành phòng.</Desc>
+		</Text>
+		<Text Name="Barrier" sParam="Building">
+			<ThingName>Hàng rào</ThingName>
+			<Desc>Hàng rào gỗ đơn giản để phân chia khu vực, không thể tạo thành phòng.</Desc>
+		</Text>
+		<Text Name="Door" sParam="Building">
+			<ThingName>Môn</ThingName>
+			<Desc>Cấu trúc công trình cơ bản, cho phép ra vào phòng.</Desc>
+		</Text>
+		<Text Name="Door_SpringFestival" sParam="Building">
+			<ThingName>Môn</ThingName>
+			<Desc>Cấu trúc công trình cơ bản, cho phép ra vào phòng. Dán chữ "Phúc", mang lại không khí vui tươi.</Desc>
+		</Text>
+		<Text Name="Door_WanYao" sParam="Building">
+			<ThingName>Môn</ThingName>
+			<Desc>Cấu trúc công trình cơ bản, cho phép ra vào phòng. Chạm khắc đầu dị thú, mang lại khí tức hung sát.</Desc>
+		</Text>
+		<Text Name="Firecracker" sParam="Building">
+			<ThingName>Pháo hoa-Long Ca</ThingName>
+			<Desc>Pháo hoa rực rỡ, khi đốt sẽ kích hoạt pháo hoa gần đó trong phạm vi ba ô. Người ta nói rằng nếu có chín pháo hoa cùng nổ dưới bầu trời đêm, có thể xảy ra điều kỳ diệu.</Desc>
+		</Text>
+		<Text Name="HideDoor" sParam="Building">
+			<ThingName>Lối vào.</ThingName>
+			<Desc>Chỉ hiển thị trong chế độ chỉnh sửa</Desc>
+		</Text>
+		<Text Name="AirWall" sParam="Building">
+			<ThingName>Tường không khí</ThingName>
+			<Desc>Chỉ hiển thị trong chế độ chỉnh sửa</Desc>
+		</Text>
+	</List>
+</Texts>
+

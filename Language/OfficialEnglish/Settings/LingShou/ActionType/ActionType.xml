@@ -1,0 +1,41 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Rest">
+			<Desc>Nghỉ ngơi</Desc>
+			<Tip>Ngủ, có thể phục hồi năng lượng.</Tip>
+		</Text>
+		<Text Name="Eat">
+			<Desc>Ăn</Desc>
+			<Tip>Ăn nhiều loại thức ăn, sau khi đạt giai đoạn trưởng thành sẽ ăn theo lựa chọn trên bảng điều khiển.</Tip>
+		</Text>
+		<Text Name="Fun">
+			<Desc>Giải trí</Desc>
+			<Tip>Tăng độ giải trí, tốc độ hành động khác nhau.</Tip>
+		</Text>
+		<Text Name="Shit">
+			<Desc>Bài tiết</Desc>
+			<Tip>Có thể đi vệ sinh ở các địa điểm khác nhau.</Tip>
+		</Text>
+		<Text Name="Attack">
+			<Desc>Tấn công</Desc>
+			<Tip>Tấn công các nhân vật khác nhau.</Tip>
+		</Text>
+		<Text Name="Help">
+			<Desc>Trợ giúp</Desc>
+			<Tip>Hỗ trợ đệ tử nội môn hoặc ngoại môn.</Tip>
+		</Text>
+		<Text Name="HighHelp">
+			<Desc>Hỗ trợ cao cấp</Desc>
+			<Tip>Làm những việc có thể giúp ích cho tu luyện. Cần linh trí đạt 80 để mở khóa.</Tip>
+		</Text>
+		<Text Name="Carry">
+			<Desc>Vận chuyển nhân vật</Desc>
+			<Tip>Vận chuyển các nhân vật bất tỉnh hoặc đã chết. Cần đạt Linh Trí 50 để mở khóa.</Tip>
+		</Text>
+		<Text Name="Train">
+			<Desc>Rèn luyện</Desc>
+			<Tip>Rèn luyện để nâng cao các thuộc tính, thông qua chế độ ăn uống có thể tăng hiệu quả, hiệu quả càng cao, kết quả luyện tập càng tốt. Cần đạt giai đoạn trưởng thành để mở khóa.</Tip>
+		</Text>
+	</List>
+</Texts>
+

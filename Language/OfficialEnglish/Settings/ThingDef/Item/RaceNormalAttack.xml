@@ -1,0 +1,219 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="NormalAttackBase" sParam="Item">
+			<ThingName>Tấn công thường</ThingName>
+		</Text>
+		<Text Name="Human_NormalAttack" sParam="Item">
+			<ThingName>Tấn công con người</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Cắn, húc đầu, cào tay</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Đá chân, đấm tay, húc đầu</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Đá chân, đấm tay</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+		<Text Name="Zombie_NormalAttack" sParam="Item">
+			<ThingName>Tấn công xác sống</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Húc đầu, đá chân</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Húc đầu</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Húc đầu</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Cắn, cào tay</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Cắn, cào tay</Item.Equip.AtkDamage.4.DescTags>
+			<Item.Equip.AtkDamage.5.DescTags>Cắn, cào tay</Item.Equip.AtkDamage.5.DescTags>
+			<Item.Equip.AtkDamage.6.DescTags>Cắn, cào tay</Item.Equip.AtkDamage.6.DescTags>
+		</Text>
+		<Text Name="Rabbit_NormalAttack" sParam="Item">
+			<ThingName>Tấn công thỏ</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Cắn</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Húc đầu</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Đạp chân</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Đạp chân</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Ls_Dog_NormalAttack" sParam="Item">
+			<ThingName>Nội đan thần khuyển</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Ls_Fox_NormalAttack" sParam="Item">
+			<ThingName>Nội đan linh hồ</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Ls_Dragon_NormalAttack" sParam="Item">
+			<ThingName>Nội đan phi long</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Quỷ Thủy Yêu Lôi</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Quỷ Thủy Yêu Lôi</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Quỷ Thủy Yêu Lôi</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Quỷ Thủy Yêu Lôi</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Ls_Phoenix_NormalAttack" sParam="Item">
+			<ThingName>Nội đan Huyền Phụng</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bính Hỏa Yêu Lôi</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bính Hỏa Yêu Lôi</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Bính Hỏa Yêu Lôi</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+		<Text Name="Chicken_NormalAttack" sParam="Item">
+			<ThingName>Tấn công gà</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Mổ</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Vuốt</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Vuốt</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+		<Text Name="Wolf_NormalAttack" sParam="Item">
+			<ThingName>Tấn công sói</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Snake_NormalAttack" sParam="Item">
+			<ThingName>Tấn công rắn</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Cắn</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Cắn</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Quấn chặt</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Quấn chặt</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Quấn chặt</Item.Equip.AtkDamage.4.DescTags>
+			<Item.Equip.AtkDamage.5.DescTags>Quấn chặt</Item.Equip.AtkDamage.5.DescTags>
+			<Item.Equip.AtkDamage.6.DescTags>Cắn</Item.Equip.AtkDamage.6.DescTags>
+		</Text>
+		<Text Name="Boar_NormalAttack" sParam="Item">
+			<ThingName>Tấn công lợn rừng</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Cắn</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Cắn</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Húc</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Húc</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Bear_NormalAttack" sParam="Item">
+			<ThingName>Tấn công gấu</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Cào móng</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Cào móng</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Cào móng</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Va chạm</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Turtle_NormalAttack" sParam="Item">
+			<ThingName>Quy công kích</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Phản chấn</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Cắn</Item.Equip.AtkDamage.1.DescTags>
+		</Text>
+		<Text Name="Frog_NormalAttack" sParam="Item">
+			<ThingName>Tấn công ếch</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Liếm</Item.Equip.AtkDamage.0.DescTags>
+		</Text>
+		<Text Name="LuShu_NormalAttack" sParam="Item">
+			<ThingName>Tấn công Lộc Thử</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Dậm mạnh</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Dậm mạnh</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Dậm mạnh</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Dậm mạnh</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Linh lực xâm nhiễm</Item.Equip.AtkDamage.4.DescTags>
+		</Text>
+		<Text Name="Fei_NormalAttack" sParam="Item">
+			<ThingName>Tấn công Ruồi</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Va chạm</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Va chạm</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Va chạm</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Va chạm</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Hơi thở dịch bệnh</Item.Equip.AtkDamage.4.DescTags>
+		</Text>
+		<Text Name="Cat_NormalAttack" sParam="Item">
+			<ThingName>Tấn công mèo</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Cattle_NormalAttack" sParam="Item">
+			<ThingName>Tấn công bò</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Va chạm</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Va chạm</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Va chạm</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Va chạm</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Tiger_NormalAttack" sParam="Item">
+			<ThingName>Tấn công hổ</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYCat_NormalAttack" sParam="Item">
+			<ThingName>Miêu Miêu Trảo</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYCattle_NormalAttack" sParam="Item">
+			<ThingName>Mãng Lợi Giác</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Va chạm</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Va chạm</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Va chạm</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Va chạm</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYTiger_NormalAttack" sParam="Item">
+			<ThingName>Mãnh Hung Xỉ</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYRabbit_NormalAttack" sParam="Item">
+			<ThingName>Thỏ Hào Châm</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Cắn</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Húc đầu</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Đạp chân</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Đạp chân</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYWolf_NormalAttack" sParam="Item">
+			<ThingName>Hung Lang Nha</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Cắn, cào móng</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYSnake_NormalAttack" sParam="Item">
+			<ThingName>Bách Luyện Xà Lân</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Liệt Độc Phi Lân</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Liệt Độc Phi Lân</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Liệt Độc Phi Lân</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Liệt Độc Phi Lân</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Liệt Độc Phi Lân</Item.Equip.AtkDamage.4.DescTags>
+		</Text>
+		<Text Name="JYBoar_NormalAttack" sParam="Item">
+			<ThingName>Nê Thạch Tủy</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Mậu Thổ Yêu Lôi</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Mậu Thổ Yêu Lôi</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Mậu Thổ Yêu Lôi</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Mậu Thổ Yêu Lôi</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Mậu Thổ Yêu Lôi</Item.Equip.AtkDamage.4.DescTags>
+			<Item.Equip.AtkDamage.5.DescTags>Mậu Thổ Yêu Lôi</Item.Equip.AtkDamage.5.DescTags>
+		</Text>
+		<Text Name="JYBear_NormalAttack" sParam="Item">
+			<ThingName>Móng phi hùng</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bính Hỏa Yêu Lôi</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bính Hỏa Yêu Lôi</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Bính Hỏa Yêu Lôi</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+		<Text Name="JYFrog_NormalAttack" sParam="Item">
+			<ThingName>Giọt Quỷ Thủy</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Liếm</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Liếm</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Liếm</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+		<Text Name="JYTurtle_NormalAttack" sParam="Item">
+			<ThingName>Giáp Huyền Quy</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Quỷ Thủy Yêu Lôi</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Quỷ Thủy Yêu Lôi</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Quỷ Thủy Yêu Lôi</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Quỷ Thủy Yêu Lôi</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYLongPu_Night_NormalAttack" sParam="Item">
+			<ThingName>Long phó nha</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Quỷ Thủy Yêu Lôi</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Quỷ Thủy Yêu Lôi</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Quỷ Thủy Yêu Lôi</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Quỷ Thủy Yêu Lôi</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+	</List>
+</Texts>
+

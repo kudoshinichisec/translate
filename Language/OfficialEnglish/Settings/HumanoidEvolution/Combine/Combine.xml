@@ -1,0 +1,17 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ATarget">
+			<DisplayName>Nhận thức</DisplayName>
+		</Text>
+		<Text Name="AScene">
+			<DisplayName>Lý trí</DisplayName>
+		</Text>
+		<Text Name="AEmotion">
+			<DisplayName>Cảm nhận</DisplayName>
+		</Text>
+		<Text Name="FNode">
+			<DisplayName>Mảnh linh trí</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

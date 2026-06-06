@@ -1,0 +1,139 @@
+ItemName	Descript
+Item_Dan_IncreaseLife3	Chai, kéo dài tuổi thọ, màu vàng nhạt
+Item_Dan_IncreaseLife4	Bình hồ lô, kéo dài tuổi thọ, màu xanh dương
+Item_Dan_Ling2	Màu tím, hình cầu, căn bản
+Item_Dan_IncreaseLife5	Màu xanh dương, hình cầu, thiên kiếp
+Item_Dan_IncreaseNeckCountdown1	Hồ lô, màu đỏ, thiên kiếp
+Item_ParasolWood	Gỗ, cứng, linh vật
+Item_Dan_PracticeSpeed	Lửa, tốc độ, chai
+Item_Dan_Defense	Bảo vệ, hình cầu, màu cam
+Item_CopperBlock1	Hình vuông, lửa, linh vật
+Item_Dan_CureHuoDamage	Hình cầu, trị thương, màu tím
+Item_Dan_CureTuDamage	Hình cầu, trị thương, màu cam
+Item_Dan_CureShuiDamage	Bột, nước, màu xanh dương
+Item_Dan_CureMuDamage	Hình cầu, màu xanh, trị thương
+Item_Dan_CureFiveElementDamage	Chai, trị thương, đất
+Item_EarthEssence_1	Bình hồ lô, màu xanh dương, trị thương
+Item_Dan_FiveBaseFromLife	Hình cầu, màu tím, rút ngắn tuổi thọ
+Item_Dan_DredgeQi	Chai, trị thương, đất
+Item_RedGinseng	Rễ, màu đỏ, căn bản
+Item_LingWood	Gỗ, màu xanh dương, linh vật
+Item_HardWood	Gỗ, màu vàng
+Item_Dan_PracticeRate	Hạt nhỏ, vàng, cổ chai
+Item_Dan_IncreaseLife1	Kéo dài tuổi thọ, bình hồ lô, gỗ
+Item_Dan_IncreaseLife2	Kéo dài tuổi thọ, bột, nước
+Item_BasePracticeDrug	Năm chiều, chai, nước
+Item_LingMuXueJie	Tinh nguyên, bột, màu xanh dương
+Item_Dan_CalmDown	Tâm cảnh, hạt nhỏ, màu xanh dương
+Item_Dan_Happiness	Màu nâu, tâm cảnh, hạt nhỏ
+Item_Dan_FiveBase2	Năm chiều, đất, chai
+Item_Dan_FiveBase1	Năm chiều, chai, màu vàng
+Item_Dan_FiveBase3	Lửa, năm chiều, chai
+Item_Dan_FiveBase4	Gỗ, năm chiều, chai
+Item_Dan_FiveBase5	Nước, năm chiều, chai
+Item_Dan_IncreaseNeckCountdown2	Bột, thiên kiếp, vàng
+Item_Dan_CureJinDamage	Hộp, màu trắng, trị thương
+Item_ShuiEssence	Màu trắng, hình tròn, linh vật
+Item_HuoEssence	Lửa, hình cầu, linh vật
+Item_JinEssence	Màu nâu, hình cầu, linh vật
+Item_MuEssence	Màu nâu, linh vật, gỗ
+Item_TuEssence	Màu nâu, đất, linh vật
+Item_LifeStream	Chất lỏng, kéo dài tuổi thọ, không màu
+Item_EarthEssence	Chất lỏng, không màu, căn bản
+Item_SkyStone	Đá, linh vật, đất
+Item_StarEssence	Linh vật, đá, vàng
+Item_SoulPearl	Linh vật, nước, hình cầu
+Item_EarthEssence1	Căn bản, chất lỏng, màu đỏ
+Item_Dan_LongDan1	Màu xanh dương, hình cầu, nước
+Item_Dan_FengDan1	Màu đỏ, hình cầu, lửa
+Item_YanDaoGuo	Đạo hành, gỗ, màu tím
+Item_QieDaoGuo	Thiên khiển, gỗ, màu xanh dương
+Item_Dan_TreeEXP	Hình cầu, không màu, ngộ đạo
+Item_Dan_ExtremeLofty	Bình hồ lô, màu vàng, trị thương
+Item_ExtremeJade	Cứng, màu xanh dương, linh vật
+Item_XianDaoShenNian	Hình cầu, tiềm năng, màu xanh lá
+Item_XianDaoXieNian	Hình cầu, tiềm năng, màu tím
+Item_Dan_HundredRefine	Màu vàng, hình cầu, tu luyện
+Item_Dan_ZhuLongDan1	Phân thần, màu sắc, hình cầu
+Item_ThunderAir	Hình cầu, không thể ăn được, thiên kiếp
+Item_XianBone	Xương, đạo hành, không năm chiều
+Item_ZaoHuaYuZi	Màu xanh, không năm chiều, tinh hoa
+Item_Dan_LingYuanZhong	Màu xanh, linh vật, không năm chiều
+Item_Dan_ReBorn_4	Hình cầu, màu đỏ, kéo dài tuổi thọ
+Item_BenYuan_None	Không năm chiều, đạo hành, tinh hoa
+Item_BenYuan_Jin	Màu vàng, đạo hành, tinh hoa
+Item_BenYuan_Mu	Màu xanh lá, đạo hành, tinh hoa
+Item_BenYuan_Shui	Màu xanh dương, đạo hành, tinh hoa
+Item_BenYuan_Huo	Màu đỏ, đạo hành, tinh hoa
+Item_BenYuan_Tu	Màu nâu, đạo hành, tinh hoa
+Item_Yao_RabbitLuck	Nước, lông xù
+Item_Yao_WolfAtk	Vàng, cứng
+Item_Yao_SnakeHanLin	Nước, cứng
+Item_Yao_BearPiMao	Lửa, lông xù
+Item_Yao_TurtleKe	Cứng, đất
+Item_BoarMeat	Đất, màu nâu, thực phẩm
+Item_StrangeMush	Gỗ, màu nâu, thực phẩm
+Item_MillVell	Gỗ, lông xù
+Item_SewingDefender	Gỗ, cứng
+Item_PerfumeBag	Gỗ, tâm cảnh
+Item_StoneCutter	Vàng, tốc độ
+Item_Handkerchief	Lông xù, không năm chiều
+Item_Bracelet	Cứng, không năm chiều
+Item_SmallBell	Cứng, không năm chiều
+Item_SysAxe	Cứng, không năm chiều
+Item_SysPickaxe	Cứng, không năm chiều
+Item_SysSickle	Cứng, không năm chiều
+[ANIMAL]	Hộp, hình vuông
+Item_BossFeng_TouYu	Lửa, lông xù, hung thú
+Item_BossFeng_WeiYu	Lông xù, hung thú, linh vật
+Item_BossFeng_HongYu	Ngộ đạo, hung thú, màu đỏ
+Item_BossLong_Jiao	Hung thú, cứng, ngự kiếm
+Item_BossLong_NiLin	Ngộ đạo, nước, hung thú
+Item_BossLong_Jing	Cứng, linh vật, hung thú
+Item_BossZhuLong_Eye	Hung thú, hình cầu
+Item_BossZhuLong_LongYu	Hỗn độn, kháng tính, hung thú
+Item_BossZhuLong_TianLin	Bảo vệ, hung thú
+Item_Dan_FenShen1	Bàn Cổ, màu đỏ, phân thần
+Item_Dan_FenShen2	Tạo hóa, màu đỏ, phân thần
+Item_Dan_FenShen3	Tâm cảnh, màu đỏ, phân thần
+Item_Yao_CatSoul	Hình cầu, màu xanh dương, phân thần
+Item_WhiteHair	Sách, màu xanh dương, màu trắng
+Item_BossFeng_HuoYu	Linh vật, màu đỏ, hung thú
+Item_BossFeng_GangYu	Lửa, hung thú
+Item_BossFeng_Gu	Xương, cứng, hung thú
+Item_DragonScale	Màu xanh dương, linh vật, hung thú
+Item_BossLong_Zhua	Vật nhọn, hung thú
+Item_BossLong_Lin	Màu xanh dương, phòng ngự, hung thú
+Item_BossZhuLong_BaiLin	Màu trắng, hung thú
+Item_BossZhuLong_HeiLin	Hắc sắc, hung thú
+Item_BossFeng_Meat	Thực phẩm, hung thú, màu đỏ
+Item_BossLong_Meat	Thực phẩm, màu sắc, hung thú
+Item_BossZhuLong_Meat	Đạo hành, thực phẩm, hung thú
+Item_Dan_Restore	Trị thương, màu vàng, bột
+Item_Dan_SwordBall	Hình cầu, màu xanh dương
+Item_Dan_Ling3	Bột, màu vàng
+Item_Dan_Thin	Hạt, màu xanh dương, dung mạo
+Item_Dan_FaceLock	Hạt, màu đỏ, dung mạo
+Item_Dan_FaceUnLock	Hạt, đất, dung mạo
+Item_Dan_Soul1	Hạt, ngộ đạo, tuổi thọ
+Item_Dan_Soul2	Hạt, lửa, ngộ đạo
+Item_Dan_Soul3	Hạt, đất, ngộ đạo
+Item_Dan_Soul4	Hạt, trí tuệ, ngộ đạo
+Item_QiZhi	Khai trí, chai, nước
+Item_Fall_LingZhi	Khai trí, chai, vàng
+Item_Winter_LingZhi	Khai trí, chai, đông
+Item_Spring_LingZhi	Khai trí, chai, gỗ
+Item_Summer_LingZhi	Khai trí, chai, lửa
+Item_Earth_LingZhi	Khai trí, chai, đất
+Item_SoulCrystalYou	Hổ phách, không năm chiều, đau khổ
+Item_SoulCrystalNing	Hổ phách, không năm chiều, yên tĩnh
+Item_SoulCrystalLing	Hổ phách, không năm chiều, hạnh phúc
+Item_GodPractice_MiJuan	Sách, không năm chiều
+Item_PurpleGanodermaLucidum	Màu tím, linh vật, thực phẩm
+Item_HorseFromFei	Lông xù, không năm chiều, nước
+Item_HorseFromLuShu	Lông xù, không năm chiều, lửa
+Item_WuDang_HuangJingFen	Bột, màu trắng, gỗ
+Item_Dan_WuQiNoHunger2	Hình cầu, thực phẩm, gỗ
+Item_Dan_SanHuaHuangJing	Gỗ, linh khí, màu vàng
+
+

@@ -1,0 +1,43 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_9_Mu">
+			<DisplayName>Trường Sinh Lục Đạo Luân Hồi Kinh</DisplayName>
+			<Desc>Một trong những chân quyết ngũ hành trấn phái của Thái Nhất Môn, pháp này tu luyện mỗi cảnh giới bắt đầu đều là đỉnh phong, theo tu vi thâm sâu người tu hành lại từng bước thoái chuyển, cuối cùng như phàm nhân. Cho đến khi đột phá luân hồi, tái sinh, mới có thể thoát thai hoán cốt tiến thêm một bước. Vì đặc tính này, pháp môn này tuy phổ biến rộng rãi nhưng ít người đại thành.</Desc>
+			<SelectDesc>Công pháp này có sức chiến đấu mạnh mẽ, không giỏi luyện đan luyện khí. Chỉ là trong quá trình tu luyện phải trải qua luân hồi, sức mạnh sẽ dần suy giảm, cho đến khi bước vào đỉnh phong tiếp theo. Có muốn lựa chọn tu luyện công pháp này không?</SelectDesc>
+			<Stages.0.DisplayName>Nhân Đạo</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Tân Sinh</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nChướng ngại này ngộ tính càng thấp, càng khó vượt qua.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Trầm Luân</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.2.DisplayName>Luân hồi</Stages.0.Necks.2.DisplayName>
+			<Stages.0.Necks.2.Desc>[color=#D06508]\nChướng ngại này ngộ tính càng thấp, càng khó vượt qua.[/color]</Stages.0.Necks.2.Desc>
+			<Stages.1.DisplayName>Bàng Sinh Đạo</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Tân Sinh</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nChướng ngại này ngộ tính càng thấp, càng khó vượt qua.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Trầm Luân</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.2.DisplayName>Luân hồi</Stages.1.Necks.2.DisplayName>
+			<Stages.2.DisplayName>Ác Quỷ Đạo</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Tân Sinh</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nChướng ngại này ngộ tính càng thấp, càng khó vượt qua.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Trầm Luân</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Luân hồi</Stages.2.Necks.2.DisplayName>
+			<Stages.2.Necks.2.Desc>[color=#D06508]\nChướng ngại này ngộ tính càng thấp, càng khó vượt qua.[/color]</Stages.2.Necks.2.Desc>
+			<Stages.3.DisplayName>Địa Ngục Đạo</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Tân Sinh</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>[color=#D06508]\nChướng ngại này ngộ tính càng thấp, càng khó vượt qua.[/color]</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Trầm Luân</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.2.DisplayName>Luân hồi</Stages.3.Necks.2.DisplayName>
+			<Stages.4.DisplayName>Tu La Đạo</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Tân Sinh</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>[color=#D06508]\nBình cảnh này cần thử đi thử lại, mới có thể dần dần đột phá.\nBình cảnh này ngộ tính càng thấp, càng khó đột phá.[/color]</Stages.4.Necks.0.Desc>
+			<Stages.4.Necks.1.DisplayName>Trầm Luân</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.2.DisplayName>Luân hồi</Stages.4.Necks.2.DisplayName>
+			<Stages.5.DisplayName>Thiên Đạo</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Tân Sinh</Stages.5.Necks.0.DisplayName>
+			<Stages.5.Necks.0.Desc>[color=#D06508]\nBình cảnh này cần thử đi thử lại, mới có thể dần dần đột phá.\nBình cảnh này ngộ tính càng thấp, càng khó đột phá.[/color]</Stages.5.Necks.0.Desc>
+			<Stages.5.Necks.1.DisplayName>Trầm Luân</Stages.5.Necks.1.DisplayName>
+			<Stages.5.Necks.2.DisplayName>Luân hồi</Stages.5.Necks.2.DisplayName>
+			<Stages.5.Necks.2.Desc>Lần vượt luân hồi này sẽ thoát khỏi lục đạo, trường sinh bất tử.</Stages.5.Necks.2.Desc>
+		</Text>
+	</List>
+</Texts>
+

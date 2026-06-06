@@ -1,0 +1,790 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="God2_Dan">
+			<DisplayName>Thiên Đạo Thần Đan</DisplayName>
+			<Desc>độ kiếp, thấu hiểu thiên đạo. Nếu đạt đến đỉnh cao trong nghệ thuật luyện đan, có thể lĩnh ngộ thuật luyện chế thần đan Thiên Đạo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được đan phương: \nThiên Đạo Thần Đan[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="God2_Fabao">
+			<DisplayName>Thiên Đạo Thần Khí</DisplayName>
+			<Desc>độ kiếp, thấu hiểu thiên đạo. Nếu đạt đến đỉnh cao trong nghệ thuật luyện khí, có thể lĩnh ngộ thuật luyện chế thần khí Thiên Đạo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể tỷ lệ thành công luyện thần khí\nGiảm đáng kể tốc độ luyện chế pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong1_Esoterica_1">
+			<DisplayName>Ngũ Tuyền Địch Tâm Pháp</DisplayName>
+			<Desc>Quán tưởng suối trong gột rửa tâm linh, luyện khí theo pháp này có thể giao tiếp sâu sắc hơn với thiên địa, làm tâm cảnh trong sáng và tăng hiệu suất hít khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tâm cảnh\nTăng hiệu suất hít khí[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong1_Esoterica_2">
+			<DisplayName>Thái Hòa Ngự Khí Quyết</DisplayName>
+			<Desc>Thuật ngự khí được ghi chép trong Thái Hòa Thập Lục Động Thiên, nhấn mạnh việc dùng ý như thủy triều, dùng ý ngự khí. Học được pháp này có thể tăng cường uy lực bí thuật.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng uy lực pháp thuật[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong1_Esoterica_3">
+			<DisplayName>Thừa Phong Quyết</DisplayName>
+			<Desc>Bí quyết ghi chép kỹ thuật ngự kiếm mượn gió mà đi.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tốc độ bay khi lịch luyện\nTăng độ linh hoạt của phi kiếm[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong1_Esoterica_4">
+			<DisplayName>Cương Sát Hợp Lưu</DisplayName>
+			<Desc>Bí pháp luyện hóa cương khí và sát khí giữa trời đất vào nguyên thần.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng nhẹ uy lực pháp thuật\nTăng nhẹ giá trị tối đa linh khí[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong1_Esoterica_5">
+			<DisplayName>Bôn Lưu Quyết</DisplayName>
+			<Desc>Biến toàn bộ linh khí trong cơ thể thành một luồng, chảy mãi không ngừng trong kinh mạch. Từ đó phá bỏ ràng buộc của đan điền, nơi nào có chân khí, nơi đó là đan điền.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tốc độ hồi phục linh khí[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong1_Esoterica_6">
+			<DisplayName>Thái Thủy Quyết</DisplayName>
+			<Desc>Dùng thần niệm thu thập tiên thiên chân thủy chi khí giữa trời đất, bổ sung tổn thất hậu thiên của con người. Tu luyện pháp này có thể cải thiện căn cơ, từ gốc rễ tăng giá trị tối đa linh khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giá trị tối đa linh khí từ gốc rễ[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong1_Esoterica_7">
+			<DisplayName>Thủy Tinh Chân Hình</DisplayName>
+			<Desc>Dùng tiên thiên chân thủy bổ sung nguyên khí tinh huyết, đạt đến cảnh giới chân hình. Tu luyện thuật này có thể tăng mạnh căn cốt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 1 thành[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong1_Esoterica_8">
+			<DisplayName>Thủy Khí Chân Hình</DisplayName>
+			<Desc>Dùng tiên thiên chân thủy bổ sung nguyên khí khí mạch, đạt đến cảnh giới chân hình. Tu luyện thuật này có thể tăng mạnh mị lực và cải thiện hiệu suất hấp thụ khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mị lực 1 thành\nTăng mạnh hiệu suất hấp thụ khí[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong1_Esoterica_9">
+			<DisplayName>Thủy Thần Chân Hình</DisplayName>
+			<Desc>Dùng tiên thiên chân thủy bổ sung nguyên khí thần niệm, đạt đến cảnh giới chân hình. Tu luyện thuật này có thể tăng mạnh ngộ tính.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng ngộ tính 1 thành[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong2_Esoterica_1">
+			<DisplayName>Bách Luyện Quyết</DisplayName>
+			<Desc>Bài học nhập môn của núi Đan Hà, có thể luyện tập lặp đi lặp lại để rèn luyện thân thể, củng cố nền tảng.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng thần thức nửa thành\nTăng căn cốt nửa thành\nTăng nhẹ giá trị tối đa linh khí\nTăng nhẹ tỷ lệ thành công luyện chế pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong2_Esoterica_2">
+			<DisplayName>Linh Tẩy Pháp</DisplayName>
+			<Desc>Giảng giải phương pháp dùng linh khí để tẩy luyện vật liệu, tu luyện có thể tăng kỹ năng luyện chế pháp bảo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng chất lượng pháp bảo\nTăng tỷ lệ thành công luyện chế pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong2_Esoterica_3">
+			<DisplayName>Bính Đinh Lôi Trạch Hỏa</DisplayName>
+			<Desc>Dùng bí pháp ngưng tụ một đóa Bính Đinh Lôi Trạch Hỏa trong cơ thể, có nhiều diệu dụng.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh nhiệt độ cực hạn\nTăng mạnh uy lực pháp thuật\nTăng mạnh tỷ lệ thành công luyện khí[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong2_Esoterica_4">
+			<DisplayName>Thượng Thanh Tiên Thiên Chân Diễm</DisplayName>
+			<Desc>Dùng bí pháp ngưng tụ một đóa Thượng Thanh Tiên Thiên Chân Diễm trong cơ thể, có nhiều diệu dụng.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tỷ lệ thành công luyện khí\nTăng chất lượng luyện khí[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong2_Esoterica_5">
+			<DisplayName>Tâm Diễm</DisplayName>
+			<Desc>Dùng bí pháp ngưng tụ một đóa Tâm Diễm trong cơ thể, có nhiều diệu dụng.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giá trị tối đa linh khí\nTăng ngộ tính 1 thành[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong2_Esoterica_6">
+			<DisplayName>Thượng Thanh Chân Khí</DisplayName>
+			<Desc>Thu thập tiên thiên thanh khí ngưng tụ thành Thượng Thanh Chân Khí. Có thể tăng cảm giác khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng cảm giác khí 2 cấp[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong2_Esoterica_7">
+			<DisplayName>Bác Vật Chí</DisplayName>
+			<Desc>Sách ghi chép đặc tính vật liệu thường thấy trong cửu châu. Có thể tăng tỷ lệ thành công luyện khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tỷ lệ thành công luyện khí[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong2_Esoterica_8">
+			<DisplayName>Luyện Khí Thập Yếu</DisplayName>
+			<Desc>Giảng giải kỹ năng nhập môn luyện khí, được lưu truyền rộng rãi trong giới tu hành.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tốc độ luyện chế pháp bảo\nTăng tỷ lệ thành công luyện chế pháp bảo\nTăng phẩm cấp pháp bảo\nTăng chất lượng pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong2_Esoterica_9">
+			<DisplayName>Trác Ngọc Sách</DisplayName>
+			<Desc>Ghi chép kỹ thuật chạm khắc pháp bảo trong quá trình luyện chế, có thể tăng mạnh phẩm cấp pháp bảo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng phẩm cấp pháp bảo\nTăng tỷ lệ thành công luyện chế pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong2_Esoterica_10">
+			<DisplayName>Thượng Thanh Bí Truyền Tạo Hóa Chân Giải</DisplayName>
+			<Desc>Thuật luyện khí độc truyền của môn hạ Linh Bảo Thiên Tôn, hội tụ huyền diệu của vạn vật vào một sách, được coi là bí điển tối cao của thuật luyện khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tốc độ luyện chế pháp bảo\nTăng mạnh tỷ lệ thành công luyện chế pháp bảo\nTăng mạnh phẩm cấp pháp bảo\nTăng mạnh chất lượng pháp bảo\nHọc được Phù Đồ:\nThái Thượng Thông Bảo Phù\nNgũ Phương Linh Bảo Phù[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong3_Esoterica_1">
+			<DisplayName>Sát Ý</DisplayName>
+			<Desc>Nhập môn Thất Sát Kiếm Quyết, ngưng tụ sát ý thuần túy, có thể từ gốc rễ tăng uy lực pháp bảo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tâm cảnh\nTăng uy lực pháp bảo từ gốc rễ[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong3_Esoterica_2">
+			<DisplayName>Thất Sát Ma Thể</DisplayName>
+			<Desc>Dùng sát ý tẩy luyện kinh mạch, đúc thành Thất Sát Ma Thể. Có thể tăng mạnh căn cốt. Ngoài ra còn ghi chép phương pháp luyện chế Kiếm Hoàn.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 2 thành\nTăng nhẹ giá trị tối đa linh khí\nHọc được Đan Phương: Kiếm Hoàn[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong3_Esoterica_3">
+			<DisplayName>Ma Lưu Kiếm Ý</DisplayName>
+			<Desc>Tâm pháp trấn cung Thất Sát Ma Cung, trước dùng kiếm nuôi ma, sau mượn kiếm khống chế ma, có thể tăng toàn diện uy lực thuật khống chế pháp bảo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng uy lực pháp bảo\nTăng tốc độ hồi phục linh khí pháp bảo\nTăng giá trị linh khí pháp bảo\nTăng tốc độ pháp bảo\nTăng tốc độ chuyển hướng pháp bảo\nTăng độ dài vệt sáng pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong3_Esoterica_4">
+			<DisplayName>Ngự Kiếm Thuật</DisplayName>
+			<Desc>Thuật nhập môn ngự vật được ghi chép trong Thất Sát Kiếm Quyết, theo pháp này ngự vật có thể làm khí mạch dài lâu.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tỷ lệ hồi linh pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong3_Esoterica_5">
+			<DisplayName>Kiếm Tâm Thông Minh</DisplayName>
+			<Desc>Cực tình với kiếm, không bị ngoại vật quấy nhiễu, đó là thông minh kiếm tâm.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Nâng cao tâm cảnh\nTăng cường sức mạnh pháp bảo từ gốc rễ\nTăng tốc độ pháp bảo từ gốc rễ\nTăng tốc độ chuyển hướng pháp bảo từ gốc rễ[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong3_Esoterica_6">
+			<DisplayName>Tâm kiếm giao cảm</DisplayName>
+			<Desc>Cảm nhận kiếm bằng tâm, như cá gặp nước, đó là tâm kiếm giao cảm.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Nâng cao tâm cảnh\nTăng cường sức mạnh pháp bảo từ gốc rễ\nTăng giá trị linh khí pháp bảo từ gốc rễ\nTăng tốc độ hồi phục linh khí pháp bảo từ gốc rễ[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong3_Esoterica_7">
+			<DisplayName>Thần ngự kiếm</DisplayName>
+			<Desc>Tập trung vào linh tính của kiếm, phát huy hoàn toàn kiếm ý, gọi là thần ngự chi kiếm.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Nâng cao tâm cảnh\nTăng cường sức mạnh pháp bảo từ gốc rễ\nTăng tốc độ pháp bảo từ gốc rễ\nTăng tốc độ chuyển hướng pháp bảo từ gốc rễ[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong3_Esoterica_8">
+			<DisplayName>Thần hợp kiếm</DisplayName>
+			<Desc>Tâm thần hợp nhất với kiếm, gọi là thần hợp chi kiếm.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Nâng cao tâm cảnh\nTăng cường sức mạnh pháp bảo từ gốc rễ\nTăng giá trị linh khí pháp bảo từ gốc rễ\nTăng tốc độ hồi phục linh khí pháp bảo từ gốc rễ[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong3_Esoterica_9">
+			<DisplayName>Cực kiếm·Nhất</DisplayName>
+			<Desc>Lấy kiếm làm duy nhất, ngoài kiếm không có gì, phương pháp này có thể tăng mạnh tâm cảnh và tốc độ pháp bảo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tâm cảnh\nTăng mạnh tốc độ pháp bảo\nTăng mạnh tốc độ chuyển hướng pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong3_Esoterica_10">
+			<DisplayName>Ngã kiếm·Nhất</DisplayName>
+			<Desc>Tuyệt thế kiếm pháp hợp nhất nguyên thần với kiếm, phương pháp này có thể tăng mạnh tâm cảnh và linh khí pháp bảo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tâm cảnh\nTăng mạnh giá trị linh khí pháp bảo\nTăng mạnh tốc độ hồi phục linh khí pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong3_Esoterica_11">
+			<DisplayName>Kích tự quyết</DisplayName>
+			<Desc>Bí thuật luyện kiếm ghi chép trong Thất Sát Kiếm Quyết, cần khổ luyện để thành thạo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng cường sức mạnh pháp bảo[/color][/size] </EffectDesc>
+		</Text>
+		<Text Name="Gong3_Esoterica_12">
+			<DisplayName>Thứ tự quyết</DisplayName>
+			<Desc>Bí thuật luyện kiếm ghi chép trong Thất Sát Kiếm Quyết, cần khổ luyện để thành thạo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tốc độ pháp bảo[/color][/size] </EffectDesc>
+		</Text>
+		<Text Name="Gong3_Esoterica_13">
+			<DisplayName>Tẩy tự quyết</DisplayName>
+			<Desc>Bí thuật luyện kiếm ghi chép trong Thất Sát Kiếm Quyết, cần khổ luyện để thành thạo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giá trị linh khí pháp bảo[/color][/size] </EffectDesc>
+		</Text>
+		<Text Name="Gong3_Esoterica_14">
+			<DisplayName>Băng tự quyết</DisplayName>
+			<Desc>Bí thuật luyện kiếm ghi chép trong Thất Sát Kiếm Quyết, cần khổ luyện để thành thạo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng cường sức mạnh pháp bảo[/color][/size] </EffectDesc>
+		</Text>
+		<Text Name="Gong3_Esoterica_15">
+			<DisplayName>Điểm tự quyết</DisplayName>
+			<Desc>Bí thuật luyện kiếm ghi chép trong Thất Sát Kiếm Quyết, cần khổ luyện để thành thạo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tốc độ pháp bảo[/color][/size] </EffectDesc>
+		</Text>
+		<Text Name="Gong3_Esoterica_16">
+			<DisplayName>Phách tự quyết</DisplayName>
+			<Desc>Bí thuật luyện kiếm ghi chép trong Thất Sát Kiếm Quyết, cần khổ luyện để thành thạo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giá trị linh khí pháp bảo[/color][/size] </EffectDesc>
+		</Text>
+		<Text Name="Gong3_Esoterica_17">
+			<DisplayName>Ngự tự quyết</DisplayName>
+			<Desc>Bí thuật luyện kiếm ghi chép trong Thất Sát Kiếm Quyết, cần khổ luyện để thành thạo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng cường sức mạnh pháp bảo[/color][/size] </EffectDesc>
+		</Text>
+		<Text Name="Gong3_Esoterica_18">
+			<DisplayName>Hóa tự quyết</DisplayName>
+			<Desc>Bí thuật luyện kiếm ghi chép trong Thất Sát Kiếm Quyết, cần khổ luyện để thành thạo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tốc độ pháp bảo[/color][/size] </EffectDesc>
+		</Text>
+		<Text Name="Gong3_Esoterica_19">
+			<DisplayName>Phân tự quyết</DisplayName>
+			<Desc>Bí thuật luyện kiếm ghi chép trong Thất Sát Kiếm Quyết, cần khổ luyện để thành thạo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giá trị linh khí pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong4_Esoterica_1">
+			<DisplayName>Ngọc Kinh Phi Lưu Pháp</DisplayName>
+			<Desc>Bí pháp rèn luyện khí mạch độc môn của Côn Luân Cung, có thể mở rộng khí hải.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tối đa linh khí từ gốc rễ\nTăng cường sức mạnh pháp thuật[/color][/size] </EffectDesc>
+		</Text>
+		<Text Name="Gong4_Esoterica_2">
+			<DisplayName>Hòa Quang Đồng Trần</DisplayName>
+			<Desc>Thuận theo thiên ý, hòa cùng ánh sáng và bụi trần, có thể tăng cơ duyên.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng cơ duyên 1 thành[/color][/size] </EffectDesc>
+		</Text>
+		<Text Name="Gong4_Esoterica_3">
+			<DisplayName>Hồi Quang Quyết</DisplayName>
+			<Desc>Bí thuật không truyền ra ngoài của Ngọc Hư Môn, nắm bắt huyền diệu của dòng chảy linh khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm thời gian thi triển thuật pháp[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong4_Esoterica_4">
+			<DisplayName>Ngũ Khí Quy Nguyên</DisplayName>
+			<Desc>Ngũ hành quy về ngũ tạng, điều hòa nội tức bản thân. Có thể kéo dài tuổi thọ, tăng linh khí và tăng mạnh hiệu suất hấp thụ khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tuổi thọ\nTăng tối đa linh khí[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong4_Esoterica_5">
+			<DisplayName>Vạn Pháp Quy Tàng</DisplayName>
+			<Desc>Dung hợp tất cả những gì đã học, lĩnh hội thiên cơ. Có thể giảm đạo hạnh mà không ảnh hưởng đến thực lực.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm đạo hạnh 10 điểm[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong4_Esoterica_6">
+			<DisplayName>Cốc Thần Đại Pháp</DisplayName>
+			<Desc>Cốc thần bất tử, gọi là huyền tẫn. Luyện thành pháp này có thể tăng mạnh tuổi thọ và dung lượng linh khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tuổi thọ\nTăng tối đa linh khí\nTăng cường sức mạnh pháp thuật[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong4_Esoterica_7">
+			<DisplayName>Nguyên Thủy Chi Thai</DisplayName>
+			<Desc>Bí thuật không truyền ra ngoài của Ngọc Hư Môn, rèn luyện nguyên thai thành nguyên thủy chi thai. Có thể tăng mạnh khả năng giao tiếp giữa nguyên anh và linh khí bên ngoài.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tốc độ hồi phục linh khí\nTăng cường sức mạnh pháp thuật[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong4_Esoterica_8">
+			<DisplayName>Canh Kim Nguyên Thần</DisplayName>
+			<Desc>Ngưng luyện Canh Kim Nguyên Thần, tăng thần thức, tăng mạnh sức mạnh ngự khí. Đồng thời có thể dẫn dắt đạo Canh Kim để phân hóa một nguyên thần phân thân.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng thần thức 1 thành\nTăng sức mạnh ngự khí\nThêm một nguyên thần phân thân[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong4_Esoterica_9">
+			<DisplayName>Giáp Mộc Nguyên Thần</DisplayName>
+			<Desc>Ngưng luyện Giáp Mộc Nguyên Thần, tăng căn cốt, tăng mạnh tuổi thọ. Đồng thời có thể dẫn dắt đạo Giáp Mộc để phân hóa một nguyên thần phân thân.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 1 thành\nTăng tuổi thọ\nThêm một nguyên thần phân thân[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong4_Esoterica_10">
+			<DisplayName>Nhâm Thủy Nguyên Thần</DisplayName>
+			<Desc>Ngưng luyện Nhâm Thủy Nguyên Thần, tăng mị lực, tăng tối đa linh khí. Đồng thời có thể dẫn dắt đạo Nhâm Thủy để phân hóa một nguyên thần phân thân.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mị lực 1 thành\nTăng tối đa linh khí\nThêm một nguyên thần phân thân[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong4_Esoterica_11">
+			<DisplayName>Bính Hỏa Nguyên Thần</DisplayName>
+			<Desc>Ngưng luyện Bính Hỏa Nguyên Thần, tăng ngộ tính, tăng cường sức mạnh pháp thuật. Đồng thời có thể dẫn dắt đạo Bính Hỏa để phân hóa một nguyên thần phân thân.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng ngộ tính 1 thành\nTăng cường sức mạnh pháp thuật\nThêm một nguyên thần phân thân[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong4_Esoterica_12">
+			<DisplayName>Mậu Thổ Nguyên Thần</DisplayName>
+			<Desc>Ngưng luyện Mậu Thổ Nguyên Thần, tăng cơ duyên, tăng cường sức mạnh linh khí hộ thuẫn. Đồng thời có thể dẫn dắt đạo Mậu Thổ để phân hóa một nguyên thần phân thân.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng cơ duyên 1 thành\nTăng hiệu quả linh khí hộ thuẫn\nThêm một nguyên thần phân thân[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong5_Esoterica_1">
+			<DisplayName>Hình Dung Chi Thực</DisplayName>
+			<Desc>Đạo pháp tà ác ghi chép trong T thâu thiên quyết, tự tổn hại hình dung, một chút nâng cao căn cốt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 1 thành\nGiảm sức hấp dẫn 2 thành[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong5_Esoterica_2">
+			<DisplayName>Ngũ Cảm Chi Thực</DisplayName>
+			<Desc>Đạo pháp tà ác ghi chép trong T thâu thiên quyết, tự tổn hại ngũ cảm, một chút nâng cao căn cốt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 1 thành\nGiảm thần thức 2 thành[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong5_Esoterica_3">
+			<DisplayName>Thần Trí Chi Thực</DisplayName>
+			<Desc>Đạo pháp tà ác ghi chép trong T thâu thiên quyết, tự tổn hại thần trí, một chút nâng cao căn cốt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 1 thành\nGiảm ngộ tính 2 thành[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong5_Esoterica_4">
+			<DisplayName>Khí Vận Chi Thực</DisplayName>
+			<Desc>Đạo pháp tà ác ghi chép trong T thâu thiên quyết, tự tổn hại cơ duyên, một chút nâng cao căn cốt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 1 thành\nGiảm cơ duyên 2 thành[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong5_Esoterica_5">
+			<DisplayName>Cửu U Phản Chiếu</DisplayName>
+			<Desc>Sau bốn loại thực, nhờ vào sự suy yếu của bản thân, hấp thụ khí Cửu U phản chiếu lại bản thân, từ đó làm tăng tuổi thọ một cách đáng kể.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tuổi thọ đáng kể[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong5_Esoterica_6">
+			<DisplayName>Huyết Cốt Luyện Hình</DisplayName>
+			<Desc>Bí pháp tế luyện trái tim, sử dụng huyết khí hóa thành linh khí, sinh sinh bất tận.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tốc độ phục hồi linh khí đáng kể\nTăng một chút giá trị tối đa của linh khí\nTrái tim bị tổn hại![/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong5_Esoterica_7">
+			<DisplayName>Hộ Thể Huyết Cương</DisplayName>
+			<Desc>Kỹ năng được đúc kết từ những cuộc chiến vô tận của các tu sĩ thời thượng cổ, có thể nâng cao khả năng của lá chắn chống lại thương tổn.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng hiệu quả của lá chắn linh khí[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong5_Esoterica_8">
+			<DisplayName>Quy Tức Quyết</DisplayName>
+			<Desc>Bí quyết truyền lại từ cổ đại, hít thở giống như hơi thở của rùa, có thể kéo dài tuổi thọ.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tuổi thọ[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong5_Esoterica_9">
+			<DisplayName>Trạch Mệnh Pháp</DisplayName>
+			<Desc>Ẩn giấu khí tức bản thân, để tránh sự tuần tra của thiên đạo. Học tập pháp này có thể kéo dài tuổi thọ một cách đáng kể.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tuổi thọ đáng kể[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong5_Esoterica_10">
+			<DisplayName>Khi Thiên</DisplayName>
+			<Desc>Bí pháp cổ đại, học tập pháp này có thể làm cho thời gian thiên kiếp đến lần sau kéo dài đáng kể.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Kéo dài đáng kể thời gian thiên kiếp đến lần sau[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong5_Esoterica_11">
+			<DisplayName>Thất Thiên</DisplayName>
+			<Desc>Bí quyết cổ đại, bằng cách sử dụng bí pháp để lừa gạt thiên cơ, có thể tăng gấp 5 lần tuổi thọ cơ bản.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng gấp 5 lần tuổi thọ cơ bản[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong5_Esoterica_12">
+			<DisplayName>T thâu thiên</DisplayName>
+			<Desc>Đánh cắp thiên cơ, tăng đáng kể tuổi thọ.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tuổi thọ đáng kể[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong6_Esoterica_1">
+			<DisplayName>Ngọc Dịch Luyện Hình Quyết</DisplayName>
+			<Desc>Pháp quyết luyện khí nhập môn của Đạo giáo, dùng ngọc dịch luyện chu thiên, có thể loại bỏ tạp chất trong cơ thể, nâng cao giá trị tối đa của linh khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 1 thành\nTăng giá trị tối đa của linh khí từ căn bản[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong6_Esoterica_2">
+			<DisplayName>Tẩy Tâm Chú</DisplayName>
+			<Desc>Sử dụng ngọc dịch để tẩy rửa tâm hồn, có thể nâng cao ngộ tính.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng ngộ tính 1 thành[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong6_Esoterica_3">
+			<DisplayName>Đạo Đức Thanh Tịnh Pháp</DisplayName>
+			<Desc>Tâm pháp tối cao của Đạo giáo, tu dưỡng tư tưởng đạo đức, đạt được tâm thanh tịnh. Sau khi tu thành có thể nâng cao tâm cảnh.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giá trị cơ bản của tâm cảnh[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong6_Esoterica_4">
+			<DisplayName>Dược Điển</DisplayName>
+			<Desc>Sách ghi chép về các loại đan dược cơ bản của Đạo môn. Đọc thuộc có thể nâng cao tỷ lệ thành công khi luyện đan.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tỷ lệ thành công khi luyện đan\nHọc được Đan phương:\nTrúc Cơ Đan\nLiệu Thương Đan\nQuy Nguyên Tán\nCực Lạc Đan\nẨm Khí Đan\nThanh Tâm Đan[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong6_Esoterica_5">
+			<DisplayName>Bách Thảo Kim Thạch Lục</DisplayName>
+			<Desc>Học được cuốn sách này có thể hiểu rõ tính dược của vạn vật, có thể nâng cao kỹ thuật luyện đan một cách lớn lao.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tỷ lệ thành công khi luyện đan\nTăng tốc độ luyện đan\nHọc được Đan phương:\nCanh Kim Vạn Hóa Đan\nBích Xuân Đan\nThiên Nhất Thừa Khí Tán\nHỏa Chân Đan\nĐịnh Khôn Đan[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong6_Esoterica_6">
+			<DisplayName>Thái Thượng Đan Kinh</DisplayName>
+			<Desc>Bí quyết luyện đan do Thái Thượng truyền lại, là tinh hoa của ngoại đan thuật Đạo giáo qua hàng trăm năm.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được Đan phương:\nTử Dương Đan\nHoàng Đình Đan\nHoàng Nha Đan\nHuyết Giáp Tán\nTrường Sinh Đan\nHuyền Phân Tục Mệnh Tán\nCửu Chuyển Kim Đan\nVạn Linh Tán\nHọc được Phù Đồ:\nĐầu Suất Thần Phù\nVạn Hóa Thừa Đan Phù\nTăng đáng kể sản lượng luyện đan\nTăng đáng kể tỷ lệ thành công khi luyện đan\nTăng tốc độ luyện đan[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong6_Esoterica_7">
+			<DisplayName>Minh Mục Quyết</DisplayName>
+			<Desc>Sử dụng bí pháp ta luyện đôi mắt, để nâng cao thần thức.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng thần thức 1 thành[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong6_Esoterica_8">
+			<DisplayName>Khai Lò Cửu Quyết</DisplayName>
+			<Desc>Cổ nhân tổng kết ra chín loại thủ pháp khi mở lò luyện đan, có thể nâng cao tỷ lệ thành công khi luyện đan một cách lớn lao.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể tỷ lệ thành công khi luyện đan[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong6_Esoterica_9">
+			<DisplayName>Tốc Luyện Pháp</DisplayName>
+			<Desc>Bí pháp luyện đan dưới sự dẫn dắt của Thái Thượng, học tập có thể nâng cao tốc độ luyện đan một cách lớn lao.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể tốc độ luyện đan[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong6_Esoterica_10">
+			<DisplayName>Tinh Luyện Pháp</DisplayName>
+			<Desc>Bí pháp luyện đan dưới sự dẫn dắt của Thái Thượng, học tập có thể nâng cao sản lượng luyện đan một cách lớn lao.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể sản lượng luyện đan[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong6_Esoterica_11">
+			<DisplayName>Thần Luyện Pháp</DisplayName>
+			<Desc>Bí pháp luyện đan dưới sự dẫn dắt của Thái Thượng, học tập có thể nâng cao tỷ lệ thành công khi luyện đan.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể tỷ lệ thành công khi luyện đan[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong6_Esoterica_12">
+			<DisplayName>Tinh Hoa Quyết</DisplayName>
+			<Desc>Thu thập tinh hoa của đan thảo để nuôi dưỡng thân thể, có thể nâng cao căn cốt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 1 thành[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong6_Esoterica_13">
+			<DisplayName>Quy Nguyên Quyết</DisplayName>
+			<Desc>Tiến cấp của Tinh Hoa Quyết, tiếp tục luyện hóa lượng thuốc còn sót lại trong cơ thể, có thể nâng cao giá trị tối đa của linh khí, và nâng cao hiệu suất hấp thụ khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giá trị tối đa của linh khí\nTăng hiệu suất hấp thụ khí[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong6_Esoterica_14">
+			<DisplayName>Thái Thượng Nội Kinh</DisplayName>
+			<Desc>Tinh hoa nghiên cứu về cơ thể con người của Thái Thượng, học tập có thể nâng cao tuổi thọ một cách lớn lao.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tuổi thọ đáng kể[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong7_Esoterica_1">
+			<DisplayName>Tâm Trai</DisplayName>
+			<Desc>Pháp Tâm Trai dùng để thu thập ý niệm, hành động này có thể nâng cao giá trị cơ bản của tâm trạng, tăng tốc độ tu luyện.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giá trị cơ bản của tâm trạng\nTăng tốc độ tu luyện[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong7_Esoterica_2">
+			<DisplayName>Kỹ thuật gửi tình cảm</DisplayName>
+			<Desc>Gửi tình vào núi sông, cỏ cây, cảm nhận trạng thái của vật vô tri, không bị ảnh hưởng bởi gió mưa sấm chớp. Tu luyện pháp này có thể tăng nhẹ sức hấp dẫn và nâng cao tâm cảnh.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng sức hấp dẫn 10%\nTăng tâm cảnh[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong7_Esoterica_3">
+			<DisplayName>Đồng Tâm Quyết</DisplayName>
+			<Desc>Dùng tâm niệm để cảm nhận lòng dạ của chim thú và con người, thấu hiểu trạng thái của vạn vật. Tu luyện pháp này có thể tăng mạnh sức hấp dẫn và khả năng đối nhân xử thế, đồng thời trong trạng thái đồng tâm sẽ gia tăng linh lực bản thân.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng sức hấp dẫn 10%\nTăng mạnh kỹ năng đối nhân xử thế\nTăng mạnh giới hạn linh khí[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong7_Esoterica_4">
+			<DisplayName>Thái Thượng Vong Tình</DisplayName>
+			<Desc>Quan sát vạn tình, sau đó quên tình. Dùng tâm vô tình để nhìn nhân gian, vạn sự viên mãn.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tâm trạng cơ bản\nKhông cảm thấy đau đớn[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong7_Esoterica_5">
+			<DisplayName>Thoát Thai Hoán Cốt</DisplayName>
+			<Desc>Dùng tâm pháp Trường Sinh Quyết để tái tạo thân thể, có thể tăng mạnh căn cốt và khả năng hồi phục tự nhiên.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 10%\nTăng mạnh khả năng hồi phục tự nhiên[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong7_Esoterica_6">
+			<DisplayName>Dưỡng Ngã Kinh</DisplayName>
+			<Desc>Phương pháp điều hòa thân tâm kỳ diệu, có thể tăng sức hấp dẫn và giới hạn linh khí tối đa.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng sức hấp dẫn 10%\nTăng giới hạn linh khí tối đa từ gốc rễ\nTăng uy lực pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong7_Esoterica_7">
+			<DisplayName>Tọa Vong Luận</DisplayName>
+			<Desc>Thuật luyện khí của Cực Thiên Cung, tu luyện lâu dài có thể tăng cường tâm cảnh và tốc độ tu luyện.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giá trị cơ bản của tâm cảnh\nTăng tốc độ tu luyện\nTăng uy lực pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong7_Esoterica_8">
+			<DisplayName>Trường Sinh Quyết</DisplayName>
+			<Desc>Bí thư kỳ diệu truyền từ tiên gia thượng cổ, có thể khai phá tiềm năng huyệt đạo trong cơ thể, kéo dài tuổi thọ đáng kể.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tuổi thọ đáng kể[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong7_Esoterica_9">
+			<DisplayName>Phong Thần Vân Thể</DisplayName>
+			<Desc>Hợp nhất thân và thần, gió mây tùy thân. Tu luyện pháp này có thể tăng mạnh giới hạn linh khí tối đa và tăng đáng kể sức hấp dẫn.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh giới hạn linh khí tối đa\nTăng sức hấp dẫn 10%[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong7_Esoterica_10">
+			<DisplayName>Trảm Đạo Kiến Ngã</DisplayName>
+			<Desc>Tâm pháp tối cao của Thái Thượng Vong Tình Đạo, dùng kiếm trí tuệ để trảm đạo, thấy được chân ngã. Có thể tăng mạnh tốc độ tu luyện. Nếu áp dụng vào kiếm pháp, có thể tăng mạnh uy lực ngự khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tốc độ tu luyện\nTăng mạnh uy lực pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong7_Esoterica_11">
+			<DisplayName>Tâm Kiếm</DisplayName>
+			<Desc>Tu luyện thành kiếm này có thể thấu triệt lòng người, linh hoạt vô cùng, uy lực kinh người.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng uy lực pháp bảo\nTăng tốc độ chuyển hướng của pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong7_Esoterica_12">
+			<DisplayName>Thất Tình Kiếm</DisplayName>
+			<Desc>Ngưng tụ thất tình vào kiếm, tăng mạnh linh tính của phi kiếm, nhưng thất tình gây tổn thương, tốc độ hồi phục của phi kiếm sẽ rất chậm.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giới hạn linh khí của pháp bảo\nGiảm tốc độ hồi phục linh khí của pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong7_Esoterica_13">
+			<DisplayName>Cực Tình Kiếm</DisplayName>
+			<Desc>Ngưng tụ tình cảm mãnh liệt vào ngự khí, nhanh như chim bay, không gì không thể chém đứt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh uy lực pháp bảo\nTăng mạnh tốc độ pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong8_Esoterica_1">
+			<DisplayName>Chân Võ Lục</DisplayName>
+			<Desc>Giảng giải tâm pháp quán tưởng Chân Võ Bắc Đẩu trong lúc tĩnh tọa, cũng là nền tảng của Bắc Đẩu Động Tâm. Tu luyện pháp này có thể giúp thần niệm sáng suốt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tâm cảnh\nTăng ngộ tính 10%\nTăng uy lực pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong8_Esoterica_2">
+			<DisplayName>Tư Nam Kinh</DisplayName>
+			<Desc>Ghi chép bí pháp mượn lực tinh tú để rèn luyện bản thân, cũng là tổng cương của Bắc Đẩu Thất Tuyệt. Tu luyện pháp này có thể mượn lực sao Bắc Đẩu để tăng căn cốt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 10%\nTăng giới hạn linh khí tối đa\nTăng giới hạn linh khí của pháp bảo\nTăng tốc độ hồi phục linh khí của pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong8_Esoterica_3">
+			<DisplayName>Thiên Xu Quyết</DisplayName>
+			<Desc>Thu thập lực sao Thiên Xu để sử dụng, ánh sao Thiên Xu mang sát ý lạnh lùng, dung nhập vào pháp bảo có thể tăng mạnh uy lực ngự khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh uy lực pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong8_Esoterica_4">
+			<DisplayName>Thiên Tuyền Quyết</DisplayName>
+			<Desc>Thu thập lực sao Thiên Tuyền để sử dụng, ánh sao Thiên Tuyền lấp lánh nhẹ nhàng, dung nhập vào pháp bảo có thể khiến ngự khí linh động như gió.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tốc độ chuyển hướng của pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong8_Esoterica_5">
+			<DisplayName>Thiên Cơ Quyết</DisplayName>
+			<Desc>Thu thập lực sao Thiên Cơ để sử dụng, ánh sao Thiên Cơ tôn quý hoa lệ, dung nhập vào pháp bảo có thể giúp ngự khí tránh tà ngoại.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng khả năng chống đẩy lùi của pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong8_Esoterica_6">
+			<DisplayName>Thiên Quyền Quyết</DisplayName>
+			<Desc>Thu thập lực sao Thiên Quyền để sử dụng, ánh sao Thiên Quyền hòa hợp trung chính, dung nhập vào pháp bảo có thể giúp ngự khí có nội lực thâm hậu.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giá trị linh khí pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong8_Esoterica_7">
+			<DisplayName>Ngọc Hành Quyết</DisplayName>
+			<Desc>Thu thập lực sao Ngọc Hành để sử dụng, ánh sao Ngọc Hành kéo dài liên miên, dung nhập vào pháp bảo có thể giúp ngự khí duy trì sức mạnh lâu dài.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tốc độ hồi phục linh khí của pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong8_Esoterica_8">
+			<DisplayName>Khai Dương Quyết</DisplayName>
+			<Desc>Thu thập sức mạnh của sao Khai Dương làm của mình, ánh sáng sao Khai Dương mạnh mẽ và tràn đầy, dung nhập vào pháp bảo có thể khiến việc điều khiển pháp bảo trở nên không thể ngăn cản.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng khoảng cách đẩy lùi của pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong8_Esoterica_9">
+			<DisplayName>Dao Quang Quyết</DisplayName>
+			<Desc>Thu thập sức mạnh của sao Dao Quang làm của mình, ánh sáng sao Dao Quang rực rỡ và sắc bén, dung nhập vào pháp bảo có thể khiến việc điều khiển pháp bảo nhanh như tia chớp.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tốc độ pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong8_Esoterica_10">
+			<DisplayName>Bắc Đẩu Tuyệt Thức-Thất Tinh Quyết</DisplayName>
+			<Desc>Bí quyết tối cao của pháp Bắc Đẩu Động Tâm Kiếp, uy lực vô song.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng uy lực pháp bảo\nTăng tốc độ pháp bảo\nTăng tốc độ chuyển hướng pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong8_Esoterica_11">
+			<DisplayName>Động Tâm Chú</DisplayName>
+			<Desc>Đặt mình giữa trời đất vô tận, từ đó buông bỏ cái ta, thấu hiểu bản tâm. Tu luyện pháp này có thể nâng cao tâm tính.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tâm cảnh\nTăng cảm xúc cơ bản[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong8_Esoterica_12">
+			<DisplayName>Kiếp Tâm Chú</DisplayName>
+			<Desc>Tiêu hao tâm huyết bản nguyên để ta luyện thân thể, tăng cường toàn diện ngũ hành. Pháp này sẽ tiêu hao hai giáp tử tuổi thọ và giảm một phần mười giá trị linh khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm tuổi thọ\nGiảm tối đa giá trị linh khí từ gốc\nTăng ngũ hành nửa phần[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong8_Esoterica_13">
+			<DisplayName>Mắt Sao Đẩu</DisplayName>
+			<Desc>Dùng đôi mắt kết nối sức mạnh của các sao, tăng cường thần thức đáng kể, có thể mượn sức mạnh của sao trời để soi sáng bốn phương.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng thần thức 2 phần\nPhá sương mù bản đồ (một lần)[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong9_Esoterica_1">
+			<DisplayName>Luân Hồi Tâm Nhãn</DisplayName>
+			<Desc>Dùng bí pháp luyện đôi mắt, có khả năng thấu hiểu tâm linh. Tu luyện pháp này, thần thức sẽ tăng mạnh.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng thần thức 1 thành[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong9_Esoterica_2">
+			<DisplayName>Tam Thế Động Chân Pháp</DisplayName>
+			<Desc>Trong trạng thái mờ mịt, bắt lấy ký ức trôi dạt giữa ba thế giới, dần dần làm sáng tỏ bản thân. Tu luyện pháp này giúp tâm cảnh ổn định, không còn sợ hãi bí ẩn sinh tử, tăng tốc độ tu luyện.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tốc độ tu luyện\nTăng tâm cảnh[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong9_Esoterica_3">
+			<DisplayName>Sinh Tử Lục</DisplayName>
+			<Desc>Bí quyển ghi lại đạo lý chuyển hóa giữa sinh và tử, truyền từ cổ tiên Quy Chân Tử. Tu luyện quyển này có thể tăng tuổi thọ, tăng uy lực pháp thuật.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tuổi thọ\nTăng uy lực pháp thuật[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong9_Esoterica_4">
+			<DisplayName>Thân Thể Luân Hồi</DisplayName>
+			<Desc>Dùng bí pháp ghi trong Sinh Tử Lục để thúc đẩy thai hóa dị hình, tái tạo thân thể thành thân thể luân hồi. Dùng thân thể luân hồi thi pháp có thể tăng mạnh uy lực pháp thuật mà không tiêu hao thêm linh khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh uy lực pháp thuật[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong9_Esoterica_5">
+			<DisplayName>Tâm Luân Hồi</DisplayName>
+			<Desc>Quan sát trăm kiếp luân hồi, buồn vui ly hợp, để rèn luyện tâm cảnh, thấu hiểu vạn pháp, tu thành Tâm Luân Hồi.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tâm cảnh\nTăng uy lực pháp thuật[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong9_Esoterica_6">
+			<DisplayName>Luân Hồi Kinh</DisplayName>
+			<Desc>Bí pháp truyền từ địa phủ, là cốt lõi và nền tảng của Luân Hồi Kinh trường sinh. Tu luyện pháp này có thể tăng tối đa giá trị linh khí từ gốc.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giá trị tối đa linh khí từ gốc rễ[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong9_Esoterica_7">
+			<DisplayName>Dưỡng Thân Pháp</DisplayName>
+			<Desc>Mượn hơi thở của trời đất cỏ cây để nuôi dưỡng bản thân. Tu luyện pháp này có thể tăng chút căn cốt và tăng hiệu quả hấp thụ khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 1 phần\nTăng hiệu quả hấp thụ khí một chút[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong9_Esoterica_8">
+			<DisplayName>Hợp Vật Chí</DisplayName>
+			<Desc>Đồng điều bản thân với vạn vật, mượn đá núi khác để mài ngọc núi mình. Tu luyện pháp này có thể tăng toàn diện khả năng điều khiển pháp bảo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng uy lực pháp bảo\nTăng tốc độ phục hồi linh khí pháp bảo\nTăng giá trị linh khí pháp bảo\nTăng tốc độ pháp bảo\nTăng tốc độ chuyển hướng pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong9_Esoterica_9">
+			<DisplayName>Thông Tức Quyết</DisplayName>
+			<Desc>Trên cơ sở đồng điệu với vạn vật, tiến thêm một bước để thông cảm và cảm nhận cùng vạn vật. Tu luyện pháp này có thể tăng tối đa linh khí và tốc độ hồi phục linh khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tối đa linh khí\nTăng tốc độ hồi phục linh khí[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong9_Esoterica_10">
+			<DisplayName>Thai Hóa Dễ Hình</DisplayName>
+			<Desc>Bí pháp tái tạo thân thể, tu luyện pháp này có thể tăng căn cốt và mị lực, đồng thời tăng tiềm năng.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 0.5\nTăng mị lực 0.5\nTăng tiềm năng[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong9_Esoterica_11">
+			<DisplayName>Thần Tiệt Kinh</DisplayName>
+			<Desc>Dùng thần diệu của Lục Đạo để củng cố bản thân, tu luyện pháp này có thể tăng ngộ tính.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng ngộ tính 1 thành[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong9_Esoterica_12">
+			<DisplayName>Thiên Nhân Chi Thể·Nhất Giai</DisplayName>
+			<Desc>Bước đầu chuyển hóa cơ thể thành Thiên Nhân Chi Thể, tăng tuổi thọ, khả năng hồi phục tự nhiên và uy lực pháp thuật.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tuổi thọ\nTăng khả năng hồi phục tự nhiên\nTăng uy lực pháp thuật[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong9_Esoterica_13">
+			<DisplayName>Chân Ngã Chi Thể·Nhất Giai</DisplayName>
+			<Desc>Luyện hóa cơ thể hoàn mỹ bằng thần diệu Lục Đạo, thích hợp cho những người có căn cơ không ổn định sau khi nhanh chóng đột phá cảnh giới. Có thể tăng đáng kể tối đa linh khí từ gốc rễ.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể tối đa linh khí từ gốc rễ[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong9_Esoterica_14">
+			<DisplayName>Tu La Chi Thể·Nhất Giai</DisplayName>
+			<Desc>Dùng thần diệu của Tu La Đạo để chuyển hóa cơ thể thành Tu La Chi Thể, tăng mạnh khả năng chiến đấu.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng uy lực pháp bảo\nTăng uy lực pháp thuật\nTăng hiệu quả khiên linh khí[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong10_Esoterica_1">
+			<DisplayName>Ngự Chân Bí Điển</DisplayName>
+			<Desc>Bí pháp thất truyền cổ đại, có thể tăng uy lực pháp thuật từ gốc rễ.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng uy lực pháp thuật từ gốc rễ[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong10_Esoterica_2">
+			<DisplayName>Tam Dương Xích Tâm Chú</DisplayName>
+			<Desc>Dùng tâm niệm thúc đẩy linh khí toàn thân sôi trào, có thể tăng uy lực pháp thuật.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng nhiệt độ cực hạn\nTăng uy lực pháp thuật[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong10_Esoterica_3">
+			<DisplayName>Thủy Nhật Chân Quyết</DisplayName>
+			<Desc>Dựa vào sức mạnh chí dương giữa trời đất, tăng đáng kể uy lực pháp thuật.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh uy lực pháp thuật[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong10_Esoterica_4">
+			<DisplayName>Chân Hỏa Luyện Thân</DisplayName>
+			<Desc>Dùng chân hỏa của trời đất để luyện hóa cơ thể, có thể tăng mạnh tính tương hợp pháp thuật và uy lực pháp thuật.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng uy lực pháp thuật[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong10_Esoterica_5">
+			<DisplayName>Kim Ô Quán</DisplayName>
+			<Desc>Quán tưởng hình thái chân thực của mặt trời để tụ tập chân khí. Tu luyện pháp này có thể tăng tối đa linh khí từ gốc rễ.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giá trị tối đa linh khí từ gốc rễ[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong10_Esoterica_6">
+			<DisplayName>Ngũ Nội Dưỡng Hỏa</DisplayName>
+			<Desc>Ngưng tụ sức mạnh Bính Hỏa để luyện hóa ngũ tạng, tăng cường chức năng nội tạng, có thể tăng nhẹ ngũ thuộc tính và tỷ lệ chuyển hóa tinh nguyên.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng 0.5 cho mỗi thuộc tính ngũ hành\nTăng tỷ lệ chuyển hóa tinh nguyên[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong10_Esoterica_7">
+			<DisplayName>Tam Dương Chân Mạch</DisplayName>
+			<Desc>Dùng Tam Dương Chân Hỏa để luyện hóa kinh mạch, có thể tăng tối đa linh khí và một ít căn cốt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tối đa linh khí\nTăng căn cốt 1[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong10_Esoterica_8">
+			<DisplayName>Tâm Hỏa</DisplayName>
+			<Desc>Đốt cháy ngọn lửa tâm niệm, giảm mạnh tiêu hao khi thi triển pháp thuật.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm tiêu hao linh khí khi thi triển pháp thuật[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong10_Esoterica_9">
+			<DisplayName>Thông Thiên Thần Hỏa Chú</DisplayName>
+			<Desc>Bí thuật tối cao của pháp thuật hỏa hệ, tu luyện có thể tăng mạnh sát thương pháp thuật.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh sát thương pháp thuật[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong10_Esoterica_10">
+			<DisplayName>Tịnh Hỏa Chước Tâm</DisplayName>
+			<Desc>Dùng ngọn lửa tinh khiết thiêu đốt tâm niệm, tăng mạnh ngộ tính.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng ngộ tính 1 thành[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong10_Esoterica_11">
+			<DisplayName>Thiên Hỏa Đồng Nhân</DisplayName>
+			<Desc>Thiên Hỏa Đồng Nhân, Thiên Hạ Đại Đồng. Tu luyện pháp này có thể tăng mạnh cơ duyên.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng cơ duyên nửa phần[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong11_Esoterica_1">
+			<DisplayName>Thái Âm Đoán Thể</DisplayName>
+			<Desc>Ta luyện thân thể bằng khí Thái Âm. Nếu nam nhân tu luyện, giới tính sẽ bị đảo ngược.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Chuyển hóa thành thuần âm chi thể\nTăng tối đa linh khí từ căn bản\nTăng uy lực pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong11_Esoterica_2">
+			<DisplayName>Tị Tà Chân Pháp</DisplayName>
+			<Desc>Pháp môn sử dụng thuần âm chi khí để điều khiển vật, có thể tăng mạnh tốc độ pháp bảo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tốc độ pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong11_Esoterica_3">
+			<DisplayName>Thái Hư Nguyên Cương</DisplayName>
+			<Desc>Bí điển giảng giải cách mượn lực Khôn Nguyên để ngưng tụ linh khí hộ thuẫn.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng hiệu quả của lá chắn linh khí[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong11_Esoterica_4">
+			<DisplayName>Hư Không Nghệ Thần Pháp</DisplayName>
+			<Desc>Dựa vào hư không để gặp thần linh. Tăng mạnh cơ duyên, uy lực pháp bảo, đồng thời phân hóa một đạo nguyên thần phân thân. Đây là huyền bí tối cao của Quỳ Hoa Luyện Thần Bảo Điển.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng cơ duyên 2 phần\nTăng mạnh uy lực pháp bảo\nThêm một đạo nguyên thần phân thân[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong11_Esoterica_5">
+			<DisplayName>Cửu Châu Đại Pháp</DisplayName>
+			<Desc>Quán tưởng hình dáng Cửu Châu đại địa, ngưng tụ nguyên khí. Có thể tăng hiệu quả tối đa linh khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tối đa linh khí[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong11_Esoterica_6">
+			<DisplayName>Linh Thị Thần Quan</DisplayName>
+			<Desc>Mượn lực Khôn Nguyên để ngưng tụ đôi mắt, có thể nhìn thấu hầu hết các thuật che mắt và tăng thần thức.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng thần thức 1 thành[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong11_Esoterica_7">
+			<DisplayName>Bát Cực Luyện Hình Quyết</DisplayName>
+			<Desc>Thiên địa có bát cực, thân người cũng có bát cực. Ngưng tụ tám huyệt đạo trên cơ thể, có hiệu quả thoát thai hoán cốt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt nửa phần\nTăng mị lực nửa phần[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong11_Esoterica_8">
+			<DisplayName>Thần Hành Thuật</DisplayName>
+			<Desc>Thu nhỏ khoảng cách, di chuyển như thần.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tốc độ di chuyển\nTăng tốc độ phi hành khi lịch luyện[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong11_Esoterica_9">
+			<DisplayName>Hậu Đức Thiên</DisplayName>
+			<Desc>Địa thế Khôn, quân tử lấy hậu đức tải vật. Tu luyện pháp này có thể dùng hậu đức để chống lại thiên kiếp, kéo dài tuổi thọ cực đại.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tuổi thọ[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong11_Esoterica_10">
+			<DisplayName>U Kiếm</DisplayName>
+			<Desc>Kiếm pháp truyền thừa từ U Minh, lấy việc hy sinh hậu lực để đổi lấy sát thương cực mạnh.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng uy lực pháp bảo\nGiảm tối đa linh khí của pháp bảo từ căn bản[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong11_Esoterica_11">
+			<DisplayName>Thuấn Sát Quyết</DisplayName>
+			<Desc>Kiếm pháp truyền thừa từ U Minh, xuất kiếm cực nhanh, quỷ dị vô song.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tốc độ chuyển hướng của pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong11_Esoterica_12">
+			<DisplayName>Thái Âm Quyết</DisplayName>
+			<Desc>Kiếm pháp truyền thừa từ U Minh, ngưng tụ kiếm thần bằng thuần âm chi tức, có thể tăng mạnh khả năng kháng đẩy lùi.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh khả năng kháng đẩy lùi của pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong11_Esoterica_13">
+			<DisplayName>Uyên Ngục Quyết</DisplayName>
+			<Desc>Kiếm pháp truyền thừa từ U Minh, lấy việc giảm tốc độ hồi phục linh khí của pháp bảo để đổi lấy lượng lớn uy lực.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng uy lực pháp bảo\nGiảm tốc độ hồi phục linh khí của pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong11_Esoterica_14">
+			<DisplayName>Hoại Diệt Quyết</DisplayName>
+			<Desc>U Minh Tuyệt Kiếm, tăng mạnh uy lực pháp bảo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh uy lực pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong11_Esoterica_15">
+			<DisplayName>Địa Mẫu Huyền Kinh</DisplayName>
+			<Desc>Bí điển ghi chép nhiều thuật điều khiển hồn phách, truyền thuyết lưu truyền từ Lục Địa Mẫu Thần Cung.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng khí cảm[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong11_Esoterica_16">
+			<DisplayName>Khôn Nguyên Chân Khí</DisplayName>
+			<Desc>Luyện hóa một tia tiên thiên Khôn Nguyên chi khí, tăng mạnh tối đa linh khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tối đa linh khí 15000 điểm[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong12_Esoterica_1">
+			<DisplayName>Thông Phù Thư</DisplayName>
+			<Desc>Bí sách ghi chép các phù chú thường dùng trong tu luyện.</Desc>
+			<EffectDesc>Mở khóa Phù Đồ:\nPhân Ảnh Độn Không Phù\nThiên Tâm Phù\nNinh Tâm Phù\nVăn Xương Phù\nVõ Xương Phù</EffectDesc>
+		</Text>
+		<Text Name="Gong12_Esoterica_2">
+			<DisplayName>Huyền Phù Lục</DisplayName>
+			<Desc>Ghi chép các phù chú tăng cường sức mạnh phòng ngự.</Desc>
+			<EffectDesc>Mở khóa Phù Đồ:\nHuyền Giáp Phù</EffectDesc>
+		</Text>
+		<Text Name="Gong12_Esoterica_3">
+			<DisplayName>Kiếm Phù Lục</DisplayName>
+			<Desc>Ghi chép các phù chú tăng cường sức mạnh ngự kiếm.</Desc>
+			<EffectDesc>Mở khóa Phù Đồ:\nLợi Kiếm Phù</EffectDesc>
+		</Text>
+		<Text Name="Gong12_Esoterica_4">
+			<DisplayName>Chú Phù Lục</DisplayName>
+			<Desc>Ghi chép các phù chú tăng cường sức mạnh chú pháp.</Desc>
+			<EffectDesc>Mở khóa Phù Đồ:\nLệ Chú Phù</EffectDesc>
+		</Text>
+		<Text Name="Gong12_Esoterica_5">
+			<DisplayName>Thông Thiên Phù Pháp</DisplayName>
+			<Desc>Ghi chép các phù chú mạnh mẽ đã thất truyền trong giới tu luyện, những phù chú này thậm chí có thể cải thiện tư chất người đeo, vì thế được gọi là Thông Thiên.</Desc>
+			<EffectDesc>Mở khóa Phù Đồ:\nThông Thiên Phù</EffectDesc>
+		</Text>
+		<Text Name="Gong12_Esoterica_6">
+			<DisplayName>Tá Thiên Phù</DisplayName>
+			<Desc>Bí sách ghi chép phù chú được đồn có thể mượn sức mạnh Thiên Đạo.</Desc>
+			<EffectDesc>Mở khóa Phù Đồ:\nTá Thiên Phù</EffectDesc>
+		</Text>
+		<Text Name="Gong12_Esoterica_7">
+			<DisplayName>Vô Thượng Thần Phù</DisplayName>
+			<Desc>Phù chú cổ đại lưu truyền, được cho là dành cho tu luyện Thần Đạo, nay đã thất truyền.</Desc>
+			<EffectDesc>Mở khóa Phù Đồ:\nThần Cư Phù\nThần Cảm Phù\nThần Uy Phù\nThần Ẩn Phù</EffectDesc>
+		</Text>
+		<Text Name="Gong12_Esoterica_8">
+			<DisplayName>Vân Hành Pháp</DisplayName>
+			<Desc>Diệu pháp ngộ ra từ sự biến hóa của mây khói, tu luyện có thể tăng mạnh tốc độ phi hành luyện tập.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tốc độ phi hành luyện tập[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong12_Esoterica_9">
+			<DisplayName>Vân Khí Hội Lưu</DisplayName>
+			<Desc>Pháp vận khí độc đáo, có thể tăng tối đa linh khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tối đa linh khí 1000 điểm[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong12_Esoterica_10">
+			<DisplayName>Kết Vân Kinh</DisplayName>
+			<Desc>Ngưng tụ linh khí toàn thân thành hình dạng như đám mây, có thể tăng hiệu quả phòng ngự của khiên linh khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng hiệu quả khiên linh khí[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong12_Esoterica_11">
+			<DisplayName>Thiên Chân Luận</DisplayName>
+			<Desc>Người cổ đại, xuân thu đều trăm tuổi mà động tác không suy, tu luyện thuật này có thể tăng mạnh căn cốt và tuổi thọ.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 2\nTăng tuổi thọ 300 năm[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong12_Esoterica_12">
+			<DisplayName>Đông Mộc Phân Thần Thư</DisplayName>
+			<Desc>Bí pháp phân thần truyền từ Đông Phương Mộc Thần Cung, tu luyện đến cực hạn có thể tạo ra mười phân thần, huyền diệu vô cùng.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng thêm một phân thần nguyên thần[/color][/size]</EffectDesc>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,23 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="DiMuWish">
+			<DisplayName>Thờ cúng Địa Mẫu</DisplayName>
+			<Desc>Dâng Linh Thạch lên bia đá Địa Mẫu</Desc>
+			<Selections.0.Display>Cầu xin Linh Thạch</Selections.0.Display>
+			<Selections.1.Display>Cầu xin tự nhiên</Selections.1.Display>
+		</Text>
+		<Text Name="YinYangCanWu">
+			<DisplayName>Tham ngộ Âm Dương</DisplayName>
+			<Desc>Kỳ thạch Âm Dương chứa đựng pháp tắc Âm Dương của trời đất, có thể tham ngộ pháp tu hành từ đó.</Desc>
+			<Selections.0.Display>Tham ngộ Âm Dương</Selections.0.Display>
+			<Selections.1.Display>Không có gì xảy ra</Selections.1.Display>
+		</Text>
+		<Text Name="FeelQi">
+			<DisplayName>Cảm nhận Linh Khí</DisplayName>
+			<Desc>Xung quanh Linh Thụ chứa đựng Linh Khí kỳ diệu, có thể cộng hưởng với nó.</Desc>
+			<Selections.0.Display>Cảm nhận Linh Khí</Selections.0.Display>
+			<Selections.1.Display>Không có gì xảy ra</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>
+

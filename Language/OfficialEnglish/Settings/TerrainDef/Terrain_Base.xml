@@ -1,0 +1,75 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="TerrainBase">
+			<DisplayName>Cơ bản về địa danh</DisplayName>
+			<StoryDesc>Trên đường</StoryDesc>
+		</Text>
+		<Text Name="Null">
+			<DisplayName>Không có</DisplayName>
+		</Text>
+		<Text Name="Soil">
+			<DisplayName>Đất</DisplayName>
+			<StoryDesc>Bên cạnh cây thông, dưới bóng râm</StoryDesc>
+		</Text>
+		<Text Name="Soil_Sand">
+			<DisplayName>Đất cát</DisplayName>
+			<StoryDesc>Trên cát vàng</StoryDesc>
+		</Text>
+		<Text Name="Mud">
+			<DisplayName>Đất bùn</DisplayName>
+			<StoryDesc>Trong bùn lầy, trên bùn đất</StoryDesc>
+		</Text>
+		<Text Name="BlackB">
+			<DisplayName>Hư không</DisplayName>
+			<StoryDesc>Trong hư không</StoryDesc>
+		</Text>
+		<Text Name="WetLand">
+			<DisplayName>Đất ẩm</DisplayName>
+			<StoryDesc>Trong bùn lầy, trên đất ẩm</StoryDesc>
+		</Text>
+		<Text Name="FertileSoil">
+			<DisplayName>Đất màu mỡ</DisplayName>
+			<StoryDesc>Bên cạnh cây thông, dưới bóng râm</StoryDesc>
+		</Text>
+		<Text Name="StoneLand">
+			<DisplayName>Bề mặt đá</DisplayName>
+			<StoryDesc>Bên vách núi, trên đường núi gập ghềnh</StoryDesc>
+		</Text>
+		<Text Name="SandLand">
+			<DisplayName>Đất cát</DisplayName>
+			<StoryDesc>Bên vách núi, trên đường núi gập ghềnh</StoryDesc>
+		</Text>
+		<Text Name="LingSoil">
+			<DisplayName>Linh thổ</DisplayName>
+			<StoryDesc>Nơi linh khí tụ hội, bao quanh bởi linh khí</StoryDesc>
+		</Text>
+		<Text Name="DepthDepthWater">
+			<DisplayName>Nước sâu</DisplayName>
+		</Text>
+		<Text Name="DepthWater">
+			<DisplayName>Nước sâu</DisplayName>
+		</Text>
+		<Text Name="YunHai">
+			<DisplayName>Biển mây</DisplayName>
+		</Text>
+		<Text Name="ShallowWater">
+			<DisplayName>Nước cạn</DisplayName>
+			<StoryDesc>Dưới bóng cây bên hồ, cạnh dòng nước trong lành</StoryDesc>
+		</Text>
+		<Text Name="BloodWater">
+			<DisplayName>Huyết Thủy</DisplayName>
+			<StoryDesc>Thường xuất hiện từ việc tàn sát sinh vật</StoryDesc>
+		</Text>
+		<Text Name="DepthBloodWater">
+			<DisplayName>Thâm Huyết Thủy</DisplayName>
+		</Text>
+		<Text Name="LingWater">
+			<DisplayName>Linh thủy</DisplayName>
+			<StoryDesc>Dưới bóng cây bên hồ, cạnh dòng nước trong lành</StoryDesc>
+		</Text>
+		<Text Name="Sand">
+			<DisplayName>Đất cát</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

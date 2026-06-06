@@ -1,0 +1,33 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="affix_1">
+			<Display>Beast convertion</Display>
+			<Desc>[color=#B0FA6B][size=18]   · Khi động vật chết có tỷ lệ cao biến thành yêu thú[/color][/size]</Desc>
+		</Text>
+		<Text Name="affix_2">
+			<Display>Alchemy Qi Overflowing</Display>
+			<Desc>[color=#B0FA6B][size=18]   · Khi luyện đan thành công, dựa vào phẩm cấp và ngũ hành của đan dược sẽ tăng ngũ hành đan khí trong cảnh[/color][/size]</Desc>
+		</Text>
+		<Text Name="affix_5">
+			<Display>Tế yêu</Display>
+			<Desc>[color=#B0FA6B][size=18]   · Mở chức năng tế yêu\n   · Có thể sử dụng chức năng tế yêu đài ở Tổ Sư Điện[/color][/size]</Desc>
+		</Text>
+		<Text Name="affix_3">
+			<Display>Tài nguyên phong phú</Display>
+			<Desc>[size=18]   · Tăng thêm vật phẩm rơi từ yêu thú và động vật\n   · Thương nhân mang hàng hóa gấp đôi[/size]</Desc>
+		</Text>
+		<Text Name="affix_4">
+			<Display>Linh thú làm bạn</Display>
+			<Desc>[size=18]   · Ban đầu nhận được linh thú Hoa Quyển\n   · Cho linh thú ăn để nhận thêm dinh dưỡng từ thức ăn[/size]</Desc>
+		</Text>
+		<Text Name="challenge_affix_1">
+			<Display>Yêu thú điên cuồng</Display>
+			<Desc>   · Độ khó yêu thú xâm lấn cao hơn</Desc>
+		</Text>
+		<Text Name="challenge_affix_2">
+			<Display>Thiên tượng hỗn loạn</Display>
+			<Desc>   · Hiệu ứng tiêu cực thời tiết tăng\n   · Độ khó thiên kiếp tăng</Desc>
+		</Text>
+	</List>
+</Texts>
+

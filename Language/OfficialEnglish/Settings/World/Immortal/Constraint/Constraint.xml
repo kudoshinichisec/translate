@@ -1,0 +1,349 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="TwoRandom">
+			<DisplayName>Thiên nhai luân lạc</DisplayName>
+			<Desc>Trên đường trốn thoát, có hai đồng môn không quen biết lắm xin gia nhập cùng ngươi.</Desc>
+		</Text>
+		<Text Name="Coma50">
+			<DisplayName>Tấm lòng nhân hậu</DisplayName>
+			<Desc>Trên đường trốn thoát, một đồng môn bị thương nặng xin ngươi cứu giúp, mang theo anh ta cùng đi.</Desc>
+		</Text>
+		<Text Name="Thunder100">
+			<DisplayName>Đối xử công bằng</DisplayName>
+			<Desc>Trên đường trốn thoát, một yêu tộc hóa hình từ hậu sơn xin ngươi mang anh ta cùng trốn. Anh ta sẽ đối mặt với thiên kiếp hóa hình sau 100 ngày.</Desc>
+		</Text>
+		<Text Name="HardLeave">
+			<DisplayName>Trốn thoát khó khăn</DisplayName>
+			<Desc>Trong quá trình trốn thoát, sẽ có một số đồng môn xa lạ không thể chọn lựa xin gia nhập đội của ngươi.</Desc>
+		</Text>
+		<Text Name="HotSummer">
+			<DisplayName>Nắng nóng gay gắt.</DisplayName>
+			<Desc>Thời tiết bất thường ở nơi này, mùa hè trở nên nóng hơn.</Desc>
+		</Text>
+		<Text Name="ColdWinter">
+			<DisplayName>Mùa đông lạnh giá</DisplayName>
+			<Desc>Thời tiết bất thường ở nơi này, mùa đông trở nên lạnh hơn.</Desc>
+		</Text>
+		<Text Name="OffensiveThunder">
+			<DisplayName>Sấm sét điên cuồng</DisplayName>
+			<Desc>Địa lý bất thường ở nơi này, khi xảy ra sấm sét, nó sẽ đặc biệt dữ dội và dễ trúng người hơn.</Desc>
+		</Text>
+		<Text Name="HardNature">
+			<DisplayName>Môi trường khắc nghiệt</DisplayName>
+			<Desc>Môi trường tự nhiên ở nơi này trở nên khắc nghiệt hơn.</Desc>
+		</Text>
+		<Text Name="MoreYaoShou2">
+			<DisplayName>Ban đầu thêm 1 yêu thú</DisplayName>
+			<Desc>Ban đầu thêm 1 yêu thú.</Desc>
+		</Text>
+		<Text Name="MoreYaoShou3">
+			<DisplayName>Ban đầu thêm 2 yêu thú</DisplayName>
+			<Desc>Ban đầu thêm 2 yêu thú.</Desc>
+		</Text>
+		<Text Name="MoreYaoShou4">
+			<DisplayName>Ban đầu thêm 3 yêu thú</DisplayName>
+			<Desc>Ban đầu thêm 3 yêu thú.</Desc>
+		</Text>
+		<Text Name="YaoGuaiMore">
+			<DisplayName>Yêu thú tung hoành</DisplayName>
+			<Desc>Số lượng yêu thú ban đầu tăng lên.</Desc>
+		</Text>
+		<Text Name="BuildMoreCost">
+			<DisplayName>Kỹ thuật thô sơ</DisplayName>
+			<Desc>Nguyên liệu cần thiết để xây dựng công trình tăng gấp đôi.</Desc>
+		</Text>
+		<Text Name="BuildSlow">
+			<DisplayName>Tinh tế tỉ mỉ</DisplayName>
+			<Desc>Tốc độ xây dựng công trình giảm xuống còn một phần ba.</Desc>
+		</Text>
+		<Text Name="BuildLessHp">
+			<DisplayName>Vật liệu phong hóa</DisplayName>
+			<Desc>Độ bền của công trình trở nên rất thấp.</Desc>
+		</Text>
+		<Text Name="HardBuild">
+			<DisplayName>Xây dựng khó khăn</DisplayName>
+			<Desc>Độ khó xây dựng công trình cao hơn.</Desc>
+		</Text>
+		<Text Name="InferiorFengShui">
+			<DisplayName>Phong thủy thất truyền</DisplayName>
+			<Desc>Sau khi xây dựng đài quan sát sao, chỉ có thể thấy kết quả phong thủy, không thể biết chi tiết phong thủy.</Desc>
+		</Text>
+		<Text Name="InferiorDan">
+			<DisplayName>Đan đạo thất truyền</DisplayName>
+			<Desc>Khi luyện đan có xác suất thất bại thêm, nguyên liệu luyện đan tiêu hao gấp đôi.</Desc>
+		</Text>
+		<Text Name="LostPractice">
+			<DisplayName>Thất truyền</DisplayName>
+			<Desc>Một số pháp môn huyền diệu của tu luyện đã thất truyền.</Desc>
+		</Text>
+		<Text Name="FastRot">
+			<DisplayName>Hơi thở mục nát</DisplayName>
+			<Desc>Tốc độ hư hỏng của vật phẩm tăng gấp đôi.</Desc>
+		</Text>
+		<Text Name="HighPrice">
+			<DisplayName>Giá trị như thành</DisplayName>
+			<Desc>Giá mua vật phẩm tăng gấp đôi.</Desc>
+		</Text>
+		<Text Name="LessGain">
+			<DisplayName>Vật phẩm khan hiếm</DisplayName>
+			<Desc>Số lượng vật phẩm trên bản đồ hoang dã giảm đi.</Desc>
+		</Text>
+		<Text Name="SourceLimit">
+			<DisplayName>Thiếu hụt vật tư</DisplayName>
+			<Desc>Tài nguyên trở nên quý giá khó tìm hơn.</Desc>
+		</Text>
+		<Text Name="LessWalker">
+			<DisplayName>Xa rời thế tục</DisplayName>
+			<Desc>Số lượng người phàm đi ngang qua giảm đi.</Desc>
+		</Text>
+		<Text Name="LessMember">
+			<DisplayName>Môn phái tinh gọn</DisplayName>
+			<Desc>Giới hạn số lượng đệ tử môn phái giảm đi.</Desc>
+		</Text>
+		<Text Name="LessZhaolan">
+			<DisplayName>Thời đại xao động</DisplayName>
+			<Desc>Người phàm xao động, không muốn tu luyện, số lượng người đến chiêu mộ giảm một nửa.</Desc>
+		</Text>
+		<Text Name="LessFiveBase">
+			<DisplayName>Nhân tài khó tìm</DisplayName>
+			<Desc>Tư chất của người phàm trở nên kém hơn.</Desc>
+		</Text>
+		<Text Name="DaoShuai">
+			<DisplayName>Đạo suy thế gian</DisplayName>
+			<Desc>Tư chất tu luyện ưu tú càng khó tìm thấy.</Desc>
+		</Text>
+		<Text Name="LessWalkTrader">
+			<DisplayName>Đường đi hiểm trở</DisplayName>
+			<Desc>Tần suất thương nhân ghé thăm giảm đi.</Desc>
+		</Text>
+		<Text Name="LessWalkLStone">
+			<DisplayName>Khủng hoảng tiền tệ</DisplayName>
+			<Desc>Số lượng linh thạch mà thương nhân mang theo giảm đi.</Desc>
+		</Text>
+		<Text Name="StrictWalker">
+			<DisplayName>Không thương không gian</DisplayName>
+			<Desc>Mỗi lần thương nhân ghé thăm chỉ mua một loại vật phẩm.</Desc>
+		</Text>
+		<Text Name="StrictWTrader">
+			<DisplayName>Kinh doanh khó khăn</DisplayName>
+			<Desc>Điều kiện giao dịch với thương nhân trở nên khó khăn hơn.</Desc>
+		</Text>
+		<Text Name="MoreElementWeather">
+			<DisplayName>Ngũ hành hỗn loạn</DisplayName>
+			<Desc>Thiên tai ngũ hành xuất hiện thường xuyên hơn.</Desc>
+		</Text>
+		<Text Name="LessLingWeather">
+			<DisplayName>Linh khí suy yếu</DisplayName>
+			<Desc>Thời gian linh khí khô cạn kéo dài, thời gian bùng phát ngắn hơn.</Desc>
+		</Text>
+		<Text Name="ForeverNight20">
+			<DisplayName>Âm dương bất điều</DisplayName>
+			<Desc>Mỗi năm vào thời gian cố định sẽ có đêm vĩnh cửu.</Desc>
+		</Text>
+		<Text Name="TianDaoWenLuan">
+			<DisplayName>Thiên đạo hỗn loạn</DisplayName>
+			<Desc>Hiện tượng siêu nhiên trở nên nghiêm trọng hơn.</Desc>
+		</Text>
+		<Text Name="PetReviveInterval">
+			<DisplayName>Hoàng tuyền lộ trường</DisplayName>
+			<Desc>Thời gian hồi sinh linh thú kéo dài hơn.</Desc>
+		</Text>
+		<Text Name="PetLingMax">
+			<DisplayName>Linh mạch đứt đoạn</DisplayName>
+			<Desc>Giới hạn linh khí của linh thú giảm đi.</Desc>
+		</Text>
+		<Text Name="PetFabao">
+			<DisplayName>Nội đan khó thành</DisplayName>
+			<Desc>Sức mạnh nội đan và pháp thuật của linh thú giảm đi.</Desc>
+		</Text>
+		<Text Name="PetWeak">
+			<DisplayName>Linh thú yếu ớt</DisplayName>
+			<Desc>Thuộc tính của linh thú giảm đi.</Desc>
+		</Text>
+		<Text Name="FavorDown">
+			<DisplayName>Đại diện tranh đấu</DisplayName>
+			<Desc>Việc cư trú tại điểm đại diện sẽ làm giảm uy tín của các môn phái khác.</Desc>
+		</Text>
+		<Text Name="ColdMan">
+			<DisplayName>Lòng người lạnh nhạt</DisplayName>
+			<Desc>Trong trần gian có nhiều người có tính cách lạnh nhạt hơn.</Desc>
+		</Text>
+		<Text Name="NoTeacher">
+			<DisplayName>Không nơi nương tựa</DisplayName>
+			<Desc>Tu sĩ bí ẩn không còn ghé thăm.</Desc>
+		</Text>
+		<Text Name="ColdMortal">
+			<DisplayName>Nhân gian lạnh lẽo</DisplayName>
+			<Desc>Thế giới trở nên lạnh nhạt hơn với ngươi.</Desc>
+		</Text>
+		<Text Name="YaoComing1">
+			<DisplayName>Quần yêu sẽ đến trong 160 ngày</DisplayName>
+			<Desc>Quần yêu sẽ đến trong 160 ngày</Desc>
+		</Text>
+		<Text Name="YaoComing2">
+			<DisplayName>Quần yêu sẽ đến trong 120 ngày</DisplayName>
+			<Desc>Quần yêu sẽ đến trong 120 ngày</Desc>
+		</Text>
+		<Text Name="YaoComing3">
+			<DisplayName>Quần yêu sẽ đến trong 80 ngày</DisplayName>
+			<Desc>Quần yêu sẽ đến trong 80 ngày</Desc>
+		</Text>
+		<Text Name="YaoGuaiComing">
+			<DisplayName>Yêu tộc hoành hành</DisplayName>
+			<Desc>Yêu thú hoành hành, sẽ tấn công môn phái của ngươi.</Desc>
+		</Text>
+		<Text Name="KillerComing1">
+			<DisplayName>Kẻ truy sát sẽ đến trong 250 ngày</DisplayName>
+			<Desc>Sau khi môn phái bị tiêu diệt, một nhóm người bí ẩn sẽ tiếp tục truy sát tàn dư của Thái Nhất Môn. Một nhóm trong số đó sẽ đến trong 250 ngày.</Desc>
+		</Text>
+		<Text Name="KillerComing2">
+			<DisplayName>Kẻ truy sát sẽ đến trong 200 ngày</DisplayName>
+			<Desc>Sau khi môn phái bị tiêu diệt, một nhóm người bí ẩn sẽ tiếp tục truy sát tàn dư của Thái Nhất Môn. Một nhóm trong số đó sẽ đến trong 200 ngày.</Desc>
+		</Text>
+		<Text Name="KillerComing3">
+			<DisplayName>Kẻ truy sát sẽ đến sau 150 ngày</DisplayName>
+			<Desc>Sau khi diệt môn, một nhóm người bí ẩn đã liên tục truy sát tàn dư của Thái Nhất Môn. Trong đó, một nhóm sẽ đến sau 150 ngày.</Desc>
+		</Text>
+		<Text Name="KillerComing">
+			<DisplayName>Không để lại hậu họa</DisplayName>
+			<Desc>Sau khi diệt môn, một nhóm người bí ẩn đã liên tục tìm kiếm và truy sát tàn dư của Thái Nhất Môn.</Desc>
+		</Text>
+		<Text Name="SoonDragon1">
+			<DisplayName>Hang động bí ẩn xuất hiện sau 160 ngày</DisplayName>
+			<Desc>Hang động bí ẩn sẽ xuất hiện sau 160 ngày.</Desc>
+		</Text>
+		<Text Name="SoonDragon2">
+			<DisplayName>Hang động bí ẩn xuất hiện sau 80 ngày</DisplayName>
+			<Desc>Hang động bí ẩn sẽ xuất hiện sau 80 ngày.</Desc>
+		</Text>
+		<Text Name="SoonDragon3">
+			<DisplayName>Hang động bí ẩn xuất hiện sau 30 ngày</DisplayName>
+			<Desc>Hang động bí ẩn sẽ xuất hiện sau 30 ngày.</Desc>
+		</Text>
+		<Text Name="SoonDragon">
+			<DisplayName>Long huyệt chi tai</DisplayName>
+			<Desc>Hang động bí ẩn xuất hiện sớm hơn.</Desc>
+		</Text>
+		<Text Name="RequiredSacrifice">
+			<DisplayName>Long uy cái thế</DisplayName>
+			<Desc>Hang động bí ẩn không thể bị trấn áp nữa.</Desc>
+		</Text>
+		<Text Name="Basfff">
+			<DisplayName>Thèm khát vô độ</DisplayName>
+			<Desc>Yêu cầu của hang động bí ẩn ngày càng khắt khe hơn.</Desc>
+		</Text>
+		<Text Name="ThunderBeast">
+			<DisplayName>Quyền năng sấm sét</DisplayName>
+			<Desc>Thời tiết bão sét xuất hiện nhiều hơn.</Desc>
+		</Text>
+		<Text Name="StrictDragon">
+			<DisplayName>Uy nghiêm cổ xưa</DisplayName>
+			<Desc>Xử lý hang động bí ẩn trở nên khó khăn hơn.</Desc>
+		</Text>
+		<Text Name="LowerPointEvent">
+			<DisplayName>Chính lệnh khó thi hành</DisplayName>
+			<Desc>Tần suất các sự kiện chính sách giảm.</Desc>
+		</Text>
+		<Text Name="MoreBuilding">
+			<DisplayName>Hưởng thụ xa hoa</DisplayName>
+			<Desc>Chi phí xây dựng tại điểm đại diện tăng gấp đôi.</Desc>
+		</Text>
+		<Text Name="MorePolicy">
+			<DisplayName>Đuôi to khó vẫy</DisplayName>
+			<Desc>Chi phí chính sách tăng gấp đôi.</Desc>
+		</Text>
+		<Text Name="MoreMortal">
+			<DisplayName>Chuyện vụn vặt nhân gian</DisplayName>
+			<Desc>Công việc của đại lý càng thêm rắc rối.</Desc>
+		</Text>
+		<Text Name="LowFavor">
+			<DisplayName>Đại môn phái</DisplayName>
+			<Desc>Thiện cảm ban đầu với các môn phái khác giảm.</Desc>
+		</Text>
+		<Text Name="HardFavor">
+			<DisplayName>Cảnh giác cao độ.</DisplayName>
+			<Desc>Tốc độ tăng thiện cảm với các môn phái khác chậm lại.</Desc>
+		</Text>
+		<Text Name="MorePoint">
+			<DisplayName>Không nể tình.</DisplayName>
+			<Desc>Nhu cầu giao dịch nhân tình với các môn phái khác tăng cao.</Desc>
+		</Text>
+		<Text Name="ColdRealm">
+			<DisplayName>Tiên gia vô tình.</DisplayName>
+			<Desc>Giao dịch với các môn phái khác càng khó khăn hơn.</Desc>
+		</Text>
+		<Text Name="NoLimit1">
+			<DisplayName>Ngày càng gian nan.</DisplayName>
+			<Desc>Kẻ địch đến sẽ ngày càng mạnh hơn.</Desc>
+		</Text>
+		<Text Name="NoLimit">
+			<DisplayName>Ngày càng gian nan.</DisplayName>
+			<Desc>Kẻ địch đến sẽ ngày càng mạnh hơn.</Desc>
+		</Text>
+		<Text Name="SchoolPower1">
+			<DisplayName>Thực lực môn phái tăng gấp 3 lần.</DisplayName>
+			<Desc>Thực lực của các môn phái tăng gấp 3 lần.</Desc>
+		</Text>
+		<Text Name="SchoolPower2">
+			<DisplayName>Thực lực môn phái tăng gấp 6 lần.</DisplayName>
+			<Desc>Thực lực của các môn phái tăng gấp 6 lần.</Desc>
+		</Text>
+		<Text Name="SchoolPower3">
+			<DisplayName>Thực lực môn phái tăng gấp 9 lần.</DisplayName>
+			<Desc>Thực lực của các môn phái tăng gấp 9 lần.</Desc>
+		</Text>
+		<Text Name="SchoolPower">
+			<DisplayName>Đại thụ tiên giới.</DisplayName>
+			<Desc>Thực lực của các môn phái khác tăng mạnh.</Desc>
+		</Text>
+		<Text Name="DragonPower1">
+			<DisplayName>Thực lực giao long gấp 2 lần.</DisplayName>
+			<Desc>Thực lực giao long gấp 2 lần.</Desc>
+		</Text>
+		<Text Name="DragonPower2">
+			<DisplayName>Thực lực giao long gấp 3 lần.</DisplayName>
+			<Desc>Thực lực giao long gấp 3 lần.</Desc>
+		</Text>
+		<Text Name="DragonPower3">
+			<DisplayName>Thực lực giao long gấp 4 lần.</DisplayName>
+			<Desc>Thực lực giao long gấp 4 lần.</Desc>
+		</Text>
+		<Text Name="DragonPower">
+			<DisplayName>Huyền Thủy Chi Lực</DisplayName>
+			<Desc>Thực lực giao long tăng lên toàn diện.</Desc>
+		</Text>
+		<Text Name="FengPower1">
+			<DisplayName>Thực lực hung phượng gấp 2 lần.</DisplayName>
+			<Desc>Thực lực hung phượng gấp 2 lần.</Desc>
+		</Text>
+		<Text Name="FengPower2">
+			<DisplayName>Thực lực hung phượng gấp 3 lần.</DisplayName>
+			<Desc>Thực lực hung phượng gấp 3 lần.</Desc>
+		</Text>
+		<Text Name="FengPower3">
+			<DisplayName>Thực lực hung phượng gấp 4 lần.</DisplayName>
+			<Desc>Thực lực hung phượng gấp 4 lần.</Desc>
+		</Text>
+		<Text Name="FengPower">
+			<DisplayName>Xích Hỏa Chi Lực</DisplayName>
+			<Desc>Thực lực hung phượng tăng lên toàn diện.</Desc>
+		</Text>
+		<Text Name="ZhulongPower1">
+			<DisplayName>Thực lực chúc long gấp 2 lần.</DisplayName>
+			<Desc>Thực lực chúc long gấp 2 lần.</Desc>
+		</Text>
+		<Text Name="ZhulongPower2">
+			<DisplayName>Thực lực chúc long gấp 3 lần.</DisplayName>
+			<Desc>Thực lực chúc long gấp 3 lần.</Desc>
+		</Text>
+		<Text Name="ZhulongPower3">
+			<DisplayName>Thực lực chúc long gấp 4 lần.</DisplayName>
+			<Desc>Thực lực chúc long gấp 4 lần.</Desc>
+		</Text>
+		<Text Name="ZhulongPower">
+			<DisplayName>Âm Dương Chi Lực</DisplayName>
+			<Desc>Thực lực chúc long tăng lên.</Desc>
+		</Text>
+	</List>
+</Texts>
+

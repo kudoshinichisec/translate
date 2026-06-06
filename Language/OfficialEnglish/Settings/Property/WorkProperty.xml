@@ -1,0 +1,187 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="TestProperty1">
+			<DisplayName>Dữ liệu kiểm tra.</DisplayName>
+		</Text>
+		<Text Name="GlobalEfficiency">
+			<DisplayName>Tốc độ làm việc toàn cục.</DisplayName>
+			<Desc>Tốc độ làm việc cơ bản của tu sĩ, ảnh hưởng đến tất cả công việc.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="SmithingInjuredChance">
+			<DisplayName>Tỷ lệ bị thương khi rèn.</DisplayName>
+			<Desc>Tỷ lệ bị thương khi thực hiện công việc rèn.</Desc>
+		</Text>
+		<Text Name="MiningInjuredChance">
+			<DisplayName>Tỷ lệ bị thương khi khai thác.</DisplayName>
+			<Desc>Tỷ lệ bị thương khi thực hiện công việc khai thác.</Desc>
+		</Text>
+		<Text Name="ConstructInjuredChance">
+			<DisplayName>Tỷ lệ bị thương khi xây dựng.</DisplayName>
+			<Desc>Tỷ lệ bị thương khi thực hiện công việc xây dựng.</Desc>
+		</Text>
+		<Text Name="DrugProductSpeed">
+			<DisplayName>Tốc độ chế thuốc.</DisplayName>
+			<Desc>Tốc độ làm việc khi chế tạo thuốc, bị ảnh hưởng bởi tâm trạng.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="TreatSpeed">
+			<DisplayName>Tốc độ chữa trị.</DisplayName>
+			<Desc>Tốc độ làm việc khi thực hiện công việc chữa trị, bị ảnh hưởng bởi tâm trạng.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="TreatSuccessChance">
+			<DisplayName>Tỷ lệ thành công chữa trị.</DisplayName>
+			<Desc>Tỷ lệ thành công khi chữa trị, nếu thất bại có thể làm tình trạng thương tổn trở nên tồi tệ hơn.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="TreatmentExpectQuality">
+			<DisplayName>Hiệu quả kỳ vọng chữa trị.</DisplayName>
+			<DisplayValue>{0}％/giây</DisplayValue>
+			<Desc>Tốc độ phục hồi thương tổn kỳ vọng sau khi chữa trị, sẽ thay đổi ngẫu nhiên dựa trên trạng thái của bác sĩ.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="TreatmentRealQualityPercentMin">
+			<DisplayName>Hiệu quả chữa trị MIN.</DisplayName>
+			<Desc>Giá trị ngẫu nhiên tối thiểu của hiệu quả chữa trị khi thực hiện chữa trị.</Desc>
+		</Text>
+		<Text Name="TreatmentRealQualityPercentMax">
+			<DisplayName>Hiệu quả chữa trị MAX.</DisplayName>
+			<Desc>Giá trị ngẫu nhiên tối đa của hiệu quả chữa trị khi thực hiện chữa trị.</Desc>
+		</Text>
+		<Text Name="CookingSpeed">
+			<DisplayName>Tốc độ nấu ăn.</DisplayName>
+			<Desc>Tốc độ làm việc khi thực hiện công việc nấu ăn, bị ảnh hưởng bởi tâm trạng.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="ButcherSpeed">
+			<DisplayName>Tốc độ mổ xẻ.</DisplayName>
+			<Desc>Tốc độ làm việc khi thực hiện công việc mổ xẻ, bị ảnh hưởng bởi tâm trạng.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="ButcherYieldEfficiency">
+			<DisplayName>Sản lượng mổ xẻ.</DisplayName>
+			<Desc>Tỷ lệ sản lượng da lông và thịt khi thực hiện mổ xẻ.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="CookingSuccessChance">
+			<DisplayName>Tỷ lệ thành công nấu ăn.</DisplayName>
+			<Desc>Tỷ lệ thành công khi nấu ăn, thất bại sẽ tạo ra món ăn hỏng.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="StoneWorkSpeed">
+			<DisplayName>Tốc độ gia công đá.</DisplayName>
+			<Desc>Tốc độ làm việc khi mài cắt đá, bị ảnh hưởng bởi tâm trạng.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="ConstructionSpeed">
+			<DisplayName>Tốc độ xây dựng.</DisplayName>
+			<Desc>Tốc độ làm việc khi thực hiện công việc xây dựng, bị ảnh hưởng bởi tâm trạng.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="ConstructSuccessChance">
+			<DisplayName>Tỷ lệ thành công khi xây dựng.</DisplayName>
+			<Desc>Xác suất thành công khi xây dựng, nếu thất bại có thể dẫn đến bị thương.</Desc>
+		</Text>
+		<Text Name="PlantWorkSpeed">
+			<DisplayName>Tốc độ trồng trọt.</DisplayName>
+			<Desc>Tốc độ làm việc khi thực hiện công việc trồng trọt, bị ảnh hưởng bởi tâm trạng.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="PlantHarvestSpeed">
+			<DisplayName>Tốc độ thu hoạch.</DisplayName>
+			<Desc>Tốc độ làm việc khi thực hiện công việc thu hoạch, bị ảnh hưởng bởi tâm trạng.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="PlantHarvestYieldEfficiency">
+			<DisplayName>Sản lượng thu hoạch.</DisplayName>
+			<Desc>Tỷ lệ sản lượng của cây trồng khi thu hoạch.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="MiningSpeed">
+			<DisplayName>Tốc độ khai thác.</DisplayName>
+			<Desc>Tốc độ làm việc khi thực hiện công việc khai thác, bị ảnh hưởng bởi tâm trạng.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="MiningYieldEfficiency">
+			<DisplayName>Sản lượng khai thác.</DisplayName>
+			<Desc>Tỷ lệ sản lượng khi khai thác khoáng sản.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="MadeQualityAddValue">
+			<DisplayName>Giá trị gia tăng chất lượng sản phẩm chế tạo.</DisplayName>
+			<Desc>Giá trị gia tăng chất lượng sản phẩm khi thực hiện nhiệm vụ chế tạo.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="ArtRateValue">
+			<DisplayName>Giá trị dự kiến phẩm cấp tác phẩm nghệ thuật.</DisplayName>
+			<Desc>Giá trị gia tăng chất lượng sản phẩm khi thực hiện nhiệm vụ chế tạo.</Desc>
+		</Text>
+		<Text Name="SmithingSpeed">
+			<DisplayName>Tốc độ rèn.</DisplayName>
+			<Desc>Tốc độ làm việc khi thực hiện công việc rèn, bị ảnh hưởng bởi tâm trạng.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="HandworkSpeed">
+			<DisplayName>Tốc độ thủ công.</DisplayName>
+			<Desc>Tốc độ làm việc khi thực hiện công việc thủ công, bị ảnh hưởng bởi tâm trạng.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="TailoringSpeed">
+			<DisplayName>Tốc độ may vá.</DisplayName>
+			<Desc>Tốc độ làm việc khi thực hiện công việc may vá, bị ảnh hưởng bởi tâm trạng.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="ManufactureExpectQuality">
+			<DisplayName>Dự kiến chất lượng sản phẩm.</DisplayName>
+			<Desc>Giá trị dự kiến chất lượng sản phẩm khi chế tạo, chất lượng sản phẩm sẽ dao động trong phạm vi dự kiến.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="ManufactureRealQualityPercentMin">
+			<DisplayName>Chất lượng tối thiểu khi chế tạo.</DisplayName>
+			<Desc>Giá trị tối thiểu của phạm vi ngẫu nhiên chất lượng khi chế tạo.</Desc>
+		</Text>
+		<Text Name="ManufactureRealQualityPercentMax">
+			<DisplayName>Chất lượng tối đa khi chế tạo.</DisplayName>
+			<Desc>Giá trị tối đa của phạm vi ngẫu nhiên chất lượng khi chế tạo.</Desc>
+		</Text>
+		<Text Name="SmithingQualityAddValue">
+			<DisplayName>Giá trị gia tăng chất lượng sản phẩm rèn.</DisplayName>
+			<Desc>Giá trị gia tăng chất lượng sản phẩm khi thực hiện công việc rèn.</Desc>
+		</Text>
+		<Text Name="HandworkQualityAddValue">
+			<DisplayName>Giá trị gia tăng chất lượng sản phẩm thủ công.</DisplayName>
+			<Desc>Giá trị gia tăng chất lượng sản phẩm khi thực hiện công việc thủ công.</Desc>
+		</Text>
+		<Text Name="TailoringQualityAddValue">
+			<DisplayName>Giá trị gia tăng chất lượng sản phẩm may vá.</DisplayName>
+			<Desc>Giá trị gia tăng chất lượng sản phẩm khi thực hiện công việc may vá.</Desc>
+		</Text>
+		<Text Name="CuttingSpeed">
+			<DisplayName>Tốc độ cắt bỏ.</DisplayName>
+			<Desc>Tốc độ thực hiện hành động chặt cây, nhổ cỏ, bị ảnh hưởng bởi tâm trạng.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="DisasterFightingSpeed">
+			<DisplayName>Tốc độ cứu nạn.</DisplayName>
+			<Desc>Tốc độ thực hiện hành động cứu nạn.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="DisasterFightingSuccessChance">
+			<DisplayName>Tỷ lệ thành công khi cứu nạn.</DisplayName>
+			<Desc>Xác suất thành công khi thực hiện cứu nạn, nếu thất bại có thể bị thương.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="CleanSpeed">
+			<DisplayName>Tốc độ làm sạch.</DisplayName>
+			<Desc>Tốc độ thực hiện hành động làm sạch, bị ảnh hưởng bởi tâm trạng.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+		<Text Name="SocialInclination">
+			<DisplayName>Xu hướng giao tiếp.</DisplayName>
+			<Desc>Xu hướng thực hiện hành động giao tiếp, bị ảnh hưởng bởi tâm trạng.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
+		</Text>
+	</List>
+</Texts>
+

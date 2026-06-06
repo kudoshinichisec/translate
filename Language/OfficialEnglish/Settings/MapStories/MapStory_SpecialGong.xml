@@ -1,0 +1,62 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Secrets_Gong2">
+			<DisplayName>Đạo thống xuất thế</DisplayName>
+			<Desc>[NAME] đến [PLACE], phát hiện nơi này chính là nơi truyền thừa của "Kỷ Dần Cửu Xung Đa Bảo Chân Giải". Truyền thừa này bị một trận pháp tiên cổ bao quanh, dường như là phong ấn do tiên nhân thời xưa thiết lập để chọn ra người kế thừa phù hợp. Trong trận pháp, tia chớp lưu chuyển, ẩn chứa thần thông pháp lực vô biên.</Desc>
+			<Selections.0.Display>Cưỡng đoạt</Selections.0.Display>
+			<Selections.0.Tip>Nguyên Thần Kỳ và cơ duyên</Selections.0.Tip>
+			<Selections.1.Display>Tiếp nhận truyền thừa</Selections.1.Display>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Gong3">
+			<DisplayName>Đạo thống xuất thế</DisplayName>
+			<Desc>[NAME] đến [PLACE], phát hiện nơi này chính là nơi truyền thừa của "Thất Sát Kiếm Quyết". Truyền thừa này bị một trận pháp tiên cổ bao quanh, dường như là phong ấn do tiên nhân thời xưa thiết lập để chọn ra người kế thừa phù hợp. Trong trận pháp, tia chớp lưu chuyển, ẩn chứa thần thông pháp lực vô biên.</Desc>
+			<Selections.0.Display>Cưỡng đoạt</Selections.0.Display>
+			<Selections.0.Tip>Nguyên Thần Kỳ và cơ duyên</Selections.0.Tip>
+			<Selections.1.Display>Tiếp nhận truyền thừa</Selections.1.Display>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Gong4">
+			<DisplayName>Đạo thống xuất thế</DisplayName>
+			<Desc>[NAME] đến [PLACE], phát hiện nơi này chính là nơi truyền thừa của "Ngọc Thanh Tiên Pháp". Truyền thừa này bị một trận pháp tiên cổ bao quanh, dường như là phong ấn do tiên nhân thời xưa thiết lập để chọn ra người kế thừa phù hợp. Trong trận pháp, tia chớp lưu chuyển, ẩn chứa thần thông pháp lực vô biên.</Desc>
+			<Selections.0.Display>Cưỡng đoạt</Selections.0.Display>
+			<Selections.0.Tip>Nguyên Thần Kỳ và cơ duyên</Selections.0.Tip>
+			<Selections.1.Display>Tiếp nhận truyền thừa</Selections.1.Display>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Gong5">
+			<DisplayName>Đạo thống xuất thế</DisplayName>
+			<Desc>[NAME] đến [PLACE], phát hiện nơi này chính là nơi truyền thừa của "Thâu Thiên Quyết". Truyền thừa này bị một trận pháp tiên cổ bao quanh, dường như là phong ấn do tiên nhân thời xưa thiết lập để chọn ra người kế thừa phù hợp. Trong trận pháp, tia chớp lưu chuyển, ẩn chứa thần thông pháp lực vô biên.</Desc>
+			<Selections.0.Display>Cưỡng đoạt</Selections.0.Display>
+			<Selections.0.Tip>Nguyên Thần Kỳ và cơ duyên</Selections.0.Tip>
+			<Selections.1.Display>Tiếp nhận truyền thừa</Selections.1.Display>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Gong6">
+			<DisplayName>Đạo thống xuất thế</DisplayName>
+			<Desc>[NAME] đến [PLACE], phát hiện nơi này chính là nơi truyền thừa của "Cửu Chuyển Kim Đan Trực Chỉ". Truyền thừa này bị một trận pháp tiên cổ bao quanh, dường như là phong ấn do tiên nhân thời xưa thiết lập để chọn ra người kế thừa phù hợp. Trong trận pháp, tia chớp lưu chuyển, ẩn chứa thần thông pháp lực vô biên.</Desc>
+			<Selections.0.Display>Cưỡng đoạt</Selections.0.Display>
+			<Selections.0.Tip>Nguyên Thần Kỳ và cơ duyên</Selections.0.Tip>
+			<Selections.1.Display>Tiếp nhận truyền thừa</Selections.1.Display>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Gong7">
+			<DisplayName>Đạo thống xuất thế</DisplayName>
+			<Desc>[NAME] đến [PLACE], phát hiện nơi này chính là nơi truyền thừa của "Thái Thượng Vong Tình Đạo". Truyền thừa này bị một trận pháp tiên cổ bao quanh, dường như là phong ấn do tiên nhân thời xưa thiết lập để chọn ra người kế thừa phù hợp. Trong trận pháp, tia chớp lưu chuyển, ẩn chứa thần thông pháp lực vô biên.</Desc>
+			<Selections.0.Display>Cưỡng đoạt</Selections.0.Display>
+			<Selections.0.Tip>Nguyên Thần Kỳ và cơ duyên</Selections.0.Tip>
+			<Selections.1.Display>Tiếp nhận truyền thừa</Selections.1.Display>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GongRandom">
+			<DisplayName>Đạo thống xuất thế</DisplayName>
+			<Desc>[NAME] đến [PLACE], phát hiện nơi này có một bộ công pháp thần diệu xuất thế, không rõ truyền thừa từ đâu.</Desc>
+			<Selections.0.Display>Cưỡng đoạt</Selections.0.Display>
+			<Selections.0.Tip>Nguyên Thần Kỳ và cơ duyên</Selections.0.Tip>
+			<Selections.1.Display>Tiếp nhận truyền thừa</Selections.1.Display>
+			<Selections.1.Tip>Cơ duyên</Selections.1.Tip>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+	</List>
+</Texts>
+

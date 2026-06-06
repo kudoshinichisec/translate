@@ -1,0 +1,41 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BottleNeckChance">
+			<Title>Cổ chai thông thường</Title>
+			<Desc>Cổ chai thông thường có thể trực tiếp chọn nơi đột phá, có một tỷ lệ thành công nhất định.</Desc>
+		</Text>
+		<Text Name="BottleNeckExplore">
+			<Title>Cổ chai lịch luyện</Title>
+			<Desc>Cổ chai lịch luyện cần phái đệ tử ra ngoài lịch luyện để dần tích lũy cảm ngộ mà đột phá.</Desc>
+		</Text>
+		<Text Name="BottleNeckWork">
+			<Title>Cổ chai chân không</Title>
+			<Desc>Trong cổ chai chân không, đệ tử sẽ mất hết pháp lực thần thông trở thành phàm nhân, trong cuộc sống phàm nhân tích lũy cảm ngộ mà đột phá.</Desc>
+		</Text>
+		<Text Name="BottleNeckGold">
+			<Title>Cổ chai Kim Đan</Title>
+			<Desc>Cổ chai Kim Đan là một bước ngoặt quan trọng, người tu hành sẽ rèn luyện toàn bộ linh khí thành một viên Kim Đan, phẩm cấp của Kim Đan quyết định chiều cao tu hành sau này.</Desc>
+		</Text>
+		<Text Name="BottleNeckThunder">
+			<Title>Cổ chai Lôi Kiếp</Title>
+			<Desc>Lôi kiếp bình cảnh là thử thách trên con đường tu hành, nếu vượt kiếp thất bại, nhẹ thì đạo cơ bị hủy hoại hoàn toàn, nặng thì tan thành tro bụi.</Desc>
+		</Text>
+		<Text Name="BottleNeckGod">
+			<Title>Phi thăng bình cảnh</Title>
+			<Desc>Phi thăng bình cảnh là cửa ải cuối cùng để tu sĩ phi thăng thành tiên, vượt qua kiếp nạn này sẽ phi thăng thành tiên.</Desc>
+		</Text>
+		<Text Name="BottleNeckGodCity">
+			<Title>Thần quốc bình cảnh</Title>
+			<Desc>Kết nối thần quốc là cửa ải quan trọng nhất đối với người tu thần đạo, cảnh giới của thần quốc quyết định chiều cao tương lai.</Desc>
+		</Text>
+		<Text Name="BottleNeckFuPractice">
+			<Title>Bản mệnh chân phù</Title>
+			<Desc>Loại bình cảnh này là đặc trưng của tu sĩ phù đạo, muốn vượt qua cần tiêu hao linh khí để vẽ một lá bùa bản mệnh.</Desc>
+		</Text>
+		<Text Name="BottleNeckDie">
+			<Title>Tuyệt lộ bình cảnh</Title>
+			<Desc>Bình cảnh này biểu thị con đường tu hành đã không còn lối đi.</Desc>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,17 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Human">
+			<DisplayName>Nhân tộc</DisplayName>
+			<Desc>Động vật bình thường: Con người</Desc>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+		<Text Name="Human_JGZT">
+			<DisplayName>Tinh quái</DisplayName>
+			<Desc>Tên gọi chung của các vật phẩm/kiến trúc/thực vật trong trời đất ngẫu nhiên thông linh hóa hình.</Desc>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+	</List>
+</Texts>
+

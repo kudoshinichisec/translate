@@ -1,0 +1,672 @@
+房间	Phòng
+仓库	Kho
+蓝布休闲衣衫	Vải xanh Áo Thường Nhật
+野猪皮休闲下裳	Quần Nghỉ Ngơi Da Lợn Rừng
+紫布修行衣衫	Vải tím Áo Tu Hành
+野猪皮修行下裳	Quần Tu Hành Da Lợn Rừng
+肉干	Thịt khô
+狼皮薄衣衫	Áo mỏng da sói
+可以提高炼制法宝成功率的符咒。	Là phù chú có thể tăng tỷ lệ thành công luyện chế pháp bảo.
+太上通宝符	Thái thượng thông bảo phù
+熊皮香囊	Túi thơm da gấu
+戊己囊	Mậu Kỷ nang
+垃圾	Rác
+戊土屠神散	Mậu Thổ Đồ Thần tán
+灵石墙	Linh thạch tường
+灵石门	Môn Linh thạch
+灵石床	Linh thạch
+灵石灯笼	Đèn lồng linh thạch
+练功点	Điểm luyện công
+公兔子	Thỏ đực
+雌龟	Rùa cái
+雄龟	Rùa đực
+雌青蛙	Ếch cái
+雄青蛙	Ếch đực
+钟离	Chung Ly
+舒	Thư
+惊魂初定	Hồn phách ổn định
+建立门派	Thành lập môn phái
+和	Hòa
+慕容	Mộ Dung
+碧彤	Bích Đồng
+<font color=MYCOLOR>田纨</font>在吃<font color=OBJCOLOR>熊胆</font>时，突然思绪万千。	<font color=MYCOLOR>Điền Nho</font> khi đang ăn <font color=OBJCOLOR>mật gấu</font>, bỗng nhiên Suy ngẫm miên man.
+1天 08:46	1 ngày 08:46
+田	Điền
+纨	Hoàn
+博	Bác
+冯	Phùng
+亦云	Diệc Vân
+支	Chi
+飞扬	Phi Dương
+史	Sử
+妍	Nghiên
+保	Bảo
+越	Việt
+婷	Đình
+青青	Thanh Thanh
+左丘	Tả Khâu
+半芹	Bán Cần
+麻	Ma
+紫文	Tử Văn
+赤脚蛇	Rắn Xích Cước
+教学	Hướng dẫn
+门	Cửa
+药物储量不足	Dự trữ thuốc không đủ
+存档写入完成	Hoàn tất ghi lưu trữ
+钮影感到危险	Nữu Ảnh cảm thấy nguy hiểm
+敌人出现	Kẻ thù xuất hiện
+田纨筑基成功	Điền Hoàn Trúc Cơ thành công
+钟离舒筑基成功	Chung Ly Thư Trúc Cơ Thành Công
+食物储量不足	Dự trữ thực phẩm không đủ
+化影诀	Hoá Ảnh quyết
+太乙不朽神雷	Thái Ất Bất Hủ Thần Lôi
+坤元秘要	Khôn Nguyên Bí Yếu
+少量的	Một chút
+千钧	Thiên Quân
+混元式	Hỗn Nguyên Thức
+苍龙迅击密卷	Thương Long Tấn Kích Mật Quyển
+中量的	Vừa
+微草归祖神功	Vi Thảo Quy Tổ Thần Công
+甲乙鲸吞秘要	Giáp Ất Kình Thôn Bí Yếu
+紫云宫神视纪要	Tử Vân Cung Thần Thị Ký Yếu
+大量的	Số lượng lớn
+天妖化血术	Thiên Yêu Hóa Huyết Thuật
+忘情佛心记	Vong Tình Phật Tâm Ký
+己土飞星咒	Chú Phi Tinh Dismal
+麒麟不朽咒	Kỳ Lân Bất Hủ Chú
+初解三花	Sơ Giải Tam Hoa
+五台五气	Ngũ Đài Ngũ khí
+奠基要诀	Điện Cơ Yêu Quyết
+奠基经	Kinh Điện Cơ
+奠基密卷	Điện Cơ Mật Quyển
+地龙奠基密卷	Địa Long Để Cơ Mật Quyển
+天岭金刚经	Thiên Lĩnh Kim Cương Kinh
+黄芽奠基秘册	Hoàng Nha Điện Cơ Mật Sách
+坤元金刚秘册	Khôn Nguyên Kim Cương Bí Sách
+鬼手	Quỷ Thủ
+入道鬼手宝册	Nhập Đạo Quỷ Thủ Bảo Quyển
+五戒合一册	Sách Hợp Nhất Ngũ Giới
+戊己合一记	Mậu Kỷ Hợp Nhất Ký
+镇岳气摄	Trấn Nhạc Khí Nhiếp
+地龙摄神记	Địa Long Nhiếp Thần Ký
+海量的	Cực lớn
+玄关通慧秘法	Huyền Quan Thông Tuệ Bí Pháp
+驱云诀	Khu Vân Quyết
+阴神夺舍	Âm thần đoạt xá
+形容之蚀	Hình Dung Chi Thực
+形容返照	Hình Dung Phản Chiếu
+血骨炼形	Huyết Cốt Luyện Hình
+龟息诀	Quy Tức Quyết
+五感之蚀	Ngũ Cảm Chi Thực
+五感返照	Ngũ Cảm Phản Chiếu
+冥灵真法	Minh Linh Chân Pháp
+蛰命法	Trạch Mệnh Pháp
+献祭	Hiến Tế
+神智之蚀	Thần Trí Chi Thực
+神智返照	Thần Trí Phản Chiếu
+鼎炉吸真术	Đỉnh Lô Hấp Chân Thuật
+天魔解体大法	Thiên Ma Giải Thể Đại Pháp
+欺天	Khi Thiên
+窃天	Thất Thiên
+阳神夺舍	Dương thần đoạt xá
+气运之蚀	Khí Vận Chi Thực
+气运返照	Khí Vận Phản Chiếu
+九幽返照	Cửu U Phản Chiếu
+浊之躯	Trọc Chi Thân
+元坤妙法	Nguyên Khôn Diệu Pháp
+护体血罡	Hộ Thể Huyết Cương
+凝血神盾	Ngưng Huyết Thần Thuẫn
+伐毛洗髓之术	Phạt Mao Tẩy Tủy Thuật
+偷天	T thâu thiên
+换日	Hoán Nhật
+秘宝：偷天七绝针	Bí Bảo: Thâu Thiên Thất Tuyệt Châm
+天道神丹	Thiên Đạo Thần Đan
+天道神器	Thiên Đạo Thần Khí
+冷月鲸吞秘法	Lãnh Nguyệt Kình Thôn Bí Pháp
+飞星诀	Phi tinh quyết
+彻法绝杀神雷	Triệt Pháp Tuyệt Sát Thần Lôi
+五内流光咒	Chú Lưu Quang Ngũ Nội
+镇神神雷	Trấn Thần Thần Lôi
+曳影	Duệ Ảnh
+迅影式	Tấn Ảnh Thức
+圆转决	Viên Chuyển
+坤元剑	Khôn Nguyên kiếm
+坤元迅击	Khôn Nguyên tấn công nhanh
+五戒圆转十三式	Ngũ Giới Viên Chuyển Thập Tam Thức
+御气坤元	Ngự Khí Khôn Nguyên
+赤日曳影	Xích Nhật diệp ảnh
+天岭蓄神十式	Thiên Lĩnh Túc Thần Thập Thức
+金丹圆转剑	Kim Đan Viên Chuyển Kiếm
+万里破灭秘要	Bí yếu Phá Diệt Vạn Lý
+戊己圆转式	Mậu Kỷ Viên Chuyển Thức
+决意	Quyết Ý
+己土摄神典	Dismal Nhiếp Thần Điển
+坤元琢玉秘传	Khôn Nguyên Trác Ngọc Bí Truyền
+己土沃野宝册	Kỷ Thổ Dã Bảo Quyển
+镇岳归祖神功	Trấn Nhạc Quy Tổ Thần Công
+己土通慧记	Kỷ Thổ Thông Tuệ Ký
+行疆琢玉秘传	Hành Cương Trác Ngọc Bí Truyền
+灵淬之法	Pháp Luyện Linh Tẩy
+雷暴术	Lôi Bạo Thuật
+灵犀咒	Linh Tê Chú
+武当四象诀	Vũ Đương Tứ Tượng Quyết
+混元十三式	Thức Thập Tam Hỗn Nguyên
+千钧秘诀	Bí quyết thiên quân
+蓄神十三式	Trữ Thần Thập Tam Thức
+混元秘法	Hỗn Nguyên Bí pháp
+气摄	Khí Nhiếp
+凌霄妙手通卷	Lăng Tiêu Diệu Thủ Thông Quyển
+玄关神龟纪要	Huyền Quan Thần Quy Ký Yếu
+霹雳妙手丹方	Phích lịch diệu thủ đan phương
+蜀山通慧典	Điển Thục Sơn Thông Tuệ
+庚金鲸吞神功	Canh Kim Kình Thôn Thần Công
+搜魂大法	Đại Pháp Tìm Hồn
+赋灵术	Phú Linh Thuật
+五内镇神神雷	Ngũ Nội Trấn Thần Thần Lôi
+金刚真言	Kim Cang Chân Ngôn
+不朽诀	Quyết Bất Tử
+戊己流光真言	Mậu Kỷ Lưu Quang Chân Ngôn
+行疆流光诀	Hành Cương Lưu Quang Quyết
+奠基宝典	Điện Cơ Bảo Điển
+金刚	Kim Cương
+行疆奠基宝典	Hành Cương Để Cơ Bảo Điển
+戊己金刚经	Kinh Mậu Kỷ Kim Cương
+天岭奠基密卷	Thiên Lĩnh Điện Cơ Mật Quyển
+天岭金刚密卷	Mật quyển Kim Cương Thiên Lĩnh
+气摄秘传	Bí truyền khí nhiếp
+长生多宝	Trường Sinh Đa Bảo
+现在贤琢玉通卷	Hiện Tại Hiền Trác Ngọc Thông Quyển
+新境摄神	Thần Nhiếp Tân Cảnh
+天岭多宝要诀	Thiên Lĩnh Đa Bảo Yếu Quyết
+三才琢玉	Trác Ngọc Tam Tài
+玄机神佑册	Huyền Cơ Thần Hựu Sách
+归真多宝纲要	Quy Chân Đa Bảo Cương Yếu
+天魔化身术	Thiên Ma Hóa Thân Thuật
+乙木陨星	Ất Mộc Vẫn Tinh
+急诵秘法	Cấp tốc tụng Bí Pháp
+百炼	Bách Luyện
+真丹百炼	Chân Đan Bách Luyện
+长生摄神册	Trường Sinh Nhiếp Thần Sách
+苍莽百炼秘传	Thương Mãng Bách Luyện bí truyền
+醍醐灌顶之术	Đề Hồ Quán Đỉnh Thuật
+慧剑斩念	Tuệ Kiếm Trảm Niệm
+太上摄神记	Thái Thượ�ng Nhiếp Thần ký
+阴阳落花神雷	Âm Dương Lạc Hoa Thần Lôi
+金丹不朽真言	Kim Đan Bất Hủ chân ngôn
+碧光震地咒	Bích Quang Chấn Địa Chú
+迅击要诀	Yếu Quyết Tấn Kích
+迅击秘法	Bí pháp tấn công nhanh
+圆转剑诀	Viên Chuyển Kiếm Quyết
+长生迅影十三式	Trường Sinh Tấn Ảnh Thập Tam Thức
+乙木千钧十三式	Ất Mộc Thiên Quân Thập Tam Thức
+微草坤元七式	Bảy Thức Khôn Nguyên Vi Thảo
+紫薇曳影式	Tử Vi Duệ Ảnh Thức
+玄关破灭宝典	Huyền Quan Phá Diệt bảo điển
+炎神殿圆转宝典	Bảo Điển Viên Chuyển Viêm Thần Điện
+饕餮宝典	Thao Thiết Bảo Điển
+寒月妙手	Hàn Nguyệt Diệu Thủ
+华山饕餮	Hoa Sơn Thao Thiết
+东海辟谷神功	Đông Hải Tịch Cốc Thần Công
+长生饕餮宝典	Trường Sinh Đào Thiết Bảo Điển
+御灵术	Ngự Linh Thuật
+他化自在大法	Tha Hóa Tự Tại Đại Pháp
+入定之术	Thuật Nhập Định
+余氏八极	Dư Thị Bát Cực
+落花咒	Chú Lạc Hoa
+归源陨星神雷	Quy Nguyên Vẫn Tinh Thần Lôi
+归藏卷	Quy Tàng quyển
+壬癸妙手卷	Cuộn Diệu Thủ Nhâm Quý
+万古神功	Vạn Cổ Thần Công
+金丹神视纪要	Kim Đan Thần Thị Ký Yếu
+微草摄神宝典	Vi Thảo Nhiếp Thần Bảo Điển
+南海鬼手要诀	Yếu Quyết Quỷ Thủ Nam Hải
+忘情辟谷神功	Vong Tình Bích Cốc Thần Công
+白帝宫决意	Bạch Đế Cung Quyết Ý
+摄神御鬼大法	Nhiếp Thần Ngự Quỷ Đại Pháp
+六壬神算	Lục Nhâm Thần Toán
+化伤术	Hóa Thương Thuật
+真武录	Chân Võ Lục
+清心咒	Thanh Tâm Chú
+司南经	Tư Nam Kinh
+洞心咒	Động Tâm Chú
+吸星掌	Hấp Tinh Chưởng
+玄牝重生法	Huyền Tẫn Trọng Sinh Pháp
+天枢诀	Thiên Xu Quyết
+天枢剑意	Thiên Xu Kiếm Ý
+秘宝：天枢剑	Bí Bảo: Thiên Xu Kiếm
+天璇诀	Thiên Tuyền Quyết
+天璇剑意	Thiên Tuyền Kiếm Ý
+秘宝：天璇剑	Bí Bảo: Thiên Tuyền Kiếm
+天玑诀	Thiên Cơ Quyết
+天玑剑意	Thiên Cơ Kiếm Ý
+秘宝：天玑剑	Bí Bảo: Thiên Cơ Kiếm
+天权诀	Thiên Quyền Quyết
+天权剑意	Thiên Quyền Kiếm Ý
+秘宝：天权剑	Bí Bảo: Thiên Quyền Kiếm
+玉衡诀	Ngọc Hành Quyết
+玉衡剑意	Ngọc Hành Kiếm Ý
+秘宝：玉衡剑	Bí Bảo: Ngọc Hành Kiếm
+开阳诀	Khai Dương Quyết
+开阳剑意	Khai Dương Kiếm Ý
+秘宝：开阳剑	Bí Bảo: Khai Dương Kiếm
+摇光诀	Dao Quang Quyết
+摇光剑意	Dao Quang Kiếm Ý
+秘宝：摇光剑	Bí Bảo: Dao Quang Kiếm
+劫心咒	Kiếp Tâm Chú
+赦心咒	Xá Tâm Chú
+北斗剑界	Bắc Đẩu Kiếm Giới
+星斗之眼	Mắt Sao Đẩu
+北斗绝式-七星诀	Bắc Đẩu Tuyệt Thức-Thất Tinh Quyết
+北斗绝式-北极剑	Bắc Đẩu Tuyệt Thức-Bắc Cực Kiếm
+北斗绝式-归一剑	Bắc Đẩu Tuyệt Thức-Quy Nhất Kiếm
+周天神算	Chu Thiên Thần Toán
+天心正法	Thiên Tâm Chính Pháp
+长生佛心记	Trường Sinh Phật Tâm Ký
+过去庄严多宝通卷	Quá Khứ Trang Nghiêm Đa Bảo Thông Quyển
+南海通慧	Thông Tuệ Nam Hải
+赤月沃野通卷	Xích Nguyệt Ốc Dã Thông Quyển
+勾家琢玉	Gia Câu Trác Ngọc
+百草阁合一册	Bách Thảo Các Hợp Nhất Sách
+天岭流光	Thiên Lĩnh Lưu Quang
+武当陨星诀	Võ Đang Vẫn Tinh Quyết
+戊己覆天	Grim Kỷ phủ thiên
+金刚密卷	Kim Cương Mật Quyển
+金刚经	Kim Cương kinh
+戊土奠基经	Kinh Mậu Thổ Định Cơ
+腾岳金刚密卷	Đằng Nhạc Kim Cương Mật Quyển
+东海金刚秘要	Bí yếu Kim Cương Đông Hải
+真丹金刚密卷	Chân Đan Kim Cang mật quyển
+坤元金刚密卷	Khôn Nguyên Kim Cang mật quyển
+赤霄宫奠基密卷	Xích Tiêu Cung Kiến Cơ Mật Quyển
+东华奠基秘册	Đông Hải Điện Cơ Bảo Điển
+紫薇奠基	Tử Vi Định Cơ
+武当奠基宝典	Bảo Điển Điền Cơ Võ Đang
+归真金刚宝典	Quy Chân Kim Cương Bảo Điển
+万里金刚	Vạn Lý Kim Cương
+沃野	Ốc Dã
+多宝秘传	Đa Bảo Bí Truyền
+多宝宝册	Đa Bảo Bảo Sách
+多宝鬼手秘法	Bí Pháp Đa Bảo Quỷ Thủ
+五台百炼	Ngũ Đài Bách Luyện
+玄机百炼宝册	Huyền Cơ Bách Luyện Bảo Sách
+麒麟琢玉要诀	Yếu Quyết Trác Ngọc Kỳ Lân
+曳影要诀	Dạ Ảnh Yếu Quyết
+心印诀	Tâm Ấn Quyết
+坤元剑诀	Khôn Nguyên Kiếm Quyết
+赤月化伤	Xích nguyệt Hóa thương
+彻法甘霖神雷	Thần Lôi Cam Lâm Triệt Pháp
+玄关天星	Huyền Quan Thiên Tinh
+落花神雷	Lạc Hoa Thần Lôi
+奠基	Điện Cơ
+金刚宝典	Kim Cang Bảo Điển
+东海金刚秘册	Đông Hải Kim Cương Mật Quyển
+知节金刚经	Tri Tiết Kim Cang Kinh
+壬水奠基秘法	Nhâm Thủy Điện Cơ Bí Pháp
+妙手宝册	Bảo sách Diệu Thủ
+鲸吞秘传	Kình Thôn Bí Truyền
+癸水鬼手秘传	Quỷ Thuỷ Quỷ Thủ Bí Truyền
+鄂运浩上仙琢玉通卷	Thượng Tiên Ngạc Vận Hạo Trác Ngọc Thông Quyển
+癸水决意纪要	Equable Quyết Ý Ký Yếu
+壬癸琢玉纲要	Cương yếu Trác Ngọc Nhâm Quý
+归真妙手丹方	Đơn thuốc Diệu Thủ Quy Chân
+紫薇琢玉通卷	Tử Vi Trác Ngọc thông quyển
+御木诀	Ngự Mộc Quyết
+赤日流光诀	Xích Nhật Lưu Quang Quyết
+心光诀	Tâm Quang quyết
+圆转剑	Viên Chuyển Kiếm
+百草阁圆转宝典	Bảo Điển Viên Chuyển Bách Thảo Các
+地龙千钧剑诀	Địa Long Thiên Quân Kiếm Quyết
+凌霄破灭决	Lăng Tiêu Phá Diệt Quyết
+辟谷神功	Thần Công Tịch Cốc
+辟谷纪要	Ký yếu Tịch Cốc
+多宝	Đa Bảo
+己土鲸吞经	Dismal Kình Thôn Kinh
+龙虎妙手密卷	Long Hổ Diệu Thủ Mật Quyển
+腾岳饕餮纪要	Đằng Nhạc Thao Thiết Kỷ Yếu
+坤元坤元	Khôn Nguyên Khôn Nguyên
+炼制灵晶之术	Thuật Luyện Chế Linh Tinh
+分神之术	Phân Thần Chi Thuật
+六气迅击	Lục Khí Tấn Kích
+镇岳通慧书	Trấn Nhạc Thông Huệ Thư
+腾岳不坏咒	Đằng Nhạc Bất Phôi Chú
+御气覆天	Ngự Khí Phúc Thiên
+破灭十三式	Phá Diệt Mười Ba Thức
+微草咒神经	Vi Thảo Chú Thần Kinh
+鬼手纲要	Cương yếu Quỷ Thủ
+初解佛心	Sơ Giải Phật Tâm
+六气多宝	Lục Khí Đa Bảo
+真丹金刚	Chân Đan Kim Cương
+彻法回春真言	Triệt Pháp Hồi Xuân Chân Ngôn
+过去庄严回春咒	Quá Khứ Trang Nghiêm Hồi Xuân Chú
+奠基秘要	Điện Cơ Bí Yếu
+天火合一册	Thiên Hỏa Hợp Nhất Sách
+金丹摄神书	Kim Đan Nhiếp Thần Thư
+奔烈神农宝典	Bảo Điển Thần Nông Bôn Liệt
+五台神农丹方	Ngũ Đài Thần Nông Đan Phương
+杀意	Sát Ý
+御剑术	Ngự Kiếm Thuật
+七杀魔体	Thất Sát Ma Thể
+剑心通明	Kiếm Tâm Thông Minh
+心剑交感	Tâm kiếm giao cảm
+击字诀	Kích tự quyết
+崩字诀	Băng tự quyết
+御字诀	Ngự tự quyết
+刺字诀	Thứ tự quyết
+点字诀	Điểm tự quyết
+化字诀	Hóa tự quyết
+洗字诀	Tẩy tự quyết
+劈字诀	Phách tự quyết
+分字诀	Phân tự quyết
+五印刻神	Ngũ Ấn Khắc Thần
+神御剑	Thần ngự kiếm
+神合剑	Thần hợp kiếm
+魔流剑意	Ma Lưu Kiếm Ý
+剑灵	Kiếm Linh
+秘宝：百灵斩仙剑	Bí Bảo: Bách Linh Trảm Tiên Kiếm
+极剑·一	Cực kiếm·Nhất
+极剑·二	Cực Kiếm·Nhị
+极剑·三	Cực Kiếm·Tam
+我剑·一	Ngã kiếm·Nhất
+我剑·二	Ngã Kiếm·Nhị
+我剑·三	Ngã Kiếm·Tam
+阴阳破灭式	Âm Dương Phá Diệt Thức
+凌霄金刚真言	Linh Tiêu Kim Cương Chân Ngôn
+多宝要诀	Đa Bảo Yêu Quyết
+多宝秘要	Đa Bảo bí yếu
+真丹神视纪要	Chân Đơn Thần Thị Kỷ Yếu
+御气琢玉通卷	Ngự Khí Trác Ngọc Thông Quyển
+御气百炼宝典	Ngự Khí Bách Luyện bảo điển
+武当琢玉纲要	Võ Đang Trác Ngọc Cương Yếu
+凌霄百炼通卷	Linh Tiêu Bách Luyện thông quyển
+太上妙手密卷	Mật Quyển Thái Thượng Diệu Thủ
+嵩山三花咒	Tung Sơn Tam Hoa Chú
+杭峰上仙三花真言	Hàng Phong Thượng Tiên Tam Hoa Chân Ngôn
+阴阳飞星	Âm Dương Phi Tinh
+奠基秘法	Bí pháp Đặt nền
+奠基秘册	Điện Cơ Bí Sách
+黄庭金刚密卷	Hoàng Đình Kim Cương Mật Quyển
+初解奠基秘法	Sơ Giải Điện Cơ Bí Pháp
+寒月奠基密卷	Hàn Nguyệt Điền Cơ mật quyển
+癸水金刚经	Quý Thủy Kim Cương Kinh
+神视神功	Thần Thị Thần Công
+琢玉秘法	Bí pháp khắc ngọc
+神佑册	Sách Thần Hữu
+玄关琢玉纲要	Huyền Quan Trác Ngọc Cương Yếu
+黄庭琢玉宝典	Hoàng Đình Trác Ngọc Bảo Điển
+五戒神佑	Ngũ Giới Thần Hựu
+忘情琢玉宝册	Vong Tình Trác Ngọc Bảo Sách
+化形多宝纲要	Cương yếu Đa Bảo Hóa Hình
+风水鉴定	Phong Thủy Giám Định
+暴雨术	Bạo Vũ Thuật
+玄武神农密卷	Huyền Vũ Thần Nông Mật Quyển
+西海九极诀	Tây Hải Cửu Cực Quyết
+玉虚镇神咒	Ngọc Hư Trấn Thần Chú
+崩天	Băng Thiên
+崩天经	Băng Thiên kinh
+佛心宝典	Phật tâm bảo điển
+金丹佛心九卷	Kim Đan Phật Tâm Chín Quyển
+金雷多宝通卷	Kim Lôi Đa Bảo Thông Quyển
+师氏多宝宝册	Sư Thị Đa Bảo Bảo Sách
+炎神殿神农宝册	Viêm Thần Điện Thần Nông Bảo Sách
+玄机清心纪要	Huyền Cơ Thanh Tâm Ký Yếu
+赤霄宫气摄秘传	Xích Tiêu Cung Khí Nhiếp Bí Truyền
+现在贤鬼手要诀	Quỷ Thủ Hiện Tại Hiền Yếu Quyết
+现在贤神佑册	Hiện tại: Thiền Hữu Sách
+三花诀	Tam Hoa
+青龙流光神雷	Thanh Long Lưu Quang Thần Lôi
+碧光覆天真言	Bích Quang Phục Thiên Chân Ngôn
+急诵七签	Đọc gấp Bảy Ký
+崩天秘要	Băng Thiên Bí Yếu
+归藏密卷	Quy Tàng Mật Quyển
+西海崩天卷	Tây Hải Băng Thiên Quyển
+未来星宿摄神	Vị Lai Tinh Tú Nhiếp Thần
+初解长青	Sơ giải Trường Thanh
+苍龙归祖经	Thương Long Quy Tổ Kinh
+御气鲸吞	Ngự Khí Kình Thôn
+万木合一册	Vạn Mộc Hợp Nhất Sách
+六气神佑	Phù hộ Lục khí
+化形神视秘传	Hóa Hình Thần Thị Bí Truyền
+毒瘴术	Độc Chướng Thuật
+修蛇化伤神雷	Tu Xà Hóa Thương Thần Lôi
+寒月流光神雷	Hàn Nguyệt Lưu Quang Thần Lôi
+修蛇化伤诀	Tu Xà Hóa Thương Quyết
+玄关流光神雷	Huyền Quan Lưu Quang Thần Lôi
+金刚秘册	Kim Cương Bí Sách
+凝光奠基宝典	Ngưng Quang Để Cơ Bảo Điển
+过去庄严奠基密卷	Quá Khứ Trang Nghiêm Điển Cơ Mật Quyển
+冷月奠基宝典	Lãnh Nguyệt Điện Cơ Bảo Điển
+大日金刚	Đại Nhật Kim Cương
+通慧密卷	Thông tuệ mật quyển
+通慧秘要	Thông huệ Bí yếu
+五内摄神书	Sách Ngũ Nội Nhiếp Thần
+现在贤合一秘法	Bí pháp Hiền Hợp Nhất
+壬癸神视	Nhâm Quý Thần Thị
+颛孙氏神农通卷	Chuyên Tôn Thị Thần Nông Thông Quyển
+归源神佑	Quy Nguyên Thần Hựu
+风月幻境	Phong Nguyệt Huyễn Cảnh
+入道流光诀	Nhập Đạo Lưu Quang Quyết
+三才化伤咒	Chú Tam Tài Hóa Thương
+真丹落花	Chân Đan Lạc Hoa
+忘情琢玉纲要	Vong Tình Trác Ngọc Cương Yếu
+求雨术	Cầu Vũ Thuật
+丙火心光神雷	Bính Hỏa Tâm Qu光 Thần Lôi
+入道陨星真言	Nhập Đạo Vẫn Tinh Chân Ngôn
+星辰流光真言	Tinh Thần Lưu Quang Chân Ngôn
+三才十二都天真言	Tam Tài Thập Nhị Đô Thiên Chân Ngôn
+圆转宝典	Bảo Điển Viên Chuyển
+坤元宝典	Khôn Nguyên Bảo Điển
+混元秘诀	Bí Quyết Hỗn Nguyên
+坤元决	Khôn Nguyên
+知节圆转剑	Kiếm Viên Chuyển Tri Tiết
+紫火曳影剑	Tử Hoả Duệ Ảnh Kiếm
+玄关曳影要诀	Huyền Quan Duệ Ảnh Yếu Quyết
+合一典	Điển Hợp Nhất
+归祖经	Kinh Quy Tổ
+朱雀百炼	Chu Tước Bách Luyện
+白帝宫百炼要诀	Bạch Đế Cung Bách Luyện Yếu Quyết
+忘情鬼手通卷	Vong Tình Quỷ Thủ Thông Quyển
+玄机归祖纪要	Huyền Cơ Quy Tổ Ký Yếu
+紫火琢玉	Trác Ngọc Tử Hỏa
+甘霖术	Cam Lâm Thuật
+辛金落花神雷	Tân Kim Lạc Hoa Thần Lôi
+知节燃灵咒	Tri Tiết Nhiên Linh Chú
+归藏宝典	Quy Tàng Bảo Điển
+沃野通卷	Thông Quyển Vũ Dã
+斩天清心神功	Trảm Thiên Thanh Tâm Thần Công
+知节多宝通卷	Tri Tiết Đa Bảo Thông Quyển
+六气鬼手宝典	Bảo Điển Lục Khí Quỷ Thủ
+庚金琢玉要诀	Canh Kim Trác Ngọc Yêu Quyết
+新境落花咒	Tân Cảnh Lạc Hoa Chú
+勾陈流光真言	Câu Trần Lưu Quang Chân Ngôn
+御气五方诀	Ngự Khí Ngũ Phương Quyết
+圆转	Viên Chuyển
+坤元	Khôn Nguyên
+破灭秘诀	Phá Diệt Bí Quyết
+混元要诀	Hỗn nguyên. Yêu Quyết
+微草坤元决	Vi Thảo Khôn Nguyên Quyết
+赤霄宫混元决	Xích Tiêu cung Hỗn Nguyên quyết
+神农药典	Thần Nông Dược Điển
+合一书	Hợp Nhất
+壬水合一典	Nhâm Thủy Hợp Nhất Điển
+化形摄神典	Điển Hóa hình Nhiếp Thần
+宗政氏通慧	Tông Chính Thông Tuệ
+赤日摄神密卷	Mật quyển Nhiếp Thần Xích Nhật
+通符书	Thông Phù Thư
+云气汇流	Vân Khí Hội Lưu
+灵息诀	Linh Tức Quyết
+剑符录	Kiếm Phù Lục
+神剑符	Thần Kiếm Phù
+玄符录	Huyền Phù Lục
+天甲符	Thiên Giáp Phù
+咒符录	Chú Phù Lục
+神咒符	Thần Chú Phù
+结云经	Kết Vân Kinh
+祈天经	Kỳ Thiên Kinh
+通天符法	Thông Thiên Phù Pháp
+天真论	Thiên Chân Luận
+无上神符	Vô Thượng Thần Phù
+借天符	Tá Thiên Phù
+遮天符	Phù Chắn Trời
+云行法	Vân Hành Pháp
+东木分神书	Đông Mộc Phân Thần Thư
+金雷神佑记	Kim Lôi Thần Hựu Ký
+阴阳开天咒	Âm Dương Khai Thiên Chú
+大日通天神雷	Đại Nhật Thông Thiên Thần Lôi
+紫云宫多宝通卷	Tử Vân Cung Đa Bảo Thông Quyển
+现在贤清心经	Hiện Tại Hiền Thanh Tâm Kinh
+苍莽多宝秘要	Thương Mãng Đa Bảo Bí Yếu
+多宝百炼	Đa Bảo Bách Luyện
+郭氏混元要诀	Quách Thị Hỗn Nguyên yếu quyết
+炼制灵石之术	Thuật Luyện Chế Linh Thạch
+苍龙奠基	Thương Long Điện Cơ
+咒神	Chú thần
+勾陈燃灵真言	Câu Trần Nhiên Linh Chân Ngôn
+南海燃灵真言	Nam Hải Nhiên Linh Chân Ngôn
+流光真言	Lưu Quang Chân Ngôn
+归藏七签	Quy Tàng Bảy Ký
+咒神经	Chú thần kinh
+归藏经	Quy Tàng kinh
+急诵宝典	Cấp Tụng Bảo Điển
+蜀山咒神宝典	Bảo Điển Chú Thần Thục Sơn
+紫薇咒神秘诀	Tử Vi Chú Thần bí quyết
+赤日急诵经	Kinh Xích Nhật Cấp Tụng
+逆浪急诵七签	Nghịch Lãng Cấp Tụng Thất Thiêm
+琢玉通卷	Trác Ngọc Thông Quyển
+鲸吞	Kình Thôn
+神龟神功	Thần Quy Thần Công
+凝光归祖秘法	Ngưng Quang Quy Tổ Bí Pháp
+癸水辟谷秘传	Quý Thủy Bế Quan Bí Truyền
+玄机归祖神功	Huyền Cơ Quy Tổ Thần Công
+壬癸通慧宝典	Nhâm Quý Thông Tuệ bảo điển
+逆浪饕餮宝典	Nghịch Lãng Thao Thiết Bảo Điển
+赤日佛心	Xích Nhật Phật tâm
+丙丁天星咒	Chú Bính Đinh Thiên Tinh
+奔烈绝杀	Bôn Liệt Tuyệt Sát
+通慧册	Thông Tuệ sách
+炽凰摄神典	Sí Hoàng Nhiếp Thần Điển
+现在贤通慧册	Hiền Thông Huệ Sách Hiện Tại
+五台决意经	Ngũ Đài Quyết Ý Kinh
+丙火饕餮秘传	Bí Truyền Thao Thiết Bính Hỏa
+少林鲸吞神功	Thiếu Lâm Kình Thôn Thần Công
+阴阳燃灵诀	Quyết Nhiên Linh Âm Dương
+炎神殿流光真言	Viêm Thần Điện Lưu Quang Chân Ngôn
+西海飞星诀	Tây Hải Phi Tinh Quyết
+崩天九卷	Băng Thiên Chín Quyển
+归藏九卷	Quy Tàng Chín Quyển
+多宝通慧宝典	Đa Bảo Thông Tuệ Bảo Điển
+丙火圆转九卷	Bính Hỏa Viên Chuyển Cửu Quyển
+鞠氏归藏七签	Cúc Thị Quy Tàng Bảy Ký
+百草阁咒神	Chú Thần Bách Thảo Các
+清心宝典	Thanh Tâm Bảo Điển
+百草阁辟谷秘传	Bí Truyền Tịnh Cốc Bách Thảo Các
+白帝宫归祖纪要	Bản Yếu Quy Tổ Bạch Đế Cung
+赤炎多宝秘传	Xích Viêm Đa Bảo Bí Truyền
+三才摄神秘法	Tam Tài Nhiếp Thần bí pháp
+太乙神视经	Thái Ất Thần Thị Kinh
+天魔舞	Thiên Ma Vũ
+震地诀	Quyết Chấn Địa
+阴阳绝杀	Âm Dương Tuyệt sát
+白帝宫奠基宝典	Bạch Đế Cung Kiến Cơ Bảo Điển
+黄芽金刚秘册	Hoàng Nha Kim Cang Bí Sách
+戊土奠基宝典	Mậu Thổ Điện Cơ Bảo Điển
+神佑秘法	Bí pháp Thần Hữu
+合一册	Hợp Nhất
+妙手秘要	Diệu thủ bí yếu
+大日沃野丹方	Đại Nhật Dã Đan Phương
+黄庭合一宝典	Hoàng Đình Hợp Nhất Bảo Điển
+天岭清心神功	Thiên Lĩnh Thanh Tâm Thần Công
+三才妙手宝册	Tam Tài Diệu Thủ Bảo Sách
+益氏佛心密卷	Ích Thị Phật Tâm Mật Quyển
+三才佛心典	Điển Phật Tâm Tam Tài
+阴阳奠基密卷	Âm Dương Điện Cơ Mật Quyển
+万木回春	Vạn Mộc Hồi Xuân
+三世洞真法	Tam Thế Động Chân Pháp
+养身法	Dưỡng Thân Pháp
+轮回心眼	Luân Hồi Tâm Nhãn
+先天罡气	Tiên Thiên Cương Khí
+生死录	Sinh Tử Lục
+通息诀	Thông Tức Quyết
+合物志	Hợp Vật Chí
+六道轮回丹	Lục Đạo Luân Hồi Đan
+元央归息法	Nguyên Ương Quy Tức Pháp
+轮回经	Luân Hồi Kinh
+轮回之体	Thân Thể Luân Hồi
+胎化易形	Thai Hóa Dễ Hình
+神截经	Thần Tiệt Kinh
+开天眼之术	Khai Thiên Nhãn Thuật
+再造术	Tái Tạo Thuật
+大衍神算	Đại Diễn Thần Toán
+轮回之心	Tâm Luân Hồi
+不昧真灵	Bất Muội Chân Linh
+逆转轮回	Nghịch Chuyển Luân Hồi
+逆转轮回·秘	Nghịch Chuyển Luân Hồi·Bí
+天人之体·一阶	Thiên Nhân Chi Thể·Nhất Giai
+天人之体·二阶	Thiên Nhân Chi Thể·Nhị Giai
+天人之体·三阶	Thiên Nhân Chi Thể·Tam Giai
+真吾之体·一阶	Chân Ngã Chi Thể·Nhất Giai
+真吾之体·二阶	Chân Ngã Chi Thể·Nhị Giai
+真吾之体·三阶	Chân Ngã Chi Thể·Tam Giai
+修罗之体·一阶	Tu La Chi Thể·Nhất Giai
+修罗之体·二阶	Tu La Chi Thể·Nhị Giai
+修罗之体·三阶	Tu La Chi Thể·Tam Giai
+流光诀	Lưu Quang Quyết
+苍龙流光咒	Chú Lưu Quang Thương Long
+混元	Hỗn nguyên.
+曳影决	Lướt Ảnh
+南海千钧秘要	Nam Hải Thiên Quân Bí Yếu
+五内迅击秘诀	Ngũ Nội Tấn Kích bí quyết
+真丹破灭剑	Chân Đan Phá Diệt Kiếm
+过去庄严曳影式	Quá Khứ Trang Nghiêm Dạ Ảnh Thức
+多宝宝典	Đa Bảo Bảo Điển
+鬼手宝典	Quỷ Thủ Bảo Điển
+辟谷	Tịch Cốc
+万木琢玉通卷	Vạn Mộc Trác Ngọc Thông Quyển
+百草阁饕餮纪要	Bách Thảo Các Thao Thiết Ký Yếu
+长生佛心册	Trường Sinh Phật Tâm Sách
+入道鬼手秘传	Nhập Đạo Quỷ Thủ Bí Truyền
+青龙佛心秘法	Thanh Long Phật Tâm Bí Pháp
+玄机琢玉	Huyền Cơ Trác Ngọc
+妙手丹方	Diệu Thủ Đan Phương
+五内十二都天	Ngũ Nội Thập Nhị Đô Thiên
+斩天天星真言	Trảm Thiên Thiên Tinh Chân Ngôn
+咒神秘法	Chú Thần Bí Pháp
+迅击七签	Thất ký tấn kích
+归藏秘诀	Quy Tàng Bí quyết
+金丹咒神九卷	Kim Đan Chú Thần Cửu Quyển
+百草阁咒神秘法	Bí Pháp Chú Thần Bách Thảo Các
+天金崩天	Thiên Kim Băng Thiên
+紫云宫坤元	Tử Vân Cung Khôn Nguyên
+忘情崩天	Vong Tình Băng Thiên
+南海百炼宝册	Nam Hải Bách Luyện Bảo Sách
+五内摄神记	Ngũ Nội Nhiếp Thần Ký
+忘情百炼宝册	Vong Tình Bách Luyện Bảo Quyển
+斩天气摄秘传	Trảm Thiên Khí Nhiếp Bí Truyền
+东华佛心宝典	Đông Hoa Phật Tâm bảo điển
+西海七星神雷	Thần Lôi Thất Tinh Tây Hải
+玄武绝杀诀	Huyền Vũ Tuyệt Sát quyết
+通天咒	Thông Thiên
+癸水飞星神雷	Quỷ Thuỷ Phi Tinh Thần Lôi
+千钧剑诀	Thiên Quân Kiếm Quyết
+蓄神决	Trữ Thần Quyết
+迅击秘诀	Tấn Kích Bí Quyết
+三才决意神功	Tam Tài Quyết Ý Thần Công
+入道多宝	Nhập Đạo Đa Bảo
+惊波辟谷纪要	Kinh Ba Tịch Cốc Ký Yếu
+入道神佑密卷	Nhập Đạo Thần Hữu Mật Quyển
+阴阳辟谷纪要	Âm Dương Tịch Cốc Ký Yếu
+御神饕餮纪要	Ngự Thần Thao Thiết Ký Yếu
+紫霄鲸吞密卷	Tử Tiêu Kình Thôn Mật Quyển
+太阴锻体	Thái Âm Đoán Thể
+少阴锻体	Thiếu Âm Đoán Thể
+玄阴锻体	Huyền Âm Đoán Thể
+瞬形法	Thuấn Hình Pháp
+九幽炼神	Cửu U Luyện Thần
+太虚神盾	Thái Hư Thần Thuẫn
+少阴诀	Thiếu Âm Quyết
+玄阴诀	Huyền Âm Quyết
+幽狱诀	U Ngục Quyết
+坤元真气	Khôn Nguyên Chân Khí
+一剑	Nhất Kiếm
+秘宝：一剑	Bí Bảo: Nhất Kiếm
+
+

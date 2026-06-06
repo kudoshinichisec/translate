@@ -1,0 +1,32 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Region_Base">
+			<Desc>Nơi này là khu vực, có thể xây dựng các công trình kiểu sản xuất.</Desc>
+		</Text>
+		<Text Name="zhongyuan">
+			<DisplayName>Trung Nguyên</DisplayName>
+			<Desc>Nơi này là khu vực, có thể xây dựng các công trình kiểu sản xuất. Có thể sản xuất số lượng lớn đá nâu, một ít gỗ và lúa mì.</Desc>
+		</Text>
+		<Text Name="JiangAnWoYe">
+			<DisplayName>Giang Ngạn Ốc Dã</DisplayName>
+			<Desc>Nơi này là khu vực, có thể xây dựng các công trình kiểu sản xuất. Có thể sản xuất số lượng lớn lúa mì, một ít đá nâu.</Desc>
+		</Text>
+		<Text Name="DaXueYuan">
+			<DisplayName>Đại Tuyết Nguyên</DisplayName>
+			<Desc>Nơi này là khu vực, có thể xây dựng các công trình kiểu sản xuất. Có thể sản xuất số lượng lớn linh thạch, một ít gỗ.</Desc>
+		</Text>
+		<Text Name="DaMo">
+			<DisplayName>Đại Mạc</DisplayName>
+			<Desc>Nơi này là khu vực, có thể xây dựng các công trình kiểu sản xuất. Có thể sản xuất số lượng lớn linh thạch, một ít đá.</Desc>
+		</Text>
+		<Text Name="NanHuang">
+			<DisplayName>Nam Hoang</DisplayName>
+			<Desc>Nơi này là khu vực, có thể xây dựng các công trình kiểu sản xuất. Có thể sản xuất số lượng lớn gỗ.</Desc>
+		</Text>
+		<Text Name="OurPlace">
+			<DisplayName>Lĩnh Nam</DisplayName>
+			<Desc>Nơi này là khu vực, có thể xây dựng các công trình kiểu sản xuất. Có thể sản xuất gỗ, đá, lúa mì.</Desc>
+		</Text>
+	</List>
+</Texts>
+

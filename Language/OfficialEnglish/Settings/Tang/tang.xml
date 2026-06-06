@@ -1,0 +1,25 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Tang_Dan">
+			<DisplayName>Luyện đan</DisplayName>
+			<Desc>Chuyên về luyện đan, dựa vào năng lực của đường chủ để nâng cao khả năng luyện đan của các đệ tử trong đường.</Desc>
+		</Text>
+		<Text Name="Tang_Qi">
+			<DisplayName>Luyện khí</DisplayName>
+			<Desc>Chuyên về luyện khí, dựa vào năng lực của đường chủ để nâng cao khả năng luyện khí của các đệ tử trong đường.</Desc>
+		</Text>
+		<Text Name="Tang_Zhan">
+			<DisplayName>Chiến đấu</DisplayName>
+			<Desc>Chuyên về chiến đấu, dựa vào năng lực của đường chủ để nâng cao khả năng chiến đấu của các đệ tử trong đường.</Desc>
+		</Text>
+		<Text Name="Tang_XiuLian">
+			<DisplayName>Tu luyện</DisplayName>
+			<Desc>Chuyên về tu luyện, dựa vào năng lực của đường chủ để nâng cao khả năng tu luyện của các đệ tử trong đường.</Desc>
+		</Text>
+		<Text Name="Tang_WaiShi">
+			<DisplayName>Ngoại sự</DisplayName>
+			<Desc>Chuyên về ngoại sự, dựa vào năng lực của đường chủ để nâng cao khả năng làm việc, rèn luyện của các đệ tử trong đường.</Desc>
+		</Text>
+	</List>
+</Texts>
+

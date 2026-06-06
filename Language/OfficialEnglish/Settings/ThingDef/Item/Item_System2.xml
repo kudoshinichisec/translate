@@ -1,0 +1,47 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_ShangGuYiWenLu1" sParam="Item">
+			<ThingName>"Cổ Dị Văn: Tiên Ma Chiến-Quyển Một"</ThingName>
+			<Desc>Cuộn bí mật ghi chép về trận chiến tiên ma thời thượng cổ, văn tự trên đó trông rất kỳ lạ, dường như đã bị đặt một loại mật chú nào đó.</Desc>
+			<Item.FabaoSuffix>Cuộn</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Tra cứu</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tra cứu bí văn</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_ShangGuYiWenLu5" sParam="Item">
+			<ThingName>"Cổ Dị Văn: Tiên Ma Chiến-Quyển Năm"</ThingName>
+			<Desc>Cuộn bí mật ghi chép về trận chiến tiên ma thời thượng cổ, văn tự trên đó trông rất kỳ lạ, dường như đã bị đặt một loại mật chú nào đó.</Desc>
+			<Item.FabaoSuffix>Cuộn</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Tra cứu</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tra cứu bí văn</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_ShangGuYiWenLu7" sParam="Item">
+			<ThingName>"Cổ Dị Văn: Tiên Ma Chiến-Quyển Bảy"</ThingName>
+			<Desc>Cuộn bí mật ghi chép về trận chiến tiên ma thời thượng cổ, văn tự trên đó trông rất kỳ lạ, dường như đã bị đặt một loại mật chú nào đó.</Desc>
+			<Item.FabaoSuffix>Cuộn</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Tra cứu</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tra cứu bí văn</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_ShangGuYiWenLu15" sParam="Item">
+			<ThingName>"Cổ Dị Văn: Tiên Ma Chiến-Quyển Mười Lăm"</ThingName>
+			<Desc>Cuộn bí mật ghi chép về trận chiến tiên ma thời thượng cổ, văn tự trên đó trông rất kỳ lạ, dường như đã bị đặt một loại mật chú nào đó.</Desc>
+			<Item.FabaoSuffix>Cuộn</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Tra cứu</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tra cứu bí văn</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_TaiYiMiDian" sParam="Item">
+			<ThingName>"Thái Nhất Bí Điển"</ThingName>
+			<Desc>Một cuốn sách ghi chép lịch sử của môn phái Thái Nhất, trong đó ghi lại những sự kiện trọng đại từ khi lập phái cách đây trăm năm cho đến nay, mang ý nghĩa kỷ niệm sâu sắc. Tuy nhiên, khi nghiên cứu kỹ, có thể phát hiện cuốn sách này được dệt từ tơ luyện bằng năm loại thiên tài địa bảo, có khả năng chống lại mọi pháp thuật. Chỉ cần mang theo bên người cũng có thể tăng cường hiệu quả của linh khí hộ thuẫn và giảm bớt tổn thương từ ngũ hành, thật không thể tin nổi một môn phái nhỏ như Thái Nhất lại dùng thứ xa xỉ như vậy để ghi chép lịch sử môn phái.</Desc>
+			<Item.FabaoSuffix>Cuộn</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Tra cứu</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tra cứu sách vở</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_JinXiaCanJuan" sParam="Item">
+			<ThingName>《Tàn Quyển Hộp Vàng》</ThingName>
+			<Desc>Một cuộn sách bay ra từ hộp vàng tại Ngọc Tinh Đàm, ban đầu linh khí dao động rất yếu, không có gì nổi bật. Nhưng pháp ấn kỳ lạ bao bọc bên ngoài đã thu hút sự chú ý của ngươi, pháp ấn này dường như có liên hệ mật thiết với pháp ấn cổ đại bị hư hỏng mà ngươi từng thấy trong quá trình điều tra "Bí Ẩn Diệt Môn". Ngươi có linh cảm rằng vật này chắc chắn có liên quan lớn đến việc ngươi đang điều tra.</Desc>
+			<Item.FabaoSuffix>Cuộn</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Tra cứu</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tra cứu sách vở</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>
+

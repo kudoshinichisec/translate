@@ -1,0 +1,45 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="PracticeMaster">
+			<DisplayNameF>Sư phụ</DisplayNameF>
+			<DisplayNameM>Sư phụ</DisplayNameM>
+		</Text>
+		<Text Name="PracticeChild">
+			<DisplayNameF>Đệ tử</DisplayNameF>
+			<DisplayNameM>Đệ tử</DisplayNameM>
+		</Text>
+		<Text Name="PracticeMasterMaster">
+			<DisplayNameF>Thái sư phụ</DisplayNameF>
+			<DisplayNameM>Thái sư phụ</DisplayNameM>
+		</Text>
+		<Text Name="PracticeChildChild">
+			<DisplayNameF>Đồ tôn</DisplayNameF>
+			<DisplayNameM>Đồ tôn</DisplayNameM>
+		</Text>
+		<Text Name="PracticeBrother">
+			<DisplayNameF>Sư tỷ, sư muội</DisplayNameF>
+			<DisplayNameM>Sư huynh, sư đệ</DisplayNameM>
+		</Text>
+		<Text Name="PracticeOtherBrother">
+			<DisplayNameF>Sư tỷ, sư muội</DisplayNameF>
+			<DisplayNameM>Sư huynh, sư đệ</DisplayNameM>
+		</Text>
+		<Text Name="PracticeOtherMaster">
+			<DisplayNameF>Tiểu sư cô, sư cô</DisplayNameF>
+			<DisplayNameM>Tiểu sư thúc, sư thúc</DisplayNameM>
+		</Text>
+		<Text Name="PracticeOtherChild">
+			<DisplayNameF>Sư điệt</DisplayNameF>
+			<DisplayNameM>Sư điệt</DisplayNameM>
+		</Text>
+		<Text Name="PracticeOtherMasterMaster">
+			<DisplayNameF>Sư tổ</DisplayNameF>
+			<DisplayNameM>Sư tổ</DisplayNameM>
+		</Text>
+		<Text Name="PracticeOtherChildChild">
+			<DisplayNameF>Đồ tôn</DisplayNameF>
+			<DisplayNameM>Đồ tôn</DisplayNameM>
+		</Text>
+	</List>
+</Texts>
+

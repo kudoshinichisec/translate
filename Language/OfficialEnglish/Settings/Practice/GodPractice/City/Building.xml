@@ -1,0 +1,189 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="GodCity_Housing">
+			<DisplayName>Nơi Cư Ngụ Của Thần Dân</DisplayName>
+			<Desc>Cung cấp nơi cư ngụ cho thần dân của thần quốc, có thể tăng giới hạn số lượng thần dân.</Desc>
+		</Text>
+		<Text Name="GodCity_Guard">
+			<DisplayName>Hộ Pháp Điện</DisplayName>
+			<Desc>Cơ sở cung phụng hộ pháp, nhờ đó có thể nhận được sự che chở của hộ pháp để tăng cường năng lực của người tu luyện thần đạo.</Desc>
+		</Text>
+		<Text Name="GodCity_FaithWay">
+			<DisplayName>Diễn Diệu Đường</DisplayName>
+			<Desc>Mỗi tòa Diễn Diệu Đường có thể kết nối một tượng thờ tại điểm đại diện của thành phố phàm giới, nhờ đó, người tu luyện thần đạo có thể thu thập tín ngưỡng từ tượng thờ mọi lúc mọi nơi và phát huy một số thần dị.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoRateUp">
+			<DisplayName>Thánh Bảo Các</DisplayName>
+			<Desc>Điện thờ được xây dựng từ lực lượng tín ngưỡng, là sự phản chiếu của thánh vật tín ngưỡng trong thần quốc. Nâng cấp Thánh Bảo Các có thể tăng cường sức mạnh của thánh vật tín ngưỡng.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd1">
+			<DisplayName>Thánh Bảo Các-Phong Vân Điện</DisplayName>
+			<Desc>Có thể khiến thánh vật mang khí Phong Vân, trở nên linh động phiêu diêu hơn.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd2">
+			<DisplayName>Thánh Bảo Các-Quân Thiên Điện</DisplayName>
+			<Desc>Có thể khiến thánh vật mang lực lượng Quân Thiên, tăng cường sức mạnh.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd3">
+			<DisplayName>Thánh Bảo Các-Chân Cương Điện</DisplayName>
+			<Desc>Có thể khiến thánh vật mang lực lượng Chân Cương, trở nên cứng cáp hơn.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd4">
+			<DisplayName>Thánh Bảo Các-Thiên Nhu Điện</DisplayName>
+			<Desc>Có thể khiến thánh vật mang lực lượng Thiên Nhu, trở nên dẻo dai hơn.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd5">
+			<DisplayName>Thánh Bảo Các-Huyền Nhận Điện</DisplayName>
+			<Desc>Có thể khiến thánh vật mang lực lượng Huyền Nhận, sắc bén vô song.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd6">
+			<DisplayName>Thánh Bảo Các-Hỗn Trầm Điện</DisplayName>
+			<Desc>Có thể khiến thánh vật mang lực lượng Hỗn Trầm, không gì không phá được.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd7">
+			<DisplayName>Thánh Bảo Các-Giới Tử Điện</DisplayName>
+			<Desc>Có thể khiến thánh vật mang lực lượng Giới Tử, thu nhỏ hình thể, khó bị phát hiện.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd8">
+			<DisplayName>Thánh Bảo Các-Thiên Lôi Điện</DisplayName>
+			<Desc>Có thể khiến thánh vật mang lực lượng Thiên Lôi, uy lực vô biên.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd9">
+			<DisplayName>Thánh Bảo Các-Vạn Linh Điện</DisplayName>
+			<Desc>Có thể khiến thánh vật mang lực lượng Vạn Linh, nền tảng vững chắc.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd10">
+			<DisplayName>Thánh Bảo Các-Khiếu Phong Điện</DisplayName>
+			<Desc>Có thể khiến thánh vật mang lực lượng Khiếu Phong, nhanh chóng ngàn dặm.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd11">
+			<DisplayName>Thánh Bảo Các-Huyền Xung Điện</DisplayName>
+			<Desc>Có thể khiến thánh vật mang lực lượng Huyền Xung, không ai có thể ngăn cản.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd1">
+			<DisplayName>Thánh Bảo Các-Ngũ Độc Điện</DisplayName>
+			<Desc>Có thể khiến thánh vật sở hữu lực lượng Ngũ Độc. Mỗi 36 lần tấn công vào cơ thể người tu luyện, sẽ xuyên thủng hộ thuẫn gây thêm sát thương.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Mỗi 36 lần tấn công vào cơ thể người tu luyện, sẽ xuyên thủng hộ thuẫn gây thêm sát thương.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd2">
+			<DisplayName>Thánh Bảo Các-Linh Xung Điện</DisplayName>
+			<Desc>Có thể khiến thánh vật sở hữu lực lượng Linh Xung. Mỗi 18 lần tấn công sẽ phát động một lần pháp thuật vào kẻ thù mục tiêu.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Mỗi 18 lần tấn công sẽ phát động một lần pháp thuật vào kẻ thù mục tiêu.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd3">
+			<DisplayName>Thánh Bảo Các-Thánh Hộ Điện</DisplayName>
+			<Desc>Có thể khiến thánh vật sở hữu lực lượng Thánh Hộ. Kỹ năng hộ thể tăng 5.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Kỹ năng hộ thể tăng 3.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd4">
+			<DisplayName>Thánh Bảo Các-Thánh Pháp Điện</DisplayName>
+			<Desc>Có thể khiến thánh vật sở hữu lực lượng Thánh Pháp. Kỹ năng pháp thuật tăng 5.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Kỹ năng pháp thuật tăng 3.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd5">
+			<DisplayName>Thánh Bảo Các-Thánh Ngự Điện</DisplayName>
+			<Desc>Có thể khiến thánh vật sở hữu lực lượng Thánh Ngự. Kỹ năng ngự khí tăng 5.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Kỹ năng ngự khí tăng 3.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd6">
+			<DisplayName>Thánh Bảo Các-Linh Quy Điện</DisplayName>
+			<Desc>Có thể khiến thánh vật sở hữu lực lượng Linh Quy. 3% sát thương gây ra sẽ bổ sung vào linh khí của pháp bảo.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>3% sát thương gây ra sẽ bổ sung vào linh khí của pháp bảo.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd7">
+			<DisplayName>Thánh Bảo Các-Phân Quang Điện</DisplayName>
+			<Desc>Có thể khiến thánh vật sở hữu lực lượng Phân Quang. Mỗi 15 lần tấn công, tạo ra 1 đạo kiếm quang phân hóa, kéo dài 15 giây.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Mỗi 15 lần tấn công, tạo ra 1 đạo kiếm quang phân hóa, kéo dài 15 giây.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd8">
+			<DisplayName>Thánh Bảo Các-Hồi Tức Điện</DisplayName>
+			<Desc>Có thể khiến thánh vật sở hữu lực lượng Hồi Tức. Mỗi 7 lần tấn công sẽ giảm 1 giây thời gian hồi chiêu kỹ năng.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Mỗi 7 lần tấn công sẽ giảm 1 giây thời gian hồi chiêu kỹ năng.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd9">
+			<DisplayName>Thánh Bảo Các-Cửu Cực Điện</DisplayName>
+			<Desc>Có thể khiến thánh vật sở hữu lực lượng Cửu Cực. Khi gây sát thương, có 4% xác suất gây sát thương gấp 9 lần.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Khi gây sát thương, có 4% xác suất gây sát thương gấp 9 lần.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd10">
+			<DisplayName>Thánh Bảo Các-Vô Cực Điện</DisplayName>
+			<Desc>Có thể khiến thánh vật sở hữu lực lượng Vô Cực. Kiếm đầu tiên tăng 3 lần uy lực, linh khí pháp bảo được bổ sung sẽ được đặt lại.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Kiếm đầu tiên tăng 3 lần uy lực, linh khí pháp bảo được bổ sung sẽ được đặt lại.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd11">
+			<DisplayName>Thánh Bảo Các-Phá Cương Điện</DisplayName>
+			<Desc>Có thể khiến thánh vật sở hữu lực lượng Phá Cương. Khi tấn công cơ thể kẻ địch, gây sát thương gấp 1.25 lần.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Khi tấn công cơ thể kẻ địch, gây sát thương gấp 1.25 lần.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_WishTree">
+			<DisplayName>Cây Nguyện Cầu</DisplayName>
+			<Desc>Cây được kết tụ từ nguyện vọng của phàm nhân, có thể mượn khí hồng trần giảm nhẹ thần tính.</Desc>
+		</Text>
+		<Text Name="GodCity_XinyangShendian">
+			<DisplayName>Thần Điện Tín Ngưỡng</DisplayName>
+			<Desc>Điện thờ tích tụ lực tín ngưỡng, có thể tăng hiệu suất tín ngưỡng được sinh ra từ thần quốc.</Desc>
+		</Text>
+		<Text Name="GodCity_LiuLiShenDian">
+			<DisplayName>Thần Điện Lưu Ly</DisplayName>
+			<Desc>Điện thờ khuếch đại lực hộ pháp, có thể tăng cường sức mạnh từ hộ pháp mang lại.</Desc>
+		</Text>
+		<Text Name="GodCity_ThunderDefend">
+			<DisplayName>Ngự Thiên Điện</DisplayName>
+			<Desc>Tích tụ lực tín ngưỡng, nhằm ngăn ngừa thiên uy, có thể giảm sức mạnh thiên kiếp.</Desc>
+		</Text>
+		<Text Name="GodCity_FengShenTai">
+			<DisplayName>Phong Thần Đài</DisplayName>
+			<Desc>Nơi phong thần cho tín đồ trung thành, phong tín đồ trung tâm hoàn toàn tín ngưỡng làm hộ pháp.</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_A">
+			<DisplayName>Thiên Kim Cư</DisplayName>
+			<Desc>Tăng giới hạn tín đồ trung tâm.</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_B">
+			<DisplayName>U Mộc Cư</DisplayName>
+			<Desc>Tăng giới hạn tín đồ trung tâm.</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_C">
+			<DisplayName>Huyền Thủy Cư</DisplayName>
+			<Desc>Tăng giới hạn tín đồ trung tâm.</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_D">
+			<DisplayName>Xích Hỏa Cư</DisplayName>
+			<Desc>Tăng giới hạn tín đồ trung tâm.</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_E">
+			<DisplayName>Hậu Thổ Cư</DisplayName>
+			<Desc>Tăng giới hạn tín đồ trung tâm.</Desc>
+		</Text>
+		<Text Name="GodCity_Housing_Lv2">
+			<DisplayName>Phổ Hóa Cư</DisplayName>
+			<Desc>Nơi cư ngụ cấp cao của thần dân, có thể chứa một lượng lớn thần dân.</Desc>
+		</Text>
+		<Text Name="GodCity_Housing_Lv2_2">
+			<DisplayName>Thông Hóa Cư</DisplayName>
+			<Desc>Nơi cư ngụ cấp cao của thần dân, có thể chứa một lượng lớn thần dân.</Desc>
+		</Text>
+		<Text Name="GodCity_HongChenKuHai">
+			<DisplayName>Hồng Trần Khổ Hải</DisplayName>
+			<Desc>Dẫn khổ của chúng sinh hồng trần vào thần quốc, có thể giảm mạnh thần tính.</Desc>
+		</Text>
+		<Text Name="GodCity_Magic_1">
+			<DisplayName>Cảm Triệu Đường</DisplayName>
+			<Desc>Cấp 1, 2, 3 lần lượt cung cấp thần thông: 《Cảm Triệu Thuật》,《Ứng Nguyện Thuật》,《Duy Tôn Pháp》. Có thể tăng sản lượng cơ bản của tài sản khu vực thần linh nhập thân trong một thời gian.</Desc>
+		</Text>
+		<Text Name="GodCity_Magic_2">
+			<DisplayName>Thông Tâm Các</DisplayName>
+			<Desc>Cấp 1 cung cấp thần thông 《Tĩnh Tâm》: Giải phóng cho một nhân vật không phải thần tu, giảm 25% hệ số khuếch đại cảm xúc, kéo dài 7 ngày.\nCấp 2 cung cấp thần thông 《Tẩy Tâm》: Hóa giải một chấp niệm cho nhân vật. Và nhận được một kết tinh chấp niệm.</Desc>
+		</Text>
+		<Text Name="GodCity_Magic_3">
+			<DisplayName>Thần Uy Các</DisplayName>
+			<Desc>Cấp 1 cung cấp thần thông 《Thần Hóa》: Phép thuật tạm thời tăng thần tính bản thân lên cực hạn, tăng mạnh sức chiến đấu.\nCấp 2 cung cấp thần thông 《Thần Ân Tứ Mệnh》: Tiêu hao nhân tính bản thân, thử thông linh thực vật, kết quả thông linh cần thời gian để xuất hiện. Thực vật trong quá trình thông linh không thể được thông linh lần nữa.</Desc>
+			<DLCDesc.Conditions.0.Value>Cung cấp Thần Thông《Thần hóa》: Thi triển sẽ khiến thần tính bản thân tạm thời đạt cực hạn, tăng mạnh sức chiến đấu.</DLCDesc.Conditions.0.Value>
+		</Text>
+		<Text Name="GodCity_Magic_4">
+			<DisplayName>Khiêm Tâm Đường</DisplayName>
+			<Desc>Cấp 1 cung cấp thần thông 《Khuyến Hóa》: Khuyến hóa nhân vật nội môn thân thiện hoặc trung lập, thử chuyển hóa họ thành tín đồ trung tâm.\nCấp 2 cung cấp thần thông 《Thần Linh Vấn Tung Pháp》: Chọn một nhân vật, thử lấy thông tin hành tung của họ. Số lượng thần dân càng nhiều, thông tin thu được càng nhiều, tỷ lệ thành công lấy hành tung càng cao.</Desc>
+		</Text>
+	</List>
+</Texts>
+

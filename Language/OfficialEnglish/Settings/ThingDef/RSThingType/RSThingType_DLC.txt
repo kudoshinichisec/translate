@@ -1,0 +1,5 @@
+ItemName	Type
+Item_BambooShoot	Nguyên liệu nấu ăn
+Item_Bamboo	Vật liệu
+
+

@@ -1,0 +1,21 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="RpgTower">
+			<Title>Kẽ hở giữa các giới·Vô Hà Hữu Chi Hương</Title>
+			<Desc>Cánh cổng bí ẩn ẩn sâu trong khe nứt dị giới, nằm ở nơi giao thoa giữa thực và hư của giới này, tích tụ lịch sử hàng triệu năm.</Desc>
+		</Text>
+		<Text Name="RpgQianKun">
+			<Title>Kẽ hở Càn Khôn Giới·Quy Tịch Chi Địa</Title>
+			<Desc>Một động thiên bí ẩn trong Tiểu Càn Khôn Giới được phong ấn mạnh mẽ, vì "Thái Nhất Bí Điển" mà mở ra cánh cổng, không biết bên trong chứa đựng điều gì.</Desc>
+		</Text>
+		<Text Name="RpgArena">
+			<Title>Diễn Võ Trường</Title>
+			<Desc>Nơi diễn võ của môn phái, dành cho đệ tử so tài cao thấp.</Desc>
+		</Text>
+		<Text Name="RpgArena_YingTian">
+			<Title>Ứng Thiên Đài</Title>
+			<Desc>Kẽ hở tâm tưởng, liên thông vạn giới.</Desc>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,12 @@
+FunType	Ani	Duration	Desc	JobType
+Lay	Lay	20	Nghỉ ngơi một chút	
+Wonder	Run	20	Đi lang thang khắp nơi	RandomMove
+BiuBiu	ShiFaLoop	20	Luyện tập đánh nhau	
+Chop	Atk3	20	Luyện tập đánh nhau	
+PlayBB	Free	20	Chơi với tre	
+Roll	Free2	20	Lăn lộn	
+Happy	kaixin01	20	Chơi đùa	
+Stretch	Free2	20	Tập luyện đầu	
+Spin	kaixin01	20	Quay vòng	
+
+

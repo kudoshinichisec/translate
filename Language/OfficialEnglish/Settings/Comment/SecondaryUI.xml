@@ -1,0 +1,204 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SystemMessage">
+			<Notes>Bảng thông báo hệ thống</Notes>
+			<Title>Thông báo hệ thống</Title>
+			<Desc>Thông báo hệ thống</Desc>
+		</Text>
+		<Text Name="Architecture">
+			<Notes>Bảng kiến trúc</Notes>
+			<Title>Trang kiến trúc</Title>
+			<Desc>Trang kiến trúc</Desc>
+		</Text>
+		<Text Name="NpcProperty">
+			<Notes>Bảng thuộc tính nhân vật</Notes>
+			<Title>Thuộc tính nhân vật</Title>
+			<Desc>Thuộc tính nhân vật</Desc>
+		</Text>
+		<Text Name="NpcSociality">
+			<Notes>Bảng xã giao nhân vật</Notes>
+			<Title>Xã giao nhân vật</Title>
+			<Desc>Xã giao nhân vật</Desc>
+		</Text>
+		<Text Name="NpcHealth">
+			<Notes>Bảng sức khỏe nhân vật</Notes>
+			<Title>Bảng sức khỏe</Title>
+			<Desc>Bảng sức khỏe</Desc>
+		</Text>
+		<Text Name="NpcPractice">
+			<Notes>Bảng tu luyện nhân vật</Notes>
+			<Title>Bảng tu luyện</Title>
+			<Desc>Bảng tu luyện</Desc>
+		</Text>
+		<Text Name="NpcZhuJi">
+			<Notes>Bảng trúc cơ nhân vật</Notes>
+			<Title>Bảng trúc cơ</Title>
+			<Desc>Bảng trúc cơ</Desc>
+		</Text>
+		<Text Name="NpcGnosis">
+			<Notes>Bảng linh trí nhân vật</Notes>
+			<Title>Bảng linh trí</Title>
+			<Desc>Bảng linh trí</Desc>
+		</Text>
+		<Text Name="NpcEquipment">
+			<Notes>Bảng trang bị nhân vật</Notes>
+			<Title>Trang trang bị</Title>
+			<Desc>Trang trang bị</Desc>
+		</Text>
+		<Text Name="NpcEquipmentOfBodyPractice">
+			<Notes>Bảng cấu hình trang bị và bí thể</Notes>
+			<Title>Bảng cấu hình trang bị và bí thể</Title>
+			<Desc>Bảng cấu hình trang bị và bí thể</Desc>
+		</Text>
+		<Text Name="NpcCombatStyle">
+			<Notes>Bảng phong cách chiến đấu nhân vật</Notes>
+			<Title>Bảng phong cách chiến đấu</Title>
+			<Desc>Bảng phong cách chiến đấu</Desc>
+		</Text>
+		<Text Name="NpcDetailProperty">
+			<Notes>Bảng thuộc tính chi tiết nhân vật</Notes>
+			<Title>Bảng thuộc tính chi tiết</Title>
+			<Desc>Bảng thuộc tính chi tiết</Desc>
+		</Text>
+		<Text Name="NpcDrugResistance">
+			<Notes>Bảng khả năng chịu thuốc của nhân vật</Notes>
+			<Title>Bảng khả năng chịu thuốc</Title>
+			<Desc>Bảng khả năng chịu thuốc</Desc>
+		</Text>
+		<Text Name="Secret">
+			<Notes>Bảng bí mật</Notes>
+			<Title>Bảng bí mật</Title>
+			<Desc>Bảng bí mật</Desc>
+		</Text>
+		<Text Name="Character">
+			<Notes>Bảng nhân vật</Notes>
+			<Title>Bảng nhân vật</Title>
+			<Desc>Bảng nhân vật</Desc>
+		</Text>
+		<Text Name="Clue">
+			<Notes>Bảng manh mối</Notes>
+			<Title>Bảng manh mối</Title>
+			<Desc>Bảng manh mối</Desc>
+		</Text>
+		<Text Name="ZhenGraph">
+			<Notes>Bảng trận đồ</Notes>
+			<Title>Bảng trận đồ</Title>
+			<Desc>Bảng trận đồ</Desc>
+		</Text>
+		<Text Name="ZhenEdit">
+			<Notes>Bảng chỉnh sửa trận pháp</Notes>
+			<Title>Bảng chỉnh sửa trận pháp</Title>
+			<Desc>Bảng chỉnh sửa trận pháp</Desc>
+		</Text>
+		<Text Name="ZhenEyesOverview">
+			<Notes>Bảng tổng quan trận nhãn</Notes>
+			<Title>Bảng tổng quan trận nhãn</Title>
+			<Desc>Bảng tổng quan trận nhãn</Desc>
+		</Text>
+		<Text Name="WorkSchedule">
+			<Notes>Bảng sắp xếp công việc</Notes>
+			<Title>Bảng sắp xếp công việc</Title>
+			<Desc>Bảng sắp xếp công việc</Desc>
+		</Text>
+		<Text Name="SectOverview">
+			<Notes>Bảng tổng quan môn phái</Notes>
+			<Title>Bảng môn phái</Title>
+			<Desc>Bảng môn phái</Desc>
+		</Text>
+		<Text Name="SectStructure">
+			<Notes>Bảng cấu trúc môn phái</Notes>
+			<Title>Bảng cấu trúc môn phái</Title>
+			<Desc>Bảng cấu trúc môn phái</Desc>
+		</Text>
+		<Text Name="SectFollower">
+			<Notes>Bảng đệ tử môn phái</Notes>
+			<Title>Bảng đệ tử môn phái</Title>
+			<Desc>Bảng đệ tử môn phái</Desc>
+		</Text>
+		<Text Name="SectRelationship">
+			<Notes>Bảng quan hệ môn phái</Notes>
+			<Title>Bảng quan hệ môn phái</Title>
+			<Desc>Bảng quan hệ môn phái</Desc>
+		</Text>
+		<Text Name="PowerManagement">
+			<Notes>Bảng quản lý thế lực</Notes>
+			<Title>Quản lý thế lực</Title>
+		</Text>
+		<Text Name="SectGift">
+			<Notes>Bảng tặng quà môn phái</Notes>
+			<Title>Tặng quà</Title>
+			<Desc>Tặng quà môn phái</Desc>
+		</Text>
+		<Text Name="SectTransaction">
+			<Notes>Bảng giao dịch môn phái</Notes>
+			<Title>Giao dịch môn phái</Title>
+			<Desc>Giao dịch môn phái</Desc>
+		</Text>
+		<Text Name="SectMessageManagement">
+			<Notes>Bảng quản lý thông báo môn phái</Notes>
+			<Title>Quản lý tin tức môn phái</Title>
+			<Desc>Quản lý tin tức môn phái</Desc>
+		</Text>
+		<Text Name="SectLaws">
+			<Notes>Bảng môn quy</Notes>
+			<Title>Môn quy</Title>
+			<Desc>Môn quy</Desc>
+		</Text>
+		<Text Name="PedlarTransaction">
+			<Notes>Bảng giao dịch hành thương</Notes>
+			<Title>Giao dịch hành thương</Title>
+			<Desc>Giao dịch hành thương</Desc>
+		</Text>
+		<Text Name="KeyholeReport">
+			<Notes>Bảng bí văn</Notes>
+			<Title>Bí văn</Title>
+			<Desc>Bí văn</Desc>
+		</Text>
+		<Text Name="RefineBody">
+			<Notes>Bảng ta thể</Notes>
+			<Title>Bảng ta thể</Title>
+			<Desc>Bảng ta thể</Desc>
+		</Text>
+		<Text Name="DomesticateSpiritBeast">
+			<Notes>Bảng nuôi dưỡng linh sủng</Notes>
+			<Title>Nuôi dưỡng linh sủng</Title>
+			<Desc>Nuôi dưỡng linh sủng</Desc>
+		</Text>
+		<Text Name="TrainSpiritBeast">
+			<Notes>Bảng huấn luyện linh sủng</Notes>
+			<Title>Huấn luyện linh sủng</Title>
+			<Desc>Huấn luyện linh sủng</Desc>
+		</Text>
+		<Text Name="FeedSpiritBeast">
+			<Notes>Bảng dinh dưỡng thức ăn linh sủng</Notes>
+			<Title>Dinh dưỡng thức ăn linh sủng</Title>
+			<Desc>Dinh dưỡng thức ăn linh sủng</Desc>
+		</Text>
+		<Text Name="BehaviorRecordSpiritBeast">
+			<Notes>Bảng hành vi linh sủng</Notes>
+			<Title>Hành vi linh sủng</Title>
+			<Desc>Hành vi linh sủng</Desc>
+		</Text>
+		<Text Name="EmotionAndThinkingOfAnimal">
+			<Notes>Bảng suy nghĩ và tư duy</Notes>
+			<Title>Suy nghĩ và suy tư</Title>
+			<Desc>Suy nghĩ và suy tư</Desc>
+		</Text>
+		<Text Name="EmotionATarget">
+			<Notes>Bảng suy nghĩ: Nhận thức</Notes>
+			<Title>Suy nghĩ: Nhận thức</Title>
+			<Desc>Ba mảnh suy nghĩ nhận thức giống nhau có thể hợp thành một suy nghĩ nhận thức.</Desc>
+		</Text>
+		<Text Name="EmotionAScene">
+			<Notes>Bảng suy nghĩ: Lý trí</Notes>
+			<Title>Suy nghĩ: Lý trí</Title>
+			<Desc>Ba mảnh suy nghĩ lý trí giống nhau có thể hợp thành một suy nghĩ lý trí.</Desc>
+		</Text>
+		<Text Name="EmotionAEmotion">
+			<Notes>Bảng suy nghĩ: Cảm tri</Notes>
+			<Title>Suy nghĩ: Cảm tri</Title>
+			<Desc>Ba mảnh suy nghĩ cảm tri giống nhau có thể hợp thành một suy nghĩ cảm tri.</Desc>
+		</Text>
+	</List>
+</Texts>
+

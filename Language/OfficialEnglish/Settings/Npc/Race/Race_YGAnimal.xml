@@ -1,0 +1,89 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="YGRabbit">
+			<DisplayName>Thỏ Yêu</DisplayName>
+			<Desc>Yêu thức tỉnh linh trí và hóa hình: Thỏ Yêu</Desc>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+		<Text Name="YGChicken">
+			<DisplayName>Kê Yêu</DisplayName>
+			<Desc>Yêu thức tỉnh linh trí và hóa hình: Kê Yêu</Desc>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+			<TalkBefore>Chít,</TalkBefore>
+			<TalkAfter>Chít!</TalkAfter>
+		</Text>
+		<Text Name="YGWolf">
+			<DisplayName>Lang Yêu</DisplayName>
+			<Desc>Yêu thức tỉnh linh trí và hóa hình: Lang Yêu</Desc>
+			<TalkBefore>Hú,</TalkBefore>
+			<TalkAfter>U!</TalkAfter>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+		<Text Name="YGSnake">
+			<DisplayName>Xà Yêu</DisplayName>
+			<Desc>Yêu thức tỉnh linh trí và hóa hình: Xà Yêu</Desc>
+			<TalkBefore>Xì,</TalkBefore>
+			<TalkAfter>Xì</TalkAfter>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+		<Text Name="YGBoar">
+			<DisplayName>Trư Yêu</DisplayName>
+			<Desc>Yêu thức tỉnh linh trí và hóa hình: Trư Yêu</Desc>
+			<TalkBefore>Hừ,</TalkBefore>
+			<TalkAfter>Hừ</TalkAfter>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+		<Text Name="YGBear">
+			<DisplayName>Hùng Yêu</DisplayName>
+			<Desc>Yêu thức tỉnh linh trí và hóa hình: Hùng Yêu</Desc>
+			<TalkBefore>Hú,</TalkBefore>
+			<TalkAfter>Hú</TalkAfter>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+		<Text Name="YGTurtle">
+			<DisplayName>Quy Yêu</DisplayName>
+			<Desc>Yêu thức tỉnh linh trí và hóa hình: Quy Yêu</Desc>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+		<Text Name="YGFrog">
+			<DisplayName>Oa Yêu</DisplayName>
+			<Desc>Yêu thức tỉnh linh trí và hóa hình: Oa Yêu</Desc>
+			<TalkBefore>Oa,</TalkBefore>
+			<TalkAfter>Oa</TalkAfter>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+		<Text Name="YGCat">
+			<DisplayName>Miêu Yêu</DisplayName>
+			<Desc>Yêu thức tỉnh linh trí và hóa hình: Miêu Yêu</Desc>
+			<TalkBefore>Meo,</TalkBefore>
+			<TalkAfter>Meo</TalkAfter>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+		<Text Name="YGCattle">
+			<DisplayName>Ngưu Yêu</DisplayName>
+			<Desc>Yêu thức tỉnh linh trí và hóa hình: Ngưu Yêu</Desc>
+			<TalkBefore>Moo,</TalkBefore>
+			<TalkAfter>Moo!</TalkAfter>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+		<Text Name="YGTiger">
+			<DisplayName>Yêu hổ</DisplayName>
+			<Desc>Yêu thức tỉnh linh trí và hóa hình: Yêu hổ</Desc>
+			<TalkBefore>Hú~</TalkBefore>
+			<TalkAfter>Hú!</TalkAfter>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+	</List>
+</Texts>
+

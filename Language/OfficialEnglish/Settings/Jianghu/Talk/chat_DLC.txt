@@ -1,0 +1,120 @@
+Tag	TargetType	Q	MA	SA	FA	fParam	sParam
+类型标签	0是目标不论仙凡1是目标为凡人2是目标为仙人3是目标为仙人且我比其境界高4是目标为仙人且我比其境界低4是目标为仙人且我与其境界一样	问题	无成功失败/中性回答	成功回答	失败回答	数值参数(SECRET为事件ID)	文本参数
+Chat_Place_Snowfield1	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở Ngọc Tinh Đàm, có một loại cá lớn chỉ xuất hiện vào mùa đông.				
+Chat_Place_Snowfield2	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở Ngọc Tinh Đàm, có một loại cá lớn chỉ xuất hiện vào mùa đông.				
+Chat_Place_Snowfield3	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở Ngọc Tinh Đàm, có một loại cá lớn chỉ xuất hiện vào mùa đông.				
+Chat_Place_Snowfield1	0	Nơi đây có những loài cá đặc biệt nào?	Gần đây có một loại cá vây đỏ, chỉ xuất hiện vào mùa đông.				
+Chat_Place_Snowfield2	0	Nơi đây có những loài cá đặc biệt nào?	Gần đây có một loại cá vây đỏ, chỉ xuất hiện vào mùa đông.				
+Chat_Place_Snowfield3	0	Nơi đây có những loài cá đặc biệt nào?	Gần đây có một loại cá vây đỏ, chỉ xuất hiện vào mùa đông.				
+Chat_Place_BirthPlace11	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói vào lúc Vĩnh Dạ sẽ có một loại cá đỏ và xanh xuất hiện.				
+Chat_Place_BirthPlace12	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói vào lúc Vĩnh Dạ sẽ có một loại cá đỏ và xanh xuất hiện.				
+Chat_Place_BirthPlace13	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói vào lúc Vĩnh Dạ sẽ có một loại cá đỏ và xanh xuất hiện.				
+Chat_Place_BirthPlace14	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói vào lúc Vĩnh Dạ sẽ có một loại cá đỏ và xanh xuất hiện.				
+Chat_Place_BirthPlace15	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói vào lúc Vĩnh Dạ sẽ có một loại cá đỏ và xanh xuất hiện.				
+Chat_Place_BirthPlace16	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói vào lúc Vĩnh Dạ sẽ có một loại cá đỏ và xanh xuất hiện.				
+Chat_Place_BirthPlace11	0	Nơi đây có những loài cá đặc biệt nào?	Có một loại lươn chỉ xuất hiện trong nước linh vào mùa hè.				
+Chat_Place_BirthPlace12	0	Nơi đây có những loài cá đặc biệt nào?	Có một loại lươn chỉ xuất hiện trong nước linh vào mùa hè.				
+Chat_Place_BirthPlace13	0	Nơi đây có những loài cá đặc biệt nào?	Có một loại lươn chỉ xuất hiện trong nước linh vào mùa hè.				
+Chat_Place_BirthPlace14	0	Nơi đây có những loài cá đặc biệt nào?	Có một loại lươn chỉ xuất hiện trong nước linh vào mùa hè.				
+Chat_Place_BirthPlace15	0	Nơi đây có những loài cá đặc biệt nào?	Có một loại lươn chỉ xuất hiện trong nước linh vào mùa hè.				
+Chat_Place_BirthPlace16	0	Nơi đây có những loài cá đặc biệt nào?	Có một loại lươn chỉ xuất hiện trong nước linh vào mùa hè.				
+Chat_Place_SouthForest1	0	Nơi đây có những loài cá đặc biệt nào?	Vào mùa xuân, gần đây có một loại lươn toàn thân đầy hoa văn tà ác xuất hiện.				
+Chat_Place_SouthForest2	0	Nơi đây có những loài cá đặc biệt nào?	Vào mùa xuân, gần đây có một loại lươn toàn thân đầy hoa văn tà ác xuất hiện.				
+Chat_Place_SouthForest3	0	Nơi đây có những loài cá đặc biệt nào?	Vào mùa xuân, gần đây có một loại lươn toàn thân đầy hoa văn tà ác xuất hiện.				
+Chat_Place_BirthPlace11	0	Nơi đây có những loài cá đặc biệt nào?	Gần đây có một loại cá màu hồng, chỉ xuất hiện vào mùa thu.				
+Chat_Place_BirthPlace12	0	Nơi đây có những loài cá đặc biệt nào?	Gần đây có một loại cá màu hồng, chỉ xuất hiện vào mùa thu.				
+Chat_Place_BirthPlace13	0	Nơi đây có những loài cá đặc biệt nào?	Gần đây có một loại cá màu hồng, chỉ xuất hiện vào mùa thu.				
+Chat_Place_BirthPlace14	0	Nơi đây có những loài cá đặc biệt nào?	Gần đây có một loại cá màu hồng, chỉ xuất hiện vào mùa thu.				
+Chat_Place_BirthPlace15	0	Nơi đây có những loài cá đặc biệt nào?	Gần đây có một loại cá màu hồng, chỉ xuất hiện vào mùa thu.				
+Chat_Place_BirthPlace16	0	Nơi đây có những loài cá đặc biệt nào?	Gần đây có một loại cá màu hồng, chỉ xuất hiện vào mùa thu.				
+Chat_Place_Hei	0	Nơi đây có những loài cá đặc biệt nào?	Xung quanh Hắc Sơn có một loại cá bơn đặc biệt, chỉ ăn thức ăn thuộc tính kim.				
+Chat_Place_Hei1	0	Nơi đây có những loài cá đặc biệt nào?	Xung quanh Hắc Sơn có một loại cá bơn đặc biệt, chỉ ăn thức ăn thuộc tính kim.				
+Chat_Place_Shu	0	Nơi đây có những loài cá đặc biệt nào?	Gần đây có một loại cá, chỉ ăn ngọc tủy, có lẽ bị thu hút bởi thuộc tính thổ.				
+Chat_Place_Shu1	0	Nơi đây có những loài cá đặc biệt nào?	Gần đây có một loại cá, chỉ ăn ngọc tủy, có lẽ bị thu hút bởi thuộc tính thổ.				
+Chat_Place_Shu2	0	Nơi đây có những loài cá đặc biệt nào?	Gần đây có một loại cá, chỉ ăn ngọc tủy, có lẽ bị thu hút bởi thuộc tính thổ.				
+Chat_Place_Shu3	0	Nơi đây có những loài cá đặc biệt nào?	Gần đây có một loại cá, chỉ ăn ngọc tủy, có lẽ bị thu hút bởi thuộc tính thổ.				
+Chat_Place_Shu4	0	Nơi đây có những loài cá đặc biệt nào?	Gần đây có một loại cá, chỉ ăn ngọc tủy, có lẽ bị thu hút bởi thuộc tính thổ.				
+Chat_Place_Shu5	0	Nơi đây có những loài cá đặc biệt nào?	Gần đây có một loại cá, chỉ ăn ngọc tủy, có lẽ bị thu hút bởi thuộc tính thổ.				
+Chat_Place_WuLian1	0	Nơi đây có những loài cá đặc biệt nào?	Gần đây có một loại cá, chỉ ăn ngọc tủy, có lẽ bị thu hút bởi thuộc tính thổ.				
+Chat_Place_WuLian2	0	Nơi đây có những loài cá đặc biệt nào?	Gần đây có một loại cá, chỉ ăn ngọc tủy, có lẽ bị thu hút bởi thuộc tính thổ.				
+Chat_Place_FertileField1	0	Nơi đây có những loài cá đặc biệt nào?	Trong con sông lớn gần đây có một loại cá chép, toàn thân màu xanh, thích thức ăn thuộc tính thủy.				
+Chat_Place_FertileField2	0	Nơi đây có những loài cá đặc biệt nào?	Trong con sông lớn gần đây có một loại cá chép, toàn thân màu xanh, thích thức ăn thuộc tính thủy.				
+Chat_Place_FertileField3	0	Nơi đây có những loài cá đặc biệt nào?	Trong con sông lớn gần đây có một loại cá chép, toàn thân màu xanh, thích thức ăn thuộc tính thủy.				
+Chat_Place_FertileField4	0	Nơi đây có những loài cá đặc biệt nào?	Trong con sông lớn gần đây có một loại cá chép, toàn thân màu xanh, thích thức ăn thuộc tính thủy.				
+Chat_Place_FertileField5	0	Nơi đây có những loài cá đặc biệt nào?	Trong con sông lớn gần đây có một loại cá chép, toàn thân màu xanh, thích thức ăn thuộc tính thủy.				
+Chat_Place_Desert2	0	Nơi đây có những loài cá đặc biệt nào?	Gần sa mạc lớn có một loại cá chịu hạn, chỉ ăn thức ăn thuộc tính mộc.				
+Chat_Place_Desert3	0	Nơi đây có những loài cá đặc biệt nào?	Gần sa mạc lớn có một loại cá chịu hạn, chỉ ăn thức ăn thuộc tính mộc.				
+Chat_Place_Desert4	0	Nơi đây có những loài cá đặc biệt nào?	Gần sa mạc lớn có một loại cá chịu hạn, chỉ ăn thức ăn thuộc tính mộc.				
+Chat_Place_XianKong1	0	Nơi đây có những loài cá đặc biệt nào?	Gần sa mạc lớn có một loại cá chịu hạn, chỉ ăn thức ăn thuộc tính mộc.				
+Chat_Place_XianKong	0	Nơi đây có những loài cá đặc biệt nào?	Gần sa mạc lớn có một loại cá chịu hạn, chỉ ăn thức ăn thuộc tính mộc.				
+Chat_Place_HeHuan1	0	Nơi đây có những loài cá đặc biệt nào?	Ở đây có một loại lươn toàn thân đốm, nghe nói nó thích thức ăn thuộc tính hỏa, đặc biệt là tro núi lửa dưới đáy biển.				
+Chat_Place_HeHuan2	0	Nơi đây có những loài cá đặc biệt nào?	Ở đây có một loại lươn toàn thân đốm, nghe nói nó thích thức ăn thuộc tính hỏa, đặc biệt là tro núi lửa dưới đáy biển.				
+Chat_Place_HeHuan	0	Nơi đây có những loài cá đặc biệt nào?	Ở đây có một loại lươn toàn thân đốm, nghe nói nó thích thức ăn thuộc tính hỏa, đặc biệt là tro núi lửa dưới đáy biển.				
+Chat_Place_WuLian	0	Nơi đây có những loài cá đặc biệt nào?	Tôi nghe nói ở Thiên Trì có một loại cá đẹp, chỉ xuất hiện vào đêm khuya mùa thu.				
+Chat_Place_WuLian1	0	Nơi đây có những loài cá đặc biệt nào?	Tôi nghe nói ở Thiên Trì có một loại cá đẹp, chỉ xuất hiện vào đêm khuya mùa thu.				
+Chat_Place_FertileField1	0	Nơi đây có những loài cá đặc biệt nào?	Trong con sông lớn gần đây có một loại cá cầu vồng, chỉ xuất hiện vào mùa đông.				
+Chat_Place_FertileField2	0	Nơi đây có những loài cá đặc biệt nào?	Trong con sông lớn gần đây có một loại cá cầu vồng, chỉ xuất hiện vào mùa đông.				
+Chat_Place_FertileField3	0	Nơi đây có những loài cá đặc biệt nào?	Trong con sông lớn gần đây có một loại cá cầu vồng, chỉ xuất hiện vào mùa đông.				
+Chat_Place_FertileField4	0	Nơi đây có những loài cá đặc biệt nào?	Trong con sông lớn gần đây có một loại cá cầu vồng, chỉ xuất hiện vào mùa đông.				
+Chat_Place_FertileField5	0	Nơi đây có những loài cá đặc biệt nào?	Trong con sông lớn gần đây có một loại cá cầu vồng, chỉ xuất hiện vào mùa đông.				
+Chat_Place_WuLian	0	Nơi đây có những loài cá đặc biệt nào?	Môn phái chúng tôi đã nuôi dưỡng một số cua ngọc ở đây, vỏ của chúng rất đẹp vào ban ngày.				
+Chat_Place_BaiMan1	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói trong động Thiên Thi có một mùi hôi thối vào mùa xuân, dường như phát ra từ một loại cá.				
+Chat_Place_BaiMan	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói trong động Thiên Thi có một mùi hôi thối vào mùa xuân, dường như phát ra từ một loại cá.				
+Chat_Place_BaiMan2	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói trong động Thiên Thi có một mùi hôi thối vào mùa xuân, dường như phát ra từ một loại cá.				
+Chat_Place_BaiMan3	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói trong động Thiên Thi có một mùi hôi thối vào mùa xuân, dường như phát ra từ một loại cá.				
+Chat_Place_HeHuan	0	Nơi đây có những loài cá đặc biệt nào?	Ở Độc Long Đàm có một loại cá vằn đỏ, chỉ xuất hiện vào mùa hè.				
+Chat_Place_HeHuan1	0	Nơi đây có những loài cá đặc biệt nào?	Ở Độc Long Đàm có một loại cá vằn đỏ, chỉ xuất hiện vào mùa hè.				
+Chat_Place_HeHuan2	0	Nơi đây có những loài cá đặc biệt nào?	Ở Độc Long Đàm có một loại cá vằn đỏ, chỉ xuất hiện vào mùa hè.				
+Chat_Place_WuLian	0	Nơi đây có những loài cá đặc biệt nào?	Tôi nghe nói ở Thiên Trì có một loại cá xuất hiện vào đêm khuya, chỉ bị thu hút bởi vật phẩm thuộc tính kim.				
+Chat_Place_WuLian1	0	Nơi đây có những loài cá đặc biệt nào?	Tôi nghe nói ở Thiên Trì có một loại cá xuất hiện vào đêm khuya, chỉ bị thu hút bởi vật phẩm thuộc tính kim.				
+Chat_Place_FertileField1	0	Nơi đây có những loài cá đặc biệt nào?	Cá cầu vồng trong con sông lớn ở Hàn Sơn Trấn lại chỉ bị thu hút bởi vật phẩm thuộc tính hỏa.				
+Chat_Place_FertileField2	0	Nơi đây có những loài cá đặc biệt nào?	Cá cầu vồng trong con sông lớn ở Hàn Sơn Trấn lại chỉ bị thu hút bởi vật phẩm thuộc tính hỏa.				
+Chat_Place_FertileField3	0	Nơi đây có những loài cá đặc biệt nào?	Cá cầu vồng trong con sông lớn ở Hàn Sơn Trấn lại chỉ bị thu hút bởi vật phẩm thuộc tính hỏa.				
+Chat_Place_FertileField4	0	Nơi đây có những loài cá đặc biệt nào?	Cá cầu vồng trong con sông lớn ở Hàn Sơn Trấn lại chỉ bị thu hút bởi vật phẩm thuộc tính hỏa.				
+Chat_Place_FertileField5	0	Nơi đây có những loài cá đặc biệt nào?	Cá cầu vồng trong con sông lớn ở Hàn Sơn Trấn lại chỉ bị thu hút bởi vật phẩm thuộc tính hỏa.				
+Chat_Place_BaiMan1	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói trong Huyết Thủy có một loại cá, chỉ cần cần câu thuộc tính thổ mới có thể câu được, thật kỳ lạ.				
+Chat_Place_BaiMan	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói trong Huyết Thủy có một loại cá, chỉ cần cần câu thuộc tính thổ mới có thể câu được, thật kỳ lạ.				
+Chat_Place_BaiMan2	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói trong Huyết Thủy có một loại cá, chỉ cần cần câu thuộc tính thổ mới có thể câu được, thật kỳ lạ.				
+Chat_Place_BaiMan3	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói trong Huyết Thủy có một loại cá, chỉ cần cần câu thuộc tính thổ mới có thể câu được, thật kỳ lạ.				
+Chat_Place_HeHuan	0	Nơi đây có những loài cá đặc biệt nào?	Gần đây có một loại cá vằn đỏ, cũng chỉ bị thu hút bởi vật phẩm thuộc tính hỏa.				
+Chat_Place_HeHuan1	0	Nơi đây có những loài cá đặc biệt nào?	Gần đây có một loại cá vằn đỏ, cũng chỉ bị thu hút bởi vật phẩm thuộc tính hỏa.				
+Chat_Place_HeHuan2	0	Nơi đây có những loài cá đặc biệt nào?	Gần đây có một loại cá vằn đỏ, cũng chỉ bị thu hút bởi vật phẩm thuộc tính hỏa.				
+Chat_Place_Snowfield1	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở Ngọc Tinh Đàm có một loại cá Hoàng, chỉ có thể câu được bằng cần câu thuộc tính thủy.				
+Chat_Place_Snowfield2	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở Ngọc Tinh Đàm có một loại cá Hoàng, chỉ có thể câu được bằng cần câu thuộc tính thủy.				
+Chat_Place_Snowfield3	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở Ngọc Tinh Đàm có một loại cá Hoàng, chỉ có thể câu được bằng cần câu thuộc tính thủy.				
+Chat_Place_BirthPlace11	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở đây có một loại cá đỏ và xanh, chỉ bị thu hút bởi vật phẩm thuộc tính thủy.				
+Chat_Place_BirthPlace12	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở đây có một loại cá đỏ và xanh, chỉ bị thu hút bởi vật phẩm thuộc tính thủy.				
+Chat_Place_BirthPlace13	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở đây có một loại cá đỏ và xanh, chỉ bị thu hút bởi vật phẩm thuộc tính thủy.				
+Chat_Place_BirthPlace14	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở đây có một loại cá đỏ và xanh, chỉ bị thu hút bởi vật phẩm thuộc tính thủy.				
+Chat_Place_BirthPlace15	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở đây có một loại cá đỏ và xanh, chỉ bị thu hút bởi vật phẩm thuộc tính thủy.				
+Chat_Place_BirthPlace16	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở đây có một loại cá đỏ và xanh, chỉ bị thu hút bởi vật phẩm thuộc tính thủy.				
+Chat_Place_KunLun	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở đây có một loại tôm nửa đỏ nửa không, chỉ ăn vật phẩm thuộc tính hỏa.				
+Chat_Place_KunLun1	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở đây có một loại tôm nửa đỏ nửa không, chỉ ăn vật phẩm thuộc tính hỏa.				
+Chat_Place_KunLun2	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở đây có một loại tôm nửa đỏ nửa không, chỉ ăn vật phẩm thuộc tính hỏa.				
+Chat_Place_KunLun2_1	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở đây có một loại tôm nửa đỏ nửa không, chỉ ăn vật phẩm thuộc tính hỏa.				
+Chat_Place_TianJi	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở đây có một loại tôm nửa đỏ nửa không, chỉ ăn vật phẩm thuộc tính hỏa.				
+Chat_Place_TianJi1	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở đây có một loại tôm nửa đỏ nửa không, chỉ ăn vật phẩm thuộc tính hỏa.				
+Chat_Place_TianJi2	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở đây có một loại tôm nửa đỏ nửa không, chỉ ăn vật phẩm thuộc tính hỏa.				
+Chat_Place_XianKong1	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở đây có một loại tôm nửa đỏ nửa không, chỉ ăn vật phẩm thuộc tính hỏa.				
+Chat_Place_XianKong	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở đây có một loại tôm nửa đỏ nửa không, chỉ ăn vật phẩm thuộc tính hỏa.				
+Chat_Place_BaiMan	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở đây có một loại tôm nửa đỏ nửa không, chỉ ăn vật phẩm thuộc tính hỏa.				
+Chat_Place_BaiMan1	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở đây có một loại tôm nửa đỏ nửa không, chỉ ăn vật phẩm thuộc tính hỏa.				
+Chat_Place_BaiMan2	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở đây có một loại tôm nửa đỏ nửa không, chỉ ăn vật phẩm thuộc tính hỏa.				
+Chat_Place_BaiMan3	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở đây có một loại tôm nửa đỏ nửa không, chỉ ăn vật phẩm thuộc tính hỏa.				
+Chat_Place_DanXia	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở Ngũ Long Trì có một loại tôm phát sáng, chỉ xuất hiện vào ban đêm.				
+Chat_Place_DanXia	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói gần đây có một loại tôm phát sáng, chỉ có vào mùa hè.				
+Chat_Place_DanXia	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói gần đây có một loại tôm phát sáng, chỉ ăn vật phẩm thuộc tính kim.				
+Chat_Place_DanXia1	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở Ngũ Long Trì có một loại tôm phát sáng, chỉ xuất hiện vào ban đêm.				
+Chat_Place_DanXia1	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói gần đây có một loại tôm phát sáng, chỉ có vào mùa hè.				
+Chat_Place_DanXia1	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói gần đây có một loại tôm phát sáng, chỉ ăn vật phẩm thuộc tính kim.				
+Chat_Place_DanXia2	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở Ngũ Long Trì có một loại tôm phát sáng, chỉ xuất hiện vào ban đêm.				
+Chat_Place_DanXia2	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói gần đây có một loại tôm phát sáng, chỉ có vào mùa hè.				
+Chat_Place_DanXia2	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói gần đây có một loại tôm phát sáng, chỉ ăn vật phẩm thuộc tính kim.				
+Chat_Place_DanXia3	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói ở Ngũ Long Trì có một loại tôm phát sáng, chỉ xuất hiện vào ban đêm.				
+Chat_Place_DanXia3	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói gần đây có một loại tôm phát sáng, chỉ có vào mùa hè.				
+Chat_Place_DanXia3	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói gần đây có một loại tôm phát sáng, chỉ ăn vật phẩm thuộc tính kim.				
+Chat_Place_SouthForest1	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói gần đây có một loại tôm màu hồng, chỉ xuất hiện vào mùa xuân.				
+Chat_Place_SouthForest2	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói gần đây có một loại tôm màu hồng, chỉ xuất hiện vào mùa xuân.				
+Chat_Place_SouthForest3	0	Nơi đây có những loài cá đặc biệt nào?	Nghe nói gần đây có một loại tôm màu hồng, chỉ xuất hiện vào mùa xuân.				
+
+

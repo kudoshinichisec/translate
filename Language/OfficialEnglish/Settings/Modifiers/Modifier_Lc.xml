@@ -1,0 +1,21 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LcForbidFabao">
+			<DisplayName>Cấm sử dụng pháp bảo</DisplayName>
+			<Desc>Bị phản phệ của Phù Long, không thể sử dụng pháp bảo.</Desc>
+		</Text>
+		<Text Name="LcForbidSkill">
+			<DisplayName>Cấm sử dụng thuật pháp</DisplayName>
+			<Desc>Bị ảnh hưởng bởi sự ngắt mạch của Huyền Phượng, không thể sử dụng thuật pháp.</Desc>
+		</Text>
+		<Text Name="LcConfuse">
+			<DisplayName>Mê hoặc</DisplayName>
+			<Desc>Mê hoặc</Desc>
+		</Text>
+		<Text Name="LcTrainEffect">
+			<DisplayName>Hiệu ứng huấn luyện thông thường</DisplayName>
+			<Desc>Hiệu ứng huấn luyện thông thường</Desc>
+		</Text>
+	</List>
+</Texts>
+

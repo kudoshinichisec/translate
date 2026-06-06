@@ -1,0 +1,11 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Talk_JiuHua">
+			<Submiss.0>Cứ chọn thoải mái, giá cả dễ nói.</Submiss.0>
+			<GiftLike.0>Thứ này với ta không tầm thường, ta rất thích.</GiftLike.0>
+			<LowValueGift.0>Ta không muốn bình luận gì.</LowValueGift.0>
+			<LowValueGift.1>(Nhìn ngươi) Đây là gì? Quà sao?</LowValueGift.1>
+		</Text>
+	</List>
+</Texts>
+

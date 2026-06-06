@@ -1,0 +1,13 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Rpg_Tower_0_Talk4">
+			<Nodes.0.Text>Lối vào.</Nodes.0.Text>
+			<Nodes.1.Text>Meo meo, không cái bẫy nào có thể bắt được ta~</Nodes.1.Text>
+			<Nodes.2.Text>Đưa ta đến tầng tiếp theo!</Nodes.2.Text>
+			<Nodes.3.Text>Vuốt ve.</Nodes.3.Text>
+			<Nodes.4.Text>Tạm biệt.</Nodes.4.Text>
+			<Nodes.6.Text>Meo meo~||Gừ gừ gừ~</Nodes.6.Text>
+		</Text>
+	</List>
+</Texts>
+

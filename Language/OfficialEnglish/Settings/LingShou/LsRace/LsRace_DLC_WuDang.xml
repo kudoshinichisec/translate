@@ -1,0 +1,21 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsXuanWu">
+			<PossibleMagic.0.DisplayName>Hóa Khí</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>Huyền Vũ có thể hấp thụ gấp đôi dinh dưỡng từ thức ăn và biến tạp chất thành Linh Thạch.</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>Tĩnh Tâm Nạp Khí</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Sử dụng lên một nhân vật đồng minh, giúp họ không cần ăn uống hay mệt mỏi trong ba ngày, nhưng tốc độ di chuyển chậm lại. \n[color=#FF0000]Cần trưởng thành đạt giai đoạn trưởng thành.[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.2.DisplayName>Đạo Ý Tề Thiên</PossibleMagic.2.DisplayName>
+			<PossibleMagic.2.Desc>Trì hoãn Thiên Kiếp Hóa Hình của một nhân vật đồng minh, nhưng phải tiêu hao thọ nguyên của họ. \n[color=#FF0000]Cần đạt Linh Trí 50.[/color]</PossibleMagic.2.Desc>
+			<PossibleMagic.3.DisplayName>Linh Thổ Tiên Thiên</PossibleMagic.3.DisplayName>
+			<PossibleMagic.3.Desc>Hy sinh sự phát triển và dinh dưỡng của bản thân để biến một khu vực thành Linh Thổ, nhưng khu vực xung quanh sẽ trở thành nước thường. \n[color=#FF0000]Cần đạt Linh Khí 100.[/color]</PossibleMagic.3.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]Cần khuynh hướng Linh Sát đạt Linh Tính Mờ Nhạt.[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Cần khuynh hướng Linh Sát đạt Sát Tính Mờ Nhạt.[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]Cần khuynh hướng Linh Sát đạt Linh Tính Dồi Dào.[/color]</PossibleSkill.2.Desc>
+			<PossibleSkill.3.Desc>[color=#FF0000]Cần khuynh hướng Linh Sát đạt Sát Tính Cô Đọng.[/color]</PossibleSkill.3.Desc>
+			<PossibleSkill.4.Desc>[color=#FF0000]Cần khuynh hướng Linh Sát đạt Linh Tính Tràn Đầy.[/color]</PossibleSkill.4.Desc>
+			<PossibleSkill.5.Desc>[color=#FF0000]Cần khuynh hướng Linh Sát đạt Sát Tính Lạnh Lẽo.[/color]</PossibleSkill.5.Desc>
+		</Text>
+	</List>
+</Texts>
+

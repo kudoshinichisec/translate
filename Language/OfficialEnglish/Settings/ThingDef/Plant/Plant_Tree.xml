@@ -1,0 +1,54 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="TreePoplar" sParam="Plant">
+			<ThingName>Cây bạch dương</ThingName>
+			<Desc>Loại cây mọc nhanh, gỗ mịn và ổn định, là nguồn nguyên liệu gỗ chất lượng cao.</Desc>
+		</Text>
+		<Text Name="TreePine" sParam="Plant">
+			<ThingName>Cây thông</ThingName>
+			<Desc>Loại cây mọc chậm, dáng đứng thẳng, gỗ cứng cáp.</Desc>
+		</Text>
+		<Text Name="TreePine_Big" sParam="Plant">
+			<ThingName>Cây thông lớn</ThingName>
+			<Desc>Cây thông lâu năm.</Desc>
+		</Text>
+		<Text Name="TreePear" sParam="Plant">
+			<ThingName>Cây lê</ThingName>
+			<Desc>Loại cây ăn quả phổ biến, gỗ mịn nhưng không bền, năng suất thấp.</Desc>
+		</Text>
+		<Text Name="TreeGinkgo" sParam="Plant">
+			<ThingName>Cây ngân hạnh</ThingName>
+			<Desc>Một loại cây thân gỗ mọc chậm, có linh tính, quả có thể ăn no và có giá trị y học đáng kể.</Desc>
+		</Text>
+		<Text Name="TreeGinkgo_Big" sParam="Plant">
+			<ThingName>Cây ngân hạnh lớn</ThingName>
+			<Desc>Cây ngân hạnh lâu năm, to lớn và đầy linh khí.</Desc>
+		</Text>
+		<Text Name="TreeGinkgo_Dead" sParam="Plant">
+			<ThingName>Cây ngô đồng khô</ThingName>
+			<Desc>Một cây ngô đồng đã chết khô, nhưng vẫn vô cùng cao lớn.</Desc>
+		</Text>
+		<Text Name="PintuBase" sParam="Plant">
+			<ThingName>Dành riêng cho ghép hình</ThingName>
+		</Text>
+		<Text Name="TreePeach" sParam="Plant">
+			<ThingName>Cây đào</ThingName>
+			<Desc>Cây hoa đào</Desc>
+			<StoryBnts.0.Name>Lấy mẫu</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử thu thập mẫu vật của cảnh quan này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="TreeJade" sParam="Plant">
+			<ThingName>Cây ngọc</ThingName>
+			<Desc>Cây ngọc</Desc>
+			<StoryBnts.0.Name>Lấy mẫu</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử thu thập mẫu vật của cảnh quan này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="TreeBone" sParam="Plant">
+			<ThingName>Sát Thần Mộc</ThingName>
+			<Desc>Sát Thần Mộc</Desc>
+			<StoryBnts.0.Name>Lấy mẫu</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử thu thập mẫu vật của cảnh quan này</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>
+

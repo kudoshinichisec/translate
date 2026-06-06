@@ -1,0 +1,80 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="JobPracticeFeeling">
+			<DisplayName>Cảm ngộ</DisplayName>
+		</Text>
+		<Text Name="JobPractice">
+			<DisplayName>Tu luyện</DisplayName>
+		</Text>
+		<Text Name="JobBrokenNeck">
+			<DisplayName>Đột phá</DisplayName>
+		</Text>
+		<Text Name="JobPracticeSkill">
+			<DisplayName>Luyện tập</DisplayName>
+		</Text>
+		<Text Name="JobReceiveApprentice">
+			<DisplayName>Nhận đệ tử</DisplayName>
+		</Text>
+		<Text Name="JobBuildBody">
+			<DisplayName>Rèn luyện cơ thể</DisplayName>
+		</Text>
+		<Text Name="JobRobBody">
+			<DisplayName>Cướp đoạt</DisplayName>
+		</Text>
+		<Text Name="JobAbsorbLing">
+			<DisplayName>Hấp thụ linh khí</DisplayName>
+		</Text>
+		<Text Name="JobRefiningFabao">
+			<DisplayName>Luyện chế pháp bảo</DisplayName>
+		</Text>
+		<Text Name="JobPaintCharm">
+			<DisplayName>Vẽ bùa chú</DisplayName>
+		</Text>
+		<Text Name="JobTeachHim">
+			<DisplayName>Truyền dạy bí kíp</DisplayName>
+		</Text>
+		<Text Name="JobLeave2Explore">
+			<DisplayName>Luyện tập</DisplayName>
+		</Text>
+		<Text Name="JobMasterHelp">
+			<DisplayName>Hộ pháp</DisplayName>
+		</Text>
+		<Text Name="JobFeelEsoterica">
+			<DisplayName>Lĩnh ngộ bí kíp</DisplayName>
+		</Text>
+		<Text Name="JobAbsorbGong">
+			<DisplayName>Thu nhận tu vi</DisplayName>
+		</Text>
+		<Text Name="JobMelting">
+			<DisplayName>Nấu chảy</DisplayName>
+		</Text>
+		<Text Name="JobEatPracticeFood">
+			<DisplayName>Sử dụng</DisplayName>
+		</Text>
+		<Text Name="JobJiangdao">
+			<DisplayName>Giảng đạo</DisplayName>
+		</Text>
+		<Text Name="JobMagicNormal">
+			<DisplayName>Thần thông phổ thông</DisplayName>
+		</Text>
+		<Text Name="JobGodPractice">
+			<DisplayName>Cân bằng</DisplayName>
+		</Text>
+		<Text Name="JobCangJingGe">
+			<DisplayName>Tàng Kinh Các</DisplayName>
+		</Text>
+		<Text Name="JobGodPractice_Renunciation">
+			<DisplayName>Khắc kỷ</DisplayName>
+		</Text>
+		<Text Name="JobBodyPractice">
+			<DisplayName>Ta thể</DisplayName>
+		</Text>
+		<Text Name="JobToHumanThunder">
+			<DisplayName>Thiên kiếp hóa hình</DisplayName>
+		</Text>
+		<Text Name="JobBodyTuna">
+			<DisplayName>Phương pháp hô hấp</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

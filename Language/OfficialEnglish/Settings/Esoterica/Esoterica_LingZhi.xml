@@ -1,0 +1,55 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Esoterica_LingZhi_MiFa_Ling_Jin">
+			<DisplayName>Bản Nguyên Chân Pháp-Lang Nha Điển</DisplayName>
+			<Desc>Bí điển ngộ đạo thông qua việc sử dụng linh tính của linh căn trời đất làm môi giới để nhìn thấu đại đạo ngũ hành. Cái gọi là "Đạo khả đạo, phi thường đạo", đây là cảm ngộ mà người tu hành đối diện trực tiếp với đại đạo mà sinh ra, vì vậy rất khó truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm đáng kể đạo hạnh\nNgộ ý chân thực của ngự kiếm, đột phá giới hạn kỹ năng ngự kiếm lên cấp 5.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Ling_Mu">
+			<DisplayName>Bản Nguyên Chân Pháp-Khô Vinh Kinh</DisplayName>
+			<Desc>Bí điển ngộ đạo thông qua việc sử dụng linh tính của linh căn trời đất làm môi giới để nhìn thấu đại đạo ngũ hành. Cái gọi là "Đạo khả đạo, phi thường đạo", đây là cảm ngộ mà người tu hành đối diện trực tiếp với đại đạo mà sinh ra, vì vậy rất khó truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm đáng kể đạo hạnh\nGiảm đáng kể tốc độ hao mòn thọ nguyên[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Ling_Shui">
+			<DisplayName>Bản Nguyên Chân Pháp-Thanh Liên Thư</DisplayName>
+			<Desc>Bí điển ngộ đạo thông qua việc sử dụng linh tính của linh căn trời đất làm môi giới để nhìn thấu đại đạo ngũ hành. Cái gọi là "Đạo khả đạo, phi thường đạo", đây là cảm ngộ mà người tu hành đối diện trực tiếp với đại đạo mà sinh ra, vì vậy rất khó truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm đáng kể đạo hạnh\nTăng đáng kể tỷ lệ chuyển hóa tinh nguyên[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Ling_Huo">
+			<DisplayName>Bản Nguyên Chân Pháp-Minh Di Lục</DisplayName>
+			<Desc>Bí điển ngộ đạo thông qua việc sử dụng linh tính của linh căn trời đất làm môi giới để nhìn thấu đại đạo ngũ hành. Cái gọi là "Đạo khả đạo, phi thường đạo", đây là cảm ngộ mà người tu hành đối diện trực tiếp với đại đạo mà sinh ra, vì vậy rất khó truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm đáng kể đạo hạnh\nNgộ ý chân thực của thuật pháp, đột phá giới hạn kỹ năng thuật pháp lên cấp 5.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Ling_Tu">
+			<DisplayName>Bản Nguyên Chân Pháp-Uẩn Long Quyết</DisplayName>
+			<Desc>Bí điển ngộ đạo thông qua việc sử dụng linh tính của linh căn trời đất làm môi giới để nhìn thấu đại đạo ngũ hành. Cái gọi là "Đạo khả đạo, phi thường đạo", đây là cảm ngộ mà người tu hành đối diện trực tiếp với đại đạo mà sinh ra, vì vậy rất khó truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm đáng kể đạo hạnh\nTăng đáng kể hiệu suất hấp thụ khí[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Sha_Jin">
+			<DisplayName>Nghịch Nguyên Chân Pháp-Vô Vọng Tâm Ma Chú</DisplayName>
+			<Desc>Bí điển ngộ đạo thông qua việc sử dụng sát tính của linh căn trời đất làm môi giới để nhìn thấu đại đạo ngũ hành. Cái gọi là "Đạo khả đạo, phi thường đạo", đây là cảm ngộ mà người tu hành đối diện trực tiếp với đại đạo mà sinh ra, vì vậy rất khó truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể thiên phạt\nTăng đáng kể tiềm năng\nThần thức tăng gấp đôi[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Sha_Mu">
+			<DisplayName>Nghịch Nguyên Chân Pháp-Đại Quá Kinh</DisplayName>
+			<Desc>Bí điển ngộ đạo thông qua việc sử dụng sát tính của linh căn trời đất làm môi giới để nhìn thấu đại đạo ngũ hành. Cái gọi là "Đạo khả đạo, phi thường đạo", đây là cảm ngộ mà người tu hành đối diện trực tiếp với đại đạo mà sinh ra, vì vậy rất khó truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể thiên phạt\nNgộ ý chân thực của luyện khí, đột phá giới hạn kỹ năng luyện khí lên cấp 5.\nGân cốt tăng gấp đôi[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Sha_Shui">
+			<DisplayName>Nghịch Nguyên Chân Pháp-Vị Tế Thất Tuyệt Thể</DisplayName>
+			<Desc>Bí điển ngộ đạo thông qua việc sử dụng sát tính của linh căn trời đất làm môi giới để nhìn thấu đại đạo ngũ hành. Cái gọi là "Đạo khả đạo, phi thường đạo", đây là cảm ngộ mà người tu hành đối diện trực tiếp với đại đạo mà sinh ra, vì vậy rất khó truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể thiên phạt\nTăng đáng kể tốc độ tiêu thụ thực phẩm\nQuyến rũ tăng gấp đôi[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Sha_Huo">
+			<DisplayName>Nghịch Nguyên Chân Pháp-Cách Thiên Lục</DisplayName>
+			<Desc>Bí điển ngộ đạo thông qua việc sử dụng sát tính của linh căn trời đất làm môi giới để nhìn thấu đại đạo ngũ hành. Cái gọi là "Đạo khả đạo, phi thường đạo", đây là cảm ngộ mà người tu hành đối diện trực tiếp với đại đạo mà sinh ra, vì vậy rất khó truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể thiên phạt\nNgộ ý chân thực của luyện đan, đột phá giới hạn kỹ năng luyện đan lên cấp 5.\nNgộ tính tăng gấp đôi[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Sha_Tu">
+			<DisplayName>Nghịch Nguyên Chân Pháp-Phủ Cực Vô Cữu Thư</DisplayName>
+			<Desc>Bí điển ngộ đạo thông qua việc sử dụng sát tính của linh căn trời đất làm môi giới để nhìn thấu đại đạo ngũ hành. Cái gọi là "Đạo khả đạo, phi thường đạo", đây là cảm ngộ mà người tu hành đối diện trực tiếp với đại đạo mà sinh ra, vì vậy rất khó truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng cường mạnh Thiên Khiển\nLĩnh ngộ chân ý Hộ Thể, đột phá giới hạn kỹ năng Hộ Thể lên cấp 5.\nCơ duyên tăng gấp đôi[/color][/size]</EffectDesc>
+		</Text>
+	</List>
+</Texts>
+

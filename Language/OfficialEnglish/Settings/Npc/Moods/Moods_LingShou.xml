@@ -1,0 +1,30 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsHelpPlayHappy">
+			<DisplayName>Rất vui vẻ.</DisplayName>
+			<Desc>Chơi đùa với linh thú, cả ngày đều có tâm trạng tốt.</Desc>
+			<StoryDesc>Đang vui vẻ ngân nga một khúc nhạc.</StoryDesc>
+		</Text>
+		<Text Name="BiteHappy">
+			<DisplayName>Vui vẻ</DisplayName>
+			<Desc>Bị linh thú cắn nhẹ một cái, có cảm giác được yêu thương.</Desc>
+			<StoryDesc>Không đau lắm, hơi ngứa.</StoryDesc>
+		</Text>
+		<Text Name="BiteSad">
+			<DisplayName>Không vui.</DisplayName>
+			<Desc>Bị linh thú đánh mạnh một cái, rất đau, nó dường như không thích ta lắm.</Desc>
+			<StoryDesc>Không vui.</StoryDesc>
+		</Text>
+		<Text Name="PetHeal">
+			<DisplayName>Linh thú đồng hành.</DisplayName>
+			<Desc>Linh thú đồng hành, tâm trạng tốt lên rất nhiều.</Desc>
+			<StoryDesc>Không vui.</StoryDesc>
+		</Text>
+		<Text Name="PetStay">
+			<DisplayName>Linh thú đồng hành.</DisplayName>
+			<Desc>Linh thú đồng hành, tâm trạng tốt lên rất nhiều.</Desc>
+			<StoryDesc>Không vui.</StoryDesc>
+		</Text>
+	</List>
+</Texts>
+

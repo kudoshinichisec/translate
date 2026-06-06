@@ -1,0 +1,30 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Panda_NormalAttack" sParam="Item">
+			<ThingName>Tấn công Mạc</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Cào móng</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Cào móng</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Cào móng</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Va chạm</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYPanda_NormalAttack" sParam="Item">
+			<ThingName>Chưởng bay Mạc</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Địa Sát Yêu Lôi</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Địa Sát Yêu Lôi</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Địa Sát Yêu Lôi</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+		<Text Name="LsPanda1_NormalAttack" sParam="Item">
+			<ThingName>Nội đan Thiên Mạc</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Dị Lôi Chí Dương</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Dị Lôi Chí Dương</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Dị Lôi Chí Dương</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+		<Text Name="LsPanda2_NormalAttack" sParam="Item">
+			<ThingName>Nội đan Thiên Mạc</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Dị Lôi Chí Âm</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Dị Lôi Chí Âm</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Dị Lôi Chí Âm</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+	</List>
+</Texts>
+

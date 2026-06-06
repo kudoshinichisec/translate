@@ -1,0 +1,93 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="YaoGuai_Experiences0">
+			<DisplayName>Yêu thú thông linh</DisplayName>
+			<Desc>      Ngươi vốn là một con dã thú trong núi của Thái Nhất Môn, nhờ linh khí nơi động thiên phúc địa ngày đêm hun đúc mà dần dần sinh ra ý thức. Trong đêm diệt môn, khi mối đe dọa sinh tử cận kề, ngươi cuối cùng đã tự mình bước ra bước cuối cùng, thức tỉnh linh trí, bán hóa hình thành yêu.</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences1">
+			<DisplayName>Thái Hòa truyền thừa</DisplayName>
+			<Desc>Vị trưởng lão Thái Nhất Môn trọng thương hấp hối đó xuất thân từ Thái Hòa Phong. Trong ký ức truyền cho ngươi có chứa một phần chân pháp ngũ hành của Thái Nhất Môn-"Thái Hòa Thập Lục Động Thiên".</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences2">
+			<DisplayName>Bắc Đẩu truyền thừa</DisplayName>
+			<Desc>Vị trưởng lão Thái Nhất Môn trọng thương hấp hối đó xuất thân từ Bắc Đẩu Phong. Trong ký ức truyền cho ngươi có chứa một phần chân pháp ngũ hành của Thái Nhất Môn-"Bắc Đẩu Động Tâm Kiếp Pháp".</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences3">
+			<DisplayName>Luân Hồi truyền thừa</DisplayName>
+			<Desc>Vị trưởng lão Thái Nhất Môn trọng thương hấp hối đó xuất thân từ Luân Hồi Phong. Trong ký ức truyền cho ngươi có chứa một phần chân pháp ngũ hành của Thái Nhất Môn-"Trường Sinh Lục Đạo Luân Hồi Kinh".</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences4">
+			<DisplayName>Tam Dương truyền thừa</DisplayName>
+			<Desc>Vị trưởng lão Thái Nhất Môn trọng thương hấp hối đó xuất thân từ Tam Dương Phong. Trong ký ức truyền cho ngươi có chứa một phần chân pháp ngũ hành của Thái Nhất Môn-"Tam Dương Tam Muội Bính Đinh Luyện Hỏa Quyết".</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences5">
+			<DisplayName>Quỳ Hoa truyền thừa</DisplayName>
+			<Desc>Vị trưởng lão Thái Nhất Môn trọng thương hấp hối đó xuất thân từ Quỳ Hoa Phong. Trong ký ức truyền cho ngươi có chứa một phần chân pháp ngũ hành của Thái Nhất Môn-"Quỳ Hoa Luyện Thần Đại Pháp".</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences6">
+			<DisplayName>Luyện thể truyền thừa</DisplayName>
+			<Desc>Vị trưởng lão Thái Nhất Môn trọng thương hấp hối đó tinh thông các truyền thừa cổ đại. Khi thấy ngươi thức tỉnh bằng yêu thân, ông ta đã truyền cho ngươi một công pháp luyện thể thời thượng cổ-"Thái Cổ Hình Ý Lục Hợp Chân Thể".</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences23">
+			<DisplayName>Khí lư cơ duyên</DisplayName>
+			<Desc>Trong đêm diệt môn, trên đường đào thoát, ngươi đi ngang qua khí lư. Bị ảnh hưởng bởi ký ức được truyền, ngươi bản năng cảm thấy nơi này có thể có thứ gì đó quan trọng, liều mình lẻn vào, mang theo vài món pháp bảo quý giá.</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences24">
+			<DisplayName>Dược lư cơ duyên</DisplayName>
+			<Desc>Trong đêm diệt môn, trên đường đào thoát, ngươi đi ngang qua dược lư. Bị ảnh hưởng bởi ký ức được truyền, ngươi bản năng cảm thấy nơi này có thể có thứ gì đó quan trọng, liều mình lẻn vào, mang theo vài bình đan dược quý giá.</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences25">
+			<DisplayName>Kinh lầu cơ duyên</DisplayName>
+			<Desc>Trong đêm diệt môn, trên đường đào thoát, ngươi đi ngang qua tàng kinh các. Bị ảnh hưởng bởi ký ức được truyền, ngươi bản năng cảm thấy nơi này có thể có thứ gì đó quan trọng, liều mình lẻn vào, mang theo vài cuốn bí tịch quý giá.</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences26">
+			<DisplayName>Phù lục cơ duyên</DisplayName>
+			<Desc>Trong đêm diệt môn, trên đường đào thoát, ngươi đi ngang qua Vân Lục Phòng. Bị ảnh hưởng bởi ký ức được truyền, ngươi bản năng cảm thấy nơi này có thể có thứ gì đó quan trọng, liều mình lẻn vào, mang theo vài cuốn bí tịch quý giá và một số phù lục quý giá.</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences31">
+			<DisplayName>Một lòng đào thoát</DisplayName>
+			<Desc>Trong đêm diệt môn, ngươi tập trung toàn bộ tâm trí vào việc đào thoát, cố gắng tránh xa mọi sinh linh còn sống, cuối cùng một mình thoát khỏi Thái Nhất Môn.</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences27">
+			<DisplayName>Tình cờ gặp đồng môn</DisplayName>
+			<Desc>Trong đêm diệt môn, sau khi nhận truyền thừa ký ức từ trưởng lão và tự coi mình là đệ tử Thái Nhất Môn, ngươi tình cờ gặp một đồng môn Thái Nhất Môn bất tỉnh sau khi thoát khỏi hiểm địa. Ngươi quyết định mang theo người này cùng hành động.</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences29">
+			<DisplayName>Nhiệt tình cứu người</DisplayName>
+			<Desc>Trong đêm diệt môn, sau khi nhận truyền thừa ký ức từ trưởng lão và tự coi mình là đệ tử Thái Nhất Môn, ngươi lần lượt tìm thấy một vài đồng môn Thái Nhất Môn mất ý thức. Ngươi quyết định mang theo họ cùng hành động.</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences30">
+			<DisplayName>Một lòng cứu người</DisplayName>
+			<Desc>Trong đêm diệt môn, sau khi nhận truyền thừa ký ức từ trưởng lão và tự coi mình là đệ tử Thái Nhất Môn, ngươi tìm thấy nhiều đồng môn Thái Nhất Môn mất ý thức. Ngươi quyết định mang theo họ cùng hành động.</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences8">
+			<DisplayName>Dự trữ lương thực</DisplayName>
+			<Desc>Trên đường đào thoát, bị bản năng động vật thúc đẩy, ngươi đã thu thập được nhiều loại thực phẩm làm dự trữ, thậm chí vì điều này mà giết vài con rắn và một con gấu.</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences9">
+			<DisplayName>Linh cảm yêu thú</DisplayName>
+			<Desc>Trên đường đào thoát, với bản năng nhạy bén của động vật còn sót lại, ngươi đã thu thập được một số bảo vật rơi rải rác ở vùng ngoại vi chiến trường.</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences11">
+			<DisplayName>Linh tính tương hợp</DisplayName>
+			<Desc>Trên đường đào thoát, có lẽ vì cảm nhận được linh trí nguyên thủy và thuần khiết của ngươi, một viên Tạo Hóa Thần Đan trong môn phái vốn đã thông linh nhưng luôn ẩn mình đã chủ động rơi vào lòng ngươi, cùng ngươi thoát khỏi tuyệt địa.</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences14">
+			<DisplayName>Di vật dược lư</DisplayName>
+			<Desc>Trên đường đào thoát, ngươi gặp một đệ tử dược lư trốn thoát nhưng không may trọng thương qua đời. Ngươi rơi lệ nhận lấy di vật của người đó.</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences15">
+			<DisplayName>Di vật khí lư</DisplayName>
+			<Desc>Trên đường đào thoát, ngươi gặp một đệ tử khí lư trốn thoát nhưng không may trọng thương qua đời. Ngươi rơi lệ nhận lấy di vật của người đó.</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences16">
+			<DisplayName>Di vật ngoại sự</DisplayName>
+			<Desc>Trên đường đào thoát, ngươi gặp một đệ tử ngoại sự đường trốn thoát nhưng không may trọng thương qua đời. Ngươi rơi lệ nhận lấy di vật của người đó.</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences17">
+			<DisplayName>Di vật kinh lầu</DisplayName>
+			<Desc>Trên đường đào thoát, ngươi gặp một đệ tử tàng kinh các trốn thoát nhưng không may trọng thương qua đời. Ngươi rơi lệ nhận lấy di vật của người đó.</Desc>
+		</Text>
+	</List>
+</Texts>
+

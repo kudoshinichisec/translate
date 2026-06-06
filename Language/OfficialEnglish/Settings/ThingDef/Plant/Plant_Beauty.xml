@@ -1,0 +1,45 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Dandelion" sParam="Plant">
+			<ThingName>Bồ công anh</ThingName>
+			<Desc>Một bông hoa nhỏ xinh đẹp.</Desc>
+		</Text>
+		<Text Name="Flower1" sParam="Plant">
+			<ThingName>Xuân Hi Thảo</ThingName>
+			<Desc>Một loại thực vật đẹp, nhìn khá bắt mắt, mang thuộc tính mộc yếu ớt.</Desc>
+		</Text>
+		<Text Name="IceFlower1" sParam="Plant">
+			<ThingName>Hoa băng</ThingName>
+			<Desc>Một loại thực vật đẹp, nhìn khá bắt mắt, mang thuộc tính mộc yếu ớt.</Desc>
+		</Text>
+		<Text Name="Flower2" sParam="Plant">
+			<ThingName>Hoa Kim Hà</ThingName>
+			<Desc>Một loại thực vật đẹp, nhìn khá bắt mắt, mang thuộc tính kim yếu ớt.</Desc>
+		</Text>
+		<Text Name="Flower3" sParam="Plant">
+			<ThingName>Xích Nhiễm Hương</ThingName>
+			<Desc>Một loại thực vật đẹp, nhìn khá bắt mắt, mang thuộc tính hỏa yếu ớt.</Desc>
+		</Text>
+		<Text Name="Flower4" sParam="Plant">
+			<ThingName>Thủy Lam Tiên</ThingName>
+			<Desc>Một loại thực vật đẹp, nhìn khá bắt mắt, mang thuộc tính thủy yếu ớt.</Desc>
+		</Text>
+		<Text Name="Flower5" sParam="Plant">
+			<ThingName>Hoa Trầm Yên</ThingName>
+			<Desc>Một loại thực vật đẹp, nhìn khá bắt mắt, mang thuộc tính thổ yếu ớt.</Desc>
+		</Text>
+		<Text Name="ShiChe" sParam="Plant">
+			<ThingName>Hoa cúc xanh</ThingName>
+			<Desc>Một loại thực vật đẹp, mọc ở sa mạc.</Desc>
+		</Text>
+		<Text Name="CongRong" sParam="Plant">
+			<ThingName>Cây tầm gửi</ThingName>
+			<Desc>Một loại thực vật đẹp, mọc ở sa mạc.</Desc>
+		</Text>
+		<Text Name="CamelSting" sParam="Plant">
+			<ThingName>Cây lạc đà</ThingName>
+			<Desc>Một loại thực vật đẹp, mọc ở sa mạc.</Desc>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,26 @@
+Đan Hà Động Thiên Nam,m Đan Nhất,f Đan Nhị,f Đan Tam
+Đan Hà Động Thiên Nữ,f Đan Nhất,f Đan Nhị,f Đan Tam
+Côn Lôn Cung Nam,m Côn Nhất,f Côn Nhị,f Côn Tam
+Côn Lôn Cung Nữ,f Côn Nhất,f Côn Nhị,f Côn Tam
+Cực Thiên Cung Nam,m Cực Nhất,f Cực Nhị,f Cực Tam
+Cực Thiên Cung Nữ,f Cực Nhất,f Cực Nhị,f Cực Tam
+Tử Tiêu Tông Nam,m Tử Nhất,f Tử Nhị,f Tử Tam
+Tử Tiêu Tông Nữ,f Tử Nhất,f Tử Nhị,f Tử Tam
+Huyền Nhất Đạo Nam,m Chính Nhất,f Chính Nhị,f Chính Tam
+Huyền Nhất Đạo Nữ,f Chính Nhất,f Chính Nhị,f Chính Tam
+Thanh Liên Kiếm Tông Nam,m Thanh Nhất,f Thanh Nhị,f Thanh Tam
+Thanh Liên Kiếm Tông Nữ,f Thanh Nhất,f Thanh Nhị,f Thanh Tam
+Tê Hà Động Thiên Nam,m Tê Nhất,f Tê Nhị,f Tê Tam
+Tê Hà Động Thiên Nữ,f Tê Nhất,f Tê Nhị,f Tê Tam
+Bách Man Sơn Nam,m Bách Nhất,f Bách Nhị,f Bách Tam
+Bách Man Sơn Nữ,f Bách Nhất,f Bách Nhị,f Bách Tam
+Thất Thiên Ổ Nam,m Thất Nhất,f Thất Nhị,f Thất Tam
+Thất Thiên Ổ Nữ,f Thất Nhất,f Thất Nhị,f Thất Tam
+Thất Sát Ma Cung Nam,m Thất Nhất,f Thất Nhị,f Thất Tam
+Thất Sát Ma Cung Nữ,f Thất Nhất,f Thất Nhị,f Thất Tam
+Hợp Hoan Phái Nam,m Hợp Nhất,f Hợp Nhị,f Hợp Tam
+Hợp Hoan Phái Nữ,f Hợp Nhất,f Hợp Nhị,f Hợp Tam
+Vạn Yêu Điện Nam,m Vạn Nhất,f Vạn Nhị,f Vạn Tam
+Vạn Yêu Điện Nữ,f Vạn Nhất,f Vạn Nhị,f Vạn Tam
+
+

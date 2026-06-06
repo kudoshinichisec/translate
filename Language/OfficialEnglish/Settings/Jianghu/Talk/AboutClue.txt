@@ -1,0 +1,11 @@
+Tag	TargetType	Q	MA	SA	FA	fParam	sParam
+类型标签	0是目标不论仙凡1是目标为凡人2是目标为仙人3是目标为仙人且我比其境界高4是目标为仙人且我比其境界低4是目标为仙人且我与其境界一样	问题	无成功失败/中性回答	成功回答	失败回答	数值参数	文本参数
+AboutClue_KnowClue	0	[NAME] đã hỏi một cách gián tiếp về manh mối liên quan đến [TXT].	Ừm, ngươi đã nói rồi.	Ngươi cũng biết chuyện này sao? Chuyện này nói ra thì dài lắm...	Ta không biết Ngươi đang nói gì.		
+AboutClue_KnowSecrect	0	[NAME] đã hỏi một cách gián tiếp về manh mối liên quan đến [TXT].	Ừm, ngươi đã nói rồi.	Ta... Ta chẳng biết gì cả!	Ta không biết Ngươi đang nói gì.		
+AboutClue_KnowOther	0	[NAME] đã hỏi một cách gián tiếp về manh mối liên quan đến [TXT].	Ừm, ngươi đã nói rồi.	Ôi? Thật ra Ta chưa từng nghe qua, nhưng ai mà không có chút bí mật chứ?	Ôi? Nghe có vẻ kỳ quái đấy, chỉ cần Ngươi vui là được.		
+AboutClue_KnowNothing	0	[NAME] đã hỏi một cách gián tiếp về manh mối liên quan đến [TXT].	Ô ô, ta đã biết rồi.	Còn có chuyện như vậy! Hôm nay nhờ Ngươi mà Ta đã mở mang tầm mắt.	Làm sao có chuyện như vậy? Ta thật sự không tin, Ngươi chắc chắn đã nghĩ quá nhiều.		
+AboutSecret_KnowClue	0	Ngươi có biết gì về [TXT] không?	Ừm, ngươi đã nói rồi.	Ta... Ta chẳng biết gì cả!	Ta không biết Ngươi đang nói gì.		
+AboutSecret_KnowOther	0	Ngươi biết về [TXT] chứ?	Ừm, ngươi đã nói rồi.	Ôi? Thật ra Ta chưa từng nghe qua, nhưng ai mà không có chút bí mật chứ?	Ôi? Nghe có vẻ kỳ quái đấy, chỉ cần Ngươi vui là được.		
+AboutSecret_KnowNothing	0	Có một bí mật về [TXT]!	Ô ô, ta đã biết rồi.	Còn có chuyện như vậy! Hôm nay nhờ Ngươi mà Ta đã mở mang tầm mắt.	Làm sao có chuyện như vậy? Ta thật sự không tin, Ngươi chắc chắn đã nghĩ quá nhiều.		
+
+

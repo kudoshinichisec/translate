@@ -1,0 +1,18 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Body_Gong_3">
+			<DisplayName>Yêu Tổ Thánh Thể</DisplayName>
+			<Desc>Tương truyền là thuật luyện thể do Yêu Tổ truyền dạy. Pháp này cực kỳ sở trường trong việc luyện tạng, cho rằng trong ngũ tạng lục phủ của chúng sinh ẩn chứa vô số bảo tàng, khai thác được huyền diệu trong đó sẽ có thể thân thể thành thánh, phá vỡ hư không. Cần lưu ý, công pháp này bao gồm nhiều loại thể bí dành riêng cho các chủng tộc yêu, do cấu trúc cơ thể khác biệt, rất khó phát huy sức mạnh của pháp này.</Desc>
+			<SelectDesc>Bước lên con đường tu luyện thân thể đồng nghĩa với việc hợp nhất hoàn toàn tinh khí thần, tuyệt duyên với linh khí, không thể sử dụng bất kỳ vật huyền diệu nào, từ đó hành tẩu thiên địa chỉ dựa vào thân thể. Có chắc chắn muốn đi con đường này không?</SelectDesc>
+			<Stages.0.DisplayName>Tẩy Thể Kỳ</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Huyết Nhục Tân Sinh</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Tẩy Tủy Kỳ</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Tẩy Tủy Hoán Cốt</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Thoát Thai Kỳ</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Nội Ngoại Hợp Nhất</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Hỗn Nguyên Kỳ</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Thiên Hình</Stages.3.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>
+

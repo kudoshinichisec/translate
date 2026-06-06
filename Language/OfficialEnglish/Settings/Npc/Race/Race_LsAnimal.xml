@@ -1,0 +1,29 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsDog">
+			<DisplayName>Thần khuyển Hoa Quyển</DisplayName>
+			<Desc>Thần khuyển Hoa Quyển là loài sinh vật kỳ lạ tự nhiên sinh ra trong trời đất, là sự hiện thân của một quy tắc nào đó.</Desc>
+			<TalkBefore>Gâu gâu,</TalkBefore>
+			<TalkAfter>, Gâu!</TalkAfter>
+		</Text>
+		<Text Name="LsFox">
+			<DisplayName>Linh Hồ Tần Mộ Tuyết</DisplayName>
+			<Desc>Linh Hồ Tần Mộ Tuyết là loài sinh vật kỳ lạ tự nhiên sinh ra trong trời đất, là sự hiện thân của một quy tắc nào đó.</Desc>
+			<TalkBefore>U u,</TalkBefore>
+			<TalkAfter>, U!</TalkAfter>
+		</Text>
+		<Text Name="LsDragon">
+			<DisplayName>Phù Long Trường Hải</DisplayName>
+			<Desc>Phù Long Trường Hải là loài sinh vật kỳ lạ tự nhiên sinh ra trong trời đất, là sự hiện thân của một quy tắc nào đó.</Desc>
+			<TalkBefore>Gầm gầm,</TalkBefore>
+			<TalkAfter>，Gầm!</TalkAfter>
+		</Text>
+		<Text Name="LsPhoenix">
+			<DisplayName>Huyền Phượng Dã Minh</DisplayName>
+			<Desc>Huyền Phượng Dã Minh là loài sinh vật kỳ lạ tự nhiên sinh ra trong trời đất, là sự hiện thân của một quy tắc nào đó.</Desc>
+			<TalkBefore>Chít chít,</TalkBefore>
+			<TalkAfter>, Chít!</TalkAfter>
+		</Text>
+	</List>
+</Texts>
+

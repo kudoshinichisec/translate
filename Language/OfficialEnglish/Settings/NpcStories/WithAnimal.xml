@@ -1,0 +1,66 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Animal_EatLikeFood">
+			<Events.0.Story>[name] phát hiện [hename] đang ăn rất vui vẻ.</Events.0.Story>
+		</Text>
+		<Text Name="Animal_EatDisLikeFood">
+			<Events.0.Story>[name] phát hiện [hename] dường như không thích điều này lắm.</Events.0.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story">
+			<Events.0.Story>[name] chạm vào [hename], [hename] thích thú nheo mắt lại.</Events.0.Story>
+			<Events.1.Story>[name] chạm vào [hename], [hename] căng thẳng bỏ chạy.</Events.1.Story>
+			<Events.2.Story>[name] thấy [hename] nằm dài trên mặt đất, không nhúc nhích. Thế là tiến lại gần chọc một cái.</Events.2.Story>
+			<Events.3.Story>[name] đến trêu chọc [hename], [hename] liếc nhìn [name] một cái, rồi dửng dưng bỏ đi.</Events.3.Story>
+			<Events.4.Story>[name] thấy [hename] đột nhiên rất hứng thú với [obj_nearthing] bên cạnh, nó không kìm được mà ngửi ngửi, liếm hai cái.</Events.4.Story>
+			<Events.5.Story>[hename] ngửi [name], rồi rời đi với vẻ chê bai.</Events.5.Story>
+			<Events.6.Story>[hename] phấn khích chạy vòng quanh [name].</Events.6.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Rabbit">
+			<Events.0.Story>[name] ôm [hename] vào lòng, trêu đùa một hồi.</Events.0.Story>
+			<Events.1.Story>[name] vuốt đôi tai lớn của [hename].</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Chicken">
+			<Events.0.Story>[name] bế [hename] lên và ném lên trời, [hename] hoảng hốt vỗ cánh, lông bay tứ tung.</Events.0.Story>
+			<Events.1.Story>Thấy [name], [hename] dường như có điều gì đó trong đầu, kêu lên "cục cục cục".</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Wolf">
+			<Events.0.Story>[name] vuốt nhẹ [hename], [hename] thoải mái phát ra tiếng rên rỉ.</Events.0.Story>
+			<Events.1.Story>[hename] vừa nhảy vừa kêu, chạy vòng quanh [name].</Events.1.Story>
+			<Events.2.Story>[hename] nằm sấp trên đất, nheo mắt nhìn [name], ánh mắt lộ ra vẻ nguy hiểm.</Events.2.Story>
+			<Events.3.Story>[hename] vẫy đuôi về phía [name].</Events.3.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Snake">
+			<Events.0.Story>Khi thấy [name] tới gần, [hename] cuộn mình lên rất cao, phun lưỡi về phía bầu trời.</Events.0.Story>
+			<Events.1.Story>[name] ôm [hename] vào lòng, trêu đùa một hồi.</Events.1.Story>
+			<Events.2.Story>[name] quan sát toàn bộ quá trình [hename] nuốt một con chuột lớn, cảm thấy rất thú vị.</Events.2.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Boar">
+			<Events.0.Story>[hename] đột nhiên tức giận, húc nhẹ vào [name].</Events.0.Story>
+			<Events.1.Story>[name] thấy [hename] nằm sấp trên đất, không ngừng rên rỉ, liền ném một viên đá vào nó.</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Bear">
+			<Events.0.Story>[hename] thấy [name] liền dang rộng tay chạy tới đầy phấn khích. [name] giật mình, vội vàng tránh xa.</Events.0.Story>
+			<Events.1.Story>[name] liếc nhìn [hename] một cái, [hename] dường như hơi tức giận, đập xuống mặt đất một cái.</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Turtle">
+			<Events.0.Story>[name] vuốt nhẹ [hename], [hename] lập tức rút vào trong vỏ.</Events.0.Story>
+			<Events.1.Story>[name] phát hiện [hename] nằm thư thái trên đất, không động đậy, liền chọc nhẹ một cái. [hename] hoàn toàn rút vào trong vỏ.</Events.1.Story>
+			<Events.2.Story>[name] trêu chọc [hename], [hename] liếc nhìn [name] một cái, từ từ rút vào trong vỏ.</Events.2.Story>
+			<Events.3.Story>[hename] đột nhiên rất hứng thú với [obj_nearthing] bên cạnh, không kiềm được mà ngửi thử.</Events.3.Story>
+			<Events.4.Story>[name] tới trêu đùa [hename], [hename] thò đầu ra, phun hai bong bóng.</Events.4.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Frog">
+			<Events.0.Story>[name] cảm thấy [hename] dường như đang suy nghĩ rất thông minh, không biết có phải là cảm giác sai hay không.</Events.0.Story>
+			<Events.1.Story>[name] đặt [hename] lên lòng bàn tay mình. [hename] kêu “quạ” một tiếng, phun nước lên mặt [name], sau đó vui vẻ nhảy đi.</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Fei">
+			<Events.0.Story>[name] vuốt nhẹ [hename], [hename] phát ra tiếng kêu dễ nghe.</Events.0.Story>
+			<Events.1.Story>[hename] nhìn [name] ở xa với ánh mắt đầy cảm xúc.</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Lushu">
+			<Events.0.Story>[name] vuốt nhẹ [hename], [hename] rất cáu kỉnh, lắc đầu mạnh.</Events.0.Story>
+			<Events.1.Story>[hename] cảm thấy [name] dường như muốn tới vuốt mình, liền lập tức nằm sấp xuống đất giả vờ ngủ.</Events.1.Story>
+		</Text>
+	</List>
+</Texts>
+

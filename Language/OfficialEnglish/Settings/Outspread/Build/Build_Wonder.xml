@@ -1,0 +1,87 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="StarDustLake">
+			<DisplayName>Lạc Tinh Đàm</DisplayName>
+			<Desc>“Dòng nước từ tám phương hội tụ tại đây qua đào đắp nhân tạo, sau đó chảy ra xa, nối liền bốn phương đông, tây, nam, bắc. Vào ban đêm, ngay cả dải Ngân Hà cũng như hòa mình vào nơi này.” ----《Lục Đạo Tạp Ký》</Desc>
+			<Effect>Mở khóa chính sách Thu Thập Thiên Đạo</Effect>
+		</Text>
+		<Text Name="XiuXianCollege">
+			<DisplayName>Đại Đạo Viện</DisplayName>
+			<Desc>“Giáo dục luôn cần chọn nơi yên tĩnh và xa xôi, để học sinh không có gì làm ngoài đọc sách, muốn trốn cũng không được.” ----《Lục Đạo Tạp Ký》</Desc>
+			<Effect>Giảm tiêu hao xây dựng -20%</Effect>
+		</Text>
+		<Text Name="HugeToolCabin">
+			<DisplayName>Thiên Cơ Các</DisplayName>
+			<Desc>“Thiên Cơ Các không phải là công trình thông thường, mỗi bộ phận đều có chức năng riêng, làm được những điều mà vật thường không thể. Dùng nó để dệt áo, như ngàn sợi chỉ xuyên qua mây. Dùng nó chế tạo cơ khí, như vạn lưỡi dao xẻ núi.” ----《Vạn Tượng Lục》</Desc>
+			<Effect>Tặng hai con rối.</Effect>
+		</Text>
+		<Text Name="CelestialCommercial">
+			<DisplayName>Bạch Vân Thương Hội</DisplayName>
+			<Desc>“Thương hội này nằm giữa núi non, có đại trận khổng lồ ngăn chặn phá hoại, đạt đến cực hạn của pháp thuật thế gian, là căn cứ giao thương của các tiên gia. Tại sao các môn phái lớn không có loại trận pháp này vẫn là điều chưa rõ.” ----《Lục Đạo Tạp Ký》</Desc>
+			<Effect>Tất cả vật tư giảm giá 20%.</Effect>
+		</Text>
+		<Text Name="GreenBrothel">
+			<DisplayName>Lục Lâu Phường</DisplayName>
+			<Desc>“Tòa Lầu Xanh trên hồ này, trong mắt người phàm chỉ là một quán trọ cao cấp, nhưng đối với người tu hành lại có thể nhận được dịch vụ đặc biệt giúp loại bỏ tạp niệm. Có lẽ đây cũng là một trong những điểm hấp dẫn của tu hành.” ----《Lục Đạo Tạp Ký》</Desc>
+			<Effect>Đến đây rèn luyện có thể mang lại tâm trạng tốt.</Effect>
+		</Text>
+		<Text Name="AppTower">
+			<DisplayName>Ân Đức Tháp</DisplayName>
+			<Desc>“Xây dựng nơi dẫn dắt thần linh, ân đức lớn lao không thể đền đáp.” ----《Vạn Tượng Lục》</Desc>
+			<Effect>Tất cả người tu thần +1 khu vực Thần Quốc.</Effect>
+		</Text>
+		<Text Name="RiverDam">
+			<DisplayName>Giang Yển</DisplayName>
+			<Desc>“Hãy nghĩ xem, đằng sau mỗi công trình khổng lồ cần có bao nhiêu bạo chúa mặt dày? Thần tiên chẳng lẽ không thể giúp một tay?” ----《Lục Đạo Tạp Ký》</Desc>
+			<Effect>Tất cả người tu thần +1 khu vực Thần Quốc.</Effect>
+		</Text>
+		<Text Name="MountTemple">
+			<DisplayName>Trấn Sơn Lâu</DisplayName>
+			<Desc>“Đê dài ngàn dặm, sụp đổ vì hang kiến. Núi cao vạn trượng, hợp sức nhỏ bé cũng có thể làm mềm yếu. Dù ý chí cao, mắt sáng, tay khéo cũng khó đạt được.” ----《Vạn Tượng Lục》</Desc>
+			<Effect>Tất cả người tu thần +1 khu vực Thần Quốc.</Effect>
+		</Text>
+		<Text Name="SanQingTemple">
+			<DisplayName>Tam Thanh Điện</DisplayName>
+			<Desc>“Ai cũng muốn có một nơi thờ cúng Tam Thanh, nhưng xây dựng thứ này ở nhân gian thực sự là công việc khó nhọc mà không được lợi gì.” ----《Lục Đạo Tạp Ký》</Desc>
+			<Effect>Tất cả môn phái thêm một ân tình.</Effect>
+		</Text>
+		<Text Name="TreeGrave">
+			<DisplayName>Táng Mộc Hải</DisplayName>
+			<Desc>“Ở Nam Cương, người ta tin rằng cây cối giống như động vật, nếu không xử lý xác chết thì dễ gây oán hận. Những cây cổ thụ chết đi được thu thập lại và tạo thành hình dáng cây, dường như có thể thu thập linh khí của vạn vật.” ----《Vạn Tượng Lục》</Desc>
+			<Effect>Mở khóa chính sách Thu Thập Thiên Đạo.</Effect>
+		</Text>
+		<Text Name="GroundAlter">
+			<DisplayName>Địa Đàn</DisplayName>
+			<Desc>“Trong núi sâu khó tìm thấy, có một cái hố bát giác khổng lồ, bên trong đầy nước suối chảy xuống từ núi, ở giữa có một cái đỉnh lớn.” ----《Lục Đạo Tạp Ký》</Desc>
+			<Effect>Mở khóa chính sách Thu Thập Thiên Đạo.</Effect>
+		</Text>
+		<Text Name="WaterTemple">
+			<DisplayName>Tu Di Viện</DisplayName>
+			<Desc>“Ngôi chùa này giống như một con thuyền, đứng trên đó có thể cảm nhận được sự chòng chành nặng nề, đồng thời cũng cảm thấy an toàn và ổn định. Ta không khỏi nghĩ rằng, liệu Phù Đồ có phải chỉ ngôi chùa nổi trên nước?” ----《Lục Đạo Tạp Ký》</Desc>
+			<Effect>Ổn định trận pháp tăng 20%.</Effect>
+		</Text>
+		<Text Name="CelestialPalace">
+			<DisplayName>Tử Tiêu Cung</DisplayName>
+			<Desc>“Tử Tiêu Cung như thánh địa thiên đình, người người đều biết, không nơi nào không với tới.” ----《Vạn Tượng Lục》</Desc>
+			<Effect>Tất cả môn phái thêm một ân tình.</Effect>
+		</Text>
+		<Text Name="CircleTemple">
+			<DisplayName>Viên Huyền Quan</DisplayName>
+			<Desc>“Nói rằng nơi càng lớn người càng đông, quảng trường của Viên Huyền Quan có diện tích vô song, khách đến viếng thăm cũng đông như nêm.” ----《Lục Đạo Tạp Ký》</Desc>
+			<Effect>Tốc độ thu thập tín ngưỡng/oán hận tại nơi này tăng gấp đôi.</Effect>
+		</Text>
+		<Text Name="CityMansion">
+			<DisplayName>Thành Trại</DisplayName>
+			<Desc>
+Thành trại: Tốc độ tăng dân số ở tất cả các địa điểm tăng 100%. "Thành trại là một hình thức xây dựng nhà dân hoàn toàn mới, nó có thể xây dựng ở hầu hết mọi nơi, chỉ cần rất ít tài nguyên. Chỉ tiếc rằng dù có nhiều người hơn cũng không thể giải quyết vấn đề ăn uống."</Desc>
+			<Effect>Tăng tốc độ phát triển tại nơi này lên 100%.</Effect>
+		</Text>
+		<Text Name="RedTombstone">
+			<DisplayName>Hồng Bi Lâm</DisplayName>
+			<Desc>
+"Trong rừng bia ghi lại cuộc đời của nhiều người. Trong đó có cả hoàng đế lẫn người thường, điểm chung duy nhất là họ đều đã chết."----《Lục Đạo Tạp Ký》"Những gì được ghi trong bia chính là gốc rễ của sự biến hóa, thất tình lục dục trên đời đều nằm trong đó, nhìn mà không khỏi ngưỡng mộ, không khỏi kinh sợ. Sợ rằng Nhân tộc khó vượt qua bia mà đi, sợ rằng Nhân tộc chỉ bước vào một trong số đó."----《Vạn Tượng Lục》</Desc>
+			<Effect>Có thể trực tiếp nhìn thấu một sở thích của tất cả mọi người.</Effect>
+		</Text>
+	</List>
+</Texts>
+

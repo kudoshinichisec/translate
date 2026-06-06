@@ -1,0 +1,15 @@
+talk	notarget	thing
+NotEat_Item_WuDang_HuangJingFen	Ta sẽ không ăn hoàng tinh phấn	
+NotEat_Item_Dan_WuQiNoHunger2	Ta sẽ không ăn ngũ khí Tích Cốc đan	
+NotEat_Item_Dan_SanHuaHuangJing	Ta sẽ không ăn tam hoa hoàng tinh hoàn	
+WannaEat_Item_WuDang_HuangJingFen	Ta rất muốn ăn hoàng tinh phấn	
+WannaEat_Item_Dan_WuQiNoHunger2	Ta rất muốn ăn ngũ khí Tích Cốc đan	
+WannaEat_Item_Dan_SanHuaHuangJing	Ta rất muốn ăn tam hoa hoàng tinh hoàn	
+DoTalkEat_Item_WuDang_HuangJingFen		Ta ngay tại ăn hoàng tinh phấn
+DoTalkEat_Item_Dan_WuQiNoHunger2		Ta ngay tại ăn ngũ khí Tích Cốc đan
+DoTalkEat_Item_Dan_SanHuaHuangJing		Ta ngay tại ăn tam hoa hoàng tinh hoàn
+CantEat_Item_WuDang_HuangJingFen	Ta tìm không thấy hoàng tinh phấn có thể ăn	
+CantEat_Item_Dan_WuQiNoHunger2	Ta tìm không thấy ngũ khí Tích Cốc đan có thể ăn	
+CantEat_Item_Dan_SanHuaHuangJing	Ta tìm không thấy tam hoa hoàng tinh hoàn có thể ăn	
+
+

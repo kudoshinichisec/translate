@@ -1,0 +1,26 @@
+ID	Desc
+
+1	Nhận được bảo hộ của Thái Thủy chi Đạo, tăng thêm 10% tỉ lệ thành công cho U túy/Linh túy/Đạo thốy.
+2	Nhận được sự bảo hộ của Thái Dịch, tỷ lệ xuất hiện đệ tử thiên tài tại Tiên duyên đại hội tăng lên.
+3	Nhận được sự bảo hộ của Đạo Thái Dịch, Tiên duyên đại hội chắc chắn sẽ xuất hiện 1 đệ tử đặc biệt (luân hồi者).
+4	Được Thái Dịch chi đạo bảo hộ, tỷ lệ xuất hiện đệ tử thiên tài tại đại lý điểm tuyển chọn đệ tử tăng cao.
+5	Nhận được sự bảo hộ của Taixuan, tỷ lệ tăng hảo cảm trong Xã giao nhân vật tăng 50%.
+6	Nhận được sự bảo hộ của Taixuan, tỷ lệ nhận Hảo cảm Môn phái tăng 50%.
+7	Nhận được sự bảo hộ của Taixuan, tỉ lệ nhận Điểm ảnh hưởng Đại lý tăng 50%.
+8	Nhận được sự bảo hộ của Thái Hư, tốc độ sản sinh Mảnh suy nghĩ động vật tăng 50%.
+9	Nhận được sự bảo hộ của Thái Hư chi đạo, tỷ lệ tu sĩ tiên đạo thu nhập cảm ngộ tăng 50%.
+10	Nhận được sự bảo hộ của Thái Hư chi đạo, tỷ lệ tu sĩ thể đạo thu nhập tinh hoa tăng 50%.
+11	Nhận được sự bảo hộ của Thái Hư chi đạo, tỷ lệ tu sĩ thần đạo thu nhập tín ngưỡng tăng 50%.
+12	Sự bảo hộ dành cho tu sĩ mới, tỷ lệ sản lượng khoáng thực vật tăng 50%.
+13	Bảo vệ dành riêng cho Tu Giả mới, tất cả Đệ tử nhận được 30 điểm Tâm trạng cơ bản.
+14	Bảo vệ dành riêng cho Tu Giả mới, tất cả Đệ tử nhận được 30 điểm Mental State Bonus cơ bản.
+15	Bảo hộ dành riêng cho tu giả mới, khi tạo Nhân vật sẽ nhận 1 điểm ngũ chiều (trừ Luân hồi giả).
+16	Nhờ quyền hạn của Thái Huyền chi đạo, định đoạt thiên cơ, điều khiển một hành thương tới đây.
+17	Sự bảo hộ dành cho tu sĩ mới, phát động để triệu hồi tiên nhân bảo hộ ảnh hưởng thời tiết.
+18	Bảo hộ dành riêng cho Tu Giả mới, dùng để xua tan phần lớn Thời tiết bình thường.
+19	Bảo vệ dành riêng cho tân tu sĩ, dùng để hồi sinh nhân vật chỉ định.
+20	Nhờ quyền hạn của Đạo Thái Thủy, nếu không Hài Lòng với kết quả Luyện chế Pháp bảo, bạn có thể quay lại ngay trước khi Pháp bảo Luyện chế thành công để đúc lại kết quả này. (Sử dụng trực tiếp trên bảng kết quả Luyện chế sau khi Pháp bảo được Luyện chế thành công.)
+21	Nhờ quyền năng của Đạo Thái Sơ, nếu không hài lòng với kết quả của một số trải nghiệm nhất định (lịch lãm, mở bí tàng...), có thể ngay lập tức quay lại thời điểm trước khi sự việc xảy ra, tạo lại kết quả lần trải nghiệm này. (Sau khi sự kiện có thể thay đổi kết quả xảy ra, sử dụng trực tiếp ở bảng sự kiện.)
+22	Nhờ quyền hạn của Thái Thủy, nếu không hài lòng với kết quả rèn luyện cơ thể lần nào, có thể quay lại thời điểm trước khi rèn luyện để tái sinh kết quả. (Sử dụng trực tiếp tại bảng kết quả rèn luyện cơ thể.)
+
+

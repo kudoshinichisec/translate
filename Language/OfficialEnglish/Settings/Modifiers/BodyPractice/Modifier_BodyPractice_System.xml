@@ -1,0 +1,49 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BodyPractice_Attitude_Atk">
+			<DisplayName>Tư thế tấn công</DisplayName>
+			<Desc>Tấn công toàn lực vào bản thể đối phương, trong tư thế này, hiệu suất tấn công của bí thể tăng 25%, hiệu suất phòng thủ giảm 50%.</Desc>
+		</Text>
+		<Text Name="BodyPractice_Attitude_Normal">
+			<DisplayName>Tư thế bình thường</DisplayName>
+			<Desc>Chiến đấu theo cách tiêu chuẩn của người luyện thể, có thể phát huy cân bằng mọi mặt.</Desc>
+		</Text>
+		<Text Name="BodyPractice_Attitude_ManJi">
+			<DisplayName>Man Cực Chiến Ý</DisplayName>
+			<Desc>Sử dụng ý chí chiến đấu mạnh mẽ để điều khiển toàn bộ hành động, trực tiếp tấn công bản thể đối phương, tăng đáng kể lực tấn công, đồng thời giữ khả năng phòng thủ bản năng. Hiệu suất tấn công của bí thể tăng 30%, hiệu suất phòng thủ giảm 25%.</Desc>
+		</Text>
+		<Text Name="BodyPractice_Attitude_WangZhe">
+			<DisplayName>Vương Giả Chiến Ý</DisplayName>
+			<Desc>Đối diện với chiến đấu bằng tâm vương đạo, ung dung không vội vàng. Hiệu suất tấn công của bí thể tăng 15%, hiệu suất phòng thủ tăng 15%, tiêu hao bí thể giảm 20%.</Desc>
+		</Text>
+		<Text Name="BodyPractice_DefenseDebuff">
+			<DisplayName>Suy yếu</DisplayName>
+			<Desc>Chân khí cạn kiệt, người luyện thể rơi vào trạng thái suy yếu, tất cả thuộc tính giảm 90%.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_AngerFire">
+			<DisplayName>Cuồng nộ kích động</DisplayName>
+			<Desc>Hồi tưởng lại ký ức đau khổ bị phong ấn, trong một khoảng thời gian kích hoạt toàn diện chức năng cơ thể.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Magic_JingXi">
+			<DisplayName>Tâm Phế Quá Tái</DisplayName>
+			<Desc>Sau khi thực hiện phương pháp hít thở cá voi, tim phổi quá tải, hiệu suất hít thở giảm mạnh.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Magic_TunJin">
+			<DisplayName>Thôn Tận Chi Khẩu</DisplayName>
+			<Desc>Đẩy nhanh tiêu hao sinh mệnh, đồng thời từ hư không hấp thu nguyên khí, bổ sung mức độ đói của bản thân.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Magic_XiuFu">
+			<DisplayName>Vận chuyển khí huyết</DisplayName>
+			<Desc>Vận chuyển khí huyết toàn thân, đẩy nhanh tốc độ hồi phục tổn thương.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Magic_ChiYi1">
+			<DisplayName>Thử Sinh Thúc Hốt</DisplayName>
+			<Desc>Sử dụng chân khí từ thể chống dị để vận chuyển toàn thân, tăng đáng kể tốc độ tiêu hao sinh mệnh, tăng đáng kể tốc độ luyện thể.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Magic_ChiYi2">
+			<DisplayName>Thử Sinh Hư Vọng</DisplayName>
+			<Desc>Sử dụng chân khí từ thể chống dị để vận chuyển toàn thân, tăng đáng kể tốc độ tiêu hao sinh mệnh, tăng đáng kể khả năng xuất hiện các phương án tiến hoá cao cấp trong luyện thể.</Desc>
+		</Text>
+	</List>
+</Texts>
+

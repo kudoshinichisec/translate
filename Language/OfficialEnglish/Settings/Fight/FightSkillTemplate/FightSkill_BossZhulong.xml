@@ -1,0 +1,32 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Zhulong_fennu">
+			<DisplayName>Phẫn nộ</DisplayName>
+		</Text>
+		<Text Name="Zhulong_shennian">
+			<DisplayName>Lôi thần niệm</DisplayName>
+		</Text>
+		<Text Name="Zhulong_zuinie">
+			<DisplayName>Lôi tội nghiệt</DisplayName>
+		</Text>
+		<Text Name="Zhulong_yehuotuxi">
+			<DisplayName>Nghiệp hỏa thổ tức</DisplayName>
+		</Text>
+		<Text Name="Zhulong_xinmotuxi">
+			<DisplayName>Tâm ma thổ tức</DisplayName>
+		</Text>
+		<Text Name="Zhulong_guangzhishenpan">
+			<DisplayName>Phán quyết ánh sáng</DisplayName>
+		</Text>
+		<Text Name="Zhulong_shenanzhiyuan">
+			<DisplayName>Vực sâu hắc ám</DisplayName>
+		</Text>
+		<Text Name="Zhulong_shenanzhiyuan_bomb">
+			<DisplayName>Vực sâu hắc ám</DisplayName>
+		</Text>
+		<Text Name="Zhulong_guangzhishenpan_bomb">
+			<DisplayName>Phán quyết ánh sáng</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

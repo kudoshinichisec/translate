@@ -1,0 +1,166 @@
+ID	Content	WholeContent	TipDesc	Desc	TipsContent
+
+1	Dự trữ thực phẩm không đủ	Dự trữ thực phẩm không đủ			
+2	Dự trữ thuốc không đủ	Dự trữ thuốc không đủ			
+3	Dự trữ tinh nguyên không đủ	Dự trữ tinh nguyên không đủ			
+4	Mùa hè sắp đến	Mùa hè sắp đến	Vui lòng chuẩn bị để tránh nóng		
+5	Mùa đông sắp đến	Mùa đông sắp đến	Vui lòng chuẩn bị để giữ ấm		
+6	Kẻ thù xuất hiện	Kẻ thù xuất hiện			
+7	{0}{1} đang bị tấn công	Môn phái đang bị tấn công			
+8	Bị cháy rồi	Bị cháy			
+9	Người qua đường cần giúp đỡ	Người qua đường cần giúp đỡ			
+10	Kẻ thù {0} đang cố gắng cướp lấy vật phẩm {1}	Kẻ thù đang cố gắng cướp đồ			
+11	Kẻ thù {0} đã cướp được vật phẩm {1}	Kẻ thù đã cướp đồ			
+12	Linh thú {0} xuất hiện	Linh thú xuất hiện			
+13	Bảo vật rơi xuống	Bảo vật rơi xuống			
+14	Tiên nhân {0} hạ xuống/rời đi	Có tiên nhân giáng trần			
+15	{0} thích {1}	Có tình cảm xảy ra			
+16	{0} không còn thích {1}	Có tình cảm biến mất			
+17	{0} tỏ tình với {1} _thành công và trở thành nhân yêu/thất bại	Có người tỏ tình			
+18	{0} thuyết phục {1} _thành công/thất bại	Có người thuyết phục			
+19	Bị bỏ rơi	Bị bỏ hoang			
+20	{0} tâm trạng kém	Có người cảm thấy tâm trạng rất tồi tệ			
+21	Tâm trạng của {0} bắt đầu xấu đi vì {1}	Có người tâm trạng xấu đi			
+22	Tâm trạng của {0} không ổn định	Có người tâm trạng không ổn định			
+23	{0}: _ngã xuống/hôn mê/sắp chết	Có người không thể hành động			
+24	Bị bỏ rơi	Bị bỏ hoang			
+25	{0}: qua đời	Có người đã chết			
+26	{0}: làm việc chểnh mảng	Có người lười biếng			
+27	{0}: khôi phục làm việc	Có người phục hồi từ sự lười biếng			
+28	{0} cần vũ khí săn bắn	Có người cần vũ khí săn bắn			
+29	{0} cần công cụ chặt cây	Có người cần công cụ chặt cây			
+30	{0} cần công cụ khai thác	Có người cần công cụ khai thác			
+31	{0} cần dụng cụ nông nghiệp	Có người cần nông cụ			
+32	Kỹ năng của {0} {1} đã nâng cấp	Kỹ năng nâng cấp			
+33	{0}: nhập ma	Có người nhập ma			
+34	{0} thành công xây dựng nền tảng	Có người thành công trong việc xây dựng căn cơ			
+35	{0} gặp phải bế tắc	Có người gặp phải bế tắc			
+36	Thời gian bế tắc của {0} sắp đến	Có người thời gian bế tắc sắp đến			
+37	Thời gian bế tắc của {0} đã đến	Có người thời gian bế tắc đã đến			
+38	{0} luyện chế pháp bảo {1} _thành công/thất bại	Có người luyện bảo			
+39	Luyện đan _thành công/thất bại	Có người luyện đan			
+40	{0} bái {1} làm sư phụ	Có người bái sư			
+41	{0} có chút không hài lòng với môn phái	Có người không hài lòng với môn phái			
+42	{0} trở về sau khi rèn luyện	Có người trở về sau khi rèn luyện			
+43	{0} phá vỡ bế tắc _thành công/thất bại	Có người phá vỡ bế tắc			
+44	Thiên tượng thần toán: {0}	Chu thiên thần toán			
+45	{0} cần chủ đường	Có phân đường cần đường chủ			
+46	{0} cảm thấy đói	Có người cảm thấy đói	Cần thêm thực phẩm		
+47	{0} cảm thấy khát	Có người cảm thấy khát	Cần nguồn nước sử dụng		
+48	{0} cảm thấy chán	Có người cảm thấy buồn chán	Cần thêm cơ sở giải trí		
+49	{0} cảm thấy mệt mỏi	Có người cảm thấy mệt mỏi	Cần nghỉ ngơi và ngủ		
+50	{0}: bị thương	Có người bị thương			
+51	{0}: vết thương xấu đi	Có người vết thương xấu đi			
+52	{0}: xuất hiện tật nguyền	Có người xuất hiện tàn tật			
+53	Hoàn tất ghi lưu trữ				
+54	{0}: điều kiện sinh trưởng không phù hợp	Có điều kiện sinh trưởng của linh thực không thích hợp.			
+55	{0} cảm thấy nguy hiểm	Cảm thấy một mối nguy hiểm mơ hồ			
+56	Có {1} cảm nhận được linh khí của trời đất đã bùng nổ, biến thành yêu thú!				
+57	Yêu thú {0} xuất hiện	Có yêu thú xuất hiện			
+58	Yêu thú {0} cảm nhận được linh khí của trời đất đã bùng nổ!	Yêu thú phá vỡ			
+59	Thú cổ xưa {0} tấn công!	Có thú cổ xưa xâm nhập!			
+60	{0} đã kích hoạt pháp bảo {1}				
+61	{0} vượt qua kiếp nạn _thành công/thất bại	Có người vượt qua kiếp nạn			
+62	Xuất hiện vật trấn!	Xuất hiện trấn vật			
+63	{0} nhận chủ {1}				
+64	Có phiên bản cập nhật		Phiên bản trò chơi đã cập nhật {0}		
+65	{0} nhập kho {1} _thành công/thất bại	Nhập kho tàng kinh các			
+66	Tầng tâm cảnh của {0} đã nâng cao lên [{1}], đồng thời thần tính cũng được nâng cao.				
+67	{0} bùng nổ ý niệm, kiếp nạn tín ngưỡng sắp đến.	Chấp niệm bùng phát			
+68	{0} luyện chế thánh vật {1} _hoàn thành/thất bại	Luyện chế thánh vật			
+69	Ý niệm của {0} về {1} hiện ra	Chấp niệm hiện ra			
+70	Thần tính của {0} tràn đầy, sắp bay lên.	Sắp bay lên			
+71	{0} chặt đứt ý niệm: [{1}]				
+72	Tên thần của {0} đã thay đổi	Thần danh			
+73	{0} nghiên cứu {1} _thành công/thất bại	Nghiên cứu			
+74	{1} từ bánh bao ăn ra một cái {0}				
+75	{0} đã vào trạng thái thông linh	Vạn vật thông linh			
+76	{0} đã có ý thức riêng, trở thành tinh quái	Tinh quái thức tỉnh			
+77	{0} thông linh thất bại	Thông linh thất bại			
+78	{0} xuất hiện	Tinh quái đi ngang qua			
+79	{0} của {1} đã hoàn thành tái tạo				
+80	Âm dương kỳ thạch phục hồi sinh khí	Âm dương kỳ thạch phục hồi sinh khí			
+81	Địa mẫu thạch bia phục hồi sinh khí	Địa mẫu thạch bia phục hồi sinh khí			
+82	Một vật phẩm từ khe không gian bay ra	Một món đồ từ khe nứt dị giới bay ra			
+83	{0}: Có cá cắn câu rồi!	Câu cá			
+84	{0} đã học được {1}	Tu luyện			
+85	Phần thưởng Bảo Điển Thái Chân: {0} nhận thành công	Nhận thưởng thành công			
+86	Phần thưởng Thái chân Bảo Điển: {0} đã được nhận về Điểm trở về sau lịch luyện	Nhận thưởng thành công			
+87	Không gian Ngọc Điệp: {0} nhận thành công	Nhận thưởng thành công			
+88	Không gian Ngọc Tịch: {0} đã nhận tại Điểm trở về sau Lịch luyện	Nhận thưởng thành công			
+89	Bạn có một thư mới	Thư mới			
+90	Kho thường: {0} đã nhận thành công	Nhận thưởng thành công			
+91	Kho Bình thường: {0} đã nhận tại Điểm trở về sau Lịch luyện	Nhận thưởng thành công			
+10001	Động huyền bí			    Gần đây, những rung động ngày càng thường xuyên dưới lòng đất của môn phái bỗng dưng dừng lại, đồng thời, một hang động bí ẩn xuất hiện trên mặt đất. Từ hang động truyền ra những ý niệm mơ hồ và mạnh mẽ, không biết có nguồn gốc từ đâu. Gần đây, có nhiều tu sĩ cổ xưa xuất hiện, có lẽ có thể hỏi thăm họ một số tin tức.	
+10002	Cần tế lễ			    Từ hang động bí ẩn bỗng truyền đến một ý niệm đầy đe dọa, nó muốn bạn [TXT]	
+10003	Cần tế lễ			    Từ hang động bí ẩn bỗng truyền đến một ý niệm đầy đe dọa, nó muốn bạn [TXT]	
+10004	Cần tế lễ			    Từ hang động bí ẩn bỗng truyền đến một ý niệm đầy đe dọa, nó muốn bạn [TXT]	
+10005	Hoàn thành tế lễ			    Bạn đã hoàn thành lễ cúng trước hang động, ý niệm bí ẩn rất hài lòng.	
+10006	Thiên tượng tai họa			    Ý niệm bí ẩn vô cùng tức giận, mang đến một thảm họa [TXT]	
+10007	Yêu thú tai họa			    Ý niệm bí ẩn vô cùng tức giận, triệu hồi một số yêu thú xâm nhập.	
+10008	Tai họa diệt vong			    Ý niệm bí ẩn vô cùng tức giận, phun ra vài dòng cuồng nộ, phá hủy mặt đất.	
+10009	Phá đất mà ra			    Rồng giận dữ phá đất mà ra.	
+10010	Rồng rơi			    Sau những trận chiến khốc liệt, dốc toàn lực môn phái, cuối cùng đã chém chết yêu rồng.	
+10011	Nhiệt độ bất thường cao			    Không biết vì lý do gì, nhiệt độ trong thiên địa bỗng nhiên tăng cao, sự thay đổi thời tiết này vượt xa phạm vi bình thường, dường như ẩn chứa điều gì bất thường.	
+10012	Dã thú nổi loạn			    Khí hậu khô hạn bất thường khiến các thú hoang xung quanh rơi vào cơn điên cuồng, một bầy thú hoang nổi loạn xuất hiện gần môn phái!	
+10013	Thiên rơi lửa			    Một cơn sóng nhiệt lướt qua bầu trời, dường như có thứ gì đó đang rơi xuống.	
+10014	Hạn hán gia tăng			    Nhiệt độ cao kéo dài mang đến một đợt hạn hán, không biết có phải là ảo giác không, nhiệt độ dường như ngày càng cao, nếu không thực hiện biện pháp gì, tình hình có thể trở nên tồi tệ hơn.	
+10015	Yêu thú điên cuồng			    Một số yêu thú dường như vì sợ hãi mà phát cuồng, thậm chí rời khỏi lãnh thổ của mình để bắt đầu phá hoại!	
+10016	Thiên rơi lửa			    Một cơn sóng nhiệt lướt qua bầu trời, dường như có thứ gì đó đang rơi xuống.	
+10017	Tiếng gào thảm thiết			    Sau khi thi triển phép thuật để xua tan cơn hạn hán ngày càng gia tăng, thiên địa dường như kỳ quái lặng im trong nửa nhang. Sau một khoảng lặng ngắn, từ xa, dãy núi bỗng nhiên làm kinh động hàng loạt chim bay lên, một tiếng gào thét thê lương vang vọng khắp chín tầng trời!	
+10018	Phượng hoàng hung ác hạ xuống			    Phượng hoàng hung dữ hạ xuống.	
+10019	Phượng hoàng hung ác rơi xuống			    Sau những trận chiến khốc liệt, dốc toàn lực môn phái, cuối cùng đã chém chết phượng hoàng hung dữ.	
+10020	Đêm vĩnh cửu bắt đầu			    Không biết vì lý do gì, lực lượng âm dương trong thiên địa bỗng nhiên rơi vào hỗn loạn, khu vực gần môn phái bỗng nhiên chìm vào đêm tối.	
+10021	Trứng âm xuất hiện			    Trong đêm tối, một số quả trứng kỳ lạ bỗng xuất hiện gần đó, dường như đang ấp ủ điều gì…	
+10022	Ngày cực dương bắt đầu			    Không biết vì lý do gì, lực lượng âm dương trong thiên địa bỗng nhiên rơi vào hỗn loạn, khu vực gần môn phái bỗng nhiên chuyển sang giữa trưa… không biết sự hỗn loạn âm dương này sẽ kéo dài bao lâu?	
+10023	Trứng dương xuất hiện			    Trong ban ngày, một số quả trứng kỳ lạ bỗng xuất hiện gần đó, dường như đang ấp ủ điều gì…	
+10024	Chùy long xuất hiện			    Hơi thở âm dương hỗn loạn kéo dài cuối cùng đạt đến cực điểm, cùng với một tiếng thở dài dài dằng dặc, một hình bóng khổng lồ hiện ra từ thiên địa!	
+10025	Trứng nở			    Khi những quả trứng kỳ lạ nở ra, hơi thở âm dương trong thiên địa bắt đầu rơi vào hỗn loạn!	
+10026	Trứng bị vỡ			    Khi những quả trứng kỳ lạ bị phá hủy, hơi thở âm dương trong thiên địa bắt đầu rơi vào hỗn loạn!	
+10027	Biến động của trời đất			    Gần đây, trung nguyên bỗng xảy ra một đợt bùng nổ linh khí. Ban đầu không ai chú ý, chỉ cho rằng đây là sự biến động bình thường của linh mạch. Tuy nhiên, theo thời gian trôi qua, mọi người mới nhận ra quy mô và cường độ của đợt bùng nổ linh khí này vượt xa mong đợi, từ điểm bùng nổ lan tỏa ra xung quanh, đã kéo dài hơn một tháng, thực sự là một cuộc biến động ảnh hưởng đến toàn bộ giới tu luyện. Nay, dư âm của đợt bùng nổ linh khí đã lan tỏa đến môn phái của bạn, mọi người trong khi tận hưởng linh khí phong phú cũng không khỏi nghi ngờ cuộc biến động này có ý nghĩa gì…	
+10028	Ngàn năm linh trào			    Kể từ khi cơn cuồng phong linh khí quét qua giới tu luyện đã qua vài ngày, các môn phái lớn trong giới tu luyện cũng dần xác định từ điển tịch của môn phái rằng, sự biến động này có thể là cơn thủy triều linh khí ba ngàn năm một lần lại đến. Chịu ảnh hưởng của cơn thủy triều linh khí ngàn năm, một số tu sĩ cổ xưa vì nhiều lý do đã ngủ say cũng lần lượt tỉnh dậy. Thời cổ đại, giới tu luyện chưa có trật tự như hiện nay, chỉ tuân theo nguyên tắc mạnh được yếu thua. Những tu sĩ theo con đường cổ xưa này với tu vi mạnh mẽ, trong vòng vài ngày ngắn ngủi, đã khuấy động cả giới tu luyện...	
+10029	Nam hoang biến động			    Gần đây, trong dãy núi Bắc Giang xảy ra một thảm họa thiên nhiên bí ẩn. Người ta nói rằng lúc đó núi rung đất lắc trong suốt vài chục nhịp, âm thanh vang vọng hàng ngàn dặm. Khi các tu sĩ gần đó đến nơi, chỉ phát hiện ra rằng cả trăm dặm núi đồi đã biến thành một vùng đầm lầy, chỉ cảm nhận được khí tức yêu ma khổng lồ lan tỏa. Có vẻ như chịu ảnh hưởng của cơn thủy triều linh khí ngàn năm, một số yêu thú cổ xưa thường ẩn mình trong những vùng núi sâu và đầm lầy khó gặp gỡ cũng bắt đầu trở nên hoạt động.	
+10030	Âm thanh lạ dưới đất			    Cơn thủy triều linh khí ngàn năm đã sắp qua, chỉ trong thời gian ngắn hơn một tháng, các tu sĩ cổ đại xuất hiện, yêu thú cổ xưa trở lại hoạt động… Cục diện giới tu luyện đã xảy ra biến đổi lớn. Tuy nhiên, theo thời gian trôi qua, giới tu luyện cũng dần đạt được sự ổn định mới, mọi thứ dường như đã trở lại quỹ đạo. Nhưng gần đây, dưới lòng đất của môn phái dường như thường xuyên rung chuyển, không biết nguyên nhân gì…	
+10031	Thiên uy sát rồng			    Lực lượng thiên kiếp đã tiêu diệt hoàn toàn sinh cơ của con rồng chưa hoàn toàn nở.	
+10032	Cần tế lễ			    Từ hang động bí ẩn bỗng truyền đến một ý niệm đầy đe dọa, nó muốn bạn [TXT]	
+10033	Thành tựu ({0}) thất bại	Thành tựu		    Thành công thất bại	
+20001	Tin đồn giang hồ				
+20002	Biến động từ thế giới khác			    Trong giang hồ truyền rằng, gần đây một vết nứt dị giới bỗng mở ra, hàng loạt ánh sáng từ vết nứt bay ra, rơi xuống khắp nơi trên thế giới. Trong vô thức, bạn cảm thấy như những vật phẩm này có mối liên hệ lớn với mình, có lẽ cần phải tìm kiếm một phen.	
+30001	Đại diện {0} đã đến {1}	Đại diện đã đến		    Thành công đến nơi	
+30002	{0} đã vào ở thành công	Nhập cư thành công		    Đăng ký thành công	
+30003	{0} đã hoàn thành xây dựng	Xây dựng hoàn thành		    Xây dựng hoàn thành	
+30004	Cung điện chính của {0} đã nâng cấp hoàn thành	Chính điện nâng cấp		    Nâng cấp hoàn thành	
+30005		Xuất hiện sự kiện		    Xảy ra sự kiện	
+30006		Xuất hiện thảm họa		    Xảy ra thảm họa	
+30007	Thương nhân {0} đã đến	Hành thương đã đến		    Thương nhân đã đến	
+30008	Chúng ta đã xây dựng thành công {0}!	Công trình đã hoàn thành		    Kỳ quan đã được xây dựng xong	
+40000	Hiệp hội thương nhân phát đi lời chỉ trích!	Sự lên án của hành thương hội	Do hành vi thô bạo của bạn, hội thương nhân quyết định không giao dịch với bạn nữa		
+30009	Tín ngưỡng của {0} đã đầy	Niềm tin đã đầy	Tín ngưỡng của {0} đã đầy, vui lòng gửi đệ tử đi thu thập		
+30010	Kho của {0} đã đầy	Kho đã đầy	Kho của {0} đã đầy, vui lòng nhận thủ công		
+30011		Chọn chính sách			
+31001	Tiểu yêu tinh kỳ lạ	Tiểu yêu quái kỳ lạ	Một yêu tinh kỳ lạ đã đến		Một yêu tinh kỳ lạ đã đến
+31002	Chùy long biến dị	Nến rồng biến dị	Rồng nến biến dị xuất hiện		Rồng nến biến dị xuất hiện
+32001	Một con chó con xuất hiện gần đó!	Một chú chó nhỏ xuất hiện gần đây!	Một chú chó con xuất hiện gần đây!		
+32002	Một con cáo xuất hiện gần đó!	Một con cáo xuất hiện gần đây!	Một con cáo xuất hiện gần đây!		
+32003	{0} đang được dùng để mài răng	Đang bị tấn công	Đang bị tấn công		
+32004	Một con huyền vũ xuất hiện gần đó!	Một con huyền vũ xuất hiện gần đây!	Một con rùa xuất hiện gần đây!		
+33001	{0} chưa vượt qua kiếp hóa hình	Hóa hình thiên kiếp thất bại	{0} chưa vượt qua kiếp nạn hóa hình, đã tan thành mây khói		
+33002	{0} chưa vượt qua kiếp hóa hình	Hóa hình thiên kiếp thất bại	{0} chưa vượt qua kiếp nạn hóa hình, đã trở thành một yêu thú		
+34001	{0} cần suy nghĩ gấp	Cần suy nghĩ gấp.	Đã thu thập đủ ý tưởng, cần suy nghĩ gấp.		
+34002	{0} đã vào giai đoạn khai trí	Thời kỳ khai trí			
+34003	{0} đã vào giai đoạn trưởng thành	Thời kỳ trưởng thành			
+34004	{0} đã vào giai đoạn trưởng thành	Thời kỳ trưởng thành			
+34005	{0} đang do dự	Do dự			
+34006	Trí tuệ của {0} đã đạt giá trị tối đa	Rèn luyện			
+34007	Linh khí của {0} đã đạt giá trị tối đa	Rèn luyện			
+34008	Pháp thuật của {0} đã đạt giá trị tối đa	Rèn luyện			
+34009	Đan dược của {0} đã đạt giá trị tối đa	Rèn luyện			
+34010	Bảo vệ của {0} đã đạt giá trị tối đa	Rèn luyện			
+34011	Một con thiên mạch xuất hiện gần đó!	Một con thiên mạc xuất hiện gần đây!	Một con thiên mạc xuất hiện gần đây!		
+34101	Linh thạch được ngưng tụ bởi Đài ứng thiên đã được gửi đến	Linh thạch ngưng tụ tại Ứng Thiên Đài đã được gửi đến			
+34102	Đài ứng thiên có Linh thạch có thể nhận	Ứng Thiên Đài có linh thạch có thể nhận			
+34103	Hoàn thành ngưng tụ Linh thạch tại Đài ứng thiên	Ngưng tụ linh thạch tại Ứng Thiên Đài hoàn thành			
+34200	Mở khóa công thức áo choàng: {0}	Mở khóa công thức áo choàng	Có thể chế tạo qua bàn may.		
+41001	Dị động thiên đạo	Dị động thiên đạo			
+
+

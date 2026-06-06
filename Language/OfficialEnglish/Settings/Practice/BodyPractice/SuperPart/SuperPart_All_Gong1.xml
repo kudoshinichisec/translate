@@ -1,0 +1,152 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Gong_1_1">
+			<Prefix>Hỗn Nguyên</Prefix>
+			<Suffix>Cánh Tay·Trái</Suffix>
+			<Desc>Bí thể nhập môn được lưu truyền rộng rãi trong giới luyện thể, rất dễ luyện thành, các mặt đều khá cân bằng, không gian phát triển rất lớn.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ hiệu suất của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình tỷ lệ đánh trúng của bí thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng nhẹ sức mạnh cơ bản của bí thể</Levels.2.Desc>
+			<Levels.3.Title>Trọng Thứ Tư</Levels.3.Title>
+			<Levels.3.Desc>Tăng trung bình tỷ lệ trấn áp pháp bảo của bí thể</Levels.3.Desc>
+			<Levels.4.Title>Trọng Thứ Năm</Levels.4.Title>
+			<Levels.4.Desc>Tăng trung bình sức mạnh cơ bản của bí thể</Levels.4.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_1_1">
+			<Prefix>Hỗn Nguyên</Prefix>
+			<Suffix>Cánh Tay·Phải</Suffix>
+			<Desc>Bí thể nhập môn được lưu truyền rộng rãi trong giới luyện thể, rất dễ luyện thành, các mặt đều khá cân bằng, không gian phát triển rất lớn.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ hiệu suất của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình tỷ lệ đánh trúng của bí thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng nhẹ sức mạnh cơ bản của bí thể</Levels.2.Desc>
+			<Levels.3.Title>Trọng Thứ Tư</Levels.3.Title>
+			<Levels.3.Desc>Tăng trung bình tỷ lệ trấn áp pháp bảo của bí thể</Levels.3.Desc>
+			<Levels.4.Title>Trọng Thứ Năm</Levels.4.Title>
+			<Levels.4.Desc>Tăng trung bình sức mạnh cơ bản của bí thể</Levels.4.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_2">
+			<Prefix>Lục Hợp Huyền Thông</Prefix>
+			<Suffix>Thước</Suffix>
+			<Desc>Lấy cẳng tay làm lõi, cánh tay trái hợp ba âm Kim, Thủy, Nguyệt; cánh tay phải hợp ba dương Mộc, Hỏa, Nhật; lấy eo làm trục, huyền thông hóa nhất, rất giỏi trấn áp pháp bảo của địch.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh tỷ lệ trấn áp pháp bảo của bí thể này</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_3">
+			<Prefix>Ngũ hành</Prefix>
+			<Suffix>Quyền</Suffix>
+			<Desc>Sử dụng lực Ngũ Tạng Ngũ Hành kích hoạt song quyền, triển khai công kích bằng năm pháp Bổ, Băng, Xoáy, Pháo, Ngang, rất giỏi tấn công vào điểm yếu của linh khí hộ thuẫn.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ khả năng xuyên thủng linh khí hộ thuẫn của bí thể này</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình khả năng xuyên thủng linh khí hộ thuẫn của bí thể này</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng mạnh khả năng xuyên thủng linh khí hộ thuẫn của bí thể này</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_4">
+			<Prefix>Ưng Hùng</Prefix>
+			<Suffix>Hợp Hình</Suffix>
+			<Desc>Bí pháp tối cao của Thái Cổ Hình Ý Lục Hợp Chân Thể, luyện cơ lưng đến cực hạn, như cánh chim ưng. Luyện hai vai đến cực hạn, như thân gấu. Khởi lực eo bụng, vận động cột sống như rồng, hợp vai đụng mạnh, không gì có thể ngăn cản.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh sức mạnh cơ bản của bí thể này\nTăng mạnh tỷ lệ đánh trúng của bí thể này\nTăng mạnh khả năng xuyên thủng linh khí hộ thuẫn của bí thể này</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_5">
+			<Prefix>Chân Dương Linh Lung</Prefix>
+			<Suffix>Tim</Suffix>
+			<Desc>Sử dụng lực chí dương để luyện tim, tăng mạnh khả năng bộc phát của người luyện thể.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình tốc độ luyện thể của người luyện thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh tỷ lệ nâng cao năng lực khi người luyện thể trong trạng thái cuồng nộ</Levels.1.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_6">
+			<Prefix>Huyền Âm Lưu Ly</Prefix>
+			<Suffix>Tim</Suffix>
+			<Desc>Sử dụng lực chí âm để luyện tim, tăng mạnh khả năng linh tính của người luyện thể.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình tỷ lệ né tránh của người luyện thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Giảm mạnh tiêu hao khi trấn áp pháp bảo của người luyện thể</Levels.1.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_7">
+			<Prefix>Thiên Long</Prefix>
+			<Suffix>Cột Sống</Suffix>
+			<Desc>Mô phỏng thân rồng, lấy đầu, cột sống, xương chậu làm lõi, khai thông toàn bộ hệ xương, khi cột sống vận động sẽ chỉ huy toàn thân, hiệu quả nâng cao khả năng tấn công của cơ thể.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng nửa phần sức mạnh của bí thể luyện thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng nửa phần sức mạnh của bí thể luyện thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng nửa phần sức mạnh của bí thể luyện thể</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_8">
+			<Prefix>Thiên Địa</Prefix>
+			<Suffix>Hồng Lô</Suffix>
+			<Desc>Phương pháp tu luyện bí mật được sáng tạo dựa trên nguyên lý giao hợp long hổ kết đan của người tu luyện Kim Đan. Dùng pháp lực dẫn tâm hoả từ ngũ tạng và lực thận thủy, biến dạ dày thành lò luyện, tăng cường đáng kể khả năng tiêu hóa thức ăn và sinh tinh nguyên. Khi đạt đến cực hạn có thể lĩnh ngộ phương pháp hô hấp cá voi, nhanh chóng luyện tinh hoa từ hư không.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình khả năng tiêu thụ thức ăn của người luyện thể  \nTăng trung bình khả năng bổ sung tinh nguyên của người luyện thể  \nTăng nhẹ lượng thức ăn của người luyện thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình tỷ lệ nhận được tinh hoa từ việc nuốt chửng vật phẩm của người luyện thể  \nTăng trung bình số lượng tinh hoa nhận được từ việc nuốt chửng vật phẩm của người luyện thể  \nTăng trung bình lượng thức ăn của người luyện thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng lớn khả năng tiêu thụ thức ăn của người luyện thể  \nTăng lớn khả năng bổ sung tinh nguyên của người luyện thể  \nTăng lớn lượng thức ăn của người luyện thể</Levels.2.Desc>
+			<Levels.3.Title>Trọng Thứ Tư</Levels.3.Title>
+			<Levels.3.Desc>Tăng lớn tỷ lệ nhận được tinh hoa từ việc nuốt chửng vật phẩm của người luyện thể  \nTăng lớn số lượng tinh hoa nhận được từ việc nuốt chửng vật phẩm của người luyện thể  \nTăng cực lớn lượng thức ăn của người luyện thể</Levels.3.Desc>
+			<Levels.4.Title>Trọng Thứ Năm</Levels.4.Title>
+			<Levels.4.Desc>Mở khóa thần thông: Pháp hô hấp cá voi</Levels.4.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_9">
+			<Prefix>Huyền Mộc Bàn Căn</Prefix>
+			<Suffix>Chân</Suffix>
+			<Desc>Bí thể nhập môn của người luyện thể, rất dễ luyện thành. Dùng lực linh mộc để ta luyện đôi chân, dựa vào ý nghĩa mộc khắc thổ mà cắm rễ xuống đất. Khi thi triển bí thể này giống như cây cổ thụ bám rễ, bất động trước tám phương gió.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ hiệu suất của bí thể này</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình tỷ lệ phòng thủ thành công của bí thể này</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng nhẹ độ bền bỉ của bí thể này từ gốc rễ</Levels.2.Desc>
+			<Levels.3.Title>Trọng Thứ Tư</Levels.3.Title>
+			<Levels.3.Desc>Tăng trung bình tỷ lệ trấn áp pháp bảo của bí thể này</Levels.3.Desc>
+			<Levels.4.Title>Trọng Thứ Năm</Levels.4.Title>
+			<Levels.4.Desc>Tăng trung bình độ bền bỉ của bí thể này từ gốc rễ</Levels.4.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_10">
+			<Prefix>Huyền Quy</Prefix>
+			<Suffix>Giáp</Suffix>
+			<Desc>Mô phỏng mai rùa của Huyền Quy, lấy xương sườn làm trung tâm, ta luyện cơ bắp ở eo, lưng, ngực và bụng thành một thể vững chắc, giống như mai rùa Huyền Quy, có thể hóa giải mọi lực bên ngoài.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình độ bền bỉ của bí thể này từ gốc rễ</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình tỷ lệ phòng thủ thành công của bí thể này</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng lớn độ bền bỉ của bí thể này từ gốc rễ</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_11">
+			<Prefix>Lục Ngự Trích Lôi</Prefix>
+			<Suffix>Tay·Trái</Suffix>
+			<Desc>Dùng bí pháp luyện xương tay thành rỗng, rót chân khí thúc đẩy giúp tăng độ linh hoạt, thậm chí có thể trích lôi đuổi điện trong hư không.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ tỷ lệ tấn công thành công của bí thể  \nTăng nhẹ tỷ lệ phòng thủ thành công của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng nhẹ tỷ lệ tấn công thành công của bí thể  \nTăng nhẹ tỷ lệ phòng thủ thành công của bí thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng nhẹ tỷ lệ tấn công thành công của bí thể  \nTăng nhẹ tỷ lệ phòng thủ thành công của bí thể</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_11_1">
+			<Prefix>Lục Ngự Trích Lôi</Prefix>
+			<Suffix>Tay·Phải</Suffix>
+			<Desc>Dùng bí pháp luyện xương tay thành rỗng, rót chân khí thúc đẩy giúp tăng độ linh hoạt, thậm chí có thể trích lôi đuổi điện trong hư không.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ tỷ lệ tấn công thành công của bí thể  \nTăng nhẹ tỷ lệ phòng thủ thành công của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng nhẹ tỷ lệ tấn công thành công của bí thể  \nTăng nhẹ tỷ lệ phòng thủ thành công của bí thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng nhẹ tỷ lệ tấn công thành công của bí thể  \nTăng nhẹ tỷ lệ phòng thủ thành công của bí thể</Levels.2.Desc>
+		</Text>
+	</List>
+</Texts>
+

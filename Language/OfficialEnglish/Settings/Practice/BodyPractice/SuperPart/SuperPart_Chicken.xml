@@ -1,0 +1,26 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Chicken_1">
+			<Prefix>Đại nhật</Prefix>
+			<Suffix>Thần Châm</Suffix>
+			<Desc>Bí thể trong huyết mạch truyền thừa của Kê Yêu, ngưng tụ lực Cửu Dương hội tụ vào mỏ, sau đó trao thêm lực phá diệt. Dùng để mổ tấn công, rất giỏi phá vỡ linh khí hộ thuẫn.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh uy lực bí thể từ gốc rễ\nTăng mạnh tỷ lệ xuyên thủng linh khí hộ thuẫn của bí thể.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Chicken_2">
+			<Prefix>Thiên Dương Chân Hình</Prefix>
+			<Suffix>Mào</Suffix>
+			<Desc>Bí thể trong huyết mạch truyền thừa của Kê Yêu, dùng lực mặt trời rèn luyện bảo mào trên đầu, luyện thành thuật này sẽ đạt hiệu quả gấp bội trong quá trình ta luyện thân thể.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh tốc độ ta luyện thân thể của người luyện thể.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Chicken_3">
+			<Prefix>Ngũ Sắc</Prefix>
+			<Suffix>Thần Quang</Suffix>
+			<Desc>Bí thể trong huyết mạch truyền thừa của Kê Yêu, nguyên mẫu từ vô căn vũ đuôi do Khổng Tước Yêu Thánh lĩnh ngộ đạo Ngũ Hành tiên thiên luyện thành, một khi luyện thành, không gì không quét sạch.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh tỷ lệ trấn áp pháp bảo của bí thể.</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,10 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_Cotton" sParam="Item">
+			<ThingName>Bông</ThingName>
+			<Desc>Một giỏ bông, là nguyên liệu chính để dệt vải. Ngoài việc trồng bông để thu hoạch, còn có thể thu thập từ Tiểu Lương Sơn thông qua rèn luyện.</Desc>
+			<Item.FabaoSuffix>Tơ, dây, dây thừng, lụa, chỉ</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>
+

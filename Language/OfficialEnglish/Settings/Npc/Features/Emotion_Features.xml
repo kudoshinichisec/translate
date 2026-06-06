@@ -1,0 +1,93 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Pessimism">
+			<DisplayName>Bi Quan</DisplayName>
+			<Desc>Người này rất bi quan, luôn nghĩ đến những điều không tốt.</Desc>
+		</Text>
+		<Text Name="Optimistic">
+			<DisplayName>Lạc Quan</DisplayName>
+			<Desc>Người này rất lạc quan, có thể tự làm bản thân vui vẻ.</Desc>
+		</Text>
+		<Text Name="Numbness">
+			<DisplayName>Tê Liệt Tinh Thần</DisplayName>
+			<Desc>Cuộc sống mưu sinh khiến tinh thần người này đã tê liệt, [IT] không suy nghĩ, cũng không vì cảm xúc tiêu cực mà lười biếng.</Desc>
+		</Text>
+		<Text Name="Sensitive">
+			<DisplayName>Nhạy Cảm</DisplayName>
+			<Desc>[IT] đầy tò mò với thế giới, đặc biệt không thể chấp nhận cuộc sống nhàm chán.</Desc>
+		</Text>
+		<Text Name="Enthusiasm">
+			<DisplayName>Nhiệt tình</DisplayName>
+			<Desc>[IT] luôn nhiệt tình với mọi người.</Desc>
+		</Text>
+		<Text Name="Distrust">
+			<DisplayName>Lạnh lùng</DisplayName>
+			<Desc>[IT] không tin rằng giữa người với người có tình cảm chân thật, không tin tưởng bất kỳ ai.</Desc>
+		</Text>
+		<Text Name="Strong">
+			<DisplayName>Kiên Cường</DisplayName>
+			<Desc>Ý chí của [IT] rất kiên định, có thể chịu đựng đau khổ.</Desc>
+		</Text>
+		<Text Name="Weak">
+			<DisplayName>Yếu Đuối</DisplayName>
+			<Desc>[IT] chưa từng trải qua khó khăn, cơn đau nhẹ cũng khiến [IT] không chịu nổi.</Desc>
+		</Text>
+		<Text Name="BadMentality">
+			<DisplayName>Nóng Nảy</DisplayName>
+			<Desc>[IT] luôn nóng nảy, không thể bình tĩnh làm việc.</Desc>
+		</Text>
+		<Text Name="GoodMentality">
+			<DisplayName>Tâm Như Nước Lặng</DisplayName>
+			<Desc>Tâm trạng của [IT] rất tốt, không vui vì vật ngoài thân, không buồn vì bản thân.</Desc>
+		</Text>
+		<Text Name="Rugged">
+			<DisplayName>Cẩu Thả</DisplayName>
+			<Desc>[IT] làm việc rất qua loa, luôn nhanh chóng hoàn thành, không chú trọng đến chi tiết.</Desc>
+		</Text>
+		<Text Name="Careful">
+			<DisplayName>Tỉ Mỉ</DisplayName>
+			<Desc>[IT] làm việc rất tỉ mỉ và cẩn thận, làm chậm nhưng làm tốt.</Desc>
+		</Text>
+		<Text Name="Lazy">
+			<DisplayName>Lười Biếng</DisplayName>
+			<Desc>[IT] rất lười, không muốn làm việc.</Desc>
+		</Text>
+		<Text Name="Industrious">
+			<DisplayName>Siêng Năng</DisplayName>
+			<Desc>[IT] rất siêng năng, làm việc hiệu quả.</Desc>
+		</Text>
+		<Text Name="Feminization">
+			<DisplayName>Yểu Điệu Nam Tính</DisplayName>
+			<Desc>[IT] tuy là nam giới nhưng làm việc và nói chuyện rất nữ tính.</Desc>
+		</Text>
+		<Text Name="Masculinity">
+			<DisplayName>Nữ Hán Tử</DisplayName>
+			<Desc>[IT] tuy là nữ giới nhưng lại có tính cách và hành động của nam giới.</Desc>
+		</Text>
+		<Text Name="Affinity">
+			<DisplayName>Thân Thiện</DisplayName>
+			<Desc>Người này có sức hút khiến người khác muốn gần gũi.</Desc>
+		</Text>
+		<Text Name="Cruel">
+			<DisplayName>Tàn Nhẫn</DisplayName>
+			<Desc>Người này rất khắc nghiệt, khiến người khác cảm thấy khó chịu.</Desc>
+		</Text>
+		<Text Name="HeartKnot">
+			<DisplayName>Tâm Kết</DisplayName>
+			<Desc>Người này mang nặng tâm sự, ngày đêm buồn bã, ngủ không ngon, thường bị ác mộng quấy rầy.</Desc>
+		</Text>
+		<Text Name="Depressed">
+			<DisplayName>Suy Sụp</DisplayName>
+			<Desc>Trải qua cú sốc tình cảm lớn, người này sống trong sự suy sụp kéo dài, không thể thoát ra.</Desc>
+		</Text>
+		<Text Name="Anatman">
+			<DisplayName>Thiên nhân hợp nhất</DisplayName>
+			<Desc>Tâm Trạng Đạt Đến Cảnh Giới Vô Ngã</Desc>
+		</Text>
+		<Text Name="FearFlame">
+			<DisplayName>Sợ lửa</DisplayName>
+			<Desc>Người này đặc biệt sợ lửa, không thể làm công việc liên quan đến lửa.</Desc>
+		</Text>
+	</List>
+</Texts>
+

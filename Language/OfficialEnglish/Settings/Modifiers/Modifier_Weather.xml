@@ -1,0 +1,235 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Weather_SunnyDay">
+			<DisplayName>Trời nắng</DisplayName>
+		</Text>
+		<Text Name="Weather_Overcast">
+			<DisplayName>Trời âm u</DisplayName>
+		</Text>
+		<Text Name="Weather_LightRain">
+			<DisplayName>Mưa nhỏ</DisplayName>
+		</Text>
+		<Text Name="Weather_HeavyRain">
+			<DisplayName>Mưa lớn</DisplayName>
+		</Text>
+		<Text Name="Weather_LightSnow">
+			<DisplayName>Tuyết nhỏ</DisplayName>
+		</Text>
+		<Text Name="Weather_HeavySnow">
+			<DisplayName>Tuyết lớn</DisplayName>
+		</Text>
+		<Text Name="Weather_DenseFog">
+			<DisplayName>Sương mù dày đặc</DisplayName>
+		</Text>
+		<Text Name="Weather_SpringAir">
+			<DisplayName>Hơi thở mùa xuân</DisplayName>
+		</Text>
+		<Text Name="Weather_Melancholy">
+			<DisplayName>Nỗi buồn tràn ngập</DisplayName>
+		</Text>
+		<Text Name="Weather_HarvestAir">
+			<DisplayName>Hơi thở mùa thu hoạch</DisplayName>
+		</Text>
+		<Text Name="Weather_Impetuous">
+			<DisplayName>Gió nóng nảy</DisplayName>
+		</Text>
+		<Text Name="Weather_Hail">
+			<DisplayName>Mưa đá</DisplayName>
+		</Text>
+		<Text Name="Weather_MouldRains">
+			<DisplayName>Mưa phùn</DisplayName>
+		</Text>
+		<Text Name="Weather_Drought">
+			<DisplayName>Hạn hán</DisplayName>
+		</Text>
+		<Text Name="Weather_Rainstorm">
+			<DisplayName>Mưa bão</DisplayName>
+		</Text>
+		<Text Name="Weather_Fohn">
+			<DisplayName>Gió nóng cháy</DisplayName>
+		</Text>
+		<Text Name="Weather_DustStorm">
+			<DisplayName>Bão cát</DisplayName>
+		</Text>
+		<Text Name="Weather_LingRarefiedWave">
+			<DisplayName>Triều khí linh kiệt</DisplayName>
+		</Text>
+		<Text Name="Weather_LingUpWave">
+			<DisplayName>Bùng nổ linh khí</DisplayName>
+		</Text>
+		<Text Name="Weather_HeatWave">
+			<DisplayName>Sóng nhiệt</DisplayName>
+		</Text>
+		<Text Name="Weather_ColdWave">
+			<DisplayName>Dòng lạnh</DisplayName>
+		</Text>
+		<Text Name="Weather_HeatWaveInWinter">
+			<DisplayName>Sóng nhiệt</DisplayName>
+		</Text>
+		<Text Name="Weather_ColdWaveInSummer">
+			<DisplayName>Dòng lạnh</DisplayName>
+		</Text>
+		<Text Name="Weather_PermanentNight">
+			<DisplayName>Đêm vĩnh cửu</DisplayName>
+		</Text>
+		<Text Name="Weather_Miasma">
+			<DisplayName>Khí độc</DisplayName>
+		</Text>
+		<Text Name="Weather_LightningStorm">
+			<DisplayName>Bão sấm sét</DisplayName>
+		</Text>
+		<Text Name="Weather_LuShu_SunnyDay">
+			<DisplayName>Trời nắng</DisplayName>
+		</Text>
+		<Text Name="Weather_Fei_HeavyRain">
+			<DisplayName>Mưa lớn</DisplayName>
+		</Text>
+		<Text Name="Weather_SpringFestival">
+			<DisplayName>Tết Nguyên Đán</DisplayName>
+		</Text>
+		<Text Name="Weather_ZuShiBiHu">
+			<DisplayName>Tổ sư che chở</DisplayName>
+		</Text>
+		<Text Name="Modifier_Weather_Magic_ZhenShuiJieJie">
+			<DisplayName>Cửu Âm Chân Thủy Giới</DisplayName>
+			<Desc>Trong giới Cửu Âm Chân Thủy, khả năng hồi phục tự nhiên và tốc độ hồi phục linh khí tăng đáng kể.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Magic_BeiDouJianJie">
+			<DisplayName>Bắc Đẩu Kiếm Giới</DisplayName>
+			<Desc>Trong giới Bắc Đẩu Kiếm, uy lực pháp bảo tăng đáng kể.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Magic_ZhenHuoJieJie">
+			<DisplayName>Cửu Dương Thần Hỏa Giới</DisplayName>
+			<Desc>Trong giới Cửu Dương Thần Hỏa, uy lực thuật pháp tăng đáng kể.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Season_DanQi">
+			<DisplayName>Alchemy Qi Overflowing</DisplayName>
+			<Desc>Bị bao quanh bởi khí đan đậm đặc.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_Wu">
+			<DisplayName>Alchemy Qi Overflowing (Primordial Qi)</DisplayName>
+			<Desc>Được bao quanh bởi đan khí nồng đậm, đạo hạnh bị giảm, tốc độ học tập được tăng.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_Jin">
+			<DisplayName>Đan khí tràn ngập (Kim Doanh Chi Khí)</DisplayName>
+			<Desc>Bị bao quanh bởi khí đan đậm đặc.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_Mu">
+			<DisplayName>Alchemy Qi Overflowing (Mộc Dư Qi)</DisplayName>
+			<Desc>Bị bao quanh bởi khí đan đậm đặc.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_Shui">
+			<DisplayName>Đan khí tràn ngập (Thủy Doanh Chi Khí)</DisplayName>
+			<Desc>Bị bao quanh bởi khí đan đậm đặc.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_Huo">
+			<DisplayName>Alchemy Qi Overflowing (Fire Overflow Qi)</DisplayName>
+			<Desc>Bị bao quanh bởi khí đan đậm đặc.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_Tu">
+			<DisplayName>Alchemy Qi Overflowing (Earth Overflow Qi)</DisplayName>
+			<Desc>Bị bao quanh bởi khí đan đậm đặc.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinMu">
+			<DisplayName>Alchemy Qi Overflowing (Exhaustion Qi)</DisplayName>
+			<Desc>Được bao bọc bởi khí đan dược đậm đặc, tốc độ đốn gỗ và thu hoạch tăng lên.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinShui">
+			<DisplayName>Alchemy Qi Overflowing (Art Booster Qi)</DisplayName>
+			<Desc>Được bao quanh bởi linh khí đan dược nồng đậm, tốc độ thủ công và may vá tăng lên.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinHuo">
+			<DisplayName>Alchemy Qi Overflowing (Melting Qi)</DisplayName>
+			<Desc>Được bao bọc bởi khí đan đậm đặc, Khai thác tốc độ tăng lên.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinTu">
+			<DisplayName>Alchemy Qi Overflowing (Condensed Qi)</DisplayName>
+			<Desc>Được bao phủ bởi đan khí đậm đặc, sản lượng khai thác tăng.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_MuShui">
+			<DisplayName>Alchemy Qi Overflowing (繁育之气)</DisplayName>
+			<Desc>Được bao phủ bởi đan khí đậm đặc, sản lượng thu hoạch tăng.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_MuHuo">
+			<DisplayName>Alchemy Qi Overflowing (尽灼之气)</DisplayName>
+			<Desc>Được bao bọc bởi khí đan dược đậm đặc, tốc độ rèn đúc và nấu nướng tăng lên.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_MuTu">
+			<DisplayName>Alchemy Qi Overflowing (Bound Qi)</DisplayName>
+			<Desc>Được bao phủ bởi đan khí đậm đặc, tốc độ xây dựng tăng.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_ShuiHuo">
+			<DisplayName>Alchemy Qi Overflowing (Waning Flame Qi)</DisplayName>
+			<Desc>Được bao quanh bởi linh khí đan dược nồng đậm, tốc độ và tỷ lệ cứu trợ thành công tăng lên.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_ShuiTu">
+			<DisplayName>Alchemy Qi Overflowing (Overflowing Storage Qi)</DisplayName>
+			<Desc>Được bao bọc bởi đan khí đậm đặc, hiệu quả điều trị dự kiến và khả năng hồi phục tự nhiên tăng lên.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_HuoTu">
+			<DisplayName>Alchemy Qi Overflowing (Ashen Qi)</DisplayName>
+			<Desc>Được bao quanh bởi đan khí nồng đậm, tốc độ tháo dỡ và tốc độ gia công đá được tăng cao.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinMuShui">
+			<DisplayName>Alchemy Qi Overflowing (Exuberant Qi)</DisplayName>
+			<Desc>Được bao quanh bởi đan khí nồng đậm, độ phù hợp với công pháp thuộc tính mộc được nâng cao.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinMuHuo">
+			<DisplayName>Alchemy Qi Overflowing (Viridescent Qi)</DisplayName>
+			<Desc>Được bao phủ bởi đan khí đậm đặc, sản lượng luyện đan tăng.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinMuTu">
+			<DisplayName>Alchemy Qi Overflowing (Ji Earth Qi)</DisplayName>
+			<Desc>Được bao quanh bởi Đan Khí đậm đặc, tốc độ Kiến Cơ, tu luyện, giá trị Tâm Cảnh đều được tăng cao.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinShuiHuo">
+			<DisplayName>Alchemy Qi Overflowing (辛金之气)</DisplayName>
+			<Desc>Được bao bọc bởi đan khí dày đặc, tỷ lệ luyện thành thần khí tăng lên.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinShuiTu">
+			<DisplayName>Đan khí tràn ngập (Nhâm Thủy Chi Khí)</DisplayName>
+			<Desc>Được bao quanh bởi linh khí đan dược nồng đậm, độ tương thích công pháp thủy thuộc tính tăng lên.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinHuoTu">
+			<DisplayName>Alchemy Qi Overflowing (庚金之气)</DisplayName>
+			<Desc>Được bao quanh bởi linh khí đan dược nồng đậm, độ tương thích công pháp kim thuộc tính tăng lên.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_MuShuiHuo">
+			<DisplayName>Alchemy Qi Overflowing (Bing Fire Qi)</DisplayName>
+			<Desc>Được bao quanh bởi linh khí đan dược nồng đậm, độ tương thích công pháp hỏa thuộc tính tăng lên.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_MuShuiTu">
+			<DisplayName>Alchemy Qi Overflowing (Gui Water Qi)</DisplayName>
+			<Desc>Được bao bọc bởi khí đan dược đậm đặc, tốc độ luyện chế đan dược tăng lên.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_MuHuoTu">
+			<DisplayName>Alchemy Qi Overflowing (Wu Earth Qi)</DisplayName>
+			<Desc>Được bao quanh bởi linh khí đan dược nồng đậm, độ tương thích công pháp thổ thuộc tính tăng lên.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_ShuiHuoTu">
+			<DisplayName>Alchemy Qi Overflowing (Ding Fire Qi)</DisplayName>
+			<Desc>Được bao bọc bởi khí đan dược đậm đặc, tốc độ luyện chế pháp bảo tăng lên.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_NoJin">
+			<DisplayName>Đan khí tràn ngập (Kim Tuyệt Chi Khí)</DisplayName>
+			<Desc>Bị bao quanh bởi khí đan đậm đặc.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_NoMu">
+			<DisplayName>Đan khí tràn ngập (Mộc Tuyệt Chi Khí)</DisplayName>
+			<Desc>Bị bao quanh bởi khí đan đậm đặc.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_NoShui">
+			<DisplayName>Alchemy Qi Overflowing (Water Sever Qi)</DisplayName>
+			<Desc>Bị bao quanh bởi khí đan đậm đặc.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_NoHuo">
+			<DisplayName>Alchemy Qi Overflowing (Fire Sever Qi)</DisplayName>
+			<Desc>Bị bao quanh bởi khí đan đậm đặc.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_NoTu">
+			<DisplayName>Đan khí tràn ngập (Thổ Tuyệt Chi Khí)</DisplayName>
+			<Desc>Bị bao quanh bởi khí đan đậm đặc.</Desc>
+		</Text>
+	</List>
+</Texts>
+

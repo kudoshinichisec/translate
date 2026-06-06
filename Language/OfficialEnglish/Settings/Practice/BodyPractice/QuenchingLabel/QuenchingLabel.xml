@@ -1,0 +1,527 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BQLabel_LOST">
+			<DisplayName>Vật Bị Lạc</DisplayName>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Base">
+			<DisplayName>Xác Từ Điều</DisplayName>
+		</Text>
+		<Text Name="QuenchingLabel_Special1">
+			<DisplayName>Cửu Liệt Chi Tích</DisplayName>
+			<Desc>Dùng bí pháp đặc biệt để luyện cột sống, khiến nó biến đổi hoàn toàn. [size=10][color=#D06508]\nTăng mạnh giới hạn mục luyện cốt của luyện thể giả[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Special2">
+			<DisplayName>Thái Hư Chi Não</DisplayName>
+			<Desc>Dùng bí pháp đặc biệt để luyện não, khiến nó biến đổi hoàn toàn. [size=10][color=#D06508]\nTăng mạnh giới hạn mục luyện cơ quan của luyện thể giả[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Special3">
+			<DisplayName>Siêu Việt Chi Tâm</DisplayName>
+			<Desc>Dùng bí pháp đặc biệt để luyện tim, khiến nó biến đổi hoàn toàn. [size=10][color=#D06508]\nTăng mạnh giới hạn mục luyện huyết nhục của luyện thể giả[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Base_Organ">
+			<DisplayName>Bách Luyện Tạng Phủ</DisplayName>
+			<Desc>Cơ quan nội tạng sau khi luyện, sinh khí trở nên dồi dào hơn. Sử dụng tinh hoa sinh khí, bản nguyên sinh mệnh, mệnh nguyên tạo hóa để luyện thân thể, có thể tăng tốc quá trình này. [size=10][color=#D06508]\nTăng nhẹ tối đa chân khí của luyện thể giả\nTăng nhỏ tốc độ hồi phục chân khí của bí thể thuộc về\nTăng nhẹ cường độ cơ thể của luyện thể giả[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Base_Bone">
+			<DisplayName>Bách Luyện Cốt Cách</DisplayName>
+			<Desc>Thân thể sau khi luyện, trở nên cứng cáp hơn. Sử dụng tinh hoa sinh khí, bản nguyên sinh mệnh, mệnh nguyên tạo hóa để luyện thân thể, có thể tăng tốc quá trình này. [size=10][color=#D06508]\nTăng trung bình từ gốc rễ uy lực của bí thể thuộc về\nTăng trung bình từ gốc rễ độ cứng cáp của bí thể thuộc về\nTăng nhẹ tối đa chân khí của luyện thể giả\nTăng nhỏ tốc độ tiêu hao chân khí của bí thể thuộc về\nTăng nhỏ cường độ cơ thể của luyện thể giả\nTăng nhỏ tuổi thọ của luyện thể giả\nTăng nhỏ lượng thức ăn của luyện thể giả[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Base_Flesh">
+			<DisplayName>Bách Luyện Huyết Nhục</DisplayName>
+			<Desc>Máu thịt sau khi được ta luyện trở nên linh hoạt hơn. Sử dụng tinh hoa sinh cơ, nguồn gốc sinh mệnh, tạo hóa mệnh nguyên để ta luyện cơ thể có thể đẩy nhanh quá trình này. [size=10][color=#D06508]\nTăng nhẹ sức mạnh cơ bản của bí thể thuộc tính\nTăng nhẹ độ bền cơ bản của bí thể thuộc tính\nTăng nhẹ độ chính xác tấn công cơ bản của bí thể thuộc tính\nTăng nhẹ tỷ lệ phòng thủ thành công cơ bản của bí thể thuộc tính\nTăng rất ít giá trị chân khí tối đa của người luyện thể\nTăng nhẹ tốc độ tiêu hao chân khí của bí thể thuộc tính\nTăng nhẹ cường độ cơ thể của người luyện thể\nTăng nhẹ tuổi thọ của người luyện thể\nTăng nhẹ lượng ăn của người luyện thể[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Spine">
+			<DisplayName>Bách Luyện Chi Tích</DisplayName>
+			<Desc>Cột sống sau khi được ta luyện trở nên bền bỉ hơn. Sử dụng tinh hoa sinh cơ, nguồn gốc sinh mệnh, tạo hóa mệnh nguyên để ta luyện cơ thể có thể đẩy nhanh quá trình này. [size=10][color=#D06508]\nTăng nhẹ sức mạnh cơ bản của bí thể thuộc tính\nTăng nhẹ độ bền cơ bản của bí thể thuộc tính\nTăng rất ít giá trị chân khí tối đa của người luyện thể\nTăng nhẹ tốc độ tiêu hao chân khí của bí thể thuộc tính\nTăng nhẹ cường độ cơ thể của người luyện thể\nTăng nhẹ tuổi thọ của người luyện thể\nTăng nhẹ lượng ăn của người luyện thể\nTăng rất ít giới hạn mục tiêu ta luyện xương của người luyện thể[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Brain">
+			<DisplayName>Bách Luyện Chi Não</DisplayName>
+			<Desc>Não sau khi được ta luyện, chức năng cơ bản được tăng cường. Sử dụng tinh hoa sinh cơ, nguồn gốc sinh mệnh, tạo hóa mệnh nguyên để ta luyện có thể đẩy nhanh quá trình này. [size=10][color=#D06508]\nTăng rất ít số lượng ký ức tối đa của hồi ức đau khổ\nTăng rất ít thời gian duy trì cơn thịnh nộ của người luyện thể\nTăng nhẹ tốc độ tiêu hao chân khí của bí thể thuộc tính\nTăng đáng kể khả năng chịu đau của người luyện thể\nTăng rất ít giới hạn mục tiêu ta luyện cơ quan của người luyện thể[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Eye">
+			<DisplayName>Bách Luyện Chi Nhãn</DisplayName>
+			<Desc>Mắt sau khi được ta luyện, chức năng cơ bản được tăng cường. Sử dụng tinh hoa sinh cơ, nguồn gốc sinh mệnh, tạo hóa mệnh nguyên để ta luyện có thể đẩy nhanh quá trình này. [size=10][color=#D06508]\nTăng rất ít tỷ lệ né tránh toàn cục của người luyện thể\nTăng rất ít độ chính xác tấn công của tất cả bí thể thuộc tính\nTăng rất ít tỷ lệ phòng thủ thành công của tất cả bí thể thuộc tính\nTăng rất ít tỷ lệ trấn áp pháp bảo của tất cả bí thể thuộc tính\nTăng rất ít phạm vi cảm nhận của người luyện thể\nTăng nhẹ tốc độ tiêu hao chân khí của bí thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Ear">
+			<DisplayName>Bách Luyện Chi Nhĩ</DisplayName>
+			<Desc>Tai sau khi được ta luyện, chức năng cơ bản được tăng cường. Sử dụng tinh hoa sinh cơ, nguồn gốc sinh mệnh, tạo hóa mệnh nguyên để ta luyện có thể đẩy nhanh quá trình này. [size=10][color=#D06508]\nTăng rất ít tỷ lệ né tránh toàn cục của người luyện thể\nTăng rất ít độ chính xác tấn công của tất cả bí thể thuộc tính\nTăng rất ít tỷ lệ phòng thủ thành công của tất cả bí thể thuộc tính\nTăng rất ít tỷ lệ trấn áp pháp bảo của tất cả bí thể thuộc tính\nTăng nhẹ tốc độ tiêu hao chân khí của bí thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Nose">
+			<DisplayName>Bách Luyện Chi Tị</DisplayName>
+			<Desc>Mũi sau khi được ta luyện, chức năng cơ bản được tăng cường. Sử dụng tinh hoa sinh cơ, nguồn gốc sinh mệnh, tạo hóa mệnh nguyên để ta luyện có thể đẩy nhanh quá trình này. [size=10][color=#D06508]\nTăng rất ít tốc độ hồi phục chân khí của người luyện thể\nTăng rất ít hiệu suất hô hấp của người luyện thể\nTăng nhẹ tốc độ tiêu hao chân khí của bí thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Mouth">
+			<DisplayName>Bách Luyện Chi Khẩu</DisplayName>
+			<Desc>Miệng sau khi được ta luyện, chức năng cơ bản được tăng cường. Sử dụng tinh hoa sinh cơ, nguồn gốc sinh mệnh, tạo hóa mệnh nguyên để ta luyện có thể đẩy nhanh quá trình này. [size=10][color=#D06508]\nTăng rất ít cấp bậc cao nhất của vật phẩm mà người luyện thể có thể nuốt\nTăng rất ít tỷ lệ nhận được tinh hoa từ vật phẩm nuốt\nTăng rất ít số lượng tinh hoa nhận được từ vật phẩm nuốt\nTăng nhẹ tốc độ tiêu hao chân khí của bí thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Throat">
+			<DisplayName>Bách Luyện Chi Hầu</DisplayName>
+			<Desc>Họng sau khi được ta luyện, chức năng cơ bản được tăng cường. Sử dụng tinh hoa sinh cơ, nguồn gốc sinh mệnh, tạo hóa mệnh nguyên để ta luyện có thể đẩy nhanh quá trình này. [size=10][color=#D06508]\nTăng rất ít tốc độ hồi phục chân khí của người luyện thể\nTăng rất ít hiệu suất hô hấp của người luyện thể\nTăng nhẹ tốc độ tiêu hao chân khí của bí thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Heart">
+			<DisplayName>Bách Luyện Chi Tâm</DisplayName>
+			<Desc>Tim sau khi được ta luyện, chức năng cơ bản được tăng cường. Sử dụng tinh hoa sinh cơ, nguồn gốc sinh mệnh, tạo hóa mệnh nguyên để ta luyện có thể đẩy nhanh quá trình này. [size=10][color=#D06508]\nTăng rất ít tỷ lệ nâng cao năng lực khi người luyện thể ở trạng thái thịnh nộ\nTăng rất ít tốc độ ta luyện cơ thể của người luyện thể\nTăng rất ít giới hạn mục tiêu ta luyện máu thịt của người luyện thể\nTăng nhẹ tốc độ tiêu hao chân khí của bí thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Liver">
+			<DisplayName>Bách Luyện Chi Can</DisplayName>
+			<Desc>Gan đã được ta luyện, chức năng cơ bản được tăng cường. Sử dụng tinh hoa sinh cơ, nguồn sống, mệnh nguyên tạo hóa để ta luyện có thể tăng tốc quá trình này. [size=10][color=#D06508]\nTăng nhẹ tốc độ luyện thể của người luyện thể\nTăng nhẹ số lượng tinh hoa thu được khi người luyện thể hấp thụ vật phẩm\nTăng nhẹ tốc độ tiêu hao chân khí của thể bí thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Spleen">
+			<DisplayName>Bách Luyện Chi Tỳ</DisplayName>
+			<Desc>Lá lách đã được ta luyện, chức năng cơ bản được tăng cường. Sử dụng tinh hoa sinh cơ, nguồn sống, mệnh nguyên tạo hóa để ta luyện có thể tăng tốc quá trình này. [size=10][color=#D06508]\nTăng nhẹ tốc độ tự hồi phục cơ thể của người luyện thể\nTăng nhẹ tốc độ tiêu hao chân khí của thể bí thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Lung">
+			<DisplayName>Bách Luyện Chi Phế</DisplayName>
+			<Desc>Phổi đã được ta luyện, chức năng cơ bản được tăng cường. Sử dụng tinh hoa sinh cơ, nguồn sống, mệnh nguyên tạo hóa để ta luyện có thể tăng tốc quá trình này. [size=10][color=#D06508]\nTăng nhẹ tốc độ hồi phục chân khí của người luyện thể\nTăng nhẹ hiệu suất thổ nạp của người luyện thể\nTăng nhẹ tốc độ tiêu hao chân khí của thể bí thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Kidney">
+			<DisplayName>Bách Luyện Chi Thận</DisplayName>
+			<Desc>Thận đã được ta luyện, chức năng cơ bản được tăng cường. Sử dụng tinh hoa sinh cơ, nguồn sống, mệnh nguyên tạo hóa để ta luyện có thể tăng tốc quá trình này. [size=10][color=#D06508]\nTăng nhẹ tốc độ hồi phục chân khí của người luyện thể\nTăng nhẹ giới hạn chân khí của người luyện thể\nTăng trung bình tỷ lệ thu được tinh nguyên của người luyện thể\nTăng nhẹ tốc độ tiêu hao chân khí của thể bí thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Stomach">
+			<DisplayName>Bách Luyện Chi Vị</DisplayName>
+			<Desc>Dạ dày đã được ta luyện, chức năng cơ bản được tăng cường. Sử dụng tinh hoa sinh cơ, nguồn sống, mệnh nguyên tạo hóa để ta luyện có thể tăng tốc quá trình này. [size=10][color=#D06508]\nTăng nhẹ phẩm cấp cao nhất của vật phẩm mà người luyện thể có thể hấp thụ\nTăng nhẹ tỷ lệ thu được tinh hoa từ vật phẩm mà người luyện thể hấp thụ\nTăng nhẹ số lượng tinh hoa thu được từ vật phẩm mà người luyện thể hấp thụ\nTăng trung bình hiệu suất tiêu thụ thức ăn của người luyện thể\nTăng trung bình tỷ lệ thu được tinh nguyên của người luyện thể\nTăng nhẹ tốc độ tiêu hao chân khí của thể bí thuộc tính\nTăng nhiều lượng thức ăn tiêu thụ của người luyện thể[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Intestines">
+			<DisplayName>Bách Luyện Chi Tràng</DisplayName>
+			<Desc>Ruột đã được ta luyện, chức năng cơ bản được tăng cường. Sử dụng tinh hoa sinh cơ, nguồn sống, mệnh nguyên tạo hóa để ta luyện có thể tăng tốc quá trình này. [size=10][color=#D06508]\nTăng nhẹ phẩm cấp cao nhất của vật phẩm mà người luyện thể có thể hấp thụ\nTăng nhẹ tỷ lệ thu được tinh hoa từ vật phẩm mà người luyện thể hấp thụ\nTăng nhẹ số lượng tinh hoa thu được từ vật phẩm mà người luyện thể hấp thụ\nTăng trung bình hiệu suất tiêu thụ thức ăn của người luyện thể\nTăng trung bình tỷ lệ thu được tinh nguyên của người luyện thể\nTăng nhẹ tốc độ tiêu hao chân khí của thể bí thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Genitals">
+			<DisplayName>Bách Luyện Chi Khí</DisplayName>
+			<Desc>Dương căn đã được ta luyện, chức năng cơ bản được tăng cường. Sử dụng tinh hoa sinh cơ, nguồn sống, mệnh nguyên tạo hóa để ta luyện có thể tăng tốc quá trình này. [size=10][color=#D06508]\nTăng nhẹ giá trị cơ bản cảm xúc của người luyện thể\nTăng nhẹ tốc độ tiêu hao chân khí của thể bí thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_F01_All">
+			<DisplayName>Linh Hóa Huyết Nhục</DisplayName>
+			<Desc>Huyết nhục trở nên linh hoạt hơn, thậm chí có thể chuyển động theo ý muốn, sự thay đổi này có tỷ lệ cao hơn khi luyện huyết nhục bình thường. Sử dụng linh cơ phong thủy để ta luyện sẽ tăng đáng kể tỷ lệ này. [size=10][color=#D06508]\nTăng nhẹ tỷ lệ tấn công trúng mục tiêu của thể bí thuộc tính từ gốc\nTăng nhẹ tỷ lệ phòng thủ thành công của thể bí thuộc tính từ gốc[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_B01_All">
+			<DisplayName>Nhuệ Hóa Cốt Cách</DisplayName>
+			<Desc>Xương trở nên sắc bén hơn, gia tăng tính công kích. Sự thay đổi này có tỷ lệ cao hơn khi luyện xương bình thường. Sử dụng sát lực phong thủy để ta luyện sẽ tăng đáng kể tỷ lệ này. [size=10][color=#D06508]\nTăng nhẹ uy lực của thể bí thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_B02_All">
+			<DisplayName>Cương Hóa Cốt Cách</DisplayName>
+			<Desc>Xương trở nên cứng cáp hơn, khả năng chống chịu sát thương tăng lên. Sự thay đổi này có tỷ lệ cao hơn khi luyện xương bình thường. Sử dụng sát lực phong thủy để ta luyện sẽ tăng đáng kể tỷ lệ này. [size=10][color=#D06508]\nTăng nhẹ độ bền của thể bí thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_O01_All">
+			<DisplayName>Cơ Năng Hoạt Hóa</DisplayName>
+			<Desc>Chức năng của cơ quan được kích hoạt mạnh mẽ hơn, cung cấp thêm chân khí cho người luyện thể. Sự thay đổi này có tỷ lệ cao hơn khi luyện nội tạng bình thường. Sử dụng linh cơ phong thủy để ta luyện sẽ tăng đáng kể tỷ lệ này. [size=10][color=#D06508]\nTăng nhẹ giới hạn chân khí tối đa của người luyện thể[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F01_All">
+			<DisplayName>Huyết Nhục Tăng Sinh</DisplayName>
+			<Desc>Huyết nhục phát triển mạnh mẽ, trở nên dày dặn và rắn chắc hơn. Sự thay đổi này có tỷ lệ xảy ra khi luyện huyết nhục bình thường. Sử dụng sát lực phong thủy để ta luyện sẽ tăng đáng kể tỷ lệ này. [size=10][color=#D06508]\nTăng trung bình độ bền của thể bí thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F02_All">
+			<DisplayName>Xâm Thực Chi Huyết</DisplayName>
+			<Desc>Máu trở nên có tính ăn mòn, lưu thông nhanh hơn khi người luyện thể tấn công. Sự thay đổi này có tỷ lệ xảy ra khi luyện huyết nhục bình thường. Sử dụng sát lực phong thủy để ta luyện sẽ tăng đáng kể tỷ lệ này. [size=10][color=#D06508]\nTăng trung bình uy lực của thể bí thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B01_All">
+			<DisplayName>Huyền Sát Chi Cốt</DisplayName>
+			<Desc>Huyền Sát gắn liền với xương cốt, khi tấn công có sức xuyên thấu mạnh mẽ, sự biến đổi này có khả năng xảy ra trong quá trình tôi luyện xương cốt thông thường. Nếu sử dụng sức mạnh phong thủy để tôi luyện, thì tỷ lệ này sẽ được tăng cường đáng kể trên cơ sở đó. [size=16][color=#D06508]\nTăng cường đáng kể tỷ lệ xuyên thấu của lá chắn linh khí thuộc về bí thể[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O01_All">
+			<DisplayName>Vô Sinh Chi Tức</DisplayName>
+			<Desc>Cơ quan ẩn chứa huyền cơ, có thể tạo ra chân khí từ hư không. Sự thay đổi này có tỷ lệ xảy ra khi luyện cơ quan bình thường. Sử dụng linh cơ phong thủy để ta luyện sẽ tăng đáng kể tỷ lệ này. [size=10][color=#D06508]\nTăng trung bình tốc độ hồi phục chân khí của thể bí thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_All">
+			<DisplayName>Hoạt Hóa Huyết Nhục</DisplayName>
+			<Desc>Huyết nhục hoạt hóa, tự động căng cứng khi gặp nguy hiểm. Sự thay đổi này có tỷ lệ nhỏ xảy ra khi luyện huyết nhục bình thường. Sử dụng linh cơ phong thủy để ta luyện sẽ tăng đáng kể tỷ lệ này. [size=10][color=#D06508]\nTăng nhẹ tỷ lệ trấn áp pháp bảo của thể bí thuộc tính từ gốc[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_All">
+			<DisplayName>Thông Linh Ngọc Cốt</DisplayName>
+			<Desc>Xương trở nên linh hoạt hơn, chuyển động theo ý muốn. Sự thay đổi này có tỷ lệ nhỏ xảy ra khi luyện xương bình thường. Sử dụng linh cơ phong thủy để ta luyện sẽ tăng đáng kể tỷ lệ này. [size=10][color=#D06508]\nTăng nhẹ tỷ lệ tấn công trúng mục tiêu của thể bí thuộc tính từ gốc\nTăng nhẹ tỷ lệ phòng thủ thành công của thể bí thuộc tính từ gốc[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_All">
+			<DisplayName>Tuyệt Cảnh Tiềm Năng</DisplayName>
+			<Desc>Kích phát tiềm năng ẩn trong cơ quan, có thể bùng nổ trong tình huống nguy cấp. Sự thay đổi này có tỷ lệ nhỏ xảy ra khi luyện cơ quan bình thường. Sử dụng sát lực phong thủy để ta luyện sẽ tăng đáng kể tỷ lệ này. [size=10][color=#D06508]\nGiảm nhẹ thời gian suy yếu của người luyện thể sau khi cạn kiệt chân khí[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O02_All">
+			<DisplayName>Tiên Thiên Phản Chiếu</DisplayName>
+			<Desc>Cơ quan hòa nhập một luồng tiên thiên chi khí, có thể sản sinh chân khí liên tục. Sự thay đổi này có tỷ lệ nhỏ xảy ra khi luyện cơ quan bình thường. Sử dụng linh cơ phong thủy để ta luyện sẽ tăng đáng kể tỷ lệ này. [size=10][color=#D06508]\nTăng trung bình tốc độ hồi phục chân khí của người luyện thể[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_F01_All">
+			<DisplayName>Nguyên Tổ Hóa</DisplayName>
+			<Desc>Thức tỉnh huyết mạch tổ tiên từ hàng triệu năm trước, làm huyết nhục được tăng cường đáng kể. Sự thay đổi này có tỷ lệ cực nhỏ xảy ra khi luyện cơ quan bình thường. [size=10][color=#D06508]\nTăng nhiều tỷ lệ tấn công trúng mục tiêu của thể bí thuộc tính từ gốc\nTăng nhiều tỷ lệ phòng thủ thành công của thể bí thuộc tính từ gốc[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_B01_All">
+			<DisplayName>Nguyên Tổ Hóa</DisplayName>
+			<Desc>Thức tỉnh huyết mạch tổ tiên từ hàng triệu năm trước, làm xương được tăng cường đáng kể. Sự thay đổi này có tỷ lệ cực nhỏ xảy ra khi luyện cơ quan bình thường. [size=10][color=#D06508]\nTăng nhiều uy lực của thể bí thuộc tính\nTăng nhiều độ bền của thể bí thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_O01_All">
+			<DisplayName>Nguyên Tổ Hóa</DisplayName>
+			<Desc>Thức tỉnh huyết mạch tổ tiên từ hàng triệu năm trước, làm cơ quan được tăng cường đáng kể. Sự thay đổi này có tỷ lệ cực nhỏ xảy ra khi luyện cơ quan bình thường. [size=10][color=#D06508]\nTăng nhiều giới hạn chân khí tối đa của người luyện thể[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_A01_Jin">
+			<DisplayName>Kim Linh Hóa</DisplayName>
+			<Desc>Rèn lực Kim Linh vào cơ thể, khiến cơ thể mang hiệu quả linh khí của Kim. Biến đổi này có xác suất nhỏ xuất hiện khi luyện hóa cơ thể thông thường. Sử dụng Kim Tinh luyện hóa, xác suất này sẽ được tăng lên đáng kể. [size=10][color=#D06508]\n Tăng nhẹ khả năng xuyên thấu khiên linh khí của bí thể thuộc về cơ thể[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_A01_Mu">
+			<DisplayName>Mộc Linh Hóa</DisplayName>
+			<Desc>Rèn lực Mộc Linh vào cơ thể, khiến cơ thể mang hiệu quả linh khí của Mộc. Biến đổi này có xác suất nhỏ xuất hiện khi luyện hóa cơ thể thông thường. Sử dụng Mộc Tinh luyện hóa, xác suất này sẽ được tăng lên đáng kể. [size=10][color=#D06508]\n Tăng nhẹ khả năng chính xác tấn công của bí thể thuộc về cơ thể\n Tăng nhẹ khả năng thành công phòng thủ của bí thể thuộc về cơ thể[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_A01_Shui">
+			<DisplayName>Thủy Linh Hóa</DisplayName>
+			<Desc>Luyện nhập sức mạnh của Thủy Linh vào cơ thể, khiến nó có hiệu quả linh hoạt của nước. Loại biến đổi này có xác suất nhỏ đạt được trong quá trình luyện hóa cơ thể thông thường. Sử dụng Tinh Thủy để luyện hóa sẽ tăng đáng kể xác suất này. [size=10][color=#D06508]\nHơi tăng tốc độ hồi phục chân khí của bí thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_A01_Huo">
+			<DisplayName>Hỏa Linh Hóa</DisplayName>
+			<Desc>Luyện nhập sức mạnh của Hỏa Linh vào cơ thể, khiến nó có hiệu quả linh hoạt của lửa. Loại biến đổi này có xác suất nhỏ đạt được trong quá trình luyện hóa cơ thể thông thường. Sử dụng Tinh Hỏa để luyện hóa sẽ tăng đáng kể xác suất này. [size=10][color=#D06508]\nHơi tăng sức mạnh của bí thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_A01_Tu">
+			<DisplayName>Thổ Linh Hóa</DisplayName>
+			<Desc>Luyện nhập sức mạnh của Thổ Linh vào cơ thể, khiến nó có hiệu quả linh hoạt của đất. Loại biến đổi này có xác suất nhỏ đạt được trong quá trình luyện hóa cơ thể thông thường. Sử dụng Tinh Thổ để luyện hóa sẽ tăng đáng kể xác suất này. [size=10][color=#D06508]\nHơi tăng độ bền của bí thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F01_Chun">
+			<DisplayName>Tái Sinh Chi Huyết</DisplayName>
+			<Desc>Máu có khả năng tái sinh nhất định, có thể giảm tải tiêu hao chân khí khi sử dụng. Loại biến đổi này có xác suất cao hơn đạt được khi sử dụng Tinh Hoa Mầm Sống để luyện hóa máu thịt. [size=10][color=#D06508]\nGiảm vừa tốc độ tiêu hao chân khí của bí thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B01_Chun">
+			<DisplayName>Phục Nguyên Chi Cốt</DisplayName>
+			<Desc>Xương có khả năng tự phục hồi nhất định, có thể giảm tải tiêu hao chân khí khi sử dụng. Loại biến đổi này có xác suất cao hơn đạt được khi sử dụng Tinh Hoa Mầm Sống để luyện hóa xương. [size=10][color=#D06508]\nGiảm vừa tốc độ tiêu hao chân khí của bí thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O01_Chun">
+			<DisplayName>Cơ Năng Phục Tân</DisplayName>
+			<Desc>Cơ quan có khả năng tái tạo và thay đổi, có thể sản sinh nhiều chân khí hơn. Loại biến đổi này có xác suất cao hơn đạt được khi sử dụng Tinh Hoa Mầm Sống để luyện hóa cơ quan. [size=10][color=#D06508]\nTăng vừa tốc độ hồi phục chân khí của bí thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F01_Xia">
+			<DisplayName>Kích Dũng Chi Huyết</DisplayName>
+			<Desc>Lưu thông máu trở nên mãnh liệt, khiến phản ứng của cơ thể nhanh nhẹn hơn. Loại biến đổi này có xác suất cao hơn đạt được khi sử dụng Tinh Hoa Thịnh Phóng để luyện hóa máu thịt. [size=10][color=#D06508]\nHơi tăng tỷ lệ đánh trúng của bí thể thuộc tính\nHơi tăng tỷ lệ phòng thủ thành công của bí thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B01_Xia">
+			<DisplayName>Kích Sinh Chi Cốt</DisplayName>
+			<Desc>Xương phát triển lại, làm tăng cường độ thêm một bước. Loại biến đổi này có xác suất cao hơn đạt được khi sử dụng Tinh Hoa Thịnh Phóng để luyện hóa xương. [size=10][color=#D06508]\nHơi tăng sức mạnh của bí thể thuộc tính\nHơi tăng độ bền của bí thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O01_Xia">
+			<DisplayName>Cơ Năng Kích Hóa</DisplayName>
+			<Desc>Chức năng cơ quan được kích phát, có sức bùng nổ mạnh mẽ hơn vào thời điểm quan trọng. Loại biến đổi này có xác suất cao hơn đạt được khi sử dụng Tinh Hoa Thịnh Phóng để luyện hóa cơ quan. [size=10][color=#D06508]\nHơi tăng hệ số nâng cấp khả năng khi luyện thể giả ở trạng thái Cuồng Nộ.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F01_Qiu">
+			<DisplayName>Điêu Linh Chi Huyết</DisplayName>
+			<Desc>Máu thay đổi, mang tính ăn mòn nhất định, nhưng cũng ảnh hưởng đến khả năng chống chịu của bản thân. Loại biến đổi này có xác suất cao hơn đạt được khi sử dụng Tinh Hoa Suy Vong để luyện hóa cơ quan. [size=10][color=#D06508]\nHơi tăng tỷ lệ xuyên phá linh khí hộ thuẫn của bí thể thuộc tính\nHơi giảm độ bền của bí thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B01_Qiu">
+			<DisplayName>Cực Tận Chi Cốt</DisplayName>
+			<Desc>Cấu trúc xương thay đổi, tăng cường khả năng bùng nổ sức mạnh của xương, nhưng mất một phần khả năng chống chịu. Loại biến đổi này có xác suất cao hơn đạt được khi sử dụng Tinh Hoa Suy Vong để luyện hóa cơ quan. [size=10][color=#D06508]\nTăng vừa sức mạnh của bí thể thuộc tính\nHơi giảm độ bền của bí thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O01_Qiu">
+			<DisplayName>Cơ Năng Viên Thục</DisplayName>
+			<Desc>Cơ quan phát huy hoàn toàn chức năng của mình, nhưng cũng tiêu hao năng lượng của bí thể, làm giảm một phần khả năng chống chịu. Loại biến đổi này có xác suất cao hơn đạt được khi sử dụng Tinh Hoa Suy Vong để luyện hóa cơ quan. [size=10][color=#D06508]\nTăng lớn tốc độ hồi phục chân khí của bí thể thuộc tính\nHơi giảm độ bền của bí thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F01_Dong">
+			<DisplayName>Trầm Miên Chi Huyết</DisplayName>
+			<Desc>Máu thay đổi, lưu thông cực kỳ chậm, làm giảm tốc độ phản ứng nhưng tăng cường sức bùng nổ vào thời điểm quan trọng. Loại biến đổi này có xác suất cao hơn đạt được khi sử dụng Tinh Hoa Quy Tàng để luyện hóa cơ quan. [size=10][color=#D06508]\nHơi giảm tỷ lệ đánh trúng của bí thể thuộc tính\nHơi giảm tỷ lệ phòng thủ thành công của bí thể thuộc tính\nTăng vừa hệ số nâng cấp khả năng khi luyện thể giả ở trạng thái Cuồng Nộ[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B01_Dong">
+			<DisplayName>Phong Tuyệt Chi Cốt</DisplayName>
+			<Desc>Cấu trúc xương thay đổi, mất một phần cường độ nhưng tăng cường sức bùng nổ vào thời điểm quan trọng. Loại biến đổi này có xác suất cao hơn đạt được khi sử dụng Tinh Hoa Quy Tàng để luyện hóa cơ quan. [size=10][color=#D06508]\nHơi giảm sức mạnh của bí thể thuộc tính\nHơi giảm độ bền của bí thể thuộc tính\nTăng vừa hệ số nâng cấp khả năng khi luyện thể giả ở trạng thái Cuồng Nộ.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O01_Dong">
+			<DisplayName>Cơ Năng Quy Tàng</DisplayName>
+			<Desc>Chức năng cơ quan bị thu hẹp, làm giảm hiệu quả vận hành chân khí nhưng tăng cường sức bùng nổ vào thời điểm quan trọng. Loại biến đổi này có xác suất cao hơn đạt được khi sử dụng Tinh Hoa Quy Tàng để luyện hóa cơ quan. [size=10][color=#D06508]\nGiảm vừa tốc độ hồi phục chân khí của bí thể thuộc tính\nTăng vừa hệ số nâng cấp khả năng khi luyện thể giả ở trạng thái Cuồng Nộ.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F01_DaYaoYuanJing">
+			<DisplayName>Yêu Thực Huyết Nhục</DisplayName>
+			<Desc>Máu thịt bị yêu lực ăn mòn dẫn đến biến dị, phản ứng được cải thiện đáng kể nhưng khó kiểm soát hơn. Biến đổi này có xác suất cao xuất hiện khi sử dụng Đại Yêu Nguyên Tinh luyện hóa cơ quan. [size=10][color=#D06508]\n Tăng trung bình khả năng chính xác tấn công của bí thể thuộc về cơ thể\n Giảm nhẹ khả năng thành công phòng thủ của bí thể thuộc về cơ thể[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B01_DaYaoYuanJing">
+			<DisplayName>Yêu Thực Hài Cốt</DisplayName>
+			<Desc>Xương bị yêu lực ăn mòn dẫn đến biến dị, độ cứng được cải thiện đáng kể nhưng khó điều khiển hơn. Biến đổi này có xác suất cao xuất hiện khi sử dụng Đại Yêu Nguyên Tinh luyện hóa cơ quan. [size=10][color=#D06508]\n Tăng nhẹ khả năng xuyên thấu khiên linh khí của bí thể thuộc về cơ thể\n Tăng nhẹ tốc độ tiêu hao chân khí của bí thể thuộc về cơ thể[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O01_DaYaoYuanJing">
+			<DisplayName>Yêu Thực Tạng Khí</DisplayName>
+			<Desc>Cơ quan bị yêu lực ăn mòn dẫn đến biến dị, khả năng được cải thiện đáng kể nhưng tổn hại đến gốc rễ. Biến đổi này có xác suất cao xuất hiện khi sử dụng Đại Yêu Nguyên Tinh luyện hóa cơ quan. [size=10][color=#D06508]\n Tăng trung bình tốc độ hồi phục chân khí của bí thể thuộc về cơ thể\n Giảm trung bình giới hạn tối đa chân khí của người luyện thể[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F02_DaYaoYuanJing">
+			<DisplayName>Cuồng Khí Chi Huyết</DisplayName>
+			<Desc>Máu thịt bị yêu lực ăn mòn dẫn đến biến dị, chứa đầy sức mạnh cuồng bạo. Biến đổi này có xác suất cao xuất hiện khi sử dụng Đại Yêu Nguyên Tinh luyện hóa cơ quan. [size=10][color=#D06508]\n Tăng trung bình sức mạnh của bí thể thuộc về cơ thể\n Giảm nhẹ khả năng chính xác tấn công của bí thể thuộc về cơ thể\n Giảm nhẹ khả năng thành công phòng thủ của bí thể thuộc về cơ thể[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B02_DaYaoYuanJing">
+			<DisplayName>Cuồng Khí Chi Cốt</DisplayName>
+			<Desc>Xương bị yêu lực ăn mòn dẫn đến biến dị, chứa đầy sức mạnh cuồng bạo. Biến đổi này có xác suất cao xuất hiện khi sử dụng Đại Yêu Nguyên Tinh luyện hóa cơ quan. [size=10][color=#D06508]\n Tăng trung bình sức mạnh của bí thể thuộc về cơ thể\n Giảm nhẹ khả năng chính xác tấn công của bí thể thuộc về cơ thể\n Giảm nhẹ khả năng thành công phòng thủ của bí thể thuộc về cơ thể[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O02_DaYaoYuanJing">
+			<DisplayName>Cuồng Khí Hóa Sinh</DisplayName>
+			<Desc>Cơ quan bị yêu lực ăn mòn dẫn đến biến dị, có thể tạo ra chân khí dị chủng cực kỳ tấn công. Biến đổi này có xác suất cao xuất hiện khi sử dụng Đại Yêu Nguyên Tinh luyện hóa cơ quan. [size=10][color=#D06508]\n Tăng trung bình sức mạnh của bí thể thuộc về cơ thể\n Giảm nhẹ khả năng chính xác tấn công của bí thể thuộc về cơ thể\n Giảm nhẹ khả năng thành công phòng thủ của bí thể thuộc về cơ thể[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_GuShouJingXue">
+			<DisplayName>Thất Khống Huyết Nhục</DisplayName>
+			<Desc>Máu thịt biến dị, sinh ra một chút ý thức bản năng. Mặc dù giảm khả năng kiểm soát khiến sức mạnh và độ bền của bí thể giảm, nhưng phản ứng bản năng của máu thịt lại có thể ứng phó tốt nhất theo các tình huống. Biến đổi này có xác suất cao xuất hiện khi sử dụng Tinh Huyết Cổ Thú luyện hóa máu thịt. [size=10][color=#D06508]\n Giảm trung bình sức mạnh của bí thể thuộc về cơ thể\n Giảm trung bình độ bền của bí thể thuộc về cơ thể\n Tăng lớn khả năng chính xác tấn công của bí thể thuộc về cơ thể\n Tăng lớn khả năng thành công phòng thủ của bí thể thuộc về cơ thể\n Tăng lớn khả năng trấn áp pháp bảo của bí thể thuộc về cơ thể[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_GuShouGuFen">
+			<DisplayName>Man Hóa Cốt Cách</DisplayName>
+			<Desc>Xương biến dị, phát triển điên cuồng như xương của thú cổ đại. Mặc dù xương như vậy rất khó kiểm soát đối với người luyện thể thông thường, nhưng sức mạnh của nó thực sự rất lớn. Biến đổi này có xác suất cao xuất hiện khi sử dụng Bột Xương Cổ Thú luyện hóa máu thịt. [size=10][color=#D06508]\n Tăng lớn sức mạnh của bí thể thuộc về cơ thể\n Giảm trung bình khả năng chính xác tấn công của bí thể thuộc về cơ thể\n Giảm trung bình khả năng thành công phòng thủ của bí thể thuộc về cơ thể\n Giảm trung bình khả năng trấn áp pháp bảo của bí thể thuộc về cơ thể[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F01_SiHunZhiXi">
+			<DisplayName>Diệt Hoạt Huyết Nhục</DisplayName>
+			<Desc>Máu thịt biến dị, có thể kích phát chân khí có khả năng tiêu diệt hoạt tính. Biến đổi này có xác suất cao xuất hiện khi sử dụng Hơi Thở Linh Hồn luyện hóa máu thịt. [size=10][color=#D06508]\n Tăng trung bình sức mạnh của bí thể thuộc về cơ thể\n Tăng nhẹ khả năng xuyên thấu khiên linh khí của bí thể thuộc về cơ thể[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_SiHunZhiXi">
+			<DisplayName>Khát Huyết Chi Cơ</DisplayName>
+			<Desc>Máu thịt biến dị, mao mạch nhỏ bị chết, cơ bắp vì khao khát máu tươi từ bên ngoài mà trở nên đầy tính tấn công. Biến đổi này có xác suất cao xuất hiện khi sử dụng Hơi Thở Linh Hồn luyện hóa máu thịt. [size=10][color=#D06508]\n Tăng trung bình sức mạnh của bí thể thuộc về cơ thể\n Tăng trung bình khả năng chính xác tấn công của bí thể thuộc về cơ thể[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F02_SiHunZhiXi">
+			<DisplayName>Vô Cảm Chi Cơ</DisplayName>
+			<Desc>Bề mặt thịt và máu bị sừng hóa, mất đi phần lớn cảm giác. Bảo vệ mạnh mẽ hơn và không sợ tổn thương thông thường. Sự biến đổi này có tỷ lệ cao hơn khi sử dụng Hơi thở của cái chết để ta luyện thịt và máu. [size=10][color=#D06508]\nTăng cường độ bền của cơ thể bí mật ở mức trung bình\nTăng tỷ lệ thành công trong việc áp chế bảo bối của cơ thể bí mật ở mức trung bình[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B01_SiHunZhiXi">
+			<DisplayName>Hôi Hóa Cốt Cách</DisplayName>
+			<Desc>Xương bị ô nhiễm bởi khí chết, màu sắc chuyển sang xám. Có thể kích hoạt ra chân khí có sức mạnh suy yếu. Sự biến đổi này có tỷ lệ cao hơn khi sử dụng Hơi thở của cái chết để ta luyện xương. [size=10][color=#D06508]\nTăng cường độ bền của cơ thể bí mật ở mức trung bình\nTăng tỷ lệ thành công trong việc phòng thủ của cơ thể bí mật ở mức thấp[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_SiHunZhiXi">
+			<DisplayName>Không Tủy Cốt</DisplayName>
+			<Desc>Xương xảy ra biến đổi, trở thành cấu trúc rỗng. Tăng cường độ nhạy cảm một cách đáng kể. Sự biến đổi này có tỷ lệ cao hơn khi sử dụng Hơi thở của cái chết để ta luyện xương. [size=10][color=#D06508]\nTăng tỷ lệ trúng đích trong tấn công của cơ thể bí mật ở mức trung bình\nTăng tỷ lệ thành công trong phòng thủ của cơ thể bí mật ở mức trung bình[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O01_SiHunZhiXi">
+			<DisplayName>Hủ Sinh Tạng Khí</DisplayName>
+			<Desc>Nội tạng xảy ra biến đổi hoại tử, có thể tạo ra chân khí có tính ăn mòn mạnh. Sự biến đổi này có tỷ lệ cao hơn khi sử dụng Hơi thở của cái chết để ta luyện xương. [size=10][color=#D06508]\nTăng tỷ lệ xuyên thấu của lá chắn linh khí của cơ thể bí mật ở mức trung bình[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_SiHunZhiXi">
+			<DisplayName>Tiềm Mặc Minh Tức</DisplayName>
+			<Desc>Nội tạng xảy ra biến đổi khi chống lại ô nhiễm khí chết, có thể tự sinh ra hơi thở kỳ lạ từ hư không để cung cấp cho bản thân. Sự biến đổi này có tỷ lệ cao hơn khi sử dụng Hơi thở của cái chết để ta luyện nội tạng. [size=10][color=#D06508]\nTăng tốc độ phục hồi chân khí của người luyện thể ở mức trung bình[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F01_WuHuiJingHua">
+			<DisplayName>Đột Xúc Tăng Biến</DisplayName>
+			<Desc>Thịt và máu xảy ra biến đổi dưới sự kích thích khắc nghiệt, phát triển nhiều mô thịt bám dính. Sự biến đổi này có tỷ lệ cao hơn khi sử dụng tinh hoa ô uế để ta luyện thịt và máu. [size=10][color=#D06508]\nTăng tỷ lệ thành công trong việc áp chế bảo bối của cơ thể bí mật ở mức lớn[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_WuHuiJingHua">
+			<DisplayName>Ký Sinh Nhục Đồng</DisplayName>
+			<Desc>Thịt và máu xảy ra biến đổi dưới sự kích thích khắc nghiệt, phát triển nhiều mắt thịt có khả năng cảm nhận. Sự biến đổi này có tỷ lệ cao hơn khi sử dụng tinh hoa ô uế để ta luyện thịt và máu. [size=10][color=#D06508]\nTăng tỷ lệ trúng đích trong tấn công của cơ thể bí mật ở mức lớn\nTăng tỷ lệ thành công trong phòng thủ của cơ thể bí mật ở mức lớn[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B01_WuHuiJingHua">
+			<DisplayName>Tà Sinh Cốt Văn</DisplayName>
+			<Desc>Xương xảy ra biến đổi dưới sự kích thích khắc nghiệt, phát triển nhiều hoa văn kỳ dị, tăng cường khả năng chịu đựng khi bùng nổ. Sự biến đổi này có tỷ lệ cao hơn khi sử dụng tinh hoa ô uế để ta luyện xương. [size=10][color=#D06508]\nTăng thời gian duy trì trạng thái cuồng nộ của người luyện thể ở mức thấp[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_WuHuiJingHua">
+			<DisplayName>Thôn Linh Chi Cốt</DisplayName>
+			<Desc>Xương xảy ra biến đổi dưới sự kích thích khắc nghiệt, cực kỳ khao khát năng lượng, mặc dù làm tăng gánh nặng khi điều khiển, nhưng cũng giúp làm suy yếu lá chắn linh khí của kẻ thù tốt hơn. Sự biến đổi này có tỷ lệ cao hơn khi sử dụng tinh hoa ô uế để ta luyện xương. [size=10][color=#D06508]\nTăng tỷ lệ xuyên thấu của lá chắn linh khí của cơ thể bí mật ở mức lớn\nTăng tốc độ tiêu hao chân khí của cơ thể bí mật ở mức trung bình[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B02_WuHuiJingHua">
+			<DisplayName>Dị dạng ngoại sinh</DisplayName>
+			<Desc>Xương xảy ra biến đổi dưới sự kích thích khắc nghiệt, vượt qua thịt và máu để hình thành một số cấu trúc dị dạng bên ngoài, xương dị dạng ảnh hưởng đến khả năng điều khiển, nhưng cũng làm tăng cường độ mạnh mẽ. Sự biến đổi này có tỷ lệ cao hơn khi sử dụng tinh hoa ô uế để ta luyện xương. [size=10][color=#D06508]\nTăng cường độ bền của cơ thể bí mật ở mức lớn\nGiảm tỷ lệ trúng đích trong tấn công của cơ thể bí mật ở mức trung bình\nGiảm tỷ lệ thành công trong phòng thủ của cơ thể bí mật ở mức trung bình\nGiảm tỷ lệ thành công trong việc áp chế bảo bối của cơ thể bí mật ở mức trung bình[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O01_WuHuiJingHua">
+			<DisplayName>Nội Thể Kích Biến</DisplayName>
+			<Desc>Nội tạng xảy ra biến đổi dưới sự kích thích khắc nghiệt, phát triển mô sản sinh chân khí theo phản ứng. Sự biến đổi này có tỷ lệ cao hơn khi sử dụng tinh hoa ô uế để ta luyện nội tạng. [size=10][color=#D06508]\nGiảm thời gian yếu đuối của người luyện thể sau khi chân khí cạn kiệt ở mức trung bình[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_WuHuiJingHua">
+			<DisplayName>Tạng Khí Liệt Thực</DisplayName>
+			<Desc>Cơ quan biến dị dưới kích thích khắc nghiệt, phân tách thành nhiều bản thể tự thân, mặc dù tăng gánh nặng lên cơ thể nhưng có thể nâng cao đáng kể khả năng chống chịu đòn. Dạng biến đổi này có xác suất cao hơn khi sử dụng Tinh Hoa Ô Uế để ta luyện cơ quan. [size=10][color=#D06508]\n Tăng trung bình độ bền của Bí Thể thuộc sở hữu\n Tăng trung bình tốc độ tiêu hao Chân Khí của Bí Thể thuộc sở hữu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_WuXingZhiJing">
+			<DisplayName>Hư Hóa Huyết Nhục</DisplayName>
+			<Desc>Huyết nhục dần biến đổi thành huyết nhục hư hóa vô hình vô sắc, mặc dù độ cứng giảm nhưng khiến người khác khó phát hiện và chú ý đến chi tiết hành động của bản thân. Dạng biến đổi này có xác suất cao hơn khi sử dụng Tinh Vô Hình để ta luyện huyết nhục. [size=10][color=#D06508]\n Giảm trung bình sức mạnh của Bí Thể thuộc sở hữu\n Tăng trung bình tỷ lệ tấn công chính xác của Bí Thể thuộc sở hữu\n Tăng trung bình tỷ lệ phòng thủ thành công của Bí Thể thuộc sở hữu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_WuXingZhiJing">
+			<DisplayName>Huyễn Hình Chi Cốt</DisplayName>
+			<Desc>Xương dần trở nên mềm mại, có thể thay đổi hình dạng tùy ý, mặc dù độ cứng giảm nhưng có thể thực hiện nhiều kỹ thuật khó hơn. Dạng biến đổi này có xác suất cao hơn khi sử dụng Tinh Vô Hình để ta luyện xương. [size=10][color=#D06508]\n Giảm trung bình độ bền của Bí Thể thuộc sở hữu\n Tăng trung bình khả năng xuyên thủng khiên linh khí của Bí Thể thuộc sở hữu\n Tăng trung bình tỷ lệ trấn áp pháp bảo của Bí Thể thuộc sở hữu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_WuXingZhiJing">
+			<DisplayName>Không Hóa Chi Lực</DisplayName>
+			<Desc>Cơ quan biến dị, sinh ra lực không hóa vô hình vô sắc bao quanh cơ thể. Dạng biến đổi này có xác suất cao hơn khi sử dụng Tinh Vô Hình để ta luyện cơ quan. [size=10][color=#D06508]\n Tăng nhẹ tỷ lệ né tránh toàn cục của người luyện thể[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_JiaoLongYuanJing">
+			<DisplayName>Long Lân Hóa</DisplayName>
+			<Desc>Huyết nhục biến dị, mọc ra vảy giống như vảy rồng. Dạng biến đổi này có xác suất cao hơn khi sử dụng Nguyên Tinh Giao Long để ta luyện huyết nhục. [size=10][color=#D06508]\n Tăng lớn độ bền của Bí Thể thuộc sở hữu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_JiaoLongYuanJing">
+			<DisplayName>Long Văn Giác Cốt</DisplayName>
+			<Desc>Xương biến dị, mọc ra hoa văn giống như sừng rồng. Dạng biến đổi này có xác suất cao hơn khi sử dụng Nguyên Tinh Giao Long để ta luyện xương. [size=10][color=#D06508]\n Tăng lớn sức mạnh của Bí Thể thuộc sở hữu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_JiaoLongYuanJing">
+			<DisplayName>Lôi Ngự Chi Tức</DisplayName>
+			<Desc>Cơ quan biến dị, có thể sinh ra Chân Khí kỳ lạ hòa nhập sức mạnh sấm sét, mang theo lực tê liệt mạnh mẽ. Dạng biến đổi này có xác suất cao hơn khi sử dụng Nguyên Tinh Giao Long để ta luyện cơ quan. [size=10][color=#D06508]\n Tăng lớn tỷ lệ trấn áp pháp bảo của Bí Thể thuộc sở hữu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_XiongFengYuanJing">
+			<DisplayName>Thị Hỏa Chi Huyết</DisplayName>
+			<Desc>Huyết nhục biến dị, hòa nhập máu phượng hoàng nóng bỏng và mãnh liệt. Dạng biến đổi này có xác suất cao hơn khi sử dụng Nguyên Tinh Hung Phượng để ta luyện huyết nhục. [size=10][color=#D06508]\n Tăng lớn tỷ lệ tấn công chính xác của Bí Thể thuộc sở hữu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_XiongFengYuanJing">
+			<DisplayName>Không Kiên Phượng Tủy</DisplayName>
+			<Desc>Xương biến dị, cứng cáp và nhẹ nhàng như hung phượng. Dạng biến đổi này có xác suất cao hơn khi sử dụng Nguyên Tinh Hung Phượng để ta luyện xương. [size=10][color=#D06508]\n Tăng lớn tỷ lệ phòng thủ thành công của Bí Thể thuộc sở hữu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_XiongFengYuanJing">
+			<DisplayName>Hỏa Ngự Chi Tức</DisplayName>
+			<Desc>Cơ quan biến dị, có thể sinh ra Chân Khí kỳ lạ như ngọn lửa bám vào mục tiêu, cháy liên tục. Dạng biến đổi này có xác suất cao hơn khi sử dụng Nguyên Tinh Hung Phượng để ta luyện xương. [size=10][color=#D06508]\n Tăng lớn khả năng xuyên thủng khiên linh khí của Bí Thể thuộc sở hữu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_ZhuLongYuanJing">
+			<DisplayName>U Ảnh Chi Huyết</DisplayName>
+			<Desc>Máu biến dị, hòa nhập sức mạnh Huyền Âm, đen như mực. Dạng biến đổi này có xác suất cao hơn khi sử dụng Nguyên Tinh Chúc Long để ta luyện huyết nhục. [size=10][color=#D06508]\n Giảm trung bình độ bền của Bí Thể thuộc sở hữu\n Tăng lớn tỷ lệ phòng thủ thành công của Bí Thể thuộc sở hữu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F02_ZhuLongYuanJing">
+			<DisplayName>Minh Quang Chi Cơ</DisplayName>
+			<Desc>Cơ bắp biến dị, hòa nhập sức mạnh Thuần Dương, khi kích hoạt Chân Khí sẽ phát ra ánh sáng chói lòa. Dạng biến đổi này có xác suất cao hơn khi sử dụng Nguyên Tinh Chúc Long để ta luyện huyết nhục. [size=10][color=#D06508]\n Tăng lớn độ bền của Bí Thể thuộc sở hữu\n Giảm trung bình tỷ lệ phòng thủ thành công của Bí Thể thuộc sở hữu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_ZhuLongYuanJing">
+			<DisplayName>Ác Ngục Chi Hài</DisplayName>
+			<Desc>Xương biến dị, tích tụ khí Ác Hồn bên trong, có thể bùng phát khi cần thiết. Dạng biến đổi này có xác suất cao hơn khi sử dụng Nguyên Tinh Chúc Long để ta luyện xương. [size=10][color=#D06508]\n Tăng lớn sức mạnh của Bí Thể thuộc sở hữu\n Giảm trung bình tỷ lệ tấn công chính xác của Bí Thể thuộc sở hữu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B02_ZhuLongYuanJing">
+			<DisplayName>Thiện Đình Chi Cốt</DisplayName>
+			<Desc>Xương biến dị, chứa đựng sức mạnh ôn hòa, mặc dù mất đi sự sắc bén nhưng lại cân bằng và ổn định như núi. Dạng biến đổi này có xác suất cao hơn khi sử dụng Nguyên Tinh Chúc Long để ta luyện xương. [size=10][color=#D06508]\n Giảm trung bình sức mạnh của Bí Thể thuộc sở hữu\n Tăng lớn tỷ lệ tấn công chính xác của Bí Thể thuộc sở hữu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_ZhuLongYuanJing">
+			<DisplayName>U Minh Luân Chuyển</DisplayName>
+			<Desc>Cơ quan biến dị, sinh ra hai dòng Chân Khí âm dương luân chuyển không ngừng, mang lại khí cơ dài lâu, nhưng khi Chân Khí cạn kiệt sẽ khó khôi phục. Dạng biến đổi này có xác suất cao hơn khi sử dụng Nguyên Tinh Chúc Long để ta luyện cơ quan. [size=10][color=#D06508]\n Tăng lớn tốc độ hồi phục Chân Khí của người luyện thể\n Tăng lớn thời gian suy yếu sau khi Chân Khí cạn kiệt[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O02_ZhuLongYuanJing">
+			<DisplayName>Thiện Ác Kiêm Hình</DisplayName>
+			<Desc>Cơ quan biến dị, sinh ra đồng thời sức mạnh Ác Hồn và Ôn Hòa, xung đột không ngừng, buộc cơ quan hoạt động trong trạng thái quá tải. Dạng biến đổi này có xác suất cao hơn khi sử dụng Nguyên Tinh Chúc Long để ta luyện cơ quan. [size=10][color=#D06508]\n Tăng lớn tốc độ tiêu hao Chân Khí của Bí Thể thuộc sở hữu\n Tăng lớn tốc độ hồi phục Chân Khí của Bí Thể thuộc sở hữu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_YongJiJingSui">
+			<DisplayName>Xích Dị Huyết Nhục</DisplayName>
+			<Desc>Huyết nhục biến đổi kỳ lạ, bị các bộ phận khác trong cơ thể bài xích, dẫn đến một số khu vực bị hoại tử cục bộ. Dạng biến đổi này có xác suất cao hơn khi sử dụng Tinh Túy Vĩnh Tịch để ta luyện huyết nhục. [size=10][color=#D06508]\n Giảm nhẹ hiệu suất của Bí Thể thuộc sở hữu\n Tăng nhẹ giới hạn mục tiêu ta luyện huyết nhục của người luyện thể\n Tăng trung bình thời gian trì hoãn thiên kiếp tiếp theo[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_YongJiJingSui">
+			<DisplayName>Xích Dị Chi Hài</DisplayName>
+			<Desc>Xương biến đổi kỳ lạ, bị các bộ phận khác trong cơ thể bài xích, dẫn đến một số khu vực bị hoại tử cục bộ. Dạng biến đổi này có xác suất cao hơn khi sử dụng Tinh Túy Vĩnh Tịch để ta luyện xương. [size=10][color=#D06508]\n Giảm nhẹ hiệu suất của Bí Thể thuộc sở hữu\n Tăng nhẹ giới hạn mục tiêu ta luyện xương của người luyện thể\n Tăng trung bình thời gian trì hoãn thiên kiếp tiếp theo[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_YongJiJingSui">
+			<DisplayName>Xích Dị Chi Lực</DisplayName>
+			<Desc>Cơ quan biến đổi kỳ lạ, bị các bộ phận khác trong cơ thể bài xích, dẫn đến một số khu vực bị hoại tử cục bộ. Dạng biến đổi này có xác suất cao hơn khi sử dụng Tinh Túy Vĩnh Tịch để ta luyện cơ quan. [size=10][color=#D06508]\n Giảm nhẹ hiệu suất của Bí Thể thuộc sở hữu\n Tăng nhẹ giới hạn mục tiêu ta luyện cơ quan của người luyện thể\n Tăng trung bình thời gian trì hoãn thiên kiếp tiếp theo[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_EXJin">
+			<DisplayName>Ngũ Linh Thông Lôi Chi Cơ</DisplayName>
+			<Desc>Huyết nhục hòa nhập sức mạnh Kim Hành bẩm sinh, xảy ra lột xác. Dạng biến đổi này có xác suất cao hơn khi sử dụng Tinh Kim Bẩm Sinh để ta luyện huyết nhục. [size=10][color=#D06508]\n Tăng nhẹ tỷ lệ tấn công chính xác của Bí Thể thuộc sở hữu từ gốc\n Tăng nhẹ tỷ lệ phòng thủ thành công của Bí Thể thuộc sở hữu từ gốc\n Tăng lớn khả năng xuyên thủng khiên linh khí của Bí Thể thuộc sở hữu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_EXJin">
+			<DisplayName>Thiên Kim Nhận Hóa Chi Cốt</DisplayName>
+			<Desc>Xương hòa nhập sức mạnh Kim Hành bẩm sinh, xảy ra lột xác. Dạng biến đổi này có xác suất cao hơn khi sử dụng Tinh Kim Bẩm Sinh để ta luyện xương. [size=10][color=#D06508]\n Tăng nhẹ sức mạnh của Bí Thể thuộc sở hữu từ gốc\n Tăng nhẹ độ bền của Bí Thể thuộc sở hữu từ gốc\n Tăng lớn khả năng xuyên thủng khiên linh khí của Bí Thể thuộc sở hữu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_EXJin">
+			<DisplayName>Canh Tân Kim Cực Hóa Tướng</DisplayName>
+			<Desc>Cơ quan hòa nhập sức mạnh Kim Hành bẩm sinh, xảy ra lột xác. Dạng biến đổi này có xác suất cao hơn khi sử dụng Tinh Kim Bẩm Sinh để ta luyện cơ quan. [size=10][color=#D06508]\n Giảm trung bình cường độ tấn công thuộc tính Mộc mà Bí Thể chịu đựng[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_EXMu">
+			<DisplayName>Trọng Minh Mạn Sinh Chi Cơ</DisplayName>
+			<Desc>Huyết nhục hòa nhập sức mạnh Mộc Hành bẩm sinh, xảy ra lột xác. Dạng biến đổi này có xác suất cao hơn khi sử dụng Tinh Mộc Bẩm Sinh để ta luyện huyết nhục. [size=10][color=#D06508]\n Tăng nhẹ tỷ lệ tấn công chính xác của Bí Thể thuộc sở hữu từ gốc\n Tăng nhẹ tỷ lệ phòng thủ thành công của Bí Thể thuộc sở hữu từ gốc\n Tăng lớn tỷ lệ tấn công chính xác của Bí Thể thuộc sở hữu\n Tăng lớn tỷ lệ phòng thủ thành công của Bí Thể thuộc sở hữu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_EXMu">
+			<DisplayName>Sinh Huyền Mộc Hóa Chi Cốt</DisplayName>
+			<Desc>Xương hòa nhập sức mạnh Mộc Hành bẩm sinh, xảy ra lột xác. Dạng biến đổi này có xác suất cao hơn khi sử dụng Tinh Mộc Bẩm Sinh để ta luyện xương. [size=10][color=#D06508]\n Tăng nhẹ sức mạnh của Bí Thể thuộc sở hữu từ gốc\n Tăng nhẹ độ bền của Bí Thể thuộc sở hữu từ gốc\n Tăng lớn tỷ lệ tấn công chính xác của Bí Thể thuộc sở hữu\n Tăng lớn tỷ lệ phòng thủ thành công của Bí Thể thuộc sở hữu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_EXMu">
+			<DisplayName>Giáp Ất Mộc Cực Hóa Tương</DisplayName>
+			<Desc>Cơ quan hòa nhập sức mạnh Mộc Hành bẩm sinh, xảy ra lột xác. Dạng biến đổi này có xác suất cao hơn khi sử dụng Tinh Mộc Bẩm Sinh để ta luyện cơ quan. [size=10][color=#D06508]\n Giảm trung bình cường độ tấn công thuộc tính Thổ mà Bí Thể chịu đựng[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_EXShui">
+			<DisplayName>Vạn Lưu Hối Linh Chi Huyết</DisplayName>
+			<Desc>Huyết nhục hòa nhập sức mạnh Thủy Hành bẩm sinh, xảy ra lột xác. Dạng biến đổi này có xác suất cao hơn khi sử dụng Tinh Thủy Bẩm Sinh để ta luyện huyết nhục. [size=10][color=#D06508]\n Tăng nhẹ tỷ lệ tấn công chính xác của Bí Thể thuộc sở hữu từ gốc\n Tăng nhẹ tỷ lệ phòng thủ thành công của Bí Thể thuộc sở hữu từ gốc\n Tăng lớn tốc độ hồi phục Chân Khí của Bí Thể thuộc sở hữu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_EXShui">
+			<DisplayName>Thông Hình Triệt Minh Chi Tủy</DisplayName>
+			<Desc>Xương hòa nhập sức mạnh Thủy Hành bẩm sinh, xảy ra lột xác. Dạng biến đổi này có xác suất cao hơn khi sử dụng Tinh Thủy Bẩm Sinh để ta luyện xương. [size=10][color=#D06508]\n Tăng nhẹ sức mạnh của Bí Thể thuộc sở hữu từ gốc\n Tăng nhẹ độ bền của Bí Thể thuộc sở hữu từ gốc\n Tăng lớn tốc độ hồi phục Chân Khí của Bí Thể thuộc sở hữu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_EXShui">
+			<DisplayName>Nhâm Quý Thủy Cực Hóa Tương</DisplayName>
+			<Desc>Cơ quan hòa nhập sức mạnh Thủy Hành bẩm sinh, xảy ra lột xác. Dạng biến đổi này có xác suất cao hơn khi sử dụng Tinh Thủy Bẩm Sinh để ta luyện cơ quan. [size=10][color=#D06508]\n Giảm trung bình cường độ tấn công thuộc tính Hỏa mà Bí Thể chịu đựng[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_EXHuo">
+			<DisplayName>Hoàng Tận Sí Nhiên Chi Huyết</DisplayName>
+			<Desc>Huyết nhục hòa nhập sức mạnh Hỏa Hành bẩm sinh, xảy ra lột xác. Dạng biến đổi này có xác suất cao hơn khi sử dụng Tinh Hỏa Bẩm Sinh để ta luyện huyết nhục. [size=10][color=#D06508]\n Tăng nhẹ tỷ lệ tấn công chính xác của Bí Thể thuộc sở hữu từ gốc\n Tăng nhẹ tỷ lệ phòng thủ thành công của Bí Thể thuộc sở hữu từ gốc\n Tăng lớn sức mạnh của Bí Thể thuộc sở hữu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_EXHuo">
+			<DisplayName>Địa Hỏa Thiên Luyện Chi Cốt</DisplayName>
+			<Desc>Xương hòa nhập sức mạnh Hỏa Hành bẩm sinh, xảy ra lột xác. Dạng biến đổi này có xác suất cao hơn khi sử dụng Tinh Hỏa Bẩm Sinh để ta luyện xương. [size=10][color=#D06508]\n Tăng nhẹ sức mạnh của Bí Thể thuộc sở hữu từ gốc\n Tăng nhẹ độ bền của Bí Thể thuộc sở hữu từ gốc\n Tăng lớn sức mạnh của Bí Thể thuộc sở hữu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_EXHuo">
+			<DisplayName>Bính Đinh Hỏa Cực Hóa Tương</DisplayName>
+			<Desc>Cơ quan hòa nhập sức mạnh Hỏa Hành bẩm sinh, xảy ra lột xác. Dạng biến đổi này có xác suất cao hơn khi sử dụng Tinh Hỏa Bẩm Sinh để ta luyện cơ quan. [size=10][color=#D06508]\n Giảm trung bình cường độ tấn công thuộc tính Kim mà Bí Thể chịu đựng[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_EXTu">
+			<DisplayName>Tụ Sinh Sa Hóa Huyết Nhục</DisplayName>
+			<Desc>Huyết nhục hòa nhập sức mạnh Thổ Hành bẩm sinh, xảy ra lột xác. Dạng biến đổi này có xác suất cao hơn khi sử dụng Tinh Thổ Bẩm Sinh để ta luyện huyết nhục. [size=10][color=#D06508]\n Tăng nhẹ tỷ lệ tấn công chính xác của Bí Thể thuộc sở hữu từ gốc\n Tăng nhẹ tỷ lệ phòng thủ thành công của Bí Thể thuộc sở hữu từ gốc\n Tăng lớn độ bền của Bí Thể thuộc sở hữu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_EXTu">
+			<DisplayName>Nham Hóa Vạn Quân Chi Cốt</DisplayName>
+			<Desc>Xương cốt dung hợp sức mạnh Thổ Hành tiên thiên và xảy ra thoái biến. Sự thay đổi này có khả năng cao hơn khi sử dụng tinh hoa Thổ Hành tiên thiên để rèn luyện xương cốt. [size=10][color=#D06508]\nTăng nhẹ sức mạnh cơ bản của Mật Thể thuộc tính\nTăng nhẹ độ bền cơ bản của Mật Thể thuộc tính\nTăng nhiều độ bền cơ bản của Mật Thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_EXTu">
+			<DisplayName>Mậu Kỷ Thổ Cực Hóa Tương</DisplayName>
+			<Desc>Cơ quan dung hợp sức mạnh Thổ Hành tiên thiên và xảy ra thoái biến. Sự thay đổi này có khả năng cao hơn khi sử dụng tinh hoa Thổ Hành tiên thiên để rèn luyện cơ quan. [size=10][color=#D06508]\nGiảm trung bình cường độ tấn công thuộc tính nước mà Mật Thể phải chịu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_TaiYangJingHua">
+			<DisplayName>Nhật Huy Chi Huyết</DisplayName>
+			<Desc>Máu xảy ra biến đổi, nóng bỏng và phát ra ánh sáng chói lóa, sự thay đổi này có tỷ lệ cao hơn khi sử dụng tinh hoa mặt trời để tôi luyện huyết nhục. [size=10][color=#D06508]\nTăng tốc độ tôi luyện của người tu luyện ở mức trung bình\nTăng tỷ lệ trúng đòn của bí thể thuộc sở hữu ở mức lớn[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_TaiYangJingHua">
+			<DisplayName>Nhiên Sí Chi Hài</DisplayName>
+			<Desc>Xương phát ra biến đổi, từ bên trong lan tỏa ra nhiệt lượng mãnh liệt, như thể có ngọn lửa vô hình đang cháy dữ dội. Sự thay đổi này có tỷ lệ cao hơn khi sử dụng tinh hoa mặt trời để tôi luyện xương. [size=10][color=#D06508]\nTăng tốc độ tôi luyện của người tu luyện ở mức trung bình\nTăng sức mạnh của bí thể thuộc sở hữu ở mức lớn[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_TaiYangJingHua">
+			<DisplayName>Thái Dương Chi Tức</DisplayName>
+			<Desc>Hạt nhân cơ quan sinh ra một khoảng trống, trong đó phát sinh phản ứng như một mặt trời thu nhỏ, có thể cung cấp chân khí mãnh liệt khi cần bùng nổ. Sự thay đổi này có tỷ lệ cao hơn khi sử dụng tinh hoa mặt trời để tôi luyện cơ quan. [size=10][color=#D06508]\nTăng tốc độ tôi luyện của người tu luyện ở mức trung bình\nTăng hệ số nâng cao khả năng của người tu luyện khi thịnh nộ ở mức lớn[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_TaiYinJingHua">
+			<DisplayName>Nguyệt Hoa Chi Cơ</DisplayName>
+			<Desc>Máu thịt tiến hóa, trở nên trong suốt như pha lê, giống như được bao phủ bởi ánh trăng. Sự thay đổi này có khả năng cao hơn khi sử dụng tinh hoa Thái Âm để rèn luyện máu thịt. [size=10][color=#D06508]\nTăng trung bình tỷ lệ né tránh toàn diện của người luyện thể\nTăng nhiều tỷ lệ thành công phòng thủ của Mật Thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_TaiYinJingHua">
+			<DisplayName>Xương Lạnh Thấu</DisplayName>
+			<Desc>Xương cốt tiến hóa, từ trong ra ngoài tạo ra nhiệt độ cực thấp, như thể tủy xương hóa thành băng. Sự thay đổi này có khả năng cao hơn khi sử dụng tinh hoa Thái Âm để rèn luyện máu thịt. [size=10][color=#D06508]\nTăng trung bình tỷ lệ né tránh toàn diện của người luyện thể\nTăng nhiều độ bền cơ bản của Mật Thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_TaiYinJingHua">
+			<DisplayName>Thái âm chi tức</DisplayName>
+			<Desc>Lõi cơ quan sinh ra một khoang rỗng, chứa chân khí có thể chuyển hóa nhiệt độ mãnh liệt thành trạng thái bình tĩnh. Sự thay đổi này có khả năng cao hơn khi sử dụng tinh hoa Thái Âm để rèn luyện cơ quan. [size=10][color=#D06508]\nTăng trung bình tỷ lệ né tránh toàn diện của người luyện thể\nGiảm trung bình cường độ tấn công thuộc tính mà Mật Thể phải chịu[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A01_JieMieJingHua">
+			<DisplayName>Phá Diệt Chi Lực</DisplayName>
+			<Desc>Cơ thể dung hợp một tia khí tức Thiên Đạo và xảy ra biến dị, Thiên Hình vô thân, phá diệt tất cả. Sự thay đổi này có khả năng cao hơn khi sử dụng tinh hoa Kiếp Diệt để rèn luyện cơ thể. [size=10][color=#D06508]\nTăng rất nhiều sức mạnh cơ bản của Mật Thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A02_JieMieJingHua">
+			<DisplayName>Đạo Hóa Chi Lực</DisplayName>
+			<Desc>Cơ thể dung hợp một tia khí tức Thiên Đạo và xảy ra biến dị, hóa thân thành Đạo, trấn nhiếp mọi tà ác bên ngoài. Sự thay đổi này có khả năng cao hơn khi sử dụng tinh hoa Kiếp Diệt để rèn luyện cơ thể. [size=10][color=#D06508]\nTăng rất nhiều độ bền cơ bản của Mật Thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A03_JieMieJingHua">
+			<DisplayName>Thiên Địa Chi Quang Trần</DisplayName>
+			<Desc>Cơ thể hòa nhập với một chút khí tức thiên đạo mà phát sinh dị biến, cùng ánh sáng của trời, cùng bụi đất của đất. Sự biến hóa này có tỷ lệ cao hơn khi sử dụng tinh hoa hủy diệt để tôi luyện cơ thể. [size=10][color=#D06508]\nTăng cường hiệu suất hô hấp của người luyện thể một cách đáng kể[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_F01_JiuYangZhenHua">
+			<DisplayName>Tam Dương Xích Huyết</DisplayName>
+			<Desc>Máu dung hợp sức mạnh Tam Dương, trở nên giống như cát chảy màu đỏ. Sự thay đổi này có khả năng cao hơn khi sử dụng tinh hoa Cửu Dương để rèn luyện máu thịt. [size=10][color=#D06508]\nTăng trung bình hiệu suất của Mật Thể thuộc tính\nTăng trung bình độ chính xác tấn công cơ bản của Mật Thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_B01_JiuYangZhenHua">
+			<DisplayName>Cửu Hoàng Viêm Hài</DisplayName>
+			<Desc>Xương cốt dung hợp tinh hoa sức mạnh Thái Dương, mỗi phần xương đều sinh ra chín ngọn lửa chân thực bao quanh. Sự thay đổi này có khả năng cao hơn khi sử dụng tinh hoa Cửu Dương để rèn luyện xương cốt. [size=10][color=#D06508]\nTăng trung bình hiệu suất của Mật Thể thuộc tính\nTăng trung bình sức mạnh cơ bản của Mật Thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_O01_JiuYangZhenHua">
+			<DisplayName>Hồng Lô Ngoại Diễn</DisplayName>
+			<Desc>Bên trong cơ quan xảy ra phản ứng mãnh liệt, như lò nung luyện chân khí chảy qua thành thép cứng. Sự thay đổi này có khả năng cao hơn khi sử dụng tinh hoa Cửu Dương để rèn luyện cơ quan. [size=10][color=#D06508]\nTăng trung bình hiệu suất của Mật Thể thuộc tính\nTăng trung bình khả năng xuyên thủng lá chắn linh khí cơ bản của Mật Thể thuộc tính[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_F01_XuanYueZhenJing">
+			<DisplayName>Thái Tố Băng Cơ</DisplayName>
+			<Desc>Thịt và máu hòa hợp với sức mạnh của ba âm, trở nên có kết cấu giống như pha lê. Sự biến đổi này có tỷ lệ cao hơn khi sử dụng tinh hoa Huyền Nguyệt để ta luyện thịt và máu. [size=10][color=#D06508]\nTăng cường hiệu suất của cơ thể bí mật ở mức trung bình\nTăng tỷ lệ thành công trong phòng thủ của cơ thể bí mật từ căn bản ở mức trung bình[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_B01_XuanYueZhenJing">
+			<DisplayName>Linh Minh Ngọc Cốt</DisplayName>
+			<Desc>Xương kết hợp với tinh hoa của sức mạnh thái âm xảy ra biến đổi, màu sắc chuyển thành ngọc bích, trên đó xuất hiện các đốm sáng xoắn ốc. Sự biến đổi này có tỷ lệ cao hơn khi sử dụng tinh hoa Huyền Nguyệt để ta luyện thịt và máu. [size=10][color=#D06508]\nTăng cường hiệu suất của cơ thể bí mật ở mức trung bình\nTăng cường độ bền của cơ thể bí mật từ căn bản ở mức trung bình[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_O01_XuanYueZhenJing">
+			<DisplayName>Huyền Khiếu Nội Sinh</DisplayName>
+			<Desc>Cấu trúc bên trong của nội tạng xảy ra thay đổi, theo sức mạnh chín âm mà sinh ra chín khoang rỗng, giúp chân khí có đặc tính mềm dẻo. Sự biến đổi này có tỷ lệ cao hơn khi sử dụng tinh hoa Huyền Nguyệt để ta luyện nội tạng. [size=10][color=#D06508]\nTăng cường hiệu suất của cơ thể bí mật ở mức trung bình\nTăng tỷ lệ thành công trong việc áp chế bảo bối của cơ thể bí mật từ căn bản ở mức trung bình[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A01_TaiXuJingHua">
+			<DisplayName>Thái Hư Thần Nguyên</DisplayName>
+			<Desc>Cơ thể kết nối với nguồn thời gian, Thái Hư Thiên Động, trong một mối liên hệ mơ hồ, chân khí trong cơ thể hơi bị nhuộm một chút thần nguyên thái hư. Sự biến đổi này có tỷ lệ cao hơn khi sử dụng tinh hoa Thái Hư để ta luyện cơ thể. [size=10][color=#D06508]\nTăng cường hiệu suất của cơ thể bí mật ở mức trung bình\nTăng nhẹ sức mạnh của tất cả cơ thể bí mật của người luyện thể ở mức thấp[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A02_TaiXuJingHua">
+			<DisplayName>Bát Cực Chân Lực</DisplayName>
+			<Desc>Cơ thể kết nối với nguồn không gian, Bát Cực Địa Khiếu, trong một mối liên hệ mơ hồ, chân khí trong cơ thể hơi bị nhuộm một chút chân lực bát cực. Sự biến đổi này có tỷ lệ cao hơn khi sử dụng tinh hoa Thái Hư để ta luyện cơ thể. [size=10][color=#D06508]\nTăng cường hiệu suất của cơ thể bí mật ở mức trung bình\nTăng nhẹ độ bền của tất cả cơ thể bí mật của người luyện thể ở mức thấp[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A03_TaiXuJingHua">
+			<DisplayName>Ngũ Hành Vạn Hóa</DisplayName>
+			<Desc>Cơ thể kết nối với sức mạnh hỗn độn trong một mối liên hệ mơ hồ, có một chút sức mạnh vi diệu để phân hóa vạn vật. Sự biến đổi này có tỷ lệ cao hơn khi sử dụng tinh hoa Thái Hư để ta luyện cơ thể. [size=10][color=#D06508]\nTăng cường hiệu suất của cơ thể bí mật ở mức trung bình\nTăng nhẹ tỷ lệ thành công trong việc áp chế bảo bối của tất cả cơ thể bí mật của người luyện thể ở mức thấp[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A01_XuanTianZiQi">
+			<DisplayName>Chu Thiên Tinh Huy</DisplayName>
+			<Desc>Cơ thể kết nối với ba trăm sáu mươi sao trong vũ trụ, chân khí trong cơ thể hơi bị nhuộm một chút ánh sao vũ trụ. Sự biến đổi này có tỷ lệ cao hơn khi sử dụng tinh hoa Huyền Thiên Tím để ta luyện cơ thể. [size=10][color=#D06508]\nTăng cường hiệu suất của cơ thể bí mật ở mức trung bình\nTăng nhẹ tỷ lệ trúng đích trong tấn công của tất cả cơ thể bí mật của người luyện thể ở mức thấp[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A02_XuanTianZiQi">
+			<DisplayName>Tam Viên Tôn Lực</DisplayName>
+			<Desc>Cơ thể kết nối với Tử Vi, Thái Vi, Thiên Thị, trong một mối liên hệ mơ hồ, chân khí trong cơ thể hơi bị nhuộm một chút sức mạnh tam viên. Sự biến đổi này có tỷ lệ cao hơn khi sử dụng tinh hoa Huyền Thiên Tím để ta luyện cơ thể. [size=10][color=#D06508]\nTăng cường hiệu suất của cơ thể bí mật ở mức trung bình\nTăng nhẹ tỷ lệ thành công trong phòng thủ của tất cả cơ thể bí mật của người luyện thể ở mức thấp[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A03_XuanTianZiQi">
+			<DisplayName>Ngũ Đức Tịch Kiếp</DisplayName>
+			<Desc>Cơ thể kết nối với sức mạnh hỗn độn trong một mối liên hệ mơ hồ, có một chút sức mạnh vi diệu để ngăn cách vạn vật. Sự biến đổi này có tỷ lệ cao hơn khi sử dụng tinh hoa Huyền Thiên Tím để ta luyện cơ thể. [size=10][color=#D06508]\nTăng cường hiệu suất của cơ thể bí mật ở mức trung bình\nTăng nhẹ tỷ lệ xuyên thấu của lá chắn linh khí của tất cả cơ thể bí mật của người luyện thể ở mức thấp[/color][/size]</Desc>
+		</Text>
+	</List>
+</Texts>
+

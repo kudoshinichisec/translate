@@ -1,0 +1,13 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Darksteel" sParam="Plant">
+			<Desc>Kỳ trân đất trời, tinh hoa ngưng tụ từ khí Canh Kim trong mạch đất.</Desc>
+			<ThingName>Quặng huyền thiết</ThingName>
+		</Text>
+		<Text Name="LingStone" sParam="Plant">
+			<Desc>Căn bản linh khí, động thì tổn hại.</Desc>
+			<ThingName>Linh mạch</ThingName>
+		</Text>
+	</List>
+</Texts>
+

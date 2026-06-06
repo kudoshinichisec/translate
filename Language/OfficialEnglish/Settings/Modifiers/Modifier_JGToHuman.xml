@@ -1,0 +1,29 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FoodToHuman">
+			<DisplayName>Tinh quái thực phẩm</DisplayName>
+			<Desc>Bẩm sinh sở hữu khả năng hấp thụ khí cao.</Desc>
+		</Text>
+		<Text Name="LingStoneToHuman">
+			<DisplayName>Tinh quái linh thạch</DisplayName>
+			<Desc>Linh khí cơ bản bẩm sinh rất cao.</Desc>
+		</Text>
+		<Text Name="FabaoToHuman">
+			<DisplayName>Tinh quái pháp bảo</DisplayName>
+			<Desc>Tốc độ hồi phục và tỷ lệ chuyển hóa linh khí của pháp bảo bẩm sinh cực mạnh.</Desc>
+		</Text>
+		<Text Name="DanToHuman">
+			<DisplayName>Đan dược thành linh</DisplayName>
+			<Desc>Không có tính kháng thuốc cho lần tiếp theo sử dụng linh đan.</Desc>
+		</Text>
+		<Text Name="PlantToHuman">
+			<DisplayName>Tự trưởng thành</DisplayName>
+			<Desc>Mỗi ngày sẽ trưởng thành chậm rãi.</Desc>
+		</Text>
+		<Text Name="BuildToHuman">
+			<DisplayName>Tự hồi phục</DisplayName>
+			<Desc>Mức độ hồi phục hiện tại: {0}\n Khi mức độ hồi phục đạt 100, tất cả các chi bị mất sẽ được phục hồi và mức độ hồi phục tích lũy sẽ trở về 0.</Desc>
+		</Text>
+	</List>
+</Texts>
+

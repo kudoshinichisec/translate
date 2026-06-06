@@ -1,0 +1,24 @@
+灵石灯柱	Cột đèn linh thạch
+金丝木小方桌	Bàn vuông kim ti mộc
+金丝木法座	Pháp tòa kim ti mộc
+角色出生点	Điểm sinh nhân vật
+寒精太玄冰柱	Trụ băng Thái Huyền hàn tinh
+天柱石钟	Chuông Thiên trụ thạch
+寒精妖刑架	Hàn Tinh Yêu Hình Giá
+玉石栅栏	Hàng rào đá ngọc
+灵晶栅栏	Hàng rào Linh thạch
+水生灵树	Linh Thụ thủy sinh
+天柱石盘龙座	Thiên Trụ Thạch Bàn Long Tọa
+天柱石剑心玉莲	Liên Ngọc Kiếm Tâm Thiên Trụ Thạch
+天柱石假山-叠嶂	Giả sơn Thiên Trụ Thạch - Điệp Chướng
+玉树	Cây ngọc
+天柱石黄龙灯台	Đèn Hoàng Long Đăng Đài bằng Thiên trụ thạch
+天柱石灯柱	Thiên Trụ Thạch Đăng Trụ
+天柱石灵地水池	Thiên Trụ Thạch Linh Địa Thủy Trì
+天柱石八卦旗	Thiên Trụ Thạch Bát Quái Kỳ
+逻辑点	Điểm logic
+应天台	Đài thiên ứng
+共鸣	Cộng hưởng
+逐应天之巅	Trục Ứng Thiên Chi Điên
+
+

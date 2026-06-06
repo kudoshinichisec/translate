@@ -1,0 +1,15 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="MainMenuEnv">
+			<Notes>Bảng chỉnh sửa môi trường bản đồ trong giao diện menu chính</Notes>
+			<Title>Chỉnh sửa môi trường bản đồ</Title>
+			<Desc>Thay đổi môi trường bản đồ thông qua việc lựa chọn linh thú kỳ dị, động thiên môi trường, di vật cổ đại, mang lại trải nghiệm khác biệt ngay từ đầu trò chơi.</Desc>
+		</Text>
+		<Text Name="MainMenuImmortal">
+			<Notes>Bảng chế độ Chân Tiên trong giao diện menu chính</Notes>
+			<Title>Chế độ Chân Tiên</Title>
+			<Desc>Tăng độ khó trò chơi thông qua một số tùy chọn, có thể hoàn thành nhiều loại thử thách và thành tựu phong phú.</Desc>
+		</Text>
+	</List>
+</Texts>
+

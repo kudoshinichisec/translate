@@ -1,0 +1,9 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SYS_LOST">
+			<DisplayName>[Mất tích]</DisplayName>
+			<Desc>Đặc tính này đã bị thất lạc, không ai biết bất kỳ thông tin nào. (Module bị mất).</Desc>
+		</Text>
+	</List>
+</Texts>
+

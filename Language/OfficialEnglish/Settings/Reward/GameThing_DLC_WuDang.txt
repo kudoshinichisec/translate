@@ -1,0 +1,5 @@
+ID	FabaoName	FabaoDes
+
+125	Kiếm Chiến Giả Chí Tôn	Còn được biết đến với danh hiệu Trấn Tà Chân Quân, Chiến Giả Chí Tôn sử dụng thanh kiếm trân quý này để trừ yêu diệt ma, hàng phục bách tà. Thanh kiếm dài chừng ba tấc, được rèn luyện từ ngọc thạch tinh thuần, ẩn chứa chân ý trừ tà, tỏa ra hào quang tím thâm sâu, uy nghi lẫm liệt. Mỗi khi rút kiếm, nó lập tức hóa thành lôi quang tím dài một tấc, tựa như thiên lôi giáng thế, chém rách hư không, diệt tận vạn vật. Không ma vật nào có thể chống lại sát khí tuyệt luân của kiếm này!
+
+

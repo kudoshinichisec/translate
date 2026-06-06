@@ -1,0 +1,84 @@
+房间	Phòng
+蜚皮休闲衣衫	Áo da phi Hưu Nhàn Thường
+蜚皮薄下裳	Xiêm mỏng da Phỉ
+巧夺天工的神兵，融合制作者的心血与灵感而成。	Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.
+斩电	Trảm điện
+石髓	Tinh thạch
+戊土圭	Grim quỳ
+紫布	Vải tím
+长生问心罗	Trường Sinh Vấn Tâm La
+佩戴者可以提高神国信仰获取加成。	Người đeo có thể tăng thêm hiệu suất thu nhận tín ngưỡng của thần quốc.
+神感符	Thần cảm giác phù
+佩戴者可以提高护体技能等级。	Người đeo có thể tăng cấp độ kỹ năng hộ thể.
+天甲符	Thiên Giáp Phù
+佩戴者可以降低神性。	Người đeo có thể giảm thần tính.
+神隐符	Thần ẩn phù
+大理石砖	Gạch đá cẩm thạch
+坤元先天阙	Khôn Nguyên Tiên Thiên khuyết
+牛皮修行下裳	Da bò Quần Tu Hành
+万里诛神御	Vạn Lý Tru Thần Ngự
+鱼肉	Thịt cá
+玄光幕	Huyền Quang mạc
+灵木料	Vật liệu gỗ linh mộc
+长生天心柱	Trường Sinh Thiên Tâm Trụ
+奇怪的蘑菇	Nấm kỳ lạ
+苍莽魂菇	Nấm Hồn Thương Mãng
+小麦	Lúa mì
+玉衡斩仙索	Thụy Trảm Tiên Ngọc Hành
+符纸	Phù giấy
+碧光妖咒	Bích Quang Yêu Chú
+木料	Gỗ
+长生灵骨木	Trường Sinh Linh Cốt Mộc
+棉花	Bông
+青龙万象绳	Thanh Long Vạn Tượng Dây
+狼皮	Da sói
+己土先天革	Dismal Tiên Thiên Cách
+粪便	Phân
+行疆五色屎	Hành Cương Ngũ Sắc Thỉ
+棕石	Đá nâu
+己土圣印	Thánh ấn Kỷ Thổ
+木角料	Gỗ vụn
+五云碎	Ngũ Vân
+苍莽环空纱	Thương Mãng Hoàn Không Sa
+天柱石铃铛	Chuông đá Thiên Trụ
+戊己大日铃	Chuông Đại Nhật Mậu Kỷ
+牛皮	Da bò
+万里冲虚障	Vạn Lý Xung Hư Chướng
+铁矿石	Quặng sắt
+断岳诛神印	Ấn Đoạn Nhạc Tru Thần
+灵晶角料	Tinh linh vụn
+紫薇万魂钉	Đinh Tử Vi Vạn Hồn
+灵晶砖	Gạch tinh linh
+莲花七杀镇	Liên Hoa Thất Sát Trấn
+野猪皮休闲衣衫	Áo da lợn rừng hưu nhàn
+腾岳斩魔甲	Đằng Nhạc Trảm Ma Giáp
+原木	Gỗ nguyên liệu
+苍莽荡魔桩	Thương Mãng Đãng Ma Cọc
+坤元屠魔索	Dây Khôn Nguyên Đồ Ma
+角色出生点	Điểm sinh nhân vật
+逻辑点	Điểm logic
+大理石置物台	Bàn đặt đồ đá hoa cương
+大理石墙	Tường đá cẩm thạch
+大理石巨灵雕像	Tượng Cẩm Thạch Cự Linh
+灵石灯柱	Cột đèn linh thạch
+灵石置物台	Kệ đặt linh thạch
+灵石门	Môn Linh thạch
+朱	Chu
+乐语	Nhạc Ngữ
+天苍 231年第72日,通过从闻药味获取的理智，对有点愤怒的感知，对墙的认知，产生了一点灵智碎片。	Thiên Thương năm 231 ngày thứ 72, thông qua lý trí thu nhận từ Ngửi mùi thuốc, cảm giác về Có chút phẫn nộ, nhận thức về Tường, đã tạo ra một mảnh linh trí.
+天苍 232年第85日,通过从发呆获取的理智，对有点恐惧的感知，对雾的认知，产生了一点灵智碎片。	Thiên Thương năm 232 ngày thứ 85, thông qua lý trí thu nhận từ ngẩn người, cảm giác về có chút sợ hãi, nhận thức về sương mù, đã tạo ra một mảnh linh trí.
+天苍 236年第107日,通过从听弟子练功获取的理智，对非常恐惧的感知，对自己的认知，产生了一点灵智碎片。	Thiên Thương năm 236 ngày thứ 107, thông qua lý trí thu nhận từ việc nghe đệ tử luyện công, cảm giác về rất sợ hãi, nhận thức về bản thân, đã sinh ra một mảnh linh trí.
+天苍 238年第111日,通过从做梦获取的理智，对平静的感知，对裤子的认知，产生了一点灵智碎片。	Thiên Thương năm 238 ngày thứ 111, thông qua lý trí thu nhận từ giấc mơ, cảm giác về bình tĩnh, nhận thức về quần, đã tạo ra một mảnh linh trí.
+天苍 244年第98日,通过从面朝北方获取的理智，对非常高兴的感知，对人的认知，产生了一点灵智碎片。	Thiên Thương năm 244 ngày thứ 98, thông qua lý trí thu nhận từ việc hướng mặt về phía Bắc, cảm giác về rất vui vẻ, nhận thức về con người, đã sinh ra một mảnh linh trí.
+永世之奴役	Nô dịch vĩnh cửu
+赤霄宫覆灭	Xích Tiêu Cung Phụ Diệt
+震雷流光神雷	Chấn Lôi Lưu Quang Thần Lôi
+坤元流光诀	Quyết Khôn Nguyên Lưu Quang
+玄武陨星真言	Chân Ngôn Vẫn Tinh Huyền Vũ
+万源归真镇神真言	Vạn Nguyên Quy Chân Trấn Thần Chân Ngôn
+丁火飞星	Đinh Hỏa Phi Tinh
+麒麟化影诀	Quyết Kỳ Lân Hóa Hình
+呼噜呼噜……这，这些宝藏……呼噜……都，都是…我，我我的！	Khò khò... những, những bảo vật này... khò... đều, đều là... của, của ta!
+你，你是谁？你也想抢我的宝物…？你，你你别想，别想拿！！！嗷哈哈哈哈！	Ngươi... ngươi là ai? Ngươi cũng muốn cướp bảo vật của ta...? Đừng hòng, đừng hòng lấy!!! Óa ha ha ha ha!
+
+

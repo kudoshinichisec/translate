@@ -1,0 +1,109 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Npc_QiXia_1">
+			<LastName>Ngọt</LastName>
+			<FristName>Minh</FristName>
+		</Text>
+		<Text Name="Npc_QiXia_2">
+			<LastName>Trăng</LastName>
+			<FristName>Nỗi buồn thanh khiết</FristName>
+		</Text>
+		<Text Name="Npc_QiXia_3">
+			<LastName>Rừng</LastName>
+			<FristName>Tư duy sâu sắc</FristName>
+		</Text>
+		<Text Name="Npc_QiXia_4">
+			<LastName>Yên tĩnh</LastName>
+			<FristName>Đêm khuya</FristName>
+		</Text>
+		<Text Name="Npc_BaiMan_1">
+			<LastName>Hy vọng</LastName>
+			<FristName>Lạnh giá</FristName>
+		</Text>
+		<Text Name="Npc_BaiMan_2">
+			<LastName>Sơn mài</LastName>
+			<FristName>Vụng về</FristName>
+		</Text>
+		<Text Name="Npc_BaiMan_3">
+			<LastName>Trắng</LastName>
+			<FristName>Lan trắng</FristName>
+		</Text>
+		<Text Name="Npc_QiSha_1">
+			<LastName>Đỏ</LastName>
+			<FristName>Thu đỏ</FristName>
+		</Text>
+		<Text Name="Npc_QiSha_2">
+			<LastName>Tại</LastName>
+			<FristName>Nhiễm mực</FristName>
+		</Text>
+		<Text Name="Npc_HeHuan_1">
+			<LastName>Thanh sạch</LastName>
+			<FristName>Lông vũ lan</FristName>
+		</Text>
+		<Text Name="Npc_HeHuan_2">
+			<LastName>Đỏ thẫm</LastName>
+			<FristName>Sen</FristName>
+		</Text>
+		<Text Name="Npc_QiQian_1">
+			<LastName>Chung Ly</LastName>
+			<FristName>Đức</FristName>
+		</Text>
+		<Text Name="Npc_QiQian_2">
+			<LastName>Chu</LastName>
+			<FristName>Không</FristName>
+		</Text>
+		<Text Name="Npc_ZiXiao_1">
+			<LastName>Thần Đồ</LastName>
+			<FristName>Nghỉ ngơi</FristName>
+		</Text>
+		<Text Name="Npc_ZiXiao_2">
+			<LastName>Đắng cay</LastName>
+			<FristName>Cờ</FristName>
+		</Text>
+		<Text Name="Npc_ZiXiao_3">
+			<LastName>Tần</LastName>
+			<FristName>Kiệt xuất</FristName>
+		</Text>
+		<Text Name="Npc_ZhengYi_1">
+			<LastName>Lý</LastName>
+			<FristName>Tôn Bác</FristName>
+		</Text>
+		<Text Name="Npc_ZhengYi_2">
+			<LastName>Diệp</LastName>
+			<FristName>Tuyết trắng</FristName>
+		</Text>
+		<Text Name="Npc_KunLun_1">
+			<LastName>Mùa</LastName>
+			<FristName>Kiếp nạn</FristName>
+		</Text>
+		<Text Name="Npc_KunLun_2">
+			<LastName>Rời đi</LastName>
+			<FristName>Yến</FristName>
+		</Text>
+		<Text Name="Npc_KunLun_3">
+			<LastName>Cổ xưa</LastName>
+			<FristName>Thông minh</FristName>
+		</Text>
+		<Text Name="Npc_DanXia_1">
+			<LastName>Tô</LastName>
+			<FristName>Băng nhọn</FristName>
+		</Text>
+		<Text Name="Npc_DanXia_2">
+			<LastName>Tạ</LastName>
+			<FristName>Tư duy</FristName>
+		</Text>
+		<Text Name="Npc_DanXia_3">
+			<LastName>Hách</LastName>
+			<FristName>Rời đi</FristName>
+		</Text>
+		<Text Name="Npc_JiTian_1">
+			<LastName>Hà</LastName>
+			<FristName>Túc đạo</FristName>
+		</Text>
+		<Text Name="Npc_Shu_1">
+			<LastName>Ứng</LastName>
+			<FristName>Dương</FristName>
+		</Text>
+	</List>
+</Texts>
+

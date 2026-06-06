@@ -1,0 +1,157 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Gong_2_1">
+			<Prefix>Hám Uyên</Prefix>
+			<Suffix>Chân·Trái</Suffix>
+			<Desc>Một loại bí thể cơ bản nổi tiếng với lối tấn công cuồng dã, kỹ thuật vận lực độc đáo có thể xuyên qua một phần khiên linh khí.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ hiệu suất tấn công của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình tỷ lệ đánh trúng của bí thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng nhẹ sức mạnh cơ bản của bí thể</Levels.2.Desc>
+			<Levels.3.Title>Trọng Thứ Tư</Levels.3.Title>
+			<Levels.3.Desc>Tăng trung bình tỷ lệ xuyên qua khiên linh khí của bí thể</Levels.3.Desc>
+			<Levels.4.Title>Trọng Thứ Năm</Levels.4.Title>
+			<Levels.4.Desc>Tăng trung bình sức mạnh cơ bản của bí thể</Levels.4.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_1_1">
+			<Prefix>Hám Uyên</Prefix>
+			<Suffix>Chân·Phải</Suffix>
+			<Desc>Một loại bí thể cơ bản nổi tiếng với lối tấn công cuồng dã, kỹ thuật vận lực độc đáo có thể xuyên qua một phần khiên linh khí.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ hiệu suất tấn công của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình tỷ lệ đánh trúng của bí thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng nhẹ sức mạnh cơ bản của bí thể</Levels.2.Desc>
+			<Levels.3.Title>Trọng Thứ Tư</Levels.3.Title>
+			<Levels.3.Desc>Tăng trung bình tỷ lệ xuyên qua khiên linh khí của bí thể</Levels.3.Desc>
+			<Levels.4.Title>Trọng Thứ Năm</Levels.4.Title>
+			<Levels.4.Desc>Tăng trung bình sức mạnh cơ bản của bí thể</Levels.4.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_2">
+			<Prefix>Lưỡng Giới Thông Thánh</Prefix>
+			<Suffix>Tay·Trái</Suffix>
+			<Desc>Dựa vào yêu lực để ta luyện cánh tay, giúp nó có sức mạnh vượt qua lý thường. Phương pháp này đặc biệt giỏi xuyên thủng khiên phòng thủ, thậm chí có thể xuyên qua hai giới.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ tỷ lệ xuyên qua khiên linh khí của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình tỷ lệ xuyên qua khiên linh khí của bí thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng lớn tỷ lệ xuyên qua khiên linh khí của bí thể</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_2_1">
+			<Prefix>Lưỡng Giới Thông Thánh</Prefix>
+			<Suffix>Tay·Phải</Suffix>
+			<Desc>Dựa vào yêu lực để ta luyện cánh tay, giúp nó có sức mạnh vượt qua lý thường. Phương pháp này đặc biệt giỏi xuyên thủng khiên phòng thủ, thậm chí có thể xuyên qua hai giới.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ tỷ lệ xuyên qua khiên linh khí của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình tỷ lệ xuyên qua khiên linh khí của bí thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng lớn tỷ lệ xuyên qua khiên linh khí của bí thể</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_3">
+			<Prefix>Cửu Nhạc Ngự Thiên</Prefix>
+			<Suffix>Đỉnh</Suffix>
+			<Desc>Hút lấy sức mạnh từ đất qua đôi chân, cơ thể làm cầu nối, xuyên thẳng thiên linh. Một khi luyện thành sẽ sở hữu sức mạnh hủy diệt lớn.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ sức mạnh cơ bản của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình sức mạnh cơ bản của bí thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng lớn sức mạnh của bí thể từ gốc rễ</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_4">
+			<Prefix>Thiên Thuẫn</Prefix>
+			<Suffix>Chân·Trái</Suffix>
+			<Desc>Bí thể nhập môn phổ biến trong giới luyện thể, dùng bí pháp ta luyện xương chân, giúp nó có khả năng chống chịu đòn đánh vượt trội, đồng thời rất nhanh nhẹn trong việc phòng thủ.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình hiệu suất của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình tỷ lệ phòng thủ thành công của bí thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng trung bình độ bền bỉ của bí thể từ gốc rễ</Levels.2.Desc>
+			<Levels.3.Title>Trọng Thứ Tư</Levels.3.Title>
+			<Levels.3.Desc>Tăng lớn tỷ lệ phòng thủ thành công của bí thể</Levels.3.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_4_1">
+			<Prefix>Thiên Thuẫn</Prefix>
+			<Suffix>Chân·Phải</Suffix>
+			<Desc>Bí thể nhập môn phổ biến trong giới luyện thể, dùng bí pháp ta luyện xương chân, giúp nó có khả năng chống chịu đòn đánh vượt trội, đồng thời rất nhanh nhẹn trong việc phòng thủ.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình hiệu suất của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình tỷ lệ phòng thủ thành công của bí thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng trung bình độ bền bỉ của bí thể từ gốc rễ</Levels.2.Desc>
+			<Levels.3.Title>Trọng Thứ Tư</Levels.3.Title>
+			<Levels.3.Desc>Tăng lớn tỷ lệ phòng thủ thành công của bí thể</Levels.3.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_5">
+			<Prefix>Thôn Linh Diệt Kiếp</Prefix>
+			<Suffix>Vòng</Suffix>
+			<Desc>Ta luyện xương tay thành chất liệu thôn linh, tạo thành vòng bao quanh cơ thể. Có thể phá vỡ khiên linh khí của người khác, đồng thời chống đỡ các đòn tấn công trực diện.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh tỷ lệ xuyên qua khiên linh khí của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Giảm trung bình cường độ tấn công thuộc tính ngũ hành mà bí thể phải chịu</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng mạnh tỷ lệ xuyên qua khiên linh khí của bí thể  \nGiảm trung bình cường độ tấn công thuộc tính ngũ hành mà bí thể phải chịu</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_6">
+			<Prefix>Man Cực Bất Diệt</Prefix>
+			<Suffix>Thân</Suffix>
+			<Desc>Luyện toàn bộ hệ xương chính thành một thể, khi chịu tổn thương sẽ phân phối đều lên toàn thân. Khi luyện đến độ sâu, gần như không thể bị hủy diệt.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ khả năng bền bỉ cơ bản của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình độ bền bỉ của bí thể từ gốc rễ</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng mạnh khả năng bền bỉ cơ bản của bí thể</Levels.2.Desc>
+			<Levels.3.Title>Trọng Thứ Tư</Levels.3.Title>
+			<Levels.3.Desc>Tăng cực mạnh khả năng bền bỉ cơ bản của bí thể</Levels.3.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_7">
+			<Prefix>Cửu Liệt Thần</Prefix>
+			<Suffix>Huyết</Suffix>
+			<Desc>Sử dụng bí pháp luyện tim để tạo ra thần huyết Cửu Liệt. Sử dụng thần huyết này để luyện thể có thể hiệu quả nâng cao kết quả luyện thể, nếu dùng để luyện cột sống, có xác suất thấp khiến cột sống biến đổi, từ đó phát triển tiềm năng tiến hóa của toàn bộ hệ xương.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Học được phương pháp luyện thể: Cửu Liệt Luyện Thể Pháp</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_8">
+			<Prefix>Man Thần</Prefix>
+			<Suffix>Tim</Suffix>
+			<Desc>Luyện tim trở về tổ tiên, tăng mạnh khả năng hồi phục chân khí.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ khả năng hồi phục chân khí của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình khả năng hồi phục chân khí của bí thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng mạnh khả năng hồi phục chân khí của bí thể</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_9">
+			<Prefix>Man Cực</Prefix>
+			<Suffix>Chiến Ý</Suffix>
+			<Desc>Luyện não bộ, khi người luyện thể tập trung ý niệm có thể bước vào trạng thái chiến ý Man Cực, tăng mạnh khả năng tấn công.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Mở khóa tư thế chiến đấu: Chiến Ý Man Cực</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_10">
+			<Prefix>Bát Cực</Prefix>
+			<Suffix>Chi Nhãn</Suffix>
+			<Desc>Sử dụng bí pháp luyện mắt, khiến nó giao tiếp với thiên địa bát cực, có thể nhìn thấu hành động của địch, tăng mạnh tỷ lệ đánh trúng.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng cực mạnh tỷ lệ đánh trúng của người luyện thể</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_11">
+			<Prefix>Thôn Tẫn</Prefix>
+			<Suffix>Chi Khẩu</Suffix>
+			<Desc>Bí thể mô phỏng miệng của Taotie, khi triển khai bí thể này có thể trực tiếp hút dưỡng chất từ thiên địa để bổ sung cho bản thân.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Nhận được thần thông: Miệng Thôn Tẫn</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>
+

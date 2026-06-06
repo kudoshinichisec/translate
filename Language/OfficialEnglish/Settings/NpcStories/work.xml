@@ -1,0 +1,173 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="OutFire">
+			<Events.0.Story>Trong lúc chữa cháy, [name] đột nhiên rất nhớ nhà.</Events.0.Story>
+			<Events.1.Story>Trong lúc chữa cháy, hình ảnh [obj_friend] bất ngờ xuất hiện trong đầu [name].</Events.1.Story>
+			<Events.2.Story>Trong lúc chữa cháy, [name] đột nhiên cảm thấy [obj_nearthing] bên cạnh rất thú vị...</Events.2.Story>
+			<Events.3.Story>Trong lúc chữa cháy, [name] đột nhiên muốn ăn [obj_food].</Events.3.Story>
+			<Events.4.Story>Trong lúc chữa cháy, [name] bất ngờ nhớ tới [obj_relation] của mình.</Events.4.Story>
+			<Events.5.Story>Trong lúc chữa cháy, [name] đột nhiên suy nghĩ miên man.</Events.5.Story>
+			<Events.6.Story>Trong lúc chữa cháy, [name] bất ngờ rơi nước mắt.</Events.6.Story>
+			<Events.7.Story>Trong lúc chữa cháy, [name] đột nhiên cảm thấy bực bội không rõ lý do.</Events.7.Story>
+			<Events.8.Story>Trong lúc chữa cháy, [name] bất ngờ muốn tới xem [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.8.Story>
+			<Events.9.Story>Trong lúc chữa cháy, [name] đột nhiên nhớ tới hoàng hôn ở chân trời.</Events.9.Story>
+		</Text>
+		<Text Name="Treat">
+			<Events.1.Story>Trong lúc chữa trị [obj], [name] bất ngờ rất nhớ nhà.</Events.1.Story>
+			<Events.2.Story>Trong lúc chữa trị [obj], hình ảnh [obj_friend] bất ngờ xuất hiện trong đầu [name].</Events.2.Story>
+			<Events.3.Story>Trong lúc chữa trị [obj], [name] đột nhiên cảm thấy [obj_nearthing] bên cạnh rất thú vị...</Events.3.Story>
+			<Events.4.Story>Trong lúc chữa trị [obj], [name] bất ngờ muốn ăn [obj_food].</Events.4.Story>
+			<Events.5.Story>Trong lúc chữa trị [obj], [name] bất ngờ nhớ tới [obj_relation] của mình.</Events.5.Story>
+			<Events.6.Story>Trong lúc chữa trị [obj], [name] đột nhiên suy nghĩ miên man.</Events.6.Story>
+			<Events.7.Story>Trong lúc chữa trị [obj], [name] bất ngờ rơi nước mắt.</Events.7.Story>
+			<Events.8.Story>Trong lúc chữa trị [obj], [name] đột nhiên cảm thấy bực bội không rõ lý do.</Events.8.Story>
+			<Events.9.Story>Trong lúc chữa trị [obj], [name] bất ngờ muốn tới xem [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>[name] bị cảm xúc [obj_badmood] làm phiền, nhưng vẫn cố gắng giữ tinh thần, nỗ lực chữa trị [obj].</Events.10.Story>
+			<Events.11.Story>[name] bị cảm xúc [obj_badmood] làm phiền, trong lúc chữa trị [obj] luôn không kiểm soát được, khiến [hename] phát ra những tiếng kêu đau đớn.</Events.11.Story>
+			<Events.12.Story>[name] bị cảm xúc [obj_badmood] làm phiền, cố tình dùng lực mạnh khi chữa trị [obj], khiến [hename] phát ra những tiếng kêu đau đớn.</Events.12.Story>
+			<Events.13.Story>[name] vì tâm trạng [obj_goodmood] rất tốt, trong lúc chữa trị [obj] không ngừng ngân nga bài hát nhỏ, khiến [hename] cảm thấy rất khó hiểu.</Events.13.Story>
+			<Events.14.Story>[name] vì tâm trạng [obj_goodmood] rất tốt, trong lúc chữa trị [obj] không ngừng ngân nga bài hát nhỏ, tâm trạng của [hename] cũng có vẻ tốt hơn.</Events.14.Story>
+			<Events.15.Story>[name] vì tâm trạng [obj_goodmood] rất tốt, trong lúc chữa trị [obj] không ngừng ngân nga bài hát nhỏ, điều này khiến sắc mặt của [hename] tối sầm lại.</Events.15.Story>
+			<Events.16.Story>Trong lúc chữa trị [obj], [name] bất ngờ dùng lực quá mạnh. [hename] phát ra một tiếng kêu đau đớn.</Events.16.Story>
+			<Events.17.Story>Trong lúc chữa trị [obj], [name] cảm thấy [hename] thật sự quá tội nghiệp, lòng tràn đầy thương xót.</Events.17.Story>
+			<Events.18.Story>Trong lúc chữa trị [obj], [name] tiện thể trò chuyện với [hename] về [rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool].</Events.18.Story>
+		</Text>
+		<Text Name="Feed">
+			<Events.1.Story>Trong lúc cho [hename] ăn [obj], [name] bất ngờ rất nhớ nhà.</Events.1.Story>
+			<Events.2.Story>Trong lúc cho [hename] ăn [obj], hình ảnh [obj_friend] bất ngờ xuất hiện trong đầu [name].</Events.2.Story>
+			<Events.3.Story>Trong lúc cho [hename] ăn [obj], [name] đột nhiên cảm thấy [obj_nearthing] bên cạnh rất thú vị...</Events.3.Story>
+			<Events.4.Story>Trong lúc cho [hename] ăn [obj], [name] bất ngờ muốn ăn [obj_food].</Events.4.Story>
+			<Events.5.Story>Trong lúc cho [hename] ăn [obj], [name] bất ngờ nhớ tới [obj_relation] của mình.</Events.5.Story>
+			<Events.6.Story>Trong lúc cho [hename] ăn [obj], [name] đột nhiên suy nghĩ miên man.</Events.6.Story>
+			<Events.7.Story>Trong lúc cho [hename] ăn [obj], [name] bất ngờ rơi nước mắt.</Events.7.Story>
+			<Events.8.Story>Trong lúc cho [hename] ăn [obj], [name] đột nhiên cảm thấy bực bội không rõ lý do.</Events.8.Story>
+			<Events.9.Story>Trong lúc cho [hename] ăn [obj], [name] bất ngờ muốn tới xem [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>[name] bị cảm xúc [obj_badmood] làm phiền, nhưng vẫn cố gắng giữ tinh thần, tập trung chăm sóc [hename].</Events.10.Story>
+			<Events.11.Story>[name] bị cảm xúc [obj_badmood] làm phiền, trong lúc cho [hename] ăn [obj] không kiểm soát được nhiệt độ, khiến [hename] bị bỏng và phát ra tiếng kêu đau đớn.</Events.11.Story>
+			<Events.12.Story>[name] vì tâm trạng [obj_goodmood] rất tốt, trong lúc cho [hename] ăn [obj] không ngừng ngân nga bài hát nhỏ, khiến [hename] cảm thấy rất khó hiểu.</Events.12.Story>
+			<Events.13.Story>[name] vì tâm trạng [obj_goodmood] rất tốt, trong lúc cho [hename] ăn [obj] không ngừng ngân nga bài hát nhỏ, tâm trạng của [hename] cũng có vẻ tốt hơn.</Events.13.Story>
+			<Events.14.Story>[name] vì tâm trạng [obj_goodmood] rất tốt, trong lúc cho [hename] ăn [obj] không ngừng ngân nga bài hát nhỏ, điều này khiến sắc mặt của [hename] tối sầm lại.</Events.14.Story>
+			<Events.15.Story>[name] vì [obj_goodmood] tâm trạng tốt, khi cho [hename] ăn [obj] không nhịn được mà ngân nga vài giai điệu, điều này khiến [hename] cảm thấy rất phiền phức.</Events.15.Story>
+			<Events.16.Story>Khi [name] đang cho [hename] ăn [obj], đột nhiên mất tập trung, và vô tình đưa [obj] vào mặt [hename].</Events.16.Story>
+			<Events.17.Story>Khi [name] đang cho [hename] ăn [obj], bất chợt cũng muốn thử mùi vị của [obj].</Events.17.Story>
+			<Events.18.Story>Khi [name] đang cho [hename] ăn [obj], tiện thể trò chuyện với [hename] về [rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool].</Events.18.Story>
+		</Text>
+		<Text Name="Hunting">
+			<Events.1.Story>Khi [name] đang săn [obj], bỗng nhiên cảm thấy rất nhớ nhà.</Events.1.Story>
+			<Events.2.Story>Khi [name] đang săn [obj], hình ảnh của [obj_friend] bất chợt hiện lên trong đầu.</Events.2.Story>
+			<Events.3.Story>Khi [name] đang săn [obj], đột nhiên cảm thấy [obj_nearthing] bên cạnh rất thú vị...</Events.3.Story>
+			<Events.4.Story>Khi [name] đang săn [obj], đột nhiên muốn ăn [obj_food].</Events.4.Story>
+			<Events.5.Story>Khi [name] đang săn [obj], bất chợt nhớ đến [obj_relation] của mình.</Events.5.Story>
+			<Events.6.Story>Khi [name] đang săn [obj], suy nghĩ đột nhiên tràn ngập trong đầu.</Events.6.Story>
+			<Events.7.Story>Khi [name] đang săn [obj], bất ngờ rơi nước mắt.</Events.7.Story>
+			<Events.8.Story>Khi [name] đang săn [obj], bỗng nhiên cảm thấy vô cùng phiền muộn.</Events.8.Story>
+			<Events.9.Story>Khi [name] đang săn [obj], đột nhiên muốn đi xem [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>[name] bị cảm xúc [obj_badmood] làm phiền, nhưng vẫn cố gắng tập trung săn [obj].</Events.10.Story>
+			<Events.11.Story>Vì [obj_goodmood] tâm trạng tốt, [name] không nhịn được mà ngân nga vài giai điệu khi săn [obj].</Events.11.Story>
+			<Events.12.Story>Khi [name] đang săn [obj], không biết tại sao lại cảm thấy cảm thông với [obj].</Events.12.Story>
+		</Text>
+		<Text Name="Build">
+			<Events.1.Story>Khi [name] đang xây dựng [obj], bỗng nhiên cảm thấy rất nhớ nhà.</Events.1.Story>
+			<Events.2.Story>Khi [name] đang xây dựng [obj], hình ảnh của [obj_friend] bất chợt hiện lên trong đầu.</Events.2.Story>
+			<Events.3.Story>Khi [name] đang xây dựng [obj], đột nhiên cảm thấy [obj_nearthing] bên cạnh rất thú vị...</Events.3.Story>
+			<Events.4.Story>Khi [name] đang xây dựng [obj], bất chợt muốn ăn [obj_food].</Events.4.Story>
+			<Events.5.Story>Khi [name] đang xây dựng [obj], bất chợt nhớ đến [obj_relation] của mình.</Events.5.Story>
+			<Events.6.Story>Khi [name] đang xây dựng [obj], suy nghĩ đột nhiên tràn ngập trong đầu.</Events.6.Story>
+			<Events.7.Story>Khi [name] đang xây dựng [obj], bất ngờ rơi nước mắt.</Events.7.Story>
+			<Events.8.Story>Khi [name] đang xây dựng [obj], bỗng nhiên cảm thấy vô cùng phiền muộn.</Events.8.Story>
+			<Events.9.Story>Khi [name] đang xây dựng [obj], đột nhiên muốn đi xem [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>[name] bị cảm xúc [obj_badmood] làm phiền, nhưng vẫn cố gắng tập trung xây dựng [obj].</Events.10.Story>
+			<Events.11.Story>Vì [obj_goodmood] tâm trạng tốt, [name] không nhịn được mà ngân nga vài giai điệu khi xây dựng [obj].</Events.11.Story>
+			<Events.12.Story>Khi xây dựng [obj], [name] dồn hết tâm huyết, [it] thực sự rất thích [obj] này.</Events.12.Story>
+		</Text>
+		<Text Name="Plant">
+			<Events.1.Story>Khi [name] đang trồng [obj], bỗng nhiên cảm thấy rất nhớ nhà.</Events.1.Story>
+			<Events.2.Story>Khi [name] đang trồng [obj], hình ảnh của [obj_friend] bất chợt hiện lên trong đầu.</Events.2.Story>
+			<Events.3.Story>Khi [name] đang trồng [obj], đột nhiên cảm thấy [obj_nearthing] bên cạnh rất thú vị...</Events.3.Story>
+			<Events.4.Story>Khi [name] đang trồng [obj], bất chợt muốn ăn [obj_food].</Events.4.Story>
+			<Events.5.Story>Khi [name] đang trồng [obj], bất chợt nhớ đến [obj_relation] của mình.</Events.5.Story>
+			<Events.6.Story>Khi [name] đang trồng [obj], suy nghĩ đột nhiên tràn ngập trong đầu.</Events.6.Story>
+			<Events.7.Story>Khi [name] đang trồng [obj], bất ngờ rơi nước mắt.</Events.7.Story>
+			<Events.8.Story>Khi [name] đang trồng [obj], bỗng nhiên cảm thấy vô cùng phiền muộn.</Events.8.Story>
+			<Events.9.Story>Khi [name] đang trồng [obj], đột nhiên muốn đi xem [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>[name] bị cảm xúc [obj_badmood] làm phiền, nhưng vẫn cố gắng tập trung trồng [obj].</Events.10.Story>
+			<Events.11.Story>Vì [obj_goodmood] tâm trạng tốt, [name] không nhịn được mà ngân nga vài giai điệu khi trồng [obj].</Events.11.Story>
+			<Events.12.Story>Khi [name] đang trồng [obj], tràn đầy hy vọng: Thật mong lần này sẽ có một vụ mùa bội thu.</Events.12.Story>
+		</Text>
+		<Text Name="Mine">
+			<Events.1.Story>Khi [name] đang đào [obj], bỗng nhiên cảm thấy rất nhớ nhà.</Events.1.Story>
+			<Events.2.Story>Khi [name] đang đào [obj], hình ảnh của [obj_friend] bất chợt hiện lên trong đầu.</Events.2.Story>
+			<Events.3.Story>Khi [name] đang đào [obj], đột nhiên cảm thấy [obj_nearthing] bên cạnh rất thú vị...</Events.3.Story>
+			<Events.4.Story>Khi [name] đang đào [obj], bất chợt muốn ăn [obj_food].</Events.4.Story>
+			<Events.5.Story>Khi [name] đang đào [obj], bất chợt nhớ đến [obj_relation] của mình.</Events.5.Story>
+			<Events.6.Story>Khi [name] đang đào [obj], suy nghĩ đột nhiên tràn ngập trong đầu.</Events.6.Story>
+			<Events.7.Story>Khi [name] đang đào [obj], bất ngờ rơi nước mắt.</Events.7.Story>
+			<Events.8.Story>Khi [name] đang đào [obj], bỗng nhiên cảm thấy vô cùng phiền muộn.</Events.8.Story>
+			<Events.9.Story>Khi [name] đang đào [obj], đột nhiên muốn đi xem [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>[name] bị cảm xúc [obj_badmood] làm phiền, nhưng vẫn cố gắng tập trung đào [obj].</Events.10.Story>
+			<Events.11.Story>Vì [obj_goodmood] tâm trạng tốt, [name] không nhịn được mà ngân nga vài giai điệu khi đào [obj].</Events.11.Story>
+			<Events.12.Story>Khi [name] đang đào [obj], tràn đầy kỳ vọng: Nếu có thể đào được một hang động cổ xưa thì thật tốt...</Events.12.Story>
+			<Events.13.Story>Khi [name] đang đào [obj], đột nhiên cảm thấy rất mệt, khi nào mới có thể thăng chức nội môn đây...</Events.13.Story>
+			<Events.14.Story>Khi [name] đang đào [obj], tràn đầy động lực, [it] cảm thấy đây cũng là một phần của việc tu luyện.</Events.14.Story>
+		</Text>
+		<Text Name="CutOff">
+			<Events.1.Story>Khi [name] đang loại bỏ [obj], bỗng nhiên cảm thấy rất nhớ nhà.</Events.1.Story>
+			<Events.2.Story>Khi [name] đang loại bỏ [obj], hình ảnh của [obj_friend] bất chợt hiện lên trong đầu.</Events.2.Story>
+			<Events.3.Story>Khi [name] đang loại bỏ [obj], đột nhiên cảm thấy [obj_nearthing] bên cạnh rất thú vị...</Events.3.Story>
+			<Events.4.Story>Khi [name] đang loại bỏ [obj], bất chợt muốn ăn [obj_food].</Events.4.Story>
+			<Events.5.Story>Khi [name] đang loại bỏ [obj], bất chợt nhớ đến [obj_relation] của mình.</Events.5.Story>
+			<Events.6.Story>Khi [name] đang loại bỏ [obj], suy nghĩ đột nhiên tràn ngập trong đầu.</Events.6.Story>
+			<Events.7.Story>Khi [name] đang loại bỏ [obj], bất ngờ rơi nước mắt.</Events.7.Story>
+			<Events.8.Story>Khi [name] đang loại bỏ [obj], bỗng nhiên cảm thấy vô cùng phiền muộn.</Events.8.Story>
+			<Events.9.Story>Khi [name] đang loại bỏ [obj], đột nhiên muốn đi xem [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>[name] bị cảm xúc [obj_badmood] làm phiền, nhưng vẫn cố gắng tập trung loại bỏ [obj].</Events.10.Story>
+			<Events.11.Story>Vì [obj_goodmood] tâm trạng tốt, [name] không nhịn được mà ngân nga vài giai điệu khi loại bỏ [obj].</Events.11.Story>
+			<Events.12.Story>Khi [name] đang loại bỏ [obj], tràn đầy động lực, [it] cảm thấy đây cũng là một phần của việc tu luyện.</Events.12.Story>
+		</Text>
+		<Text Name="Eat">
+			<Events.1.Story>Khi [name] đang ăn [obj], bỗng nhiên cảm thấy rất nhớ nhà.</Events.1.Story>
+			<Events.2.Story>Khi [name] đang ăn [obj], hình ảnh của [obj_friend] bất chợt hiện lên trong đầu.</Events.2.Story>
+			<Events.3.Story>Khi [name] đang ăn [obj], đột nhiên cảm thấy [obj_nearthing] bên cạnh rất thú vị...</Events.3.Story>
+			<Events.4.Story>Khi [name] đang ăn [obj], bất chợt muốn ăn [obj_food].</Events.4.Story>
+			<Events.5.Story>Khi [name] đang ăn [obj], bất chợt nhớ đến [obj_relation] của mình.</Events.5.Story>
+			<Events.6.Story>Khi [name] đang ăn [obj], suy nghĩ đột nhiên tràn ngập trong đầu.</Events.6.Story>
+			<Events.7.Story>Khi [name] đang ăn [obj], bất ngờ rơi nước mắt.</Events.7.Story>
+			<Events.8.Story>Khi [name] đang ăn [obj], bỗng nhiên cảm thấy vô cùng phiền muộn.</Events.8.Story>
+			<Events.9.Story>Khi [name] đang ăn [obj], đột nhiên muốn đi xem [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>[name] bị cảm xúc [obj_badmood] làm phiền, khiến việc ăn [obj] cũng trở nên nhạt nhẽo.</Events.10.Story>
+			<Events.11.Story>Vì [obj_goodmood] tâm trạng tốt, [name] cảm thấy [obj] trong miệng dường như ngon hơn rất nhiều.</Events.11.Story>
+		</Text>
+		<Text Name="Drink">
+			<Events.1.Story>Khi [name] đang uống [obj], bỗng nhiên cảm thấy rất nhớ nhà.</Events.1.Story>
+			<Events.2.Story>Khi [name] đang uống [obj], hình ảnh của [obj_friend] bất chợt hiện lên trong đầu.</Events.2.Story>
+			<Events.3.Story>Khi [name] đang uống [obj], đột nhiên cảm thấy [obj_nearthing] bên cạnh rất thú vị...</Events.3.Story>
+			<Events.4.Story>Khi [name] đang uống [obj], bất chợt muốn uống [obj_food].</Events.4.Story>
+			<Events.5.Story>Khi [name] đang uống [obj], bất chợt nhớ đến [obj_relation] của mình.</Events.5.Story>
+			<Events.6.Story>Khi [name] đang uống [obj], suy nghĩ đột nhiên tràn ngập trong đầu.</Events.6.Story>
+			<Events.7.Story>Khi [name] đang uống [obj], bất ngờ rơi nước mắt.</Events.7.Story>
+			<Events.8.Story>Khi [name] đang uống [obj], bỗng nhiên cảm thấy vô cùng phiền muộn.</Events.8.Story>
+			<Events.9.Story>Khi [name] đang uống [obj], đột nhiên muốn đi xem [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+		</Text>
+		<Text Name="Fighting">
+			<Events.1.Story>Khi đang chiến đấu, [name] bỗng nhiên cảm thấy rất nhớ nhà.</Events.1.Story>
+			<Events.2.Story>Khi đang chiến đấu, hình ảnh của [obj_friend] bất chợt hiện lên trong đầu.</Events.2.Story>
+			<Events.3.Story>Khi đang chiến đấu, bất chợt cảm thấy [obj_nearthing] bên cạnh rất thú vị...</Events.3.Story>
+			<Events.4.Story>Khi đang chiến đấu, đột nhiên muốn ăn [obj_food].</Events.4.Story>
+			<Events.5.Story>Khi đang chiến đấu, bất chợt nhớ đến [obj_relation] của mình.</Events.5.Story>
+			<Events.6.Story>Khi đang chiến đấu, suy nghĩ đột nhiên tràn ngập trong đầu.</Events.6.Story>
+			<Events.7.Story>Khi đang chiến đấu, bất ngờ rơi nước mắt.</Events.7.Story>
+			<Events.8.Story>Khi đang chiến đấu, bỗng nhiên cảm thấy vô cùng phiền muộn.</Events.8.Story>
+			<Events.9.Story>Khi đang chiến đấu, đột nhiên muốn đi xem [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Khi đang chiến đấu, [name] bất chợt nghĩ rằng sau trận này sẽ về quê thăm nhà.</Events.10.Story>
+			<Events.11.Story>Khi đang chiến đấu, [name] bất chợt nghĩ rằng sau trận này sẽ tìm một mối tình nghiêm túc.</Events.11.Story>
+			<Events.12.Story>Khi đang chiến đấu, [name] bất chợt nghĩ rằng sau trận này sẽ hẹn Bằng Hữu đi uống một bữa thật no say.</Events.12.Story>
+		</Text>
+		<Text Name="Fishing">
+			<Events.1.Story>Khi [name] đang câu cá, bỗng nhiên cảm thấy rất nhớ nhà.</Events.1.Story>
+			<Events.2.Story>Khi [name] đang câu cá, hình ảnh của [obj_friend] bất chợt hiện lên trong đầu.</Events.2.Story>
+			<Events.3.Story>Khi [name] đang câu cá, đột nhiên cảm thấy [obj_nearthing] bên cạnh rất thú vị...</Events.3.Story>
+			<Events.4.Story>Khi [name] đang câu cá, bất chợt muốn ăn [obj_food].</Events.4.Story>
+		</Text>
+	</List>
+</Texts>
+

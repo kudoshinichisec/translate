@@ -1,0 +1,21 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="HeYin">
+			<DisplayName>Hà Âm Thành</DisplayName>
+			<Desc>Nơi này là thành phố, có thể xây dựng các công trình kiểu chính sách, đồng thời có thể chiêu mộ đệ tử.</Desc>
+		</Text>
+		<Text Name="GuanHai">
+			<DisplayName>Quan Hải Thành</DisplayName>
+		</Text>
+		<Text Name="PanShe">
+			<DisplayName>Bàn Xà Trại</DisplayName>
+		</Text>
+		<Text Name="Feng">
+			<DisplayName>Phong Thành</DisplayName>
+		</Text>
+		<Text Name="DaLiang">
+			<DisplayName>Đại Lương Thành</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

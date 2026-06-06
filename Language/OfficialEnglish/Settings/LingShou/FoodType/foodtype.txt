@@ -1,0 +1,8 @@
+Type	Desc	DisplayName
+JiaGuo	Có hiệu quả thúc đẩy sự trưởng thành của linh trí	Quả ngon
+ShuShi	Có hiệu quả thúc đẩy sự trưởng thành của bảo thể	Thực phẩm chín
+XiangXun	Có hiệu quả thúc đẩy sự trưởng thành của linh khí	Nấm hương
+DiXian	Có hiệu quả thúc đẩy sự trưởng thành của thuật pháp	Tươi
+ShengRou	Có hiệu quả thúc đẩy sự trưởng thành của ngự đan	Loại thịt
+
+

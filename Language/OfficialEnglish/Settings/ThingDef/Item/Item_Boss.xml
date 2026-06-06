@@ -1,0 +1,134 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_Boss_Jiaowangci" sParam="Item">
+			<ThingName>Giao Vương Thứ</ThingName>
+		</Text>
+		<Text Name="Item_Boss_Fenghuangneidan" sParam="Item">
+			<ThingName>Phượng Hoàng Nội Đan</ThingName>
+		</Text>
+		<Text Name="Item_Boss_Fenghuanghuoyu" sParam="Item">
+			<ThingName>Phượng Hoàng Hỏa Vũ</ThingName>
+		</Text>
+		<Text Name="Item_BossFeng_HuoYu" sParam="Item">
+			<ThingName>Sí Liệt Đích Hỏa Vũ</ThingName>
+			<Desc>Một chiếc lông kỳ lạ, dù khi chạm vào không thấy nóng nhưng lại liên tục tỏa nhiệt, có thể tăng đáng kể nhiệt độ trong không gian kín như phòng. Ngoài việc có hiệu quả tụ linh mạnh mẽ, dường như không có tác dụng nào khác.</Desc>
+			<Item.FabaoSuffix>Lông</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_GangYu" sParam="Item">
+			<ThingName>Kỳ Nguyện Chi Lực</ThingName>
+			<Desc>Một chiếc lông hoàn chỉnh từ cơ thể Hung Phượng, nhiệt lực hoàn toàn nội liễm, sắc bén và cứng rắn. Đeo nó có thể giúp người không sợ lạnh, khí huyết lưu thông nhanh hơn, tăng tốc tiêu thụ thức ăn.</Desc>
+			<Item.FabaoSuffix>Lông</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_TouYu" sParam="Item">
+			<ThingName>Bạch Ngọc Thạch</ThingName>
+			<Desc>Chiếc lông lộng lẫy trên đỉnh đầu Hung Phượng, cháy với ngọn lửa bất diệt, là tinh hoa tụ hợp của Hung Phượng. Hung Phượng giỏi về đạo thuật, đeo vật này có thể mượn sức mạnh của Hung Phượng, vượt qua giới hạn kỹ năng thuật pháp thêm 3 cấp.</Desc>
+			<Item.FabaoSuffix>Lông</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_WeiYu" sParam="Item">
+			<ThingName>Già Thiên</ThingName>
+			<Desc>Chiếc lông đuôi khổng lồ của Hung Phượng, ánh sáng lưu chuyển trên nó, nhưng khi chạm vào lại ấm áp, không cảm thấy nóng, rất kỳ diệu. Nếu xử lý bằng phương pháp đặc biệt, nó sẽ có tác dụng đặc biệt.</Desc>
+			<Item.FabaoSuffix>Lông</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_Gu" sParam="Item">
+			<ThingName>Yêu Lang Đích Tiêm Nha</ThingName>
+			<Desc>Xương rỗng trên đôi cánh của Hung Phượng, cực kỳ cứng rắn, không cảm nhận được trọng lượng. Nếu xử lý bằng phương pháp đặc biệt, nó sẽ có tác dụng đặc biệt.</Desc>
+			<Item.FabaoSuffix>Lông</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_HongYu" sParam="Item">
+			<ThingName>Thỏ Yêu Đích Cước</ThingName>
+			<Desc>Nguồn sức mạnh của Hung Phượng, bên trong chứa đựng nguyên thần của Hung Phượng. Nếu giao tiếp với nguyên thần, có thể lĩnh hội một số thông tin hữu ích. Đeo vật này có thể mượn sức mạnh nguyên thần của Hung Phượng, giảm 10% sát thương thuộc tính hỏa.</Desc>
+			<Item.FabaoSuffix>Ngọc</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Tham ngộ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm cách lấy một số thông tin hữu ích từ đó.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_BossFeng_Meat" sParam="Item">
+			<ThingName>Yêu Xà Đích Hàn Lân</ThingName>
+			<Desc>Máu thịt tinh hoa nhất của Hung Phượng, sử dụng có thể bổ sung tối đa 25 điểm linh khí từ gốc rễ và kéo dài tuổi thọ thêm 10 năm. Hiệu quả sẽ dần giảm khi số lần sử dụng tăng lên.</Desc>
+			<Item.FabaoSuffix>Thịt</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_DragonScale" sParam="Item">
+			<ThingName>Hùng Yêu Đích Bột Cảnh Mao</ThingName>
+			<Desc>Những chiếc vảy rơi từ thân rồng, ngoài tác dụng tụ linh mạnh mẽ, đã mất đi phần lớn thần hiệu.</Desc>
+			<Item.FabaoSuffix>Vảy</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_Jiao" sParam="Item">
+			<ThingName>Sừng trời của Giao Long</ThingName>
+			<Desc>Sừng trên đỉnh đầu của Giao Long, là tinh hoa cô đọng của nó. Giao Long giỏi về đạo điều khiển pháp khí, đeo vật này có thể mượn sức mạnh của Giao Long, phá vỡ giới hạn kỹ năng ngự kiếm thêm 3 cấp.</Desc>
+			<Item.FabaoSuffix>Gai</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_Zhua" sParam="Item">
+			<ThingName>Cự Quy Đích Kiên Xác</ThingName>
+			<Desc>Móng vuốt sắc nhọn của Giao Long, chứa đựng khí sắc bén, không gì không phá được. Sau khi xử lý bằng phương pháp đặc biệt, có thể sẽ có công dụng đặc biệt.</Desc>
+			<Item.FabaoSuffix>Gai</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_Lin" sParam="Item">
+			<ThingName>Yêu Ngưu Giác</ThingName>
+			<Desc>Một chiếc vảy hoàn chỉnh trên thân Giao Long, cứng rắn không thể phá hủy. Đeo vào có thể chống lại sát thương linh khí.</Desc>
+			<Item.FabaoSuffix>Vảy</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_NiLin" sParam="Item">
+			<ThingName>Hổ Vương Cốt</ThingName>
+			<Desc>Nguồn sức mạnh của Giao Long, bên trong chứa đựng nguyên thần của nó. Nếu giao tiếp với nguyên thần, có thể lĩnh ngộ một số thông tin hữu ích. Đeo vật này có thể mượn sức mạnh nguyên thần của Giao Long, giảm 10% sát thương thuộc tính nước.</Desc>
+			<Item.FabaoSuffix>Vảy</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Tham ngộ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm cách lấy một số thông tin hữu ích từ đó.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_BossLong_Jing" sParam="Item">
+			<ThingName>Kim Dương Quan</ThingName>
+			<Desc>Gân mạnh mẽ nhất ở đuôi Giao Long, có khả năng dẫn truyền linh khí tuyệt vời. Sau khi xử lý bằng phương pháp đặc biệt, có thể sẽ có công dụng đặc biệt.</Desc>
+			<Item.FabaoSuffix>Gân</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_Meat" sParam="Item">
+			<ThingName>Long Lân</ThingName>
+			<Desc>Máu thịt tinh hoa nhất của Giao Long, sử dụng có thể bổ sung tối đa 25 điểm linh khí từ gốc rễ và kéo dài tuổi thọ thêm 10 năm. Hiệu quả sẽ dần giảm khi số lần sử dụng tăng lên.</Desc>
+			<Item.FabaoSuffix>Thịt</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_BaiLin" sParam="Item">
+			<ThingName>Phượng Vũ</ThingName>
+			<Desc>Vảy trắng trên thân Chúc Long.</Desc>
+			<Item.FabaoSuffix>Vảy</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_HeiLin" sParam="Item">
+			<ThingName>Phượng Đầu Vũ</ThingName>
+			<Desc>Vảy đen trên thân Chúc Long.</Desc>
+			<Item.FabaoSuffix>Vảy</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_Eye" sParam="Item">
+			<ThingName>Kết tinh Âm Dương</ThingName>
+			<Desc>Kết tinh trong mắt Chúc Long, pha trộn hai màu đen trắng trong suốt, nhìn qua như có thể thấy được bí ẩn biến đổi của đạo Âm Dương. Sau khi xử lý bằng phương pháp đặc biệt, có thể sẽ có công dụng đặc biệt.</Desc>
+			<Item.FabaoSuffix>Tinh</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_TianLin" sParam="Item">
+			<ThingName>Long Thiên Giác</ThingName>
+			<Desc>Một chiếc vảy đặc biệt trên trán Chúc Long, là tinh hoa cô đọng của nó. Chúc Long hóa Âm Dương để điều khiển Ngũ Hành, đeo vật này có thể mượn sức mạnh của Chúc Long, phá vỡ giới hạn kỹ năng hộ thuẫn thêm 3 cấp.</Desc>
+			<Item.FabaoSuffix>Vảy</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_LongYu" sParam="Item">
+			<ThingName>Hỗn Độn Long Ngọc</ThingName>
+			<Desc>Nguồn sức mạnh của Chúc Long, bên trong chứa đựng một tia nguyên thần còn sót lại của nó. Nếu giao tiếp với nguyên thần, có thể lĩnh ngộ một số thông tin hữu ích. Đeo vật này có thể mượn sức mạnh nguyên thần của Chúc Long, giảm 5% sát thương thuộc tính Ngũ Hành.</Desc>
+			<Item.FabaoSuffix>Ngọc</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Tham ngộ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm cách lấy một số thông tin hữu ích từ đó.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_BossZhuLong_Meat" sParam="Item">
+			<ThingName>Nguyên Sơ Huyết Nhục</ThingName>
+			<Desc>Máu thịt trên thân Chúc Long, bị Âm Dương nhiễm mà có công dụng đặc biệt. Sử dụng có thể giảm 2 điểm đạo hạnh và kéo dài tuổi thọ thêm 10 năm. Hiệu quả sẽ dần giảm khi số lần sử dụng tăng lên.</Desc>
+			<Item.FabaoSuffix>Thịt</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_FengYin" sParam="Item">
+			<ThingName>Phượng Hoàng Diễm Ngọc</ThingName>
+			<Desc>Một mảnh ngọc cổ tìm thấy trong kho báu Long Đài, dường như là một phần của một bộ vật phẩm.</Desc>
+			<Item.FabaoSuffix>Ngọc</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Xem xét</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Xem ngọc cổ Phượng văn.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_BossZhuLong_FengYin" sParam="Item">
+			<ThingName>Hắc bạch sắc cổ ngọc</ThingName>
+			<Desc>Một khối ngọc kỳ lạ tìm thấy trong chiến trường tiên ma, Âm Dương thoắt ẩn thoắt hiện, dường như ẩn chứa điều gì đó.</Desc>
+			<Item.FabaoSuffix>Ngọc</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Xem xét</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Xem ngọc cổ đen trắng.</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>
+

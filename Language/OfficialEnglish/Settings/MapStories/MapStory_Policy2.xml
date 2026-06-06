@@ -1,0 +1,10 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="OutSpread_TreeEXP">
+			<DisplayName>Sự kiện thu thập Thiên Đạo</DisplayName>
+			<Desc>Thiên Đạo đã thu thập đầy, có thể ngưng kết thành đan.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,26 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FightSkill_God_Damage1">
+			<DisplayName>Ngự Long Tiếu</DisplayName>
+		</Text>
+		<Text Name="FightSkill_God_Damage2">
+			<DisplayName>Thất Sát Lục Ma Thần Lôi</DisplayName>
+		</Text>
+		<Text Name="FightSkill_God_FaBao1">
+			<DisplayName>Kiếm Tu La</DisplayName>
+		</Text>
+		<Text Name="FightSkill_God_FightSkill1">
+			<DisplayName>Lời nguyền máu Dạ Xoa</DisplayName>
+		</Text>
+		<Text Name="FightSkill_God_Sheild1">
+			<DisplayName>Hộ vô thường</DisplayName>
+		</Text>
+		<Text Name="FightSkill_God_Health1">
+			<DisplayName>Vạn Hoa Chú</DisplayName>
+		</Text>
+		<Text Name="FightSkill_God_Health2">
+			<DisplayName>Tĩnh lặng</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

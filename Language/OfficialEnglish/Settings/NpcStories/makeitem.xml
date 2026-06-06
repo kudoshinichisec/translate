@@ -1,0 +1,96 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Cooking">
+			<Events.1.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang nấu [obj], đột nhiên rất nhớ nhà.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang nấu [obj], trong đầu đột nhiên hiện lên hình ảnh của [obj_friend].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang nấu [obj], đột nhiên cảm thấy vật [obj_nearthing] bên cạnh rất thú vị…</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang nấu [obj], đột nhiên muốn ăn [obj_food].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather]，[name] lặng lẽ nấu [obj], đột nhiên nhớ đến [obj_relation] của mình.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather]，[name] một mình nấu [obj], đột nhiên suy nghĩ lan man.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang nấu [obj], đột nhiên rơi nước mắt.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang nấu [obj], đột nhiên cảm thấy bực bội không lý do.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang nấu [obj], đột nhiên muốn đến [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] xem thử.</Events.9.Story>
+			<Events.10.Story>[name] mặc dù bị cảm xúc [obj_badmood] làm phiền, nhưng vẫn nghiêm túc hoàn thành [obj].</Events.10.Story>
+			<Events.11.Story>[name] vì tâm trạng [obj_goodmood] rất tốt, khi nấu [obj] không nhịn được mà hát líu lo.</Events.11.Story>
+		</Text>
+		<Text Name="CookingFailed">
+			<Events.1.Story>[name] nếm thử một miếng [obj] mình làm, suýt chút nữa thì nôn ra. Thật sự quá khó ăn!</Events.1.Story>
+			<Events.2.Story>[name] khi làm [obj], vô tình đổ cả hộp muối vào, thật kích thích.</Events.2.Story>
+			<Events.3.Story>[name] khi làm [obj], mải mê suy nghĩ, đến khi tỉnh lại thì thức ăn đã biến thành một đống đen sì.</Events.3.Story>
+			<Events.4.Story>[name] mặc dù bị cảm xúc [obj_badmood] làm phiền, quả nhiên làm hỏng [obj].</Events.4.Story>
+			<Events.5.Story>[name] vì tâm trạng [obj_goodmood] rất tốt, khi nấu [obj] không nhịn được mà hát líu lo, kết quả quá đắc ý làm hỏng [obj].</Events.5.Story>
+		</Text>
+		<Text Name="CookingSucceed">
+			<Events.1.Story>[name] nhìn [obj] mình làm ra, vô cùng hài lòng.</Events.1.Story>
+			<Events.2.Story>[name] nhìn [obj] mình làm ra, không nhịn được mà ăn trước hai miếng, thật ngon!</Events.2.Story>
+			<Events.3.Story>[name] mặc dù bị cảm xúc [obj_badmood] làm phiền, nhưng vẫn làm [obj] rất ngon.</Events.3.Story>
+			<Events.4.Story>[name] vì tâm trạng [obj_goodmood] rất tốt, khi nấu [obj] không nhịn được mà hát líu lo, quả nhiên làm [obj] ngon hơn.</Events.4.Story>
+		</Text>
+		<Text Name="DrugProduct">
+			<Events.1.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang chế tạo [obj], đột nhiên rất nhớ nhà.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang chế tạo [obj], trong đầu đột nhiên hiện lên hình ảnh của [obj_friend].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang chế tạo [obj], đột nhiên cảm thấy vật [obj_nearthing] bên cạnh rất thú vị…</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang chế tạo [obj], đột nhiên muốn ăn [obj_food].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather]，[name] lặng lẽ chế tạo [obj], đột nhiên nhớ đến [obj_relation] của mình.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather]，[name] một mình chế tạo [obj], đột nhiên suy nghĩ lan man.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang chế tạo [obj], đột nhiên rơi nước mắt.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang chế tạo [obj], đột nhiên cảm thấy bực bội không lý do.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang chế tạo [obj], đột nhiên muốn đến [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] xem thử.</Events.9.Story>
+			<Events.10.Story>[name] mặc dù bị cảm xúc [obj_badmood] làm phiền, nhưng vẫn nghiêm túc hoàn thành [obj].</Events.10.Story>
+			<Events.11.Story>[name] vì tâm trạng [obj_goodmood] rất tốt, khi chế tạo [obj] không nhịn được mà hát líu lo.</Events.11.Story>
+		</Text>
+		<Text Name="Handwork">
+			<Events.2.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang chế tạo [obj], đột nhiên rất nhớ nhà.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang chế tạo [obj], trong đầu đột nhiên hiện lên hình ảnh của [obj_friend].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang chế tạo [obj], đột nhiên cảm thấy vật [obj_nearthing] bên cạnh rất thú vị…</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang chế tạo [obj], đột nhiên muốn ăn [obj_food].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather]，[name] lặng lẽ chế tạo [obj], đột nhiên nhớ đến [obj_relation] của mình.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather]，[name] một mình chế tạo [obj], đột nhiên suy nghĩ lan man.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang chế tạo [obj], đột nhiên rơi nước mắt.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang chế tạo [obj], đột nhiên cảm thấy bực bội không lý do.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang chế tạo [obj], đột nhiên muốn đến [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] xem thử.</Events.10.Story>
+			<Events.11.Story>[name] mặc dù bị cảm xúc [obj_badmood] làm phiền, nhưng vẫn nghiêm túc hoàn thành [obj].</Events.11.Story>
+			<Events.12.Story>[name] vì tâm trạng [obj_goodmood] rất tốt, khi chế tạo [obj] không nhịn được mà hát líu lo.</Events.12.Story>
+		</Text>
+		<Text Name="Smithing">
+			<Events.2.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang rèn [obj], đột nhiên rất nhớ nhà.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang rèn [obj], trong đầu đột nhiên hiện lên hình ảnh của [obj_friend].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang rèn [obj], đột nhiên cảm thấy [obj_nearthing] bên cạnh thật thú vị…</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang rèn [obj], đột nhiên muốn ăn [obj_food].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather]，[name] lặng lẽ rèn [obj], đột nhiên nhớ đến [obj_relation] của mình.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather]，[name] một mình rèn [obj], đột nhiên suy nghĩ miên man.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang rèn [obj], đột nhiên rơi nước mắt.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang rèn [obj], đột nhiên cảm thấy khó chịu không rõ lý do.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang rèn [obj], đột nhiên muốn đến [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] xem thử.</Events.10.Story>
+			<Events.11.Story>[name] mặc dù bị cảm xúc [obj_badmood] làm phiền, nhưng vẫn nghiêm túc hoàn thành [obj].</Events.11.Story>
+			<Events.12.Story>[name] vì [obj_goodmood] tâm trạng tốt, khi rèn [obj] không nhịn được mà ngân nga một bài hát nhỏ.</Events.12.Story>
+		</Text>
+		<Text Name="StoneWork">
+			<Events.1.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang mài [obj], đột nhiên rất nhớ nhà.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang mài [obj], trong đầu đột nhiên hiện lên hình ảnh của [obj_friend].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang mài [obj], đột nhiên cảm thấy [obj_nearthing] bên cạnh thật thú vị…</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang mài [obj], đột nhiên muốn ăn [obj_food].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather]，[name] lặng lẽ mài [obj], đột nhiên nhớ đến [obj_relation] của mình.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather]，[name] một mình mài [obj], đột nhiên suy nghĩ miên man.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang mài [obj], đột nhiên rơi nước mắt.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang mài [obj], đột nhiên cảm thấy khó chịu không rõ lý do.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang mài [obj], đột nhiên muốn đến [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] xem thử.</Events.9.Story>
+			<Events.10.Story>[name] mặc dù bị cảm xúc [obj_badmood] làm phiền, nhưng vẫn nghiêm túc hoàn thành [obj].</Events.10.Story>
+			<Events.11.Story>[name] vì [obj_goodmood] tâm trạng tốt, khi mài [obj] không nhịn được mà ngân nga một bài hát nhỏ.</Events.11.Story>
+		</Text>
+		<Text Name="Sew">
+			<Events.2.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang may [obj], đột nhiên rất nhớ nhà.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang may [obj], trong đầu đột nhiên hiện lên hình ảnh của [obj_friend].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang may [obj], đột nhiên cảm thấy [obj_nearthing] bên cạnh thật thú vị…</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang may [obj], đột nhiên muốn ăn [obj_food].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather]，[name] lặng lẽ may [obj], đột nhiên nhớ đến [obj_relation] của mình.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather]，[name] một mình may [obj], đột nhiên suy nghĩ miên man.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang may [obj], đột nhiên rơi nước mắt.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang may [obj], đột nhiên cảm thấy khó chịu không rõ lý do.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_weather]，[name] khi đang may [obj], đột nhiên muốn đến [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] xem thử.</Events.10.Story>
+			<Events.11.Story>[name] mặc dù bị cảm xúc [obj_badmood] làm phiền, nhưng vẫn nghiêm túc hoàn thành [obj].</Events.11.Story>
+			<Events.12.Story>[name] vì [obj_goodmood] tâm trạng tốt, khi may [obj] không nhịn được mà ngân nga một bài hát nhỏ.</Events.12.Story>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,223 @@
+可以提高移动速度的符咒。	Là phù chú có thể tăng tốc độ di chuyển.
+轻身符	Phù nhẹ thân
+妖韧皮薄衣衫	Áo mỏng da yêu quái dai
+妖韧皮薄下裳	Yêu Nhẫn Bì Bạc Hạ Sam
+巧夺天工的神兵，融合制作者的心血与灵感而成。	Thần binh tinh xảo tuyệt đỉnh, dung hợp tâm huyết và cảm hứng của người chế tạo.
+邪爪	Tà trảo
+虎皮休闲下裳	Hưu Nhàn Hạ Thường da hổ
+天婵阴魂衫	Thiên Thiền Âm Hồn sam
+垃圾	Rác
+腾岳炼心散	Tán Luyện Tâm Đằng Nhạc
+佩戴者可以提高术法技能等级。	Người đeo có thể tăng cấp độ kỹ năng thuật pháp.
+神咒符	Thần Chú Phù
+佩戴者可以提高抵御火属性伤害之力。	Người đeo có thể tăng lực kháng tổn thương thuộc tính Hỏa.
+火甲符	Hoả giáp phù
+佩戴者可以提高护体之力。	Người đeo có thể tăng lực hộ thể.
+玄甲符	Huyền Giáp phù
+鹿蜀皮修行衣衫	Áo Tu Hành Da Lộc Thố
+鹿蜀皮薄下裳	Hạ Thường Da Lộc Thục mỏng
+龙雀	Long tước
+火精刀	Hoả Tinh
+丙丁天机刀	Bính Đinh Thiên Cơ Đao
+火精矿镐	Cuốc khoáng Tinh Hỏa
+飞星魔骨镐	Phi tinh ma cốt hạo
+棕石	Đá nâu
+坤元太极石	Khôn Nguyên Thái Cực thạch
+可以提高视野范围，并提高历练时发现新地点的速度。	Là phù chú có thể tăng phạm vi tầm nhìn, và tăng tốc độ phát hiện địa điểm mới khi luyện tập.
+千里神视符	Thiên Lý Thị Phù
+佩戴者可以降低道行。	Người đeo có thể giảm đạo hạnh.
+遮天符	Phù Chắn Trời
+鹿蜀皮薄衣衫	Áo mỏng da Lộc Thục
+鹿蜀皮修行下裳	Quần da lộc thục tu hành
+千韧弓	Thiên nhẫn cung
+灵晶砖	Gạch tinh linh
+大日极光碑	Bia Cực Quang Đại Nhật
+金丝灵木	Gỗ linh kim tuyến
+天枢斩仙枝	Thiên Xu Trảm Tiên Chi
+可以大幅提高寒冷抵抗的符咒。	Là phù chú có thể tăng mạnh khả năng chống lạnh.
+太阳符	Thái Dương Phù
+佩戴者可以从根本上降低术法技能灵气消耗。	Người đeo có thể từ căn bản giảm tiêu hao linh khí của kỹ năng thuật pháp.
+灵咒符	Linh chú phù
+蜚皮薄衣衫	Da phi Bạc Y Sam
+蜚皮休闲下裳	Quần giải trí da bò
+神木弓	Thần mộc cung
+兔皮厚制下裳	Hậu Chế Hạ Thường Da Thỏ
+天岭衫	Thiên Lĩnh
+玄铁锭	Huyền Thiết Đĩnh
+神镇	Thần trấn
+神珀符	Thần Phách Phù
+青龙玄光符	Phù Thanh Long Huyền Quang
+佩戴者可以降低神性。	Người đeo có thể giảm thần tính.
+神隐符	Thần ẩn phù
+佩戴者可以提高抵御水属性伤害之力。	Người đeo có thể tăng lực kháng tổn thương thuộc tính Thủy.
+水甲符	Thủy Giáp Phù
+蜚皮薄下裳	Xiêm mỏng da Phỉ
+天柱石弓	Cung đá Thiên Trụ
+书	Sách
+苍龙七星书	Sách Thất Tinh Thương Long
+粪便	Phân
+万里天心粪	Phân Thiên Tâm Vạn Lý
+兔肉	Thịt thỏ
+万里神糜	Vạn Lý Thần My
+可以轻微提高炼制法宝的品阶。	Có thể tăng nhẹ phẩm cấp luyện chế pháp bảo.
+五方灵宝符	Ngũ phương Linh Bảo phù
+可以提高炎热抵抗的符咒。	Là phù chú có thể tăng khả năng chống nóng.
+避暑符	Tị Hoả Phù
+可以提高炼制法宝成功率的符咒。	Là phù chú có thể tăng tỷ lệ thành công luyện chế pháp bảo.
+太上通宝符	Thái thượng thông bảo phù
+角色出生点	Điểm sinh nhân vật
+逻辑点	Điểm logic
+灵石栅栏	Hàng rào Linh thạch
+灵石法座	Linh Thạch Pháp Tọa
+莫	Mạc
+剑平	Kiếm Bình
+别	Biệt
+进	Tiến
+仰	Ngưỡng
+如巧	Như Xảo
+魔傀	Ma khôi
+漆雕	Sơn mài
+群	Quần
+於	Vu
+南露	Nam Lộ
+魔傀分体	Ma Khôi Phân Thể
+端木	Đoan Mộc
+心	Tim
+晁	Triều
+安筠	An Quân
+堵	Đổ
+庆	Khánh
+丰	Phong
+诗云	Thi Vân
+卜	Bặc
+婷	Đình
+高	Cao
+彪	Bưu
+海	Hải
+念寒	Niệm Hàn
+尤家陨星真言	Chân Ngôn Vẫn Tinh Du Gia
+鸿蒙三花神雷	Hồng Mông Tam Hoa Thần Lôi
+天火流光诀	Quyết Thiên Hỏa Lưu Quang
+紫霄流光	Tử Tiêu Lưu Quang
+紫火九极咒	Chú Tử Hỏa Cửu Cực
+太上覆灭咒	Chú Thái Thượng Phúc Diệt
+梅利真人九极真言	Mai Lợi Chân Nhân Cửu Cực Chân Ngôn
+华山震地咒	Hoa Sơn Chấn Địa Chú
+苍莽不朽	Thương Mãng Bất Hủ
+天火心光神雷	Thiên Hỏa Tâm Quang Thần Lôi
+戊土不坏神雷	Mậu Thổ Bất Hoại Thần Lôi
+戊土飞星咒	Chú Phi Tinh Dismal
+紫霄先天一气真言	Tiên Thiên Nhất Khí Tử Tiêu Chân Ngôn
+造化五方诀	Tạo Hóa Ngũ Phương quyết
+长生飞星	Trường Sinh Phi Tinh
+嵩山金刚神雷	Tung Sơn Kim Cương Thần Lôi
+本源落花真言	Bản Nguyên Lạc Hoa Chân Ngôn
+紫霄镇神真言	Tử Tiêu Trấn Thần Chân Ngôn
+霹雳镇神咒	Phích lịch trấn thần chú
+御神流光真言	Chân Ngôn Lưu Quang Ngự Thần
+天岭九极	Thiên Lĩnh Cửu Cực
+归真清心真言	Quy Chân Thanh Tâm Chân Ngôn
+惊波陨星诀	Kinh Ba Vẫn Tinh Quyết
+东华镇神诀	Quyết Đông Hoa Trấn Thần
+苍木燃灵真言	Thương Mộc Nhiên Linh Chân Ngôn
+鸿蒙流光咒	Hồng Mông Lưu Quang Chú
+郑坚上仙流光真言	Trịnh Kiên Thượng Tiên Lưu Quang Chân Ngôn
+造化金刚神雷	Tạo Hóa Kim Cương Thần Lôi
+本源天星咒	Bản Nguyên Thiên Tinh Chú
+坤元八极真言	Chân Ngôn Bát Cực Khôn Nguyên
+本源先天一气神雷	Tiên Thiên Nhất Khí Bản Nguyên Thần Lôi
+华山陨星诀	Quyết Vân Tinh Hoa Sơn
+鸿蒙燃灵咒	Hồng Mông Nhiên Linh Chú
+鸿蒙流光神雷	Hồng Mông Lưu Quang Thần Lôi
+玉虚接天神雷	Ngọc Hư Tiếp Thiên Thần Lôi
+奔烈震地咒	Bôn Liệt Chấn Địa Chú
+天火通天神雷	Thần Lôi Thiên Hỏa Thông Thiên
+本源覆天咒	Bản Nguyên Phúc Thiên Chú
+苍木金刚诀	Thương Mộc Kim Cương Quyết
+东海陨星真言	Đông Hải Vẫn Tinh Chân Ngôn
+御神天星诀	Ngự Thần Thiên Tinh Quyết
+现在贤五气	Hiện tại hiền ngũ khí
+鸿蒙化伤诀	Hồng Mông Hóa Thương Quyết
+御神开天咒	Ngự Thần Khai Thiên Chú
+焚日八极真言	Phần Nhật Bát Cực Chân Ngôn
+壬水九极神雷	Nhâm Thủy Cửu Cực Thần Lôi
+本源先天一气真言	Bản Nguyên Tiên Thiên Nhất Khí Chân Ngôn
+紫薇覆天神雷	Tử Vi Phú Thiên Thần Lôi
+乙木九极诀	Quyết Cửu Cực Ất Mộc
+本源流光咒	Bản Nguyên Lưu Quang Chú
+白虎四象神雷	Bạch Hổ Tứ Tượng Thần Lôi
+御神清心诀	Ngự Thần Thanh Tâm Quyết
+勾陈金钟	Chuông vàng Câu Trần
+御神流光诀	Ngự Thần Lưu Quang Quyết
+霹雳金刚神雷	Phích Lịch Kim Cương Thần Lôi
+归真通天真言	Quy Chân Thông Thiên Chân Ngôn
+现在贤流光	Lưu Quang Hiện Tại Hiền
+鸿蒙天星真言	Hồng Mông Thiên Tinh Chân Ngôn
+归真十二都天真言	Quy Chân Thập Nhị Đô Thiên Chân Ngôn
+赤日天星真言	Xích Nhật Thiên Tinh chân ngôn
+己土陨星真言	Kỷ Thổ Vẫn Tinh Chân Ngôn
+本源陨星	Bản Nguyên thiên thạch
+造化流光神雷	Tạo Hóa Lưu Quang Thần Lôi
+连氏绝杀咒	Liên Thị Tuyệt Sát Chú
+紫霄落花神雷	Thần Lôi Lạc Hoa Tử Tiêu
+玉虚陨星神雷	Ngọc Hư Vẫn Tinh Thần Lôi
+冷月五方诀	Lãnh Nguyệt Ngũ Phương Quyết
+紫霄飞星神雷	Tử Tiêu Phi Tinh thần lôi
+炎神殿八极神雷	Thần Lôi Bát Cực Viêm Thần Điện
+羿杰上仙流光诀	Nghị Kiệt Thượng Tiên Lưu Quang Quyết
+武当金刚神雷	Võ Đang Kim Cang Thần Lôi
+太上覆天神雷	Thái Thượng Phúc Thiên Thần Lôi
+焚日流光真言	Thiêu Nhật Lưu Quang Chân Ngôn
+蜀山流光	Thục Sơn Lưu Quang
+归真天星诀	Quy Chân Thiên Tinh Quyết
+造化天星真言	Tạo Hóa Thiên Tinh chân ngôn
+长生八极神雷	Trường Sinh Bát Cực thần lôi
+冷月绝杀真言	Lãnh Nguyệt Tuyệt Sát Chân Ngôn
+腾岳震地诀	Quyết Đằng Nhạc Chấn Địa
+苍木开天咒	Thương Mộc Khai Thiên Chú
+宣氏镇神	Tuyên thị Trấn thần
+辛金流光咒	Tân Kim Lưu Quang Chú
+天金落花真言	Chân Ngôn Lạc Hoa Thiên Kim
+甲木四象	Giáp Mộc Tứ Tượng
+壬水四象咒	Cascade Tứ Tượng Chú
+碧光绝杀	Bích Quang Tuyệt Sát
+玄金陨星真言	Huyền Kim Vẫn Tinh chân ngôn
+震雷镇神	Chấn Lôi Trấn Thần
+震雷天星	Chấn Lôi Thiên Tinh
+百草阁陨星真言	Bách Thảo Các Vẫn Tinh Chân Ngôn
+行疆先天一气咒	Tiên Thiên Nhất Khí Hành Cương Chú
+苍龙覆天神雷	Thương Long Phúc Thiên Thần Lôi
+苍木覆天咒	Thương Mộc Phúc Thiên Chú
+玉虚金刚诀	Ngọc Hư Kim Cương Quyết
+紫薇天星咒	Tử Vi Thiên Tinh Chú
+腾岳覆天神雷	Đằng Nhạc Phúc Thiên Thần Lôi
+冷月镇神真言	Lãnh Nguyệt Trấn Thần Chân Ngôn
+归真清心诀	Quy Chân Thanh Tâm Quyết
+凝光通天咒	Ngưng Quang Thông Thiên Chú
+勾陈七星神雷	Câu Trần Thất Tinh Thần Lôi
+少林流光神雷	Thiếu Lâm Lưu Quang Thần Lôi
+归真金刚	Quy Chân Kim Cương
+本源绝杀咒	Bản Nguyên Tuyệt Sát Chú
+玉虚三花	Ngọc Hư Tam Hoa
+长生震地神雷	Trường Sinh Chấn Địa thần lôi
+紫霄流光真言	Tử Tiêu Lưu Quang Chân Ngôn
+太上七星咒	Thái Thượng Thất Tinh Chú
+长生镇神咒	Trường Sinh Trấn Thần Chú
+寒月十二都天咒	Thập Nhị Đô Thiên Hàn Nguyệt Chú
+御神金刚诀	Ngự Thần Kim Cương Quyết
+长生飞星诀	Trường Sinh Phi Tinh Quyết
+百草阁落花神雷	Bách Thảo Các Lạc Hoa Thần Lôi
+奔烈飞星真言	Bôn Liệt Phi Tinh chân ngôn
+未来星宿流光咒	Vị Lai Tinh Tú Lưu Quang Chú
+癸水八极诀	Quý Thủy Bát Cực Quyết
+燃魂金刚神雷	Nhiên Hồn Kim Cang thần lôi
+御神回魂真言	Ng御 Thần Hồn Hồn Chân Ngôn
+本源甘霖咒	Chú Bản Nguyên Cam Lâm
+五台先天一气	Ngũ Đài Tiên Thiên Nhất Khí
+寒月落花神雷	Hàn Nguyệt Lạc Hoa Thần Lôi
+本源流光	Bản Nguyên Lưu Quang
+癸水开天	Quý Thủy Khai Thiên
+合作？共赢？不，不需要。协助我，加入我，成为我！	Hợp tác? Cùng thắng? Không, không cần. Hỗ trợ ta, gia nhập ta, trở thành ta!
+我一个人，就可以做的足够好！	Chỉ một mình tôi cũng đủ làm tốt!
+
+

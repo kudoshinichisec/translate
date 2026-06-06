@@ -1,0 +1,44 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="JobAnimalEatFood">
+			<DisplayName>Ăn uống</DisplayName>
+		</Text>
+		<Text Name="JobBAnimalFree">
+			<DisplayName>Di chuyển</DisplayName>
+		</Text>
+		<Text Name="JobBAnimalGiveBirth">
+			<DisplayName>Sinh sản</DisplayName>
+		</Text>
+		<Text Name="JobBirthIt">
+			<DisplayName>Ấp trứng</DisplayName>
+		</Text>
+		<Text Name="JobEatFood">
+			<DisplayName>Ăn uống</DisplayName>
+		</Text>
+		<Text Name="JobDrinkWater">
+			<DisplayName>Uống nước</DisplayName>
+		</Text>
+		<Text Name="JobTakeRest">
+			<DisplayName>Ngủ</DisplayName>
+		</Text>
+		<Text Name="JobLookAtSky">
+			<DisplayName>Ngắm trời</DisplayName>
+		</Text>
+		<Text Name="JobFree">
+			<DisplayName>Dạo chơi</DisplayName>
+		</Text>
+		<Text Name="JobRunAway">
+			<DisplayName>Chạy trốn</DisplayName>
+		</Text>
+		<Text Name="JobPlayWithBuilding">
+			<DisplayName>Giải trí</DisplayName>
+		</Text>
+		<Text Name="JobBasePractice">
+			<DisplayName>Trúc cơ</DisplayName>
+		</Text>
+		<Text Name="JobIdle">
+			<DisplayName>Ngẩn ngơ</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

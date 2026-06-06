@@ -1,0 +1,79 @@
+ID	Des	Disname
+
+-1	模组丢失	模组丢失
+1	Ký thác một số cảm Ngộ về đạo khí vào vật này.	Đại đạo chi ngộ: Thô giản
+2	Ký thác nhiều cảm Ngộ hơn về đạo khí vào vật này.	Đại đạo chi ngộ: Tinh thâm
+3	Ký thác một số cảm Ngộ về đạo thuật vào vật này.	Đại đạo chi ngộ: Thô giản
+4	Ký thác nhiều cảm Ngộ hơn về đạo thuật vào vật này.	Đại đạo chi ngộ: Tinh thâm
+5	Ký thác một số cảm Ngộ về đạo bảo vệ vào vật này.	Đại đạo chi ngộ: Thô giản
+6	Ký thác nhiều cảm Ngộ hơn về đạo bảo vệ vào vật này.	Đại đạo chi ngộ: Tinh thâm
+7	Ký thác một số cảm Ngộ về đạo luyện đan vào vật này.	Đại đạo chi ngộ: Thô giản
+8	Ký thác nhiều cảm Ngộ hơn về đạo luyện đan vào vật này.	Đại đạo chi ngộ: Tinh thâm
+9	Ký thác một số cảm Ngộ về đạo luyện khí vào vật này.	Đại đạo chi ngộ: Thô giản
+10	Ký thác nhiều cảm Ngộ hơn về đạo luyện khí vào vật này.	Đại đạo chi ngộ: Tinh thâm
+11	Ký thác một cuốn bí kíp đạo khí cấp nhập môn vào vật này.	Bí tịch chi ngộ: [TXT]
+12	Ký thác một cuốn bí kíp đạo khí cấp nâng cao vào vật này.	Bí tịch chi ngộ: [TXT]
+13	Ký thác một cuốn bí kíp đạo khí cấp tinh diệu vào vật này.	Bí tịch chi ngộ: [TXT]
+14	Ký thác một cuốn bí kíp đạo khí cấp huyền diệu vào vật này.	Bí tịch chi ngộ: [TXT]
+15	Ký thác một cuốn bí kíp đạo thuật cấp nhập môn vào vật này.	Bí tịch chi ngộ: [TXT]
+16	Ký thác một cuốn bí kíp đạo thuật cấp nâng cao vào vật này.	Bí tịch chi ngộ: [TXT]
+17	Ký thác một cuốn bí kíp đạo thuật cấp tinh diệu vào vật này.	Bí tịch chi ngộ: [TXT]
+18	Ký thác một cuốn bí kíp đạo thuật cấp huyền diệu vào vật này.	Bí tịch chi ngộ: [TXT]
+19	Ký thác một cuốn bí kíp đạo bảo vệ cấp nhập môn vào vật này.	Bí tịch chi ngộ: [TXT]
+20	Ký thác một cuốn bí kíp đạo bảo vệ cấp nâng cao vào vật này.	Bí tịch chi ngộ: [TXT]
+21	Ký thác một cuốn bí kíp đạo bảo vệ cấp tinh diệu vào vật này.	Bí tịch chi ngộ: [TXT]
+22	Ký thác một cuốn bí kíp đạo bảo vệ cấp huyền diệu vào vật này.	Bí tịch chi ngộ: [TXT]
+23	Ký thác một cuốn bí kíp đạo luyện đan cấp nhập môn vào vật này.	Bí tịch chi ngộ: [TXT]
+24	Ký thác một cuốn bí kíp đạo luyện đan cấp nâng cao vào vật này.	Bí tịch chi ngộ: [TXT]
+25	Ký thác một cuốn bí kíp đạo luyện đan cấp tinh diệu vào vật này.	Bí tịch chi ngộ: [TXT]
+26	Ký thác một cuốn bí kíp đạo luyện đan cấp huyền diệu vào vật này.	Bí tịch chi ngộ: [TXT]
+27	Ký thác một cuốn bí kíp đạo luyện khí cấp nhập môn vào vật này.	Bí tịch chi ngộ: [TXT]
+28	Ký thác một cuốn bí kíp đạo luyện khí cấp nâng cao vào vật này.	Bí tịch chi ngộ: [TXT]
+29	Ký thác một cuốn bí kíp đạo luyện khí cấp tinh diệu vào vật này.	Bí tịch chi ngộ: [TXT]
+30	Ký thác một cuốn bí kíp đạo luyện khí cấp huyền diệu vào vật này.	Bí tịch chi ngộ: [TXT]
+31	Ký thác một cuốn bí kíp đạo tu luyện cấp nhập môn vào vật này.	Bí tịch chi ngộ: [TXT]
+32	Ký thác một cuốn bí kíp đạo tu luyện cấp nâng cao vào vật này.	Bí tịch chi ngộ: [TXT]
+33	Ký thác một cuốn bí kíp đạo tu luyện cấp tinh diệu vào vật này.	Bí tịch chi ngộ: [TXT]
+34	Ký thác một cuốn bí kíp đạo tu luyện cấp huyền diệu vào vật này.	Bí tịch chi ngộ: [TXT]
+35	Ký thác một số kỹ xảo có thể tăng cường sức mạnh pháp bảo một cách nhẹ nhàng vào vật này.	Kỹ xảo chi ngộ: Vi lượng
+36	Ký thác một số kỹ xảo có thể tăng cường sức mạnh pháp bảo một cách ít nhiều vào vật này.	Kỹ xảo chi ngộ: Ít lượng
+37	Ký thác một số kỹ xảo có thể tăng cường sức mạnh pháp bảo vào vật này.	Kỹ xảo chi ngộ: Trung bình
+38	Ký thác một số kỹ xảo có thể tăng cường sức mạnh pháp bảo nhiều hơn vào vật này.	Kỹ xảo chi ngộ: Khá nhiều
+39	Ký thác một số kỹ xảo có thể tăng cường sức mạnh pháp bảo một cách đáng kể vào vật này.	Kỹ xảo chi ngộ: Rất nhiều
+40	Ký thác một số kỹ xảo có thể tăng cường sức mạnh pháp bảo một cách rất lớn vào vật này.	Kỹ xảo chi ngộ: Khổng lồ
+41	Ký thác một số kỹ xảo có thể tăng cường sức mạnh pháp thuật một cách nhẹ nhàng vào vật này.	Kỹ xảo chi ngộ: Vi lượng
+42	Ký thác một số kỹ xảo có thể tăng cường sức mạnh pháp thuật một cách ít nhiều vào vật này.	Kỹ xảo chi ngộ: Ít lượng
+43	Ký thác một số kỹ xảo có thể tăng cường sức mạnh pháp thuật vào vật này.	Kỹ xảo chi ngộ: Trung bình
+44	Ký thác một số kỹ xảo có thể tăng cường sức mạnh pháp thuật nhiều hơn vào vật này.	Kỹ xảo chi ngộ: Khá nhiều
+45	Ký thác một số kỹ xảo có thể tăng cường sức mạnh pháp thuật một cách đáng kể vào vật này.	Kỹ xảo chi ngộ: Rất nhiều
+46	Ký thác một số kỹ xảo có thể tăng cường sức mạnh pháp thuật một cách rất lớn vào vật này.	Kỹ xảo chi ngộ: Khổng lồ
+47	Ký thác một số kỹ xảo có thể tăng cường độ mạnh của khiên một cách nhẹ nhàng vào vật này.	Kỹ xảo chi ngộ: Vi lượng
+48	Ký thác một số kỹ xảo có thể tăng cường độ mạnh của khiên một cách ít nhiều vào vật này.	Kỹ xảo chi ngộ: Ít lượng
+49	Ký thác một số kỹ xảo có thể tăng cường độ mạnh của khiên vào vật này.	Kỹ xảo chi ngộ: Trung bình
+50	Ký thác một số kỹ xảo có thể tăng cường độ mạnh của khiên nhiều hơn vào vật này.	Kỹ xảo chi ngộ: Khá nhiều
+51	Ký thác một số kỹ xảo có thể tăng cường độ mạnh của khiên một cách đáng kể vào vật này.	Kỹ xảo chi ngộ: Rất nhiều
+52	Ký thác một số kỹ xảo có thể tăng cường độ mạnh của khiên một cách rất lớn vào vật này.	Kỹ xảo chi ngộ: Khổng lồ
+53	Ký thác một số kỹ xảo có thể tăng cường tỷ lệ thành công luyện chế thần khí một cách nhẹ nhàng vào vật này.	Kỹ xảo chi ngộ: Vi lượng
+54	Ký thác một số kỹ xảo có thể tăng cường tỷ lệ thành công luyện chế thần khí một cách ít nhiều vào vật này.	Kỹ xảo chi ngộ: Ít lượng
+55	Ký thác một số kỹ xảo có thể tăng cường tỷ lệ thành công luyện chế thần khí vào vật này.	Kỹ xảo chi ngộ: Trung bình
+56	Ký thác một số kỹ xảo có thể tăng cường tỷ lệ thành công luyện chế thần khí nhiều hơn vào vật này.	Kỹ xảo chi ngộ: Khá nhiều
+57	Ký thác một số kỹ xảo có thể tăng cường tỷ lệ thành công luyện chế thần khí một cách đáng kể vào vật này.	Kỹ xảo chi ngộ: Rất nhiều
+58	Ký thác một số kỹ xảo có thể tăng cường tỷ lệ thành công luyện chế thần khí một cách rất lớn vào vật này.	Kỹ xảo chi ngộ: Khổng lồ
+59	Ký thác một số kỹ xảo có thể tăng cường sản lượng luyện đan một cách nhẹ nhàng vào vật này.	Kỹ xảo chi ngộ: Vi lượng
+60	Ký thác một số kỹ xảo có thể tăng cường sản lượng luyện đan một cách ít nhiều vào vật này.	Kỹ xảo chi ngộ: Ít lượng
+61	Ký thác một số kỹ xảo có thể tăng cường sản lượng luyện đan vào vật này.	Kỹ xảo chi ngộ: Trung bình
+62	Ký thác một số kỹ xảo có thể tăng cường sản lượng luyện đan nhiều hơn vào vật này.	Kỹ xảo chi ngộ: Khá nhiều
+63	Ký thác một số kỹ xảo có thể tăng cường sản lượng luyện đan một cách đáng kể vào vật này.	Kỹ xảo chi ngộ: Rất nhiều
+64	Ký thác một số kỹ xảo có thể tăng cường sản lượng luyện đan một cách rất lớn vào vật này.	Kỹ xảo chi ngộ: Khổng lồ
+65	Ký thác một số kỹ xảo có thể tăng cường tốc độ tu luyện một cách nhẹ nhàng vào vật này.	Kỹ xảo chi ngộ: Vi lượng
+66	Ký thác một số kỹ xảo có thể tăng cường tốc độ tu luyện một cách ít nhiều vào vật này.	Kỹ xảo chi ngộ: Ít lượng
+67	Ký thác một số kỹ xảo có thể tăng cường tốc độ tu luyện vào vật này.	Kỹ xảo chi ngộ: Trung bình
+68	Ký thác một số kỹ xảo có thể tăng cường tốc độ tu luyện nhiều hơn vào vật này.	Kỹ xảo chi ngộ: Khá nhiều
+69	Ký thác một số kỹ xảo có thể tăng cường tốc độ tu luyện một cách đáng kể vào vật này.	Kỹ xảo chi ngộ: Rất nhiều
+70	Ký thác một số kỹ xảo có thể tăng cường tốc độ tu luyện một cách rất lớn vào vật này.	Kỹ xảo chi ngộ: Khổng lồ
+71	Ký thác khả năng bay trên không vào vật này. (Thân thể sẽ không mất đi khả năng này)	Ngự không phi hành
+72	Ký thác khả năng mở một lá chắn linh khí nhỏ vào vật này. (Thân thể sẽ không mất đi khả năng này)	Linh khí hộ thể: Ít
+73	Ký thác khả năng mở một lá chắn linh khí trung bình vào vật này. (Thân thể sẽ không mất đi khả năng này)	Linh khí hộ thể: Trung
+74	Ký thác khả năng mở một lá chắn linh khí lớn vào vật này. (Thân thể sẽ không mất đi khả năng này)	Linh khí hộ thể: Lớn
+
+

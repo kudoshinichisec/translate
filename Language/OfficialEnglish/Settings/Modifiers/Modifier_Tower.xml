@@ -1,0 +1,71 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_Tower_Enemy_achai">
+			<DisplayName>A Sài Biến Thân</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Cat">
+			<DisplayName>Miêu Mễ Định Vị</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Enemy_Xian">
+			<DisplayName>Trầm Điến Chi Lực</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Enemy_Ti">
+			<DisplayName>Trầm Điến Chi Lực</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Enemy_Yao">
+			<DisplayName>Trầm Điến Chi Lực</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Enemy_Boss_Root">
+			<DisplayName>Trầm Điến Chi Lực</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Enemy_Boss_Part">
+			<DisplayName>Trầm Điến Chi Lực</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_ChaoXiQi">
+			<DisplayName>Khởi Triều Tịch</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_ChaoXi0">
+			<DisplayName>Bình Triều Tịch</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_ChaoXiLuo">
+			<DisplayName>Lạc Triều Tịch</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_KuRongOur">
+			<DisplayName>Khô</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_KuRongEnm">
+			<DisplayName>Vinh</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_WuZhi">
+			<DisplayName>Khốn cảnh chân lý</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_XinNian0">
+			<DisplayName>Tín Niệm Áp Chế</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_XinNian1">
+			<DisplayName>Tín Đồ Tăng Cường</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown1">
+			<DisplayName>Đạo Cảnh Uy Áp</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown2">
+			<DisplayName>Hung Niệm Uy Áp</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown3">
+			<DisplayName>Ôn Nhu Hương</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown4">
+			<DisplayName>Tôn Vương Cấm Lệnh</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown5">
+			<DisplayName>Tinh Thần Uy Nhiếp</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown6">
+			<DisplayName>Tham Lam Chi Tức</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown7">
+			<DisplayName>Bình Chi Cấm</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

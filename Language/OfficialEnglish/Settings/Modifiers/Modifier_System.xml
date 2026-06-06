@@ -1,0 +1,392 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SysNpcPuppet">
+			<DisplayName>Khôi lỗi</DisplayName>
+			<Desc>Đây là một con rối, sẽ bị hao mòn trong công việc và không thể sửa chữa.</Desc>
+		</Text>
+		<Text Name="SysInfiPuppet">
+			<DisplayName>Lục Đạo Con Rối</DisplayName>
+			<Desc>Con rối này được làm từ vật liệu đặc biệt, không bị hao mòn trong công việc hàng ngày. Tuy nhiên, nếu bị tấn công vẫn sẽ hư hại.</Desc>
+		</Text>
+		<Text Name="SysNewYearLink">
+			<DisplayName>Chúc Mừng Năm Mới</DisplayName>
+		</Text>
+		<Text Name="SysNewYear">
+			<DisplayName>Chúc Mừng Năm Mới</DisplayName>
+			<Desc>Đây là một quái vật mang lại may mắn cả năm.</Desc>
+		</Text>
+		<Text Name="SysNewYear2">
+			<DisplayName>Chúc Mừng Năm Mới</DisplayName>
+			<Desc>Đây là một quái vật mang lại may mắn cả năm.</Desc>
+		</Text>
+		<Text Name="SysWuDiYa">
+			<DisplayName>Vịt Vô Địch</DisplayName>
+		</Text>
+		<Text Name="SysExploreModifier">
+			<DisplayName>Đang Thám Hiểm..</DisplayName>
+		</Text>
+		<Text Name="SysCallUp">
+			<DisplayName>Đánh Thức</DisplayName>
+			<Desc>Bị đánh thức đột ngột, không thể ngủ lại được.</Desc>
+		</Text>
+		<Text Name="SysDreamCantSleep">
+			<DisplayName>Mất Ngủ</DisplayName>
+			<Desc>Giấc ngủ bị gián đoạn vì lý do nào đó, tạm thời không thể ngủ lại.</Desc>
+		</Text>
+		<Text Name="SysDemonColdDown">
+			<DisplayName>Thời Gian Hồi Ma</DisplayName>
+		</Text>
+		<Text Name="SysGodPractice">
+			<DisplayName>Chống Cự</DisplayName>
+			<Desc>Ngồi thiền để chống cự và làm chậm sự giáng lâm của thiên kiếp.</Desc>
+		</Text>
+		<Text Name="SysTeacherModifier">
+			<DisplayName>Tu hành giả thần bí</DisplayName>
+			<Desc>Tạm thời dừng lại, sẽ rời đi trong chốc lát.</Desc>
+		</Text>
+		<Text Name="SysVistorModifier">
+			<DisplayName>Khách</DisplayName>
+			<Desc>Tạm thời dừng lại, sẽ rời đi trong chốc lát.</Desc>
+		</Text>
+		<Text Name="SysGodMonsterModifier">
+			<DisplayName>Giáng Lâm</DisplayName>
+			<Desc>Tạm thời dừng lại, sẽ rời đi trong chốc lát.</Desc>
+		</Text>
+		<Text Name="SysFlyingModifier">
+			<DisplayName>Trạng Thái Bay..</DisplayName>
+		</Text>
+		<Text Name="SysPracticeDie">
+			<DisplayName>Đạo Cơ Đã Hủy</DisplayName>
+			<Desc>Đạo cơ đã bị hủy, dù tu luyện thế nào cũng không thể tiến bộ thêm.</Desc>
+		</Text>
+		<Text Name="SysExploreEatModifier">
+			<DisplayName>Thưởng Thức Thức Ăn</DisplayName>
+		</Text>
+		<Text Name="SysFabao_Positive">
+			<DisplayName>Pháp Bảo Tương Sinh</DisplayName>
+		</Text>
+		<Text Name="SysFabao_Same">
+			<DisplayName>Pháp Bảo Tương Đồng</DisplayName>
+		</Text>
+		<Text Name="SysFabao_Negative">
+			<DisplayName>Pháp Bảo Tương Khắc</DisplayName>
+		</Text>
+		<Text Name="SysEndureHunger">
+			<DisplayName>Chống đói</DisplayName>
+			<Desc>Ăn lương khô, cảm giác đói giảm đi.</Desc>
+		</Text>
+		<Text Name="Illusion1">
+			<DisplayName>Ảo Giác</DisplayName>
+			<Desc>Ăn nấm lạ, sinh ra ảo giác. Rất yêu thích công việc.</Desc>
+		</Text>
+		<Text Name="Illusion2">
+			<DisplayName>Ảo Giác</DisplayName>
+			<Desc>Ăn nấm lạ, sinh ra ảo giác. Rất thích chạy nhảy, cần nhiều giải trí.</Desc>
+		</Text>
+		<Text Name="Illusion3">
+			<DisplayName>Ảo Giác</DisplayName>
+			<Desc>Ăn nấm lạ, sinh ra ảo giác. Rất thích ngủ.</Desc>
+		</Text>
+		<Text Name="Illusion4">
+			<DisplayName>Ảo Giác</DisplayName>
+			<Desc>Ăn nấm lạ, sinh ra ảo giác. Những gì nhìn thấy như thật như ảo, giống như đang ở trong ảo cảnh.</Desc>
+		</Text>
+		<Text Name="NegativeTime">
+			<DisplayName>Lười Biếng</DisplayName>
+			<Desc>Cuộc sống này thật là một mớ hỗn độn, không muốn làm việc. [color=#D06508](Biến mất khi cảm xúc trên 45)[/color]</Desc>
+		</Text>
+		<Text Name="NegativeTime_Hearten">
+			<DisplayName>Cải Thiện Tâm Trạng</DisplayName>
+			<Desc>Cuộc sống vẫn phải tiếp tục, hãy cố gắng lên.</Desc>
+		</Text>
+		<Text Name="Dissatisfaction">
+			<DisplayName>Không Hài Lòng</DisplayName>
+			<Desc>Thật sự không thể chịu đựng được cuộc sống này…</Desc>
+		</Text>
+		<Text Name="SysDoBasePractice">
+			<DisplayName>Đang Luyện Võ</DisplayName>
+		</Text>
+		<Text Name="SysTooTired">
+			<DisplayName>Quá Mệt Mỏi</DisplayName>
+		</Text>
+		<Text Name="Sys_JieNanShenyu">
+			<DisplayName>Thân Dục Kiếp</DisplayName>
+			<Desc>Tiêu Hao Cơ Bản Tăng Gấp Năm Lần</Desc>
+		</Text>
+		<Text Name="Sys_JieNanZhenkong">
+			<DisplayName>Chân Không Kiếp</DisplayName>
+			<Desc>Mất hết thần thông</Desc>
+		</Text>
+		<Text Name="Sys_JieNanHuangu">
+			<DisplayName>Hoán Cốt Kiếp</DisplayName>
+			<Desc>Cứ một khoảng thời gian, xương cốt sẽ bị tổn thương.</Desc>
+		</Text>
+		<Text Name="Sys_WorkBroken">
+			<DisplayName>Ngộ</DisplayName>
+			<Desc>Mất hết thần thông, đang lĩnh ngộ tại ngoại môn, cố gắng Dột phá bình cảnh công pháp.</Desc>
+		</Text>
+		<Text Name="Sys_MasterHelp">
+			<DisplayName>Hộ pháp</DisplayName>
+			<Desc>Sư phụ đã bảo vệ cho ngươi, tâm cảnh của ngươi được nâng cao và giữ ổn định.</Desc>
+		</Text>
+		<Text Name="Sys_DrugTime">
+			<DisplayName>Hiệu Ứng Thuốc</DisplayName>
+		</Text>
+		<Text Name="Sys_FabaoPowerAdd">
+			<DisplayName>Tăng sức mạnh pháp bảo</DisplayName>
+		</Text>
+		<Text Name="Sys_SkillPowerAdd">
+			<DisplayName>Tăng uy lực thuật pháp</DisplayName>
+		</Text>
+		<Text Name="Sys_SheildPowerAdd">
+			<DisplayName>Tăng cường độ hộ thể</DisplayName>
+		</Text>
+		<Text Name="SeeGod">
+			<DisplayName>Thiên Đạo Tẩy Luyện</DisplayName>
+			<Desc>Chứng kiến việc phi thăng, thân tâm được thiên đạo tẩy luyện. Trong thời gian này, tu luyện sẽ hiệu quả gấp đôi.</Desc>
+		</Text>
+		<Text Name="BasePracticeAchievements1">
+			<DisplayName>Trúc Cơ Tiểu Thành</DisplayName>
+		</Text>
+		<Text Name="BasePracticeAchievements2">
+			<DisplayName>Trúc Cơ Hữu Thành</DisplayName>
+		</Text>
+		<Text Name="BasePracticeAchievements3">
+			<DisplayName>Trúc Cơ Thành Công</DisplayName>
+		</Text>
+		<Text Name="BasePracticeAchievements4">
+			<DisplayName>Trúc Cơ Thành Công (Tín Ngưỡng)</DisplayName>
+		</Text>
+		<Text Name="BasePracticeAchievements5">
+			<DisplayName>Trúc Cơ Thành Công (Thể Tu)</DisplayName>
+		</Text>
+		<Text Name="Sys_Demon">
+			<DisplayName>Ma ([TXT])</DisplayName>
+			<Desc>Vì lý do nào đó đã nhập ma.</Desc>
+		</Text>
+		<Text Name="FengShui1">
+			<DisplayName>Phúc Địa</DisplayName>
+		</Text>
+		<Text Name="FengShui2">
+			<DisplayName>Đại Cát</DisplayName>
+		</Text>
+		<Text Name="FengShui3">
+			<DisplayName>Tiểu Cát</DisplayName>
+		</Text>
+		<Text Name="FengShui4">
+			<DisplayName>Tiểu Hung</DisplayName>
+		</Text>
+		<Text Name="FengShui5">
+			<DisplayName>Đại Hung</DisplayName>
+		</Text>
+		<Text Name="FengShui6">
+			<DisplayName>Tuyệt Địa</DisplayName>
+		</Text>
+		<Text Name="Sys_AbsorbGong_5">
+			<DisplayName>Tha Hóa Tự Tại Đại Pháp</DisplayName>
+			<Desc>Đối tượng này bị thi triển đại pháp hóa tự tại, dễ bị ảnh hưởng bởi cảm xúc. Khi ở trạng thái cảm xúc cực đoan (trên 160 hoặc dưới 40), sẽ liên tục cung cấp tu vi và lĩnh ngộ cho người thi pháp.</Desc>
+		</Text>
+		<Text Name="Sys_AbsorbGong_6">
+			<DisplayName>Ký Sinh</DisplayName>
+			<Desc>Đối tượng này bị thi triển ký sinh hồn thể, mỗi ngày vào lúc 0 giờ tất cả giá trị trúc cơ sẽ chuyển hóa thành tu vi của người khác. Đồng thời nhân vật này trở nên yếu ớt, giảm ngũ hành, giảm hiệu suất làm việc toàn cục.</Desc>
+		</Text>
+		<Text Name="Sys_ShenXiu_Magic_JingXin">
+			<DisplayName>Tĩnh Tâm</DisplayName>
+			<Desc>Tâm trạng của người này đã bình tĩnh hơn nhiều.</Desc>
+		</Text>
+		<Text Name="Sys_DaoLv">
+			<DisplayName>Đạo Lữ Đồng Tu</DisplayName>
+			<Desc>Ở bên đạo lữ, cảm thấy tâm linh tương thông, ngay cả tu luyện cũng trở nên hiệu quả hơn.</Desc>
+		</Text>
+		<Text Name="Sys_Zombie">
+			<DisplayName>Cương thi</DisplayName>
+		</Text>
+		<Text Name="Sys_Jianglingfenshen">
+			<DisplayName>Giáng Lâm Phân Thân</DisplayName>
+			<Desc>Một phân thân của tổ sư, phân thân này chỉ có thể chiến đấu, sẽ rời đi trong chốc lát.</Desc>
+		</Text>
+		<Text Name="Sys_Jianglingjiangdao">
+			<DisplayName>Giáng Lâm Phân Thân</DisplayName>
+			<Desc>Một phân thân của tổ sư, phân thân này đang giảng đạo, sẽ rời đi trong chốc lát.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_ZangMenDebuff">
+			<DisplayName>Tạp Niệm (Chưởng Môn)</DisplayName>
+			<Desc>Chưởng môn bị gánh nặng quản lý môn phái, giảm tâm cảnh, tốc độ tu luyện, lĩnh ngộ, tỷ lệ đột phá và các thuộc tính liên quan đến tu luyện. Số lượng phân đường càng nhiều, gánh nặng càng lớn. Sẽ được giảm bớt dựa trên năng lực quản lý của chưởng môn.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_TangZhuDebuff">
+			<DisplayName>Tạp Niệm (Đường Chủ)</DisplayName>
+			<Desc>Đường chủ bị gánh nặng quản lý đệ tử phân đường, giảm tâm cảnh, tốc độ tu luyện, lĩnh ngộ, tỷ lệ đột phá và các thuộc tính liên quan đến tu luyện. Số lượng đệ tử phân đường càng nhiều, gánh nặng càng lớn. Sẽ được giảm bớt dựa trên năng lực quản lý của chưởng môn.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_ZangMenDebuff_Old">
+			<DisplayName>Mệt Mỏi</DisplayName>
+			<Desc>Mặc dù đã từ chức chưởng môn, nhưng áp lực nặng nề khi quản lý môn phái khiến ngươi không thể giải thoát trong thời gian ngắn. Giảm tâm cảnh, tốc độ tu luyện, lĩnh ngộ, tỷ lệ đột phá và các thuộc tính liên quan đến tu luyện.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_TangZhuDebuff_Old">
+			<DisplayName>Mệt Mỏi</DisplayName>
+			<Desc>Mặc dù đã từ chức đường chủ, nhưng áp lực nặng nề khi quản lý phân đường khiến ngươi không thể giải thoát trong thời gian ngắn. Giảm tâm cảnh, tốc độ tu luyện, lĩnh ngộ, tỷ lệ đột phá và các thuộc tính liên quan đến tu luyện.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_NoAreaBuff">
+			<DisplayName>Không Có Khu Vực Gia Tăng</DisplayName>
+			<Desc>Do năng lực đường chủ không đủ, đệ tử phân đường này không nhận được gia tăng khu vực.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_NoAllBuff">
+			<DisplayName>Không Có Gia Tăng Thường Trú</DisplayName>
+			<Desc>Do năng lực đường chủ không đủ, đệ tử phân đường này không nhận được gia tăng thường trú.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Nei_Dan">
+			<DisplayName>Chuyên Tinh Luyện Đan (Nội Môn)</DisplayName>
+			<Desc>Đệ tử nội môn trong phạm vi phân đường này có thể tăng tốc độ luyện đan, tỷ lệ thành công, sản lượng. Năng lực đường chủ càng cao, gia tăng càng lớn.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Wai_Dan">
+			<DisplayName>Chuyên Tinh Luyện Đan (Ngoại Môn)</DisplayName>
+			<Desc>Đệ tử ngoại môn trong phạm vi phân đường này có thể tăng cường khả năng chế dược và chữa trị. Năng lực đường chủ càng cao, gia tăng càng lớn.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_All_Dan">
+			<DisplayName>Chuyên Tinh Luyện Đan (Thường Trú)</DisplayName>
+			<Desc>Tăng cấp độ kỹ năng kỳ hoàng/luyện đan và thuộc tính thần thức. Năng lực đường chủ càng cao, gia tăng càng lớn. (Chu kỳ làm mới chuyên tinh thường trú là 1 ngày)</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Nei_Qi">
+			<DisplayName>Chuyên Tinh Luyện Khí (Nội Môn)</DisplayName>
+			<Desc>Đệ tử nội môn trong phạm vi phân đường này có thể tăng tốc độ luyện khí, tỷ lệ thành công, phẩm cấp, chất lượng. Năng lực đường chủ càng cao, gia tăng càng lớn.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Wai_Qi">
+			<DisplayName>Chuyên Tinh Luyện Khí (Ngoại Môn)</DisplayName>
+			<Desc>Đệ tử ngoại môn trong phạm vi phân đường này có thể tăng cường khả năng chế tạo. Năng lực đường chủ càng cao, gia tăng càng lớn.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_All_Qi">
+			<DisplayName>Chuyên Tinh Luyện Khí (Thường Trú)</DisplayName>
+			<Desc>Tăng cấp độ kỹ năng khéo léo/luyện khí và thuộc tính căn cốt. Năng lực đường chủ càng cao, gia tăng càng lớn. (Chu kỳ làm mới chuyên tinh thường trú là 1 ngày)</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Nei_Zhan">
+			<DisplayName>Chuyên Tinh Chiến Đấu (Nội Môn)</DisplayName>
+			<Desc>Đệ tử nội môn trong phạm vi phân đường này có thể tăng cường khả năng hồi phục, chịu đau. Năng lực đường chủ càng cao, gia tăng càng lớn.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Wai_Zhan">
+			<DisplayName>Chuyên Tinh Chiến Đấu (Ngoại Môn)</DisplayName>
+			<Desc>Đệ tử ngoại môn trong phạm vi phân đường này có thể tăng cường khả năng hồi phục, chịu đau. Năng lực đường chủ càng cao, gia tăng càng lớn.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_All_Zhan">
+			<DisplayName>Chuyên Tinh Chiến Đấu (Thường Trú)</DisplayName>
+			<Desc>Tăng khả năng liên quan đến chiến đấu, cấp độ kỹ năng chiến đấu và thuộc tính thần thức, căn cốt. Năng lực đường chủ càng cao, gia tăng càng lớn. (Chu kỳ làm mới chuyên tinh thường trú là 1 ngày)</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Nei_XiuLian">
+			<DisplayName>Chuyên Tinh Tu Luyện (Nội Môn)</DisplayName>
+			<Desc>Đệ tử nội môn trong phạm vi phân đường này có thể tăng tâm cảnh, tốc độ tu luyện, lĩnh ngộ, tỷ lệ đột phá. Năng lực đường chủ càng cao, gia tăng càng lớn.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Wai_XiuLian">
+			<DisplayName>Chuyên Tinh Tu Luyện (Ngoại Môn)</DisplayName>
+			<Desc>Đệ tử ngoại môn trong phạm vi phân đường này có thể tăng tốc độ trúc cơ. Năng lực đường chủ càng cao, gia tăng càng lớn.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_All_XiuLian">
+			<DisplayName>Chuyên Tinh Tu Luyện (Thường Trú)</DisplayName>
+			<Desc>Tăng cấp độ kỹ năng cảm khí và thuộc tính ngộ tính. Năng lực đường chủ càng cao, gia tăng càng lớn. (Chu kỳ làm mới chuyên tinh thường trú là 1 ngày)</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Nei_WaiShi">
+			<DisplayName>Chuyên Tinh Ngoại Sự (Nội Môn)</DisplayName>
+			<Desc>Đệ tử nội môn trong phạm vi phân đường này có thể nhận được gia tăng hiệu suất toàn cục. Năng lực đường chủ càng cao, gia tăng càng lớn.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Wai_WaiShi">
+			<DisplayName>Chuyên Tinh Ngoại Sự (Ngoại Môn)</DisplayName>
+			<Desc>Đệ tử ngoại môn trong phạm vi phân đường này có thể nhận được gia tăng hiệu suất toàn cục. Năng lực đường chủ càng cao, gia tăng càng lớn.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_All_WaiShi">
+			<DisplayName>Chuyên Tinh Ngoại Sự (Thường Trú)</DisplayName>
+			<Desc>Tăng tốc độ lịch luyện, gia tăng danh vọng, tốc độ Dột phá bình cảnh luyện tập và các thuộc tính khác, cấp độ kỹ năng xử thế và thuộc tính mị lực, cơ duyên. Năng lực đường chủ càng cao, gia tăng càng lớn. (Chu kỳ làm mới chuyên tinh thường trú là 1 ngày)</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Magic_Prophesy">
+			<DisplayName>Chu Thiên Thần Toán</DisplayName>
+			<Desc>Khi có sự kiện xảy ra, sẽ đưa ra cảnh báo trước.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_CanNotExperience">
+			<DisplayName>Tĩnh Tu</DisplayName>
+			<Desc>Đệ tử này vừa trở về núi sau thời gian dài lịch luyện, cần một thời gian tĩnh tu để ổn định tu vi.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_CanNotExperienceHide">
+			<DisplayName>Không Thể Lịch Luyện</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_TameCD">
+			<DisplayName>Khoảng Thời Gian Cho Ăn</DisplayName>
+			<Desc>Con vật này vừa được cho ăn.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_GodMode">
+			<DisplayName>Vô Địch</DisplayName>
+			<Desc>Trạng Thái Vô Địch</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_CantSelect">
+			<DisplayName>Không Thể Chọn</DisplayName>
+		</Text>
+		<Text Name="Mini_Follow">
+			<DisplayName>Thú Cưng Theo Sau</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_Fenshenshang">
+			<DisplayName>Tổn Thần</DisplayName>
+			<Desc>Thi triển thuật phân thần, sẽ rơi vào trạng thái yếu ớt trong một thời gian.</Desc>
+		</Text>
+		<Text Name="SysConcealmentModifier">
+			<DisplayName>Ẩn Nặc</DisplayName>
+			<Desc>Ẩn giấu khí tức, giảm xác suất bị phát hiện. \nRời khỏi trạng thái ẩn nặc cần 5 giây.</Desc>
+		</Text>
+		<Text Name="SysConcealmentRobModifier">
+			<DisplayName>Trộm Cắp</DisplayName>
+			<Desc>Xác suất bị phát hiện tăng lên.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_WinterWarm">
+			<DisplayName>Đông Trùng</DisplayName>
+			<Desc>Ăn đông trùng, khả năng chịu lạnh được tăng cường.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_SummerHerb">
+			<DisplayName>Hạ Thảo</DisplayName>
+			<Desc>Ăn hạ thảo, khả năng chịu nóng được tăng cường.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_SuppressGodCall">
+			<DisplayName>Áp Chế</DisplayName>
+			<Desc>Cưỡng chế áp chế thiên kiếp.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_CangJingGe">
+			<DisplayName>Nền Tảng Tu Luyện</DisplayName>
+			<Desc>Nhờ vào lượng sách trong tông phái, đệ tử của phái tu luyện và lĩnh ngộ với tốc độ nhanh hơn.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_ShaLu">
+			<DisplayName>Tâm Sát Lục</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_ZiQi">
+			<DisplayName>Tâm Tự Bỏ</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_TanLan">
+			<DisplayName>Tâm Tham Lam</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_XiangLe">
+			<DisplayName>Tâm Hưởng Lạc</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_AoMan">
+			<DisplayName>Tâm Kiêu Ngạo</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_WeiShan">
+			<DisplayName>Tâm Giả Tạo</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_JiaoLv">
+			<DisplayName>Tâm Lo Lắng</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_YiYu">
+			<DisplayName>Tâm Trầm Cảm</DisplayName>
+		</Text>
+		<Text Name="SysNewYearZhulong">
+			<DisplayName>Tết Nguyên Đán</DisplayName>
+			<Desc>Chúc Long đang quan sát các ngươi, sẽ rời đi trong chốc lát.</Desc>
+		</Text>
+		<Text Name="SysJumpingModifier">
+			<DisplayName>Trạng Thái Bay Vọt..</DisplayName>
+		</Text>
+		<Text Name="Modifier_Dan_ColdDown">
+			<DisplayName>Hấp Thụ Thuốc</DisplayName>
+			<Desc>Cần một thời gian nhất định để hấp thụ hoàn toàn dinh dưỡng từ các loại thuốc, trong thời gian này không thể nhận dinh dưỡng từ việc dùng thuốc.</Desc>
+		</Text>
+		<Text Name="SysSprintModifier">
+			<DisplayName>Nước Rút</DisplayName>
+		</Text>
+		<Text Name="System_CGModifier">
+			<DisplayName>Biến Hình Đặc Biệt</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

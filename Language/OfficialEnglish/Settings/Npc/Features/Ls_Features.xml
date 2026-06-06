@@ -1,0 +1,85 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Bear_Fat">
+			<DisplayName>Mỡ dày</DisplayName>
+			<Desc>Bẩm sinh có nhiều mỡ, chịu lạnh tốt, đồng thời có sức kháng với ngũ hành mạnh mẽ.</Desc>
+		</Text>
+		<Text Name="Rabbit_Fast">
+			<DisplayName>Nhanh nhẹn</DisplayName>
+			<Desc>Chạy rất nhanh, học hỏi cũng nhanh, nhưng tâm trạng thì nóng vội.</Desc>
+		</Text>
+		<Text Name="Rabbit_Hear">
+			<DisplayName>Cảnh giác</DisplayName>
+			<Desc>Thính giác rất nhạy, cảm nhận rất cao.</Desc>
+		</Text>
+		<Text Name="Chicken_Sleep">
+			<DisplayName>Ngày đêm suy nghĩ</DisplayName>
+			<Desc>Bẩm sinh ngủ rất ít, rất chăm chỉ.</Desc>
+		</Text>
+		<Text Name="Wolf_Calm">
+			<DisplayName>Tàn Nhẫn Lãnh Tĩnh</DisplayName>
+			<Desc>Là một chiến binh bẩm sinh, năng lực chiến đấu của họ vượt qua giới hạn của con người.</Desc>
+		</Text>
+		<Text Name="Snake_Progenitor">
+			<DisplayName>Dòng dõi đứt đoạn</DisplayName>
+			<Desc>Thời kỳ cổ đại, những người luyện thể từ Xà Yêu muốn ta luyện cơ thể hóa thành rồng, nhưng bị tộc rồng đàn áp, gần như bị diệt vong và không để lại gì về bí quyết luyện thể. Nhưng điều này cũng khiến họ có khả năng cảm nhận linh khí và thiên phú vượt trội hơn người.</Desc>
+		</Text>
+		<Text Name="Frog">
+			<DisplayName>Khôi Phục Lực</DisplayName>
+			<Desc>Cơ thể bẩm sinh có khả năng phục hồi mạnh mẽ.</Desc>
+		</Text>
+		<Text Name="Frog_Vision">
+			<DisplayName>Vi mô</DisplayName>
+			<Desc>Kích thước nhỏ của mình giúp ếch hiểu rõ hơn về chi tiết của mọi thứ, chú trọng hơn đến từng chi tiết khi chế tạo.</Desc>
+		</Text>
+		<Text Name="Boar">
+			<DisplayName>Ăn tạp</DisplayName>
+			<Desc>Ăn tất cả mọi thứ, tiêu hóa tốt, dễ dàng chuyển hóa thực phẩm thành tinh nguyên.</Desc>
+		</Text>
+		<Text Name="Snake">
+			<DisplayName>Linh tính</DisplayName>
+			<Desc>Bẩm sinh có linh tính mạnh mẽ.</Desc>
+		</Text>
+		<Text Name="Wolf">
+			<DisplayName>Tập thể</DisplayName>
+			<Desc>Sống tập thể và hợp tác giúp họ rất giỏi trong việc hợp tác ăn ý với người khác.</Desc>
+		</Text>
+		<Text Name="Cat_Elegant">
+			<DisplayName>Nhẹ nhàng</DisplayName>
+			<Desc>Đi bộ gần như không phát ra âm thanh nào, giỏi trong việc ẩn mình.</Desc>
+		</Text>
+		<Text Name="Cat_Light">
+			<DisplayName>Nhẹ nhàng</DisplayName>
+			<Desc>Đi bộ gần như không phát ra tiếng động, sở trường ẩn nấp.</Desc>
+		</Text>
+		<Text Name="Tor_Longevity">
+			<DisplayName>Trường thọ</DisplayName>
+			<Desc>Trường thọ, tuổi thọ rất dài.</Desc>
+		</Text>
+		<Text Name="Tor_Slow">
+			<DisplayName>Quy Tốc</DisplayName>
+			<Desc>Rùa di chuyển rất chậm, nhưng tâm trạng rất tốt, tiêu thụ thức ăn và nước uống cũng chậm.</Desc>
+		</Text>
+		<Text Name="Tor_Def">
+			<DisplayName>Mai rùa</DisplayName>
+			<Desc>Rùa bẩm sinh có khả năng phòng thủ cực kỳ mạnh mẽ.</Desc>
+		</Text>
+		<Text Name="Tiger_Pier">
+			<DisplayName>Dữ dằn</DisplayName>
+			<Desc>Rất dữ dằn, giỏi trong việc chiến đấu. Tính tấn công của họ cũng rất hữu ích cho việc sử dụng kiếm.</Desc>
+		</Text>
+		<Text Name="Cow_Farmer">
+			<DisplayName>Ôn Thuận Hòa Thiện</DisplayName>
+			<Desc>Bẩm sinh giỏi làm nông, chịu khó chịu khổ.</Desc>
+		</Text>
+		<Text Name="Cow_Big">
+			<DisplayName>Am hiểu dược tính</DisplayName>
+			<Desc>Có hệ tiêu hóa độc đáo, khiến họ hiểu biết về dược liệu vượt trội hơn người khác.</Desc>
+		</Text>
+		<Text Name="Cat_Pot">
+			<DisplayName>Tò mò</DisplayName>
+			<Desc>Mèo bẩm sinh rất tò mò về những điều chưa biết, đây là phẩm chất rất quan trọng trong tu luyện.</Desc>
+		</Text>
+	</List>
+</Texts>
+

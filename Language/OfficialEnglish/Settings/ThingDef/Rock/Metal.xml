@@ -1,0 +1,21 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="IronOre" sParam="Plant">
+			<ThingName>Quặng sắt</ThingName>
+			<Desc>Một ngọn núi chứa nhiều quặng sắt, có thể khai thác để lấy quặng sắt.</Desc>
+		</Text>
+		<Text Name="CopperOre" sParam="Plant">
+			<ThingName>Quặng đồng hỏa</ThingName>
+			<Desc>Một ngọn núi chứa nhiều quặng đồng hỏa, có thể khai thác để lấy quặng đồng hỏa.</Desc>
+		</Text>
+		<Text Name="SilverOre" sParam="Plant">
+			<ThingName>Quặng hàn tinh</ThingName>
+			<Desc>Một ngọn núi chứa nhiều quặng hàn tinh, có thể khai thác để lấy quặng hàn tinh.</Desc>
+		</Text>
+		<Text Name="RockLing" sParam="Plant">
+			<ThingName>Quặng linh thạch</ThingName>
+			<Desc>Một ngọn núi chứa linh thạch, có thể khai thác để lấy linh thạch.</Desc>
+		</Text>
+	</List>
+</Texts>
+

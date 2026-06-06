@@ -1,0 +1,110 @@
+农田	Ruộng
+房间	Phòng
+狼皮修行衣衫	Áo tu hành da sói
+白布休闲下裳	Hạ Thường Giải Trí Vải Trắng
+木弓	Cung gỗ
+白布休闲衣衫	Vải trắng Áo Thường Nhật
+靛蓝布修行下裳	Tu hành hạ thường điện lam bố
+木锤	Búa gỗ
+可以大幅提高寒冷抵抗的符咒。	Là phù chú có thể tăng mạnh khả năng chống lạnh.
+太阳符	Thái Dương Phù
+棕石砖	Gạch đá nâu
+极光碑	Cực Quang bi
+木墙	Tường gỗ
+木栅栏	Hàng rào gỗ
+木门	Mộc Môn
+木小方桌	Bàn vuông gỗ nhỏ
+木床	Giường gỗ
+灵石炉灶	Bếp Lò Linh Thạch
+木水缸	Thuỷ cương gỗ
+无名之墓	Mộ vô danh
+大理石灯笼	Đèn lồng đá cẩm thạch
+大理石油灯	Đèn dầu đá cẩm thạch
+铁虫鸟架	Giá chim sắt
+大理石围棋桌	Đá cẩm thạch Bàn Cờ Vây
+蓝布蒲团	Bồ đoàn vải xanh
+灵石装饰书架	Giá sách trang trí Linh thạch
+灵石灯笼	Đèn lồng linh thạch
+角色出生点	Điểm sinh nhân vật
+无名	Vô danh.
+之人	Người đó
+虚	 Hư
+韩	Hàn
+诚	Thành
+西门	Tây Môn
+雅芝	Nhã Chi
+仇	Cừu
+华	Hoa
+逍遥者	Tiêu dao giả
+狸	Chồn
+斄	Lê
+御木诀	Ngự Mộc Quyết
+玉京飞流法	Ngọc Kinh Phi Lưu Pháp
+先天罡气	Tiên Thiên Cương Khí
+元磁灭绝神光	Nguyên Từ Diệt Tuyệt Thần Quang
+吸星掌	Hấp Tinh Chưởng
+灵息诀	Linh Tức Quyết
+和光同尘	Hòa Quang Đồng Trần
+回光诀	Hồi Quang Quyết
+五气归源	Ngũ Khí Quy Nguyên
+入定之术	Thuật Nhập Định
+玉清定境	Ngọc Thanh Định Cảnh
+祈天经	Kỳ Thiên Kinh
+万法归藏	Vạn Pháp Quy Tàng
+谷神大法	Cốc Thần Đại Pháp
+庚金神雷	Canh Kim Thần Lôi
+回春诀	Hồi Xuân Quyết
+天水化伤术	Thiên Thủy Hóa Thương Thuật
+烈焰决	Liệt Diệm Quyết
+厚土之盾	Hậu Thổ Chi Thuẫn
+醍醐灌顶之术	Đề Hồ Quán Đỉnh Thuật
+大衍神算	Đại Diễn Thần Toán
+周天神算	Chu Thiên Thần Toán
+六壬神算	Lục Nhâm Thần Toán
+元始之胎	Nguyên Thủy Chi Thai
+秘宝：戊己杏黄旗	Bí Bảo: Mậu Kỷ Hạnh Hoàng Kỳ
+玉清太虚神雷	Ngọc Thanh Thái Hư Thần Lôi
+庚金元神	Canh Kim Nguyên Thần
+庚金元神·圆满	Canh Kim Nguyên Thần·Viên Mãn
+甲木元神	Giáp Mộc Nguyên Thần
+甲木元神·圆满	Giáp Mộc Nguyên Thần·Viên Mãn
+壬水元神	Nhâm Thủy Nguyên Thần
+壬水元神·圆满	Nhâm Thủy Nguyên Thần·Viên Mãn
+丙火元神	Bính Hỏa Nguyên Thần
+丙火元神·圆满	Bính Hỏa Nguyên Thần·Viên Mãn
+戊土元神	Mậu Thổ Nguyên Thần
+戊土元神·圆满	Mậu Thổ Nguyên Thần·Viên Mãn
+天道神丹	Thiên Đạo Thần Đan
+天道神器	Thiên Đạo Thần Khí
+赋灵术	Phú Linh Thuật
+五泉涤心法	Ngũ Tuyền Địch Tâm Pháp
+化伤术	Hóa Thương Thuật
+求雨术	Cầu Vũ Thuật
+甘霖术	Cam Lâm Thuật
+风水鉴定	Phong Thủy Giám Định
+太和御气诀	Thái Hòa Ngự Khí Quyết
+清心咒	Thanh Tâm Chú
+天霖诀	Thiên Lâm Quyết
+天一真法	Thiên Nhất Chân Pháp
+采水诀	Thái Thủy Quyết
+水镜观心定	Thủy Kính Quán Tâm Định
+玄牝重生法	Huyền Tẫn Trọng Sinh Pháp
+乘风诀	Thừa Phong Quyết
+同风诀	Đồng Phong Quyết
+奔流诀	Bôn Lưu Quyết
+归海诀	Quy Hải Quyết
+水精真形	Thủy Tinh Chân Hình
+水气真形	Thủy Khí Chân Hình
+水神真形	Thủy Thần Chân Hình
+暴雨术	Bạo Vũ Thuật
+九阴真水界	Cửu Âm Chân Thủy Giới
+玄魂造命	Huyền Hồn Tạo Mệnh
+罡煞合流	Cương Sát Hợp Lưu
+唔，吃什么呢？	Ừm, ăn gì nhỉ?
+喵喵~~	Meo meo~~
+抓老鼠？我怎么就不会抓老鼠了，你别人眼看牛低！	Bắt chuột? Sao ta lại không biết bắt chuột, ngươi nhìn người khác mà đánh giá thấp ta!
+无何有之乡	Vô Hà Hữu Chi Hương
+界间界·虚之草庐	Giới Gian Giới · Hư Chi Thảo Lư
+界间幻景，存续之所。	Ảo cảnh giữa các giới, nơi lưu tồn.
+
+

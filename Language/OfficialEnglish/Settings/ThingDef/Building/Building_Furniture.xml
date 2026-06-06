@@ -1,0 +1,104 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Bed" sParam="Building">
+			<ThingName>Giường</ThingName>
+			<Desc>Một chiếc giường dành cho một người, giúp ngươi có một giấc ngủ ngon.</Desc>
+		</Text>
+		<Text Name="DoubleBed" sParam="Building">
+			<ThingName>Giường đôi</ThingName>
+			<Desc>Một chiếc giường lớn phù hợp cho hai người có nhu cầu sử dụng.</Desc>
+		</Text>
+		<Text Name="SmallTable" sParam="Building">
+			<ThingName>Bàn</ThingName>
+			<Desc>Bàn đơn giản, có thể dùng để ăn uống.</Desc>
+		</Text>
+		<Text Name="Table" sParam="Building">
+			<ThingName>Bàn vuông nhỏ</ThingName>
+			<Desc>Bàn vuông truyền thống, có thể dùng để ăn uống.</Desc>
+		</Text>
+		<Text Name="WaterTank" sParam="Building">
+			<ThingName>Chum nước</ThingName>
+			<Desc>Một vật chứa có thể dùng để đựng nước, giúp lọc sạch nước, rất tiện lợi khi đặt ở những nơi cần sử dụng nước thường xuyên.</Desc>
+		</Text>
+		<Text Name="SmallPool" sParam="Building">
+			<ThingName>Linh trì tạo hóa</ThingName>
+			<Desc>Hồ linh được chế tạo từ Hoả Đồng và tinh thể băng lạnh, lõi hồ dung hợp một hạt ngọc tạo hóa. Hiệu quả linh khí có thể cải thiện đất đai xung quanh một cách chậm rãi.</Desc>
+		</Text>
+		<Text Name="StreetLight" sParam="Building">
+			<ThingName>Cột đèn</ThingName>
+			<Desc>Công trình chiếu sáng tinh xảo, sẽ phát sáng vào ban đêm, soi sáng khu vực xung quanh.</Desc>
+		</Text>
+		<Text Name="StreetLight1" sParam="Building">
+			<ThingName>Cột đèn</ThingName>
+			<Desc>Công trình chiếu sáng tinh xảo, sẽ phát sáng vào ban đêm, soi sáng khu vực xung quanh.</Desc>
+		</Text>
+		<Text Name="StreetLight2" sParam="Building">
+			<ThingName>Cột đèn</ThingName>
+			<Desc>Công trình chiếu sáng tinh xảo, sẽ phát sáng vào ban đêm, soi sáng khu vực xung quanh.</Desc>
+		</Text>
+		<Text Name="Lantern" sParam="Building">
+			<ThingName>Đèn lồng</ThingName>
+			<Desc>Thiết bị chiếu sáng, sẽ phát sáng vào ban đêm, soi sáng khu vực xung quanh.</Desc>
+		</Text>
+		<Text Name="Lantern1" sParam="Building">
+			<ThingName>Đèn lồng</ThingName>
+			<Desc>Thiết bị chiếu sáng, sẽ phát sáng vào ban đêm, soi sáng khu vực xung quanh.</Desc>
+		</Text>
+		<Text Name="Lantern2" sParam="Building">
+			<ThingName>Đèn lồng-Chiếu Ảnh</ThingName>
+		</Text>
+		<Text Name="Lantern3" sParam="Building">
+			<ThingName>Đèn lồng</ThingName>
+			<Desc>Thiết bị chiếu sáng, sẽ phát sáng vào ban đêm, soi sáng khu vực xung quanh.</Desc>
+		</Text>
+		<Text Name="Lantern4" sParam="Building">
+			<ThingName>Đèn lồng</ThingName>
+			<Desc>Thiết bị chiếu sáng, sẽ phát sáng vào ban đêm, soi sáng khu vực xung quanh.</Desc>
+		</Text>
+		<Text Name="Lantern5" sParam="Building">
+			<ThingName>Đèn lồng-Vạn Hóa An</ThingName>
+			<Desc>Thiết bị chiếu sáng, sẽ phát sáng vào ban đêm, soi sáng khu vực xung quanh.</Desc>
+		</Text>
+		<Text Name="Lantern6" sParam="Building">
+			<ThingName>Đèn lồng-Tứ Hải Đồng</ThingName>
+			<Desc>Thiết bị chiếu sáng, sẽ phát sáng vào ban đêm, soi sáng khu vực xung quanh.</Desc>
+		</Text>
+		<Text Name="Lantern_S1" sParam="Building">
+			<ThingName>Đèn Thần Hạc</ThingName>
+			<Desc>Thiết bị chiếu sáng, sẽ phát sáng vào ban đêm, soi sáng khu vực xung quanh.</Desc>
+		</Text>
+		<Text Name="Candlestick" sParam="Building">
+			<ThingName>Đèn dầu</ThingName>
+			<Desc>Thiết bị chiếu sáng trong nhà, sẽ phát sáng vào ban đêm, soi sáng khu vực xung quanh.</Desc>
+		</Text>
+		<Text Name="TicTacToe" sParam="Building">
+			<ThingName>Cờ ca-rô</ThingName>
+			<Desc>Không cần vật liệu chế tạo, chỉ cần vẽ một khu vực trống trên mặt đất để chơi cờ ca-rô.</Desc>
+		</Text>
+		<Text Name="GoTable" sParam="Building">
+			<ThingName>Bàn cờ vây</ThingName>
+			<Desc>Một chiếc bàn thấp dùng để chơi cờ, mặt bàn khắc bàn cờ 19 đường, có thể cho hai người đấu trí, tạo ra những ván cờ danh tiếng.</Desc>
+		</Text>
+		<Text Name="GuzhengTable" sParam="Building">
+			<ThingName>Đài cầm</ThingName>
+			<Desc>Bệ đặt đàn cổ, có thể dùng để gảy đàn, sáng tác nhạc.</Desc>
+		</Text>
+		<Text Name="CalligraphyTable" sParam="Building">
+			<ThingName>Bàn vẽ bùa</ThingName>
+			<Desc>Một chiếc bàn đặt bút mực giấy nghiên, có thể dùng để chế tạo bùa chú. Ngoài ra, cũng có thể dùng để giải trí khi rảnh rỗi.</Desc>
+		</Text>
+		<Text Name="CageShelf" sParam="Building">
+			<ThingName>Giá nuôi chim và côn trùng</ThingName>
+			<Desc>Một thiết bị giải trí dành cho việc nuôi chim và chơi côn trùng, có cấu trúc tinh xảo và đẹp mắt.</Desc>
+		</Text>
+		<Text Name="Building_Tomb" sParam="Building">
+			<ThingName>Mộ phần</ThingName>
+			<Desc>Một ngôi mộ đơn giản để chôn cất người đã khuất.</Desc>
+		</Text>
+		<Text Name="Building_BigTomb" sParam="Building">
+			<ThingName>Lăng mộ</ThingName>
+			<Desc>Một ngôi mộ dùng để chôn cất người đã khuất.</Desc>
+		</Text>
+	</List>
+</Texts>
+

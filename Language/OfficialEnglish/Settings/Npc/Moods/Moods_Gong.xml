@@ -1,0 +1,155 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BottleNeck1">
+			<DisplayName>Đột phá bình cảnh.</DisplayName>
+			<Desc>Cuối cùng đã đột phá, tu vi tiến thêm một bước.</Desc>
+			<StoryDesc>Đang chìm đắm trong niềm vui đột phá bình cảnh.</StoryDesc>
+		</Text>
+		<Text Name="BottleNeck2">
+			<DisplayName>Thất bại phá quan.</DisplayName>
+			<Desc>Ừm… tu đạo thật gian nan…</Desc>
+			<StoryDesc>Đang âm thầm suy ngẫm vì thất bại khi đột phá.</StoryDesc>
+		</Text>
+		<Text Name="BottleNeck3">
+			<DisplayName>Đường tiên mờ mịt…</DisplayName>
+			<Desc>Dừng lại ở cảnh giới này đã lâu… không còn hy vọng đột phá.</Desc>
+			<StoryDesc>Đang lo lắng vì mắc kẹt ở bình cảnh quá lâu.</StoryDesc>
+		</Text>
+		<Text Name="BottleNeck4">
+			<DisplayName>Cuối cùng đã đột phá.</DisplayName>
+			<Desc>Công sức không phụ lòng người, cuối cùng đã đột phá bình cảnh kéo dài!</Desc>
+			<StoryDesc>Đang vui mừng tột độ vì vừa đột phá bình cảnh kéo dài.</StoryDesc>
+		</Text>
+		<Text Name="BottleNeck5">
+			<DisplayName>Đường tiên lung lay.</DisplayName>
+			<Desc>Dừng lại ở cảnh giới này đã lâu… không còn hy vọng đột phá.</Desc>
+			<StoryDesc>Đang lo lắng vì mắc kẹt ở bình cảnh quá lâu.</StoryDesc>
+		</Text>
+		<Text Name="ThunderDisaster1">
+			<DisplayName>Lôi kiếp đến gần.</DisplayName>
+			<Desc>Cảm nhận được khí tức lôi kiếp.</Desc>
+			<StoryDesc>Đang cảm thấy hơi bất an vì đối mặt thiên kiếp.</StoryDesc>
+		</Text>
+		<Text Name="ThunderDisaster2">
+			<DisplayName>Độ kiếp thành công!</DisplayName>
+			<Desc>Nguy hiểm vô cùng, cuối cùng cũng vượt qua kiếp nạn.</Desc>
+			<StoryDesc>Đang vui mừng rạng rỡ vì vượt kiếp thành công.</StoryDesc>
+		</Text>
+		<Text Name="ThunderDisaster3">
+			<DisplayName>Đạo Cơ Đã Hủy</DisplayName>
+			<Desc>Lôi kiếp hung hiểm, đạo cơ đã bị hủy, không còn hy vọng phi thăng.</Desc>
+			<StoryDesc>Đang tuyệt vọng vì thất bại độ kiếp, đạo cơ bị hủy.</StoryDesc>
+		</Text>
+		<Text Name="Dan1">
+			<DisplayName>Địa tiên trong tầm mắt.</DisplayName>
+			<Desc>Cảnh giới địa tiên đã gần kề, trường sinh có hy vọng!</Desc>
+			<StoryDesc>Đang phấn khởi vì cảnh giới địa tiên trong tầm mắt.</StoryDesc>
+		</Text>
+		<Text Name="Dan2">
+			<DisplayName>Trở thành địa tiên.</DisplayName>
+			<Desc>Kết thành kim đan, trở thành địa tiên, đây chỉ là bước đầu tiên trên con đường tu tiên của ta!</Desc>
+			<StoryDesc>Đang thở phào nhẹ nhõm vì kết thành kim đan thành công.</StoryDesc>
+		</Text>
+		<Text Name="Dan3">
+			<DisplayName>Kim đan thượng phẩm.</DisplayName>
+			<Desc>Kết thành chân đan thượng phẩm, thành tựu trên tiên đạo trong tương lai là vô hạn!</Desc>
+			<StoryDesc>Đang tự hào vì kết thành kim đan thượng phẩm.</StoryDesc>
+		</Text>
+		<Text Name="Dan4">
+			<DisplayName>Kim đan trung phẩm.</DisplayName>
+			<Desc>Kết đan trung phẩm, đã là hiếm có trong trăm người.</Desc>
+			<StoryDesc>Đang hài lòng vì kết thành kim đan trung phẩm.</StoryDesc>
+		</Text>
+		<Text Name="StageUp">
+			<DisplayName>Cảnh giới nâng cao.</DisplayName>
+			<Desc>Tu luyện đã lâu, cuối cùng cũng đột phá thêm một cảnh giới!</Desc>
+			<StoryDesc>Đang tràn đầy niềm vui vì đột phá một cảnh giới.</StoryDesc>
+		</Text>
+		<Text Name="FrameOfMind1">
+			<DisplayName>Tâm cảnh tan vỡ.</DisplayName>
+			<Desc>Vô số suy nghĩ hỗn loạn, tâm trạng tan vỡ!</Desc>
+			<StoryDesc>Đang tan vỡ vì tâm cảnh hỗn loạn.</StoryDesc>
+		</Text>
+		<Text Name="FrameOfMind2">
+			<DisplayName>Tâm cảnh không ổn.</DisplayName>
+			<Desc>Tâm trí rối loạn, không thể bình tĩnh lại…</Desc>
+			<StoryDesc>Đang tức giận vì suy nghĩ hỗn loạn.</StoryDesc>
+		</Text>
+		<Text Name="FrameOfMind3">
+			<DisplayName>Tâm cảnh bình thường.</DisplayName>
+			<Desc>Tâm trạng bình thường, không tốt không xấu.</Desc>
+			<StoryDesc>Đang cảm thán rằng mọi thứ vẫn như thường lệ.</StoryDesc>
+		</Text>
+		<Text Name="FrameOfMind4">
+			<DisplayName>Tâm cảnh viên mãn.</DisplayName>
+			<Desc>Tâm như trăng sáng, ý như thủy triều.</Desc>
+			<StoryDesc>Đang cảm thấy ôn hòa vì tâm cảnh viên mãn.</StoryDesc>
+		</Text>
+		<Text Name="FrameOfMind5">
+			<DisplayName>Tâm cảnh thông suốt.</DisplayName>
+			<Desc>Tâm như gương sáng, thông suốt rõ ràng.</Desc>
+			<StoryDesc>Đang điềm nhiên vì tâm cảnh thông suốt.</StoryDesc>
+		</Text>
+		<Text Name="FrameOfMind6">
+			<DisplayName>Tâm cảnh vô nhiễm.</DisplayName>
+			<Desc>Tâm niệm như có như không, vô nhiễm vô cấu, thấu suốt bản tâm.</Desc>
+			<StoryDesc>Đang tràn đầy khí chất thoát tục vì tâm cảnh vô nhiễm.</StoryDesc>
+		</Text>
+		<Text Name="TravelExperience">
+			<DisplayName>Muốn đi ra ngoài.</DisplayName>
+			<Desc>Lâu rồi không xuống núi rèn luyện, có chút động lòng trần.</Desc>
+			<StoryDesc>Đang động lòng trần vì lâu rồi không xuống núi rèn luyện.</StoryDesc>
+		</Text>
+		<Text Name="SitCrosslegged1">
+			<DisplayName>Ngồi thiền trên mặt đất.</DisplayName>
+			<Desc>Nếu có chỗ thoải mái hơn để tu luyện thì tốt…</Desc>
+			<StoryDesc>Đang cà nhắc vì ngồi thiền trên mặt đất.</StoryDesc>
+		</Text>
+		<Text Name="SitCrosslegged2">
+			<DisplayName>Tu luyện thoải mái.</DisplayName>
+			<Desc>Kiểu tu luyện này hiệu quả gấp đôi~</Desc>
+			<StoryDesc>Đang thì thầm khen ngợi vì cơ sở tu luyện thoải mái.</StoryDesc>
+		</Text>
+		<Text Name="PracticeLing1">
+			<DisplayName>Linh khí đậm đặc.</DisplayName>
+			<Desc>Nơi này linh khí đậm đặc, là bảo địa tu luyện.</Desc>
+			<StoryDesc>Đang cảm thấy sảng khoái vì tu luyện tại nơi linh khí đậm đặc.</StoryDesc>
+		</Text>
+		<Text Name="PracticeLing2">
+			<DisplayName>Linh khí dồi dào.</DisplayName>
+			<Desc>Nơi này linh khí dồi dào, là một địa điểm tu luyện tốt.</Desc>
+			<StoryDesc>Đang hài lòng gật đầu vì tu luyện tại nơi linh khí dồi dào.</StoryDesc>
+		</Text>
+		<Text Name="PracticeLing3">
+			<DisplayName>Linh khí không đủ.</DisplayName>
+			<Desc>Nơi này linh khí thiếu thốn, tu luyện tại đây có phần tạm bợ.</Desc>
+			<StoryDesc>Đang cau mày vì tu luyện tại nơi linh khí không đủ.</StoryDesc>
+		</Text>
+		<Text Name="PracticeLing4">
+			<DisplayName>Linh khí nghèo nàn.</DisplayName>
+			<Desc>Nơi này linh khí nghèo nàn, thật sự không thích hợp để tu luyện.</Desc>
+			<StoryDesc>Đang bất mãn vì tu luyện tại nơi linh khí nghèo nàn.</StoryDesc>
+		</Text>
+		<Text Name="PracticeElement1">
+			<DisplayName>Ngũ hành hoàn hảo.</DisplayName>
+			<Desc>Nơi này ngũ hành và công pháp của ta hoàn hảo tương hợp, tu luyện tại đây thật sự thoải mái.</Desc>
+			<StoryDesc>Đang cảm thấy như cá gặp nước vì nơi tu luyện ngũ hành hoàn hảo.</StoryDesc>
+		</Text>
+		<Text Name="PracticeElement2">
+			<DisplayName>Ngũ hành hài hòa.</DisplayName>
+			<Desc>Nơi này khí ngũ hành và công pháp của ta hài hòa, là một địa điểm tu luyện khá tốt.</Desc>
+			<StoryDesc>Đang cảm thấy thoải mái vì nơi tu luyện ngũ hành hài hòa.</StoryDesc>
+		</Text>
+		<Text Name="PracticeElement3">
+			<DisplayName>Ngũ hành bài xích.</DisplayName>
+			<Desc>Nơi này ngũ hành và công pháp ta tu luyện xung khắc, ngồi thiền tại đây khí tức không ổn định.</Desc>
+			<StoryDesc>Đang cảm thấy bực bội vì nơi tu luyện ngũ hành bài xích.</StoryDesc>
+		</Text>
+		<Text Name="PracticeElement4">
+			<DisplayName>Ngũ hành tương khắc.</DisplayName>
+			<Desc>Nơi này ngũ hành và ta tương khắc, không nên lưu lại lâu.</Desc>
+			<StoryDesc>Đang cảm thấy tâm ma sinh sôi vì nơi tu luyện ngũ hành bài xích.</StoryDesc>
+		</Text>
+	</List>
+</Texts>
+

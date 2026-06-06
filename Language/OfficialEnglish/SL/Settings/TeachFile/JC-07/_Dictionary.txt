@@ -1,0 +1,55 @@
+仓库	Kho
+房间	Phòng
+狼皮休闲衣衫	Áo Giải Trí Da Sói
+狼皮修行下裳	Tu Hành Hạ Thường Da Sói
+黄布修行衣衫	Áo tu hành hoàng bố
+白布修行下裳	Tu Hành Hạ Thường Vải trắng
+肉干	Thịt khô
+灵石墙	Linh thạch tường
+灵石门	Môn Linh thạch
+灵石床	Linh thạch
+灵石制药桌	Linh thạch Chế Dược Trang
+公兔子	Thỏ đực
+母鸡	Gà mái
+公鸡	Gà trống
+雄龟	Rùa đực
+雌龟	Rùa cái
+雌青蛙	Ếch cái
+雄青蛙	Ếch đực
+<font color=MYCOLOR>空鹏云</font>舔了下嘴唇。	<font color=MYCOLOR>Bằng Vân</font> liếm môi.
+1天 08:10	1 ngày 08:10
+<font color=MYCOLOR>空鹏云</font>看着旁边的<font color=OBJCOLOR>野草</font>笑起来。	<font color=MYCOLOR>Không Bằng Vân</font> nhìn bên cạnh <font color=OBJCOLOR>cỏ dại</font> cười.
+1天 12:38	1 ngày 12:38
+空	Không
+鹏云	Bằng Vân
+惊魂初定	Hồn phách ổn định
+野外的水	Nước từ tự nhiên
+胜	Thắng
+郏	Giáp
+凡白	Phàm Bạch
+乌	Ô
+乐	Nhạc
+<font color=MYCOLOR>越心</font>哼起了小曲。	<font color=MYCOLOR>Việt Tâm</font> ngâm nga bài hát nhỏ.
+1天 12:53	1 ngày 12:53
+越	Việt
+心	Tim
+光赫	Quang Hách
+邱	Khâu
+念芹	Niệm Cần
+存档写入完成	Hoàn tất ghi lưu trữ
+食物储量不足	Dự trữ thực phẩm không đủ
+药物储量不足	Dự trữ thuốc không đủ
+越心感到危险	Việt Tâm cảm thấy nguy hiểm
+鬼手纲要	Cương yếu Quỷ Thủ
+曳影宝典	Dạ Ảnh Bảo Điển
+少量的	Một chút
+迅击	Tấn Kích
+迅影	Tấn Ảnh
+气摄	Khí Nhiếp
+化伤术	Hóa Thương Thuật
+大衍神算	Đại Diễn Thần Toán
+天道神丹	Thiên Đạo Thần Đan
+天道神器	Thiên Đạo Thần Khí
+化形神农	Hóa Hình Thần Nông
+
+

@@ -1,0 +1,23 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Panda_1">
+			<Prefix>Hỗn Nguyên</Prefix>
+			<Suffix>Thân</Suffix>
+			<Desc>Bí thể truyền thừa trong huyết mạch Mặc Yêu thượng cổ, dùng lực Âm Dương rèn luyện thân thể, hợp nhất chân khí toàn thân, hợp hình mà va chạm, vạn vật đều tan nát.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh uy lực bí thể từ gốc rễ\nTăng nhẹ tỷ lệ xuyên thủng linh khí hộ thuẫn của bí thể.</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh uy lực bí thể từ gốc rễ\nTăng trung bình tỷ lệ xuyên thủng linh khí hộ thuẫn của bí thể.</Levels.1.Desc>
+		</Text>
+		<Text Name="SuperPart_Panda_2">
+			<Prefix>Âm Dương</Prefix>
+			<Suffix>Bão</Suffix>
+			<Desc>Bí thể truyền thừa trong huyết mạch Mặc Yêu thượng cổ, cực kỳ giỏi trấn áp pháp bảo. Dùng lực âm rèn luyện cánh tay trái, lực dương rèn luyện cánh tay phải, vận hành lực Âm Dương hai cánh tay như cối xay trời đất nghiền nát kẻ địch thành bột mịn.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh uy lực bí thể từ gốc rễ\nTăng mạnh tỷ lệ trấn áp pháp bảo của bí thể.</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh uy lực bí thể từ gốc rễ\nTăng cực mạnh tỷ lệ trấn áp pháp bảo của bí thể.</Levels.1.Desc>
+		</Text>
+	</List>
+</Texts>
+

@@ -1,0 +1,191 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BodyPratice_BodyRecover">
+			<DisplayName>Tỷ Lệ Tự Phục Hồi Cơ Thể Luyện Thể.</DisplayName>
+			<Desc>Tốc độ tự phục hồi cơ thể của luyện thể sau khi bị thương.</Desc>
+			<DisplayValue>{0:P2}/giây.</DisplayValue>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_MaxZhenQi">
+			<DisplayName>Giá Trị Tối Đa Chân Khí.</DisplayName>
+			<Desc>Giá trị tối đa chân khí của luyện thể.</Desc>
+			<FunctionKind>Thuộc Tính Tu Luyện.</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_RecoverZhenQi">
+			<DisplayName>Giá Trị Cơ Bản Tốc Độ Phục Hồi Chân Khí.</DisplayName>
+			<Desc>Tốc độ phục hồi chân khí cơ bản của luyện thể.</Desc>
+			<FunctionKind>Thuộc Tính Tu Luyện.</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_DefenseRecoverZhenQi">
+			<DisplayName>Tốc Độ Phục Hồi Khi Ở Trạng Thái Hồi Khí.</DisplayName>
+			<Desc>Tỷ lệ phục hồi chân khí mỗi giây của luyện thể khi chân khí cạn kiệt trong trạng thái lực kiệt.</Desc>
+			<FunctionKind>Thuộc tính chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_CatchFaboValue">
+			<DisplayName>Tỷ Lệ Tiêu Hao Chân Khí Khi Trấn Áp Pháp Bảo.</DisplayName>
+			<Desc>Mức độ chân khí tiêu hao thêm của luyện thể khi trấn áp pháp bảo.</Desc>
+			<FunctionKind>Thuộc tính chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_BodyStrong">
+			<DisplayName>Hệ Số Cơ Thể Mạnh Mẽ.</DisplayName>
+			<Desc>Khả năng chịu đựng tổn thương của cơ thể luyện thể. Cơ thể càng mạnh mẽ, càng không dễ chết do bị thương.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_QuenchingSpeed">
+			<DisplayName>Tốc Độ Tẩy Luyện Thể.</DisplayName>
+			<Desc>Tốc độ tẩy luyện cơ thể của luyện thể.</Desc>
+			<FunctionKind>Thuộc Tính Tu Luyện.</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAtk_EquptMaxCount">
+			<DisplayName>Số Lượng Bí Thể Tấn Công Được Kích Hoạt.</DisplayName>
+			<Desc>Số lượng tối đa bí thể tấn công có thể được kích hoạt đồng thời của luyện thể.</Desc>
+			<FunctionKind>Thuộc Tính Tu Luyện.</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartDef_EquptMaxCount">
+			<DisplayName>Số Lượng Bí Thể Phòng Thủ Được Kích Hoạt.</DisplayName>
+			<Desc>Số lượng tối đa bí thể phòng thủ có thể được kích hoạt đồng thời của luyện thể.</Desc>
+			<FunctionKind>Thuộc Tính Tu Luyện.</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartBuff_EquptMaxCount">
+			<DisplayName>Số Lượng Bí Thể Hiệu Quả Được Kích Hoạt.</DisplayName>
+			<Desc>Số lượng tối đa bí thể hiệu quả có thể được kích hoạt đồng thời của luyện thể.</Desc>
+			<FunctionKind>Thuộc Tính Tu Luyện.</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_Other_TunaAddp">
+			<DisplayName>Hiệu Suất Tẩy Luyện Thêm.</DisplayName>
+			<Desc>Hiệu suất tẩy luyện để thu tinh hoa của luyện thể.</Desc>
+			<FunctionKind>Thuộc Tính Tu Luyện.</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_SuperPartCostAddP">
+			<DisplayName>Tốc Độ Tiêu Hao Chân Khí Của Bí Thể.</DisplayName>
+			<Desc>Tốc độ tiêu hao chân khí của tất cả bí thể đang được kích hoạt.</Desc>
+			<FunctionKind>Thuộc tính chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_SuperPartRecoverAddP">
+			<DisplayName>Tốc Độ Phục Hồi Chân Khí Của Bí Thể.</DisplayName>
+			<Desc>Tốc độ phục hồi chân khí của tất cả bí thể đang được kích hoạt.</Desc>
+			<FunctionKind>Thuộc tính chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddp_AtkPower">
+			<DisplayName>Tăng Uy Lực Toàn Cục Của Bí Thể.</DisplayName>
+			<Desc>Tăng uy lực của tất cả bí thể đang được kích hoạt.</Desc>
+			<FunctionKind>Thuộc tính chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddp_DefPower">
+			<DisplayName>Tăng Độ Bền Toàn Cục Của Bí Thể.</DisplayName>
+			<Desc>Tăng độ bền của tất cả bí thể đang được kích hoạt.</Desc>
+			<FunctionKind>Thuộc tính chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddp_AtkRate">
+			<DisplayName>Tăng Tỷ Lệ Đánh Trúng Toàn Cục Của Bí Thể.</DisplayName>
+			<Desc>Tăng tỷ lệ đánh trúng của tất cả bí thể đang được kích hoạt.</Desc>
+			<FunctionKind>Thuộc tính chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddp_DefRate">
+			<DisplayName>Tăng Tỷ Lệ Phòng Thủ Thành Công Toàn Cục Của Bí Thể.</DisplayName>
+			<Desc>Tăng tỷ lệ phòng thủ thành công của tất cả bí thể đang được kích hoạt.</Desc>
+			<FunctionKind>Thuộc tính chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddp_ArmorPenetration">
+			<DisplayName>Tăng Tỷ Lệ Xuyên Thủng Hộ Thuẫn Linh Khí Toàn Cục Của Bí Thể.</DisplayName>
+			<Desc>Tăng tỷ lệ xuyên thủng hộ thuẫn linh khí của tất cả bí thể đang được kích hoạt.</Desc>
+			<FunctionKind>Thuộc tính chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddp_CatchFabao">
+			<DisplayName>Tăng Tỷ Lệ Trấn Áp Pháp Bảo Toàn Cục Của Bí Thể.</DisplayName>
+			<Desc>Tăng tỷ lệ trấn áp pháp bảo của tất cả bí thể đang được kích hoạt.</Desc>
+			<FunctionKind>Thuộc tính chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddv_AtkPower">
+			<DisplayName>Giá Trị Tăng Uy Lực Toàn Cục Của Bí Thể.</DisplayName>
+			<Desc>Giá trị tăng uy lực của tất cả bí thể đang được kích hoạt.</Desc>
+			<FunctionKind>Thuộc tính chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddv_DefPower">
+			<DisplayName>Giá Trị Tăng Độ Bền Toàn Cục Của Bí Thể.</DisplayName>
+			<Desc>Giá trị tăng độ bền của tất cả bí thể đang được kích hoạt.</Desc>
+			<FunctionKind>Thuộc tính chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddv_AtkRate">
+			<DisplayName>Giá Trị Tăng Tỷ Lệ Đánh Trúng Toàn Cục Của Bí Thể.</DisplayName>
+			<Desc>Giá trị tăng tỷ lệ đánh trúng của tất cả bí thể đang được kích hoạt.</Desc>
+			<FunctionKind>Thuộc tính chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddv_DefRate">
+			<DisplayName>Giá Trị Tăng Tỷ Lệ Phòng Thủ Thành Công Toàn Cục Của Bí Thể.</DisplayName>
+			<Desc>Giá trị tăng tỷ lệ phòng thủ thành công của tất cả bí thể đang được kích hoạt.</Desc>
+			<FunctionKind>Thuộc tính chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddv_ArmorPenetration">
+			<DisplayName>Giá Trị Tăng Tỷ Lệ Xuyên Thủng Hộ Thuẫn Linh Khí Toàn Cục Của Bí Thể.</DisplayName>
+			<Desc>Tỷ lệ xuyên thấu của lá chắn linh khí từ tất cả các bí thể đang kích hoạt.</Desc>
+			<FunctionKind>Thuộc tính chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddv_CatchFabao">
+			<DisplayName>Tăng tỷ lệ trấn áp pháp bảo của bí thể toàn cục.</DisplayName>
+			<Desc>Tăng tỷ lệ trấn áp pháp bảo của tất cả các bí thể đang kích hoạt.</Desc>
+			<FunctionKind>Thuộc tính chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_AngerFireNum">
+			<DisplayName>Số lượng ký ức tối đa của hồi ức đau khổ.</DisplayName>
+			<Desc>Số lượng ký ức tối đa mà người luyện thể có thể ghi lại trong hồi ức đau khổ.</Desc>
+			<FunctionKind>Thuộc tính chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_AngerFireDuration">
+			<DisplayName>Thời gian duy trì của cơn giận dữ điên cuồng.</DisplayName>
+			<Desc>Thời gian duy trì khi người luyện thể kích phát cơn giận dữ điên cuồng.</Desc>
+			<DisplayValue>{0:N} giây</DisplayValue>
+			<FunctionKind>Thuộc tính chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_AngerFireEffectAddp">
+			<DisplayName>Hiệu suất của cơn giận dữ điên cuồng.</DisplayName>
+			<Desc>Cường độ hiệu quả khi người luyện thể kích phát cơn giận dữ điên cuồng.</Desc>
+			<FunctionKind>Thuộc tính chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_EatItemMaxRate">
+			<DisplayName>Cấp bậc cao nhất của vật phẩm có thể nuốt chửng.</DisplayName>
+			<Desc>Cấp bậc cao nhất của vật phẩm mà người luyện thể có thể nuốt chửng.</Desc>
+			<DisplayValue>{0:N} cấp</DisplayValue>
+			<FunctionKind>Thuộc Tính Tu Luyện.</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_EatItemProduceCountAddp">
+			<DisplayName>Tỷ lệ tăng số lượng tinh hoa nhận được sau khi nuốt chửng.</DisplayName>
+			<Desc>Tỷ lệ tăng số lượng tinh hoa nhận được sau khi người luyện thể nuốt chửng vật phẩm.</Desc>
+			<FunctionKind>Thuộc Tính Tu Luyện.</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_EatItemProduceRateAddp">
+			<DisplayName>Tỷ lệ tăng cơ hội nhận được tinh hoa sau khi nuốt chửng.</DisplayName>
+			<Desc>Tỷ lệ tăng khả năng nhận được tinh hoa hiếm sau khi người luyện thể nuốt chửng vật phẩm.</Desc>
+			<FunctionKind>Thuộc Tính Tu Luyện.</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_RollAddtion_Cache1">
+			<DisplayName>Tăng tỷ lệ xuất hiện hướng tiến hóa hiếm khi tinh luyện.</DisplayName>
+			<Desc>Tỷ lệ tăng khả năng xuất hiện hướng tiến hóa hiếm khi người luyện thể tinh luyện cơ thể.</Desc>
+			<FunctionKind>Thuộc Tính Tu Luyện.</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_RollAddtion_Cache2">
+			<DisplayName>Tăng tỷ lệ xuất hiện hướng tiến hóa hiếm có.</DisplayName>
+			<Desc>Tỷ lệ tăng khả năng xuất hiện hướng tiến hóa hiếm có khi người luyện thể tinh luyện cơ thể.</Desc>
+			<FunctionKind>Thuộc Tính Tu Luyện.</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_RollAddtion_Cache3">
+			<DisplayName>Tăng tỷ lệ xuất hiện hướng tiến hóa siêu phàm.</DisplayName>
+			<Desc>Tỷ lệ tăng khả năng xuất hiện hướng tiến hóa siêu phàm khi người luyện thể tinh luyện cơ thể.</Desc>
+			<FunctionKind>Thuộc Tính Tu Luyện.</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_RollAddtion_Cache4">
+			<DisplayName>Tăng tỷ lệ xuất hiện hướng tiến hóa sử thi.</DisplayName>
+			<Desc>Tỷ lệ tăng khả năng xuất hiện hướng tiến hóa sử thi khi người luyện thể tinh luyện cơ thể.</Desc>
+			<FunctionKind>Thuộc Tính Tu Luyện.</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_RollAddtion_Null">
+			<DisplayName>Tăng tỷ lệ thất bại khi tinh luyện.</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_MaxFoodAddtion">
+			<DisplayName>Tăng giá trị tối đa của độ no.</DisplayName>
+			<Desc>Tăng giá trị tối đa của độ no mà người luyện thể có thể đạt được.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
+		</Text>
+	</List>
+</Texts>
+

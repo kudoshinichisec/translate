@@ -1,0 +1,21 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="DanXiaA">
+			<IVNUMBER.0.Animal.DisplayName>Chuồng hổ</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Bên trong có một con hổ kỳ khai trí, được môn phái định hướng bồi dưỡng để sở hữu suy nghĩ liên quan đến điều khiển pháp khí.</IVNUMBER.0.Animal.Tip>
+		</Text>
+		<Text Name="DanXiaAL">
+			<IVNUMBER.0.Animal.DisplayName>Chuồng hổ sơ sài</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Bên trong có một con hổ kỳ khai trí, sở hữu linh trí về nỗi sợ.</IVNUMBER.0.Animal.Tip>
+			<IVNUMBER.1.Animal.DisplayName>Chuồng hổ sơ sài</IVNUMBER.1.Animal.DisplayName>
+			<IVNUMBER.1.Animal.Tip>Bên trong có một con hổ kỳ khai trí, sở hữu linh trí về nỗi nhớ.</IVNUMBER.1.Animal.Tip>
+			<IVNUMBER.2.Animal.DisplayName>Chuồng hổ sơ sài</IVNUMBER.2.Animal.DisplayName>
+			<IVNUMBER.2.Animal.Tip>Bên trong có một con hổ kỳ khai trí, sở hữu linh trí về niềm vui.</IVNUMBER.2.Animal.Tip>
+			<IVNUMBER.3.Animal.DisplayName>Chuồng hổ sơ sài</IVNUMBER.3.Animal.DisplayName>
+			<IVNUMBER.3.Animal.Tip>Bên trong có một con hổ kỳ khai trí, sở hữu linh trí về sự giận dữ.</IVNUMBER.3.Animal.Tip>
+			<IVNUMBER.4.Animal.DisplayName>Chuồng hổ sơ sài</IVNUMBER.4.Animal.DisplayName>
+			<IVNUMBER.4.Animal.Tip>Bên trong có một con hổ kỳ khai trí, sở hữu linh trí về nỗi lo.</IVNUMBER.4.Animal.Tip>
+		</Text>
+	</List>
+</Texts>
+

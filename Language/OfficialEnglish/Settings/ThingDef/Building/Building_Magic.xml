@@ -1,0 +1,80 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="FengShui" sParam="Building">
+			<ThingName>Đài Quan Tinh</ThingName>
+			<Desc>Công trình dùng để quan sát phong thủy ngũ hành và sự phân bố linh khí.</Desc>
+		</Text>
+		<Text Name="TheGate" sParam="Building">
+			<ThingName>Bia đá môn phái</ThingName>
+			<Desc>Bia đá biểu tượng của môn phái.</Desc>
+		</Text>
+		<Text Name="Build_TheBigGate" sParam="Building">
+			<ThingName>Cổng chính môn phái</ThingName>
+			<Desc>Cổng chính biểu tượng của môn phái, uy nghiêm và trang trọng.</Desc>
+		</Text>
+		<Text Name="Cushion" sParam="Building">
+			<ThingName>Bồ đoàn</ThingName>
+			<Desc>Một tấm đệm ngồi mềm mại.</Desc>
+		</Text>
+		<Text Name="Building_MagicCushion" sParam="Building">
+			<ThingName>Pháp tọa</ThingName>
+			<Desc>Pháp tọa chuyên dụng cho tu luyện, có thể tụ linh khí.</Desc>
+		</Text>
+		<Text Name="BasePracticePlace" sParam="Building">
+			<ThingName>Điểm luyện công</ThingName>
+			<Desc>Không cần nguyên liệu chế tạo, chỉ cần chỉ định một địa điểm để đệ tử ngoại môn luyện tập quyền cước.</Desc>
+		</Text>
+		<Text Name="PuppetPlace" sParam="Building">
+			<ThingName>Điểm đỗ khôi lỗi</ThingName>
+			<Desc>Khi không có công việc, khôi lỗi sẽ quay về đây chờ đợi.</Desc>
+		</Text>
+		<Text Name="TrainingDummy" sParam="Building">
+			<ThingName>Cọc giả nhân</ThingName>
+			<Desc>Dụng cụ giúp đệ tử ngoại môn rèn luyện quyền cước và xây dựng nền tảng.</Desc>
+		</Text>
+		<Text Name="ExploreBackPlace" sParam="Building">
+			<ThingName>Điểm trở về sau lịch luyện</ThingName>
+			<Desc>Sau khi trở về từ lịch luyện, đệ tử nội môn sẽ ưu tiên đặt thu hoạch gần đây.</Desc>
+		</Text>
+		<Text Name="Building_Statue1" sParam="Building">
+			<ThingName>Tượng Đạo Đức Thiên Tôn</ThingName>
+			<Desc>Tượng khổng lồ của Đạo Đức Thiên Tôn.</Desc>
+		</Text>
+		<Text Name="Building_Statue2" sParam="Building">
+			<ThingName>Tượng Nguyên Thủy Thiên Tôn</ThingName>
+			<Desc>Tượng khổng lồ của Nguyên Thủy Thiên Tôn.</Desc>
+		</Text>
+		<Text Name="Building_Statue3" sParam="Building">
+			<ThingName>Tượng Linh Bảo Thiên Tôn</ThingName>
+			<Desc>Tượng khổng lồ của Linh Bảo Thiên Tôn.</Desc>
+		</Text>
+		<Text Name="Building_SacrificialTable" sParam="Building">
+			<ThingName>Bài vị Tổ Sư</ThingName>
+			<Desc>Bài vị thờ cúng Tổ Sư.</Desc>
+		</Text>
+		<Text Name="DanStove" sParam="Building">
+			<ThingName>Lò đan</ThingName>
+			<Desc>Môi trường tốt nhất để luyện chế đan dược.</Desc>
+		</Text>
+		<Text Name="DanStove_Part" sParam="Building">
+			<ThingName>Bộ phận lò đan (hệ thống sử dụng)</ThingName>
+		</Text>
+		<Text Name="RefiningCushion" sParam="Building">
+			<ThingName>Đài luyện bảo</ThingName>
+			<Desc>Môi trường tốt nhất để luyện chế pháp bảo.</Desc>
+		</Text>
+		<Text Name="Building_SleeveSpace" sParam="Building">
+			<ThingName>Tiểu Càn Khôn Giới</ThingName>
+			<Desc>Một tiểu thế giới không ổn định được mở ra bằng sức mạnh không gian của Linh Tinh Càn Khôn, kết hợp với bảo vật ngũ hành. Có thể lưu trữ vật phẩm bên trong, nhưng do không gian không ổn định, chỉ có thể chứa những vật phẩm bình thường ổn định. Nếu không có thể gây sụp đổ không gian bên trong.</Desc>
+			<StoryBnts.0.Name>Thu thập</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thu thập tất cả vật phẩm không nằm trong sương mù và không bị cấm trên bản đồ vào Tiểu Càn Khôn Giới.</StoryBnts.0.Desc>
+			<StoryBnts.1.Name>Khám phá</StoryBnts.1.Name>
+			<StoryBnts.1.Desc>Sử dụng thần niệm để khám phá sự huyền diệu của Tiểu Càn Khôn Giới.</StoryBnts.1.Desc>
+		</Text>
+		<Text Name="Building_SleeveSpace1" sParam="Building">
+			<ThingName>Tiểu Càn Khôn Giới-Cổng</ThingName>
+			<Desc>Một cổng nhỏ của Tiểu Càn Khôn Giới, có thể thông qua vật này để giao tiếp với Tiểu Càn Khôn Giới, lấy đồ vật.</Desc>
+		</Text>
+	</List>
+</Texts>
+

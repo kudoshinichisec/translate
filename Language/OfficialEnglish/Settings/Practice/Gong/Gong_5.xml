@@ -1,0 +1,27 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_5_Tu">
+			<DisplayName>Thâu Thiên Quyết</DisplayName>
+			<Desc>Ngàn năm trước tuyệt địa thiên thông, linh khí nhân giới gần như cạn kiệt, không còn hy vọng thành tiên. Trong tuyệt cảnh, một người tu hành thiên tư tuyệt diễm đã khai sáng pháp môn này. Pháp môn này không phụ thuộc vào môi trường, lấy tiềm năng sinh mệnh làm cái giá để đột phá cảnh giới, vì vậy chỉ người có thể chất trời sinh mạnh mẽ mới có thể tu hành, và cần các loại thiên tài địa bảo để kéo dài tuổi thọ mới có một tia hy vọng thành tiên.</Desc>
+			<SelectDesc>Công pháp này sở trường về thuật phòng ngự, khi điều kiện phẩm cấp Kim Đan được thỏa mãn, việc đột phá chắc chắn thành công, chỉ là trong quá trình tu luyện cần tiêu hao nhiều tuổi thọ. Có muốn lựa chọn tu luyện công pháp này không?</SelectDesc>
+			<Stages.0.DisplayName>Hóa Huyết Kỳ</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Hóa Huyết</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.1.DisplayName>Ngưng Khí</Stages.0.Necks.1.DisplayName>
+			<Stages.1.DisplayName>Xả Thân Kỳ</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Xả Thân</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.1.DisplayName>Bách Luyện</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.2.DisplayName>Ngưng Đan</Stages.1.Necks.2.DisplayName>
+			<Stages.2.DisplayName>Hoán Cốt Kỳ</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Hoán Cốt</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Bất Đọa</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Nguyên Anh</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>Nhiên Hồn Kỳ</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Nhiên Hồn</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Phần Niệm</Stages.3.Necks.1.DisplayName>
+			<Stages.4.DisplayName>Phá Phủ Kỳ</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Phá Phủ</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Phi thăng</Stages.4.Necks.1.DisplayName>
+		</Text>
+	</List>
+</Texts>
+

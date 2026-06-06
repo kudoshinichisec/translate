@@ -1,0 +1,22 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="YinChaos">
+			<DisplayName>Đêm vĩnh cửu (Kỳ Thạch Âm Dương)</DisplayName>
+		</Text>
+		<Text Name="Hotpot_Heat">
+			<DisplayName>Sóng nhiệt (Miệng Địa Phế)</DisplayName>
+			<StoryDesc>Miệng Địa Phế gần đây không ổn định, liên tục phun ra sóng nhiệt.</StoryDesc>
+		</Text>
+		<Text Name="ColdHole_Cold">
+			<DisplayName>Hơi lạnh (Lò Đan Băng Huyền)</DisplayName>
+			<StoryDesc>Lò Đan Băng Huyền không ổn định, hơi lạnh liên tục phun ra từ đó.</StoryDesc>
+		</Text>
+		<Text Name="Lightning_DragonHole">
+			<DisplayName>Sấm sét (Hang động bí ẩn)</DisplayName>
+		</Text>
+		<Text Name="DustStorm_Dimu">
+			<DisplayName>Bão bụi (Bia Đá Địa Mẫu)</DisplayName>
+		</Text>
+	</List>
+</Texts>
+

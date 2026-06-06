@@ -1,0 +1,41 @@
+ID	Name	Des	InitialKey1	InitialKey2	IgnoreCombinationkeys	Lock	Type
+Function ID	功能名称	功能描述	快捷键组1	快捷键组2	忽略组合键冲突	锁定，玩家不可修改	Loại hình
+Up	Lên		W	UpArrow	LeftAlt+LeftShift+LeftControl+RightAlt+RightShift+RightControl		Người chơi
+down	Xuống		S	DownArrow	LeftAlt+LeftShift+LeftControl+RightAlt+RightShift+RightControl		Người chơi
+left	Trái		A	LeftArrow	LeftAlt+LeftShift+LeftControl+RightAlt+RightShift+RightControl		Người chơi
+right	Phải		D	RightArrow	LeftAlt+LeftShift+LeftControl+RightAlt+RightShift+RightControl		Người chơi
+GamePauseOrPlay	Tương tác với vật phẩm		E				Người chơi
+SwitchPlayer	Chuyển đổi đội trưởng		LeftControl				Người chơi
+SearchPanel	Chuyển đổi đối tượng		Tab				Người chơi
+37	Bản đồ nhỏ		Comma				Giao diện
+Interact1	Tùy chọn tương tác 1		F1				Tương tác
+Interact2	Tùy chọn tương tác 2		F2				Tương tác
+Interact3	Tùy chọn tương tác 3		F3				Tương tác
+Interact4	Tùy chọn tương tác 4		F4				Tương tác
+Interact5	Tùy chọn tương tác 5		F5				Tương tác
+Interact6	Tùy chọn tương tác 6		F6				Tương tác
+Interact7	Tùy chọn tương tác 7		F7				Tương tác
+Interact8	Tùy chọn tương tác 8		F8				Tương tác
+Interact9	Tùy chọn tương tác 9		F9				Tương tác
+Interact10	Tùy chọn tương tác 10		F10				Tương tác
+Interact11	Tùy chọn tương tác 11		F11				Tương tác
+Interact12	Tùy chọn tương tác 12		F12				Tương tác
+Miracle1	Kỹ năng 1		Alpha1				Kỹ năng
+Miracle2	Kỹ năng 2		Alpha2				Kỹ năng
+Miracle3	Kỹ năng 3		Alpha3				Kỹ năng
+Miracle4	Kỹ năng 4		Alpha4				Kỹ năng
+Miracle5	Kỹ năng 5		Alpha5				Kỹ năng
+Miracle6	Kỹ năng 6		Alpha6				Kỹ năng
+Miracle7	Kỹ năng 7		Alpha7				Kỹ năng
+Miracle8	Kỹ năng 8		Alpha8				Kỹ năng
+Miracle9	Kỹ năng 9		Alpha9				Kỹ năng
+Miracle10	Kỹ năng 10		Alpha0				Kỹ năng
+MiraclePrevPage	Trang trước bảng kỹ năng		Minus				Kỹ năng
+MiracleNextPage	Trang sau bảng kỹ năng		Equals				Kỹ năng
+Flying	Chuyển đổi trạng thái bay		Space		LeftAlt+LeftShift+LeftControl+RightAlt+RightShift+RightControl		Người chơi
+Attack	Chọn đối tượng tấn công		BackQuote				Người chơi
+Sprint	Tăng tốc		LeftShift				Người chơi
+Story9	Ẩn/Hiện giao diện		F11				Hệ thống
+StopJob	Ngắt hành động	Ngắt quãng hành động hiện tại, một số hành động không thể ngắt quãng.	LeftAlt+S				Người chơi
+
+

@@ -1,0 +1,37 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Grass" sParam="Plant">
+			<ThingName>Cỏ dại</ThingName>
+			<Desc>Cỏ dại</Desc>
+		</Text>
+		<Text Name="IceGrass" sParam="Plant">
+			<ThingName>Cỏ băng</ThingName>
+			<Desc>Cỏ dại mọc trên đồng băng.</Desc>
+		</Text>
+		<Text Name="Reed" sParam="Plant">
+			<ThingName>Cây sậy</ThingName>
+			<Desc>Loại cây mọc ở ven nước, hình dáng đẹp.</Desc>
+		</Text>
+		<Text Name="LongGrass" sParam="Plant">
+			<ThingName>Cỏ dài</ThingName>
+			<Desc>Cỏ dại</Desc>
+		</Text>
+		<Text Name="Raspberry" sParam="Plant">
+			<ThingName>Long Tiên Quả</ThingName>
+			<Desc>Quả dại được tưới bởi nước long tiên, quả có linh tính kỳ lạ, ăn vào có thể không đói và không mệt trong nửa ngày. Nhưng khi hái xuống sẽ nhanh chóng hỏng.</Desc>
+		</Text>
+		<Text Name="Lotus" sParam="Plant">
+			<ThingName>Sen</ThingName>
+			<Desc>Loại thực vật thủy sinh, hình dáng đẹp. Rễ và thân có thể ăn được.</Desc>
+		</Text>
+		<Text Name="LittleRock" sParam="Plant">
+			<ThingName>Tảng đá nhỏ</ThingName>
+			<Desc>Những mảnh đá nhỏ rải rác trên mặt đất.</Desc>
+		</Text>
+		<Text Name="IceLittleRock" sParam="Plant">
+			<ThingName>Đá băng nhỏ</ThingName>
+			<Desc>Những mảnh đá nhỏ rải rác trên mặt đất.</Desc>
+		</Text>
+	</List>
+</Texts>
+

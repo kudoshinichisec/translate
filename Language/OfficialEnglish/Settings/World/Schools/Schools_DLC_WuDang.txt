@@ -1,0 +1,5 @@
+ID	Name	Desc	Level	Rank	Gong	Miji	GLevel	GrandMaster	BasePower	UnLockBuilding	ZhenInfo	ZhenName	Race
+499后不可用	门派名字	介绍	Cấp độ môn phái: 1 Trại 2 Phái 3 Động Thiên	Chính-tà 0: Không rõ  1,-1: Vừa chính vừa tà  2~4: Chính  -2~-4: Tà	门派功法 随便填 没实体	Bí Truyền môn phái	Cảnh giới trung bình	祖师	Thực lực cơ bản	Công trình mở khóa sau chinh phục	Thông tin Trận pháp	Tên trận pháp	Chủng tộc, mặc định RANDOM là chủng tộc ngẫu nhiên, RANDOMYAOGUAI là yêu quái ngẫu nhiên
+13	Phái Võ Đang	Trên biển Đông, một ngọn núi tiên diệu kỳ bỗng xuất hiện trong giới tu hành. Thỉnh thoảng có tu sĩ vào trong khám phá, bất ngờ phát hiện nơi đây chính là một vùng tiên cảnh đã thất lạc từ lâu, nơi ẩn náu của một phái đạo môn tránh đời! Đạo thống của phái này không phải tầm thường, là truyền thừa chính thống của Trần Vũ; các đệ tử dưới trướng truyền thụ những huyền diệu, thu được tinh nghĩa của việc diệt ma. Tiên cảnh này được gọi là: Ngọc Đỉnh Sơn!			Huyền Thiên Chân Vũ Lưỡng Nghĩa Diệu Đạo			Trân Vũ Đại Đế				Huyền Thiên Chân Vũ Đãng Ma Đại Trận	
+
+
