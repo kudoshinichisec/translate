@@ -9,8 +9,8 @@
 			<DisplayName>Taizhong</DisplayName>
 			<Desc>Cứ mỗi 10/50/100 ngày, kích hoạt 1 lần Thiên Ma Hỗn Độn cuồng loạn/Âm Dương/bất biến.</Desc>
 			<Trigger.Time.Days.0.Extent.Desc>Theo dòng thời gian, một số thay đổi đã xảy ra trong thiên hạ..</Trigger.Time.Days.0.Extent.Desc>
-			<Trigger.Time.Days.1.Extent.Desc>As time passes, this world has undergone changes..</Trigger.Time.Days.1.Extent.Desc>
-			<Trigger.Time.Days.2.Extent.Desc>As time passes, this world undergoes drastic changes...</Trigger.Time.Days.2.Extent.Desc>
+			<Trigger.Time.Days.1.Extent.Desc>Thời gian trôi qua, thế giới này đã có biến đổi..</Trigger.Time.Days.1.Extent.Desc>
+			<Trigger.Time.Days.2.Extent.Desc>Thời gian trôi qua, thế giới này biến đổi mạnh mẽ...</Trigger.Time.Days.2.Extent.Desc>
 		</Text>
 		<Text Name="Mutation_TaiZhen">
 			<DisplayName>Taizhen</DisplayName>

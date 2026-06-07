@@ -67,7 +67,7 @@
 			<PeferEnvironment.Desc>Thích ở ngoài trời. Ghét bất kỳ loài động vật nào khác.\n</PeferEnvironment.Desc>
 		</Text>
 		<Text Name="Cattle">
-			<NaiveTalk>Moo moo moo, moo moo!</NaiveTalk>
+			<NaiveTalk>Ụm bò ụm bò, ụm bò!</NaiveTalk>
 			<PeferEnvironment.PlantDesc>Thích có cỏ dài ở gần</PeferEnvironment.PlantDesc>
 			<PeferEnvironment.LightDesc>Thích ở ngoài trời</PeferEnvironment.LightDesc>
 			<PeferEnvironment.LiveDesc>Ghét bất kỳ động vật ăn thịt nào</PeferEnvironment.LiveDesc>

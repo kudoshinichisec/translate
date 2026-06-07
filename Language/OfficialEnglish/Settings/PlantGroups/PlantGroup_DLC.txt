@@ -1,4 +1,4 @@
 Group	Area	Name
-所属组	Belonging Area	Plant Name
+所属组	Khu vực thuộc về	Plant Name
 
 

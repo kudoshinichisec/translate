@@ -1,7 +1,7 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Panda">
-			<NaiveTalk>Eng eng eng, eng eng!</NaiveTalk>
+			<NaiveTalk>Ếch ộp ếch ộp, ếch ộp!</NaiveTalk>
 			<PeferEnvironment.PlantDesc>Thích có tre ở gần</PeferEnvironment.PlantDesc>
 			<PeferEnvironment.LightDesc>Thích ở ngoài trời</PeferEnvironment.LightDesc>
 			<PeferEnvironment.LiveDesc>Chỉ thích đồng loại</PeferEnvironment.LiveDesc>

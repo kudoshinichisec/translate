@@ -1,6 +1,6 @@
 ID	Des	Disname
 
--1	模组丢失	模组丢失
+-1	Mất mô-đun	Mất mô-đun
 1	Ký thác một số cảm Ngộ về đạo khí vào vật này.	Đại đạo chi ngộ: Thô giản
 2	Ký thác nhiều cảm Ngộ hơn về đạo khí vào vật này.	Đại đạo chi ngộ: Tinh thâm
 3	Ký thác một số cảm Ngộ về đạo thuật vào vật này.	Đại đạo chi ngộ: Thô giản

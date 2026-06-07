@@ -21,19 +21,19 @@
 			<Desc>Tăng nguyên tố Thổ trong môi trường và tỉ lệ đột phá pháp môn Thổ.</Desc>
 		</Text>
 		<Text Name="jin_mu">
-			<Display>Lumber Booster</Display>
+			<Display>Tăng cường Đốn gỗ</Display>
 			<Desc>Tăng đáng kể tốc độ chặt cây và thu thập của đệ tử.</Desc>
 		</Text>
 		<Text Name="jin_shui">
-			<Display>Art Booster</Display>
+			<Display>Tăng cường Thủ công</Display>
 			<Desc>Tăng đáng kể tốc độ thủ nghệ và may vá của đệ tử.</Desc>
 		</Text>
 		<Text Name="jin_huo">
-			<Display>Mine Booster</Display>
+			<Display>Tăng cường Khai khoáng</Display>
 			<Desc>Tăng đáng kể sản lượng khai thác của đệ tử.</Desc>
 		</Text>
 		<Text Name="jin_tu">
-			<Display>Mine Fullness</Display>
+			<Display>Độ no Khai khoáng</Display>
 			<Desc>Tăng đáng kể thu hoạch khai thác của đệ tử.</Desc>
 		</Text>
 		<Text Name="mu_shui">
@@ -41,7 +41,7 @@
 			<Desc>Tăng đáng kể sản lượng của đệ tử môn phái và độ màu mỡ của bản đồ môn phái.</Desc>
 		</Text>
 		<Text Name="mu_huo">
-			<Display>Full Blaze</Display>
+			<Display>Bùng cháy toàn lực</Display>
 			<Desc>Tăng đáng kể tốc độ rèn luyện và nấu ăn của đệ tử môn phái.</Desc>
 		</Text>
 		<Text Name="mu_tu">

@@ -5,27 +5,27 @@
 			<Desc>Vì lý do không rõ, hỗn độn này chỉ để lại một dư vận mờ nhạt, không thể phát huy bất kỳ hiệu ứng nào.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_AnimalToMonster">
-			<DisplayName>Beast convertion</DisplayName>
-			<Desc>Dead animals may transform into monsters.</Desc>
+			<DisplayName>Thú hóa</DisplayName>
+			<Desc>Động vật chết có thể biến thành quái vật.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ElixirGas">
 			<DisplayName>Đan khí sung mãn</DisplayName>
 			<Desc>Luyện đan thành công sẽ tăng cường Đan khí Ngũ hành trong khu vực, mang lại hiệu ứng khác nhau tùy theo tỉ lệ.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_LifeLost">
-			<DisplayName>Abrupt Fate</DisplayName>
+			<DisplayName>Vận mệnh đột biến</DisplayName>
 			<Desc>Uống thuốc tạo ra ít kháng dược hơn, nhưng Tuổi thọ của nhân vật sẽ tiêu hao với tốc độ gấp 100 lần.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_AncientStoneChest">
-			<DisplayName>Deep Rock Curse</DisplayName>
+			<DisplayName>Lời nguyền Thâm Nham</DisplayName>
 			<Desc>Tăng đáng kể cơ hội đào được quan tài cổ, nhưng làm vậy sẽ giết chết đệ tử khai thác.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_LinQiSurge">
-			<DisplayName>Celestial Phenomenon Might</DisplayName>
+			<DisplayName>Uy lực Thiên tượng</DisplayName>
 			<Desc>Mỗi lần thay đổi thời tiết đều kèm theo một đợt bùng nổ Khí, nhưng thay đổi thời tiết sẽ tiêu tốn một sinh mạng.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_GoodsExpensiveButSuppliesCheaper">
-			<DisplayName>People Seek Profit</DisplayName>
+			<DisplayName>Người người trục lợi</DisplayName>
 			<Desc>Giá bán của thương nhân giảm một nửa, giá mua tăng gấp đôi, nhưng trong một chu kỳ thương nhân, hàng hóa càng mua càng đắt, vật liệu càng bán càng rẻ.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_FiveElementsRelationChange">
@@ -33,31 +33,31 @@
 			<Desc>Quan hệ tương sinh tương khắc của Ngũ hành bị đảo ngược một lần.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_CantDrawFuAndRandomFu">
-			<DisplayName>Talisman Path Collapse</DisplayName>
-			<Desc>Cannot manually draw talismans, but drawing talismans will yield random results. Characters can activate more talismans.</Desc>
+			<DisplayName>Phù lục đạo sụp đổ</DisplayName>
+			<Desc>Không thể vẽ phù lục thủ công, nhưng vẽ phù lục sẽ cho kết quả ngẫu nhiên. Nhân vật có thể kích hoạt nhiều phù lục hơn.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_RefineMustSuccess">
-			<DisplayName>Divinely Ordained Artifact</DisplayName>
+			<DisplayName>Pháp bảo Thiên mệnh</DisplayName>
 			<Desc>Luyện chế đảm bảo thành công, nhưng tiêu tốn nhiều tài nguyên hơn.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_NpcAvoidDangerAutomatically">
-			<DisplayName>Harmonious World</DisplayName>
+			<DisplayName>Thế giới hài hòa</DisplayName>
 			<Desc>Việc nhận được thiện cảm từ tu sĩ khác được tăng đáng kể, và có thể trực tiếp phá vỡ phòng thủ tâm lý, nhưng các tu sĩ khác cũng sẽ tự động tránh nguy hiểm.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_RealTime">
-			<DisplayName>Time Axis Adjustment</DisplayName>
+			<DisplayName>Điều chỉnh Trục thời gian</DisplayName>
 			<Desc>Số ngày kích hoạt của mọi sự kiện bí mật được rút ngắn còn 1/3, và thời gian đệ tử đóng trú bên ngoài sẽ trở thành thời gian thực.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_SupplyBox">
-			<DisplayName>Apocalyptic Remnants</DisplayName>
+			<DisplayName>Tàn tích Mạt thế</DisplayName>
 			<Desc>Sương mù bản đồ tự động được xóa bỏ. Toàn thế giới không thể thu hoạch từ giết mổ, thu hoạch, khai thác hay chặt cây, nhưng thùng tiếp tế sẽ rơi xuống từ trên trời mỗi ngày trong môn phái.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_GetGoodBadScoreRandom">
-			<DisplayName>Worldwide Connection</DisplayName>
+			<DisplayName>Liên kết toàn cầu</DisplayName>
 			<Desc>Khi nhận danh tiếng qua các phương thức khác nhau, danh tiếng nhận được ngẫu nhiên là dương hoặc âm, và hệ số nhận danh tiếng dao động ngẫu nhiên từ 0.1 đến 10.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_UnlockGong">
-			<DisplayName>Dao Fruit at Risk</DisplayName>
+			<DisplayName>Đạo quả lâm nguy</DisplayName>
 			<Desc>Giá trị nền tảng cần thiết để Trúc cơ và giá trị tu luyện cần thiết để luyện tập đều nhân lên 5 lần. Tất cả pháp môn hiện đã mở ra cho mọi tu sĩ.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Yang">
@@ -69,43 +69,43 @@
 			<Desc>Phong thủy Môn phái vĩnh viễn ở mức cao nhất, hiệu ứng tụ linh cơ bản tăng thêm 100 điểm, tất cả mảnh đất nhận thuộc tính Kim và Thủy, nhưng nhiệt độ cơ bản của bản đồ giảm 20°.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_1">
-			<DisplayName>Monster Hunter: Rabbit</DisplayName>
-			<Desc>Kill 7 rabbits, gain a rare item. Next time needs will double.</Desc>
+			<DisplayName>Thợ săn Quái: Thỏ</DisplayName>
+			<Desc>Giết 7 thỏ, nhận được vật phẩm hiếm. Lần sau yêu cầu sẽ tăng gấp đôi.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_2">
-			<DisplayName>Monster Hunter: Wolf</DisplayName>
-			<Desc>Kill 5 wolves, gain a rare item. Next time needs will double.</Desc>
+			<DisplayName>Thợ săn Quái: Sói</DisplayName>
+			<Desc>Giết 5 sói, nhận được vật phẩm hiếm. Lần sau yêu cầu sẽ tăng gấp đôi.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_3">
-			<DisplayName>Monster Hunter: Bear</DisplayName>
-			<Desc>Kill 3 bears, gain a rare item. Next time needs will double.</Desc>
+			<DisplayName>Thợ săn Quái: Gấu</DisplayName>
+			<Desc>Giết 3 gấu, nhận được vật phẩm hiếm. Lần sau yêu cầu sẽ tăng gấp đôi.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_4">
-			<DisplayName>Monster Hunter: Turtle</DisplayName>
-			<Desc>Kill 7 turtles, gain a rare item. Next time needs will double.</Desc>
+			<DisplayName>Thợ săn Quái: Rùa</DisplayName>
+			<Desc>Giết 7 rùa, nhận được vật phẩm hiếm. Lần sau yêu cầu sẽ tăng gấp đôi.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_5">
-			<DisplayName>Monster Hunter: Tiger</DisplayName>
-			<Desc>Kill 5 tigers, gain a rare item. Next time needs will double.</Desc>
+			<DisplayName>Thợ săn Quái: Hổ</DisplayName>
+			<Desc>Giết 5 hổ, nhận được vật phẩm hiếm. Lần sau yêu cầu sẽ tăng gấp đôi.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_6">
-			<DisplayName>Monster Hunter: Cow</DisplayName>
-			<Desc>Kill 5 cows, gain a rare item. Next time needs will double.</Desc>
+			<DisplayName>Thợ săn Quái: Bò</DisplayName>
+			<Desc>Giết 5 bò, nhận được vật phẩm hiếm. Lần sau yêu cầu sẽ tăng gấp đôi.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_7">
-			<DisplayName>Monster Hunter: Chicken</DisplayName>
-			<Desc>Kill 7 chickens, gain a rare item. Next time needs will double.</Desc>
+			<DisplayName>Thợ săn Quái: Gà</DisplayName>
+			<Desc>Giết 7 gà, nhận được vật phẩm hiếm. Lần sau yêu cầu sẽ tăng gấp đôi.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_8">
-			<DisplayName>Monster Hunter: Snake</DisplayName>
-			<Desc>Kill 5 snakes, gain a rare item. Next time needs will double.</Desc>
+			<DisplayName>Thợ săn Quái: Rắn</DisplayName>
+			<Desc>Giết 5 rắn, nhận được vật phẩm hiếm. Lần sau yêu cầu sẽ tăng gấp đôi.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_GetItem_1">
 			<DisplayName>Tội danh chiếm hữu</DisplayName>
 			<Desc>Có được nhiều bảo vật hiếm, nhưng thiện cảm của tất cả các Môn phái đối với ta giảm mạnh.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_OuterDiscipleRoomDemand">
-			<DisplayName>Innate Immortal Root</DisplayName>
+			<DisplayName>Tiên căn Bẩm sinh</DisplayName>
 			<Desc>Ngoại môn đệ tử có được khả năng bay, nhưng yêu cầu phòng ốc của họ tăng lên.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_GetItem_2">
@@ -113,7 +113,7 @@
 			<Desc>Mỗi lần cấp độ danh tiếng của môn phái tăng, sẽ nhận được một vật phẩm hiếm.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Sacrific">
-			<DisplayName>Demon Worship Ceremony</DisplayName>
+			<DisplayName>Nghi lễ Bái Ma</DisplayName>
 			<Desc>Kích hoạt Nghi lễ hiến tế thú, nhưng mỗi lần hiến tế sẽ khêu gợi sự tức giận của Yêu Điện (có thể dùng tại Tổ miếu).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_FengShuiChange">
@@ -125,11 +125,11 @@
 			<Desc>Đệ tử môn phái sống ẩn dật trong cư sở, chuyên tâm luyện chế pháp bảo, nhưng dần dần xao nhãng kỹ năng phiêu lưu; năng lực liên quan phiêu lưu giảm đáng kể, kỹ năng luyện chế pháp bảo +5 (tăng giới hạn), kỹ năng luyện đan +5 (tăng giới hạn), năng lực lĩnh hội được cải thiện.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_4">
-			<DisplayName>Dexterous in Socializing</DisplayName>
+			<DisplayName>Khéo léo trong Xã giao</DisplayName>
 			<Desc>Đệ tử môn phái hoạt bát, giỏi giao tiếp, nhưng do tâm trí xao động khó tập trung tu luyện; Tâm cảnh giảm, Thủ nghệ +5 (tăng giới hạn), Kỹ năng giao tiếp +5 (tăng giới hạn).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_5">
-			<DisplayName>Avoid Light, Seek Heavy</DisplayName>
+			<DisplayName>Tránh nhẹ, tìm nặng</DisplayName>
 			<Desc>Đệ tử môn phái không ngại lao động nặng nhọc, nhưng vì thế họ ghét các công việc tinh tế; năng lực liên quan thủ công giảm đáng kể, Kỹ năng xây dựng +10, Kỹ năng khai thác +10.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_6">
@@ -145,7 +145,7 @@
 			<Desc>Đệ tử môn phái chú trọng dưỡng sinh, nhạy cảm hơn với thời tiết lạnh, nhưng cũng trở nên trường thọ hơn.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_9">
-			<DisplayName>Divine Inspiration</DisplayName>
+			<DisplayName>Thần khải</DisplayName>
 			<Desc>Tất cả đệ tử dễ dàng cảm ngộ Đạo hơn, tăng đáng kể giới hạn Khí của họ, nhưng tất cả Thiên kiếp cũng sẽ đến sớm hơn.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_10">
@@ -157,7 +157,7 @@
 			<Desc>Đệ tử môn phái đắm chìm trong nghệ thuật Thuật pháp, xuất sắc về kỹ năng này nhưng xao nhãng tu luyện; tốc độ tu luyện giảm đáng kể, Kỹ năng thuật pháp +10 (tăng giới hạn).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_12">
-			<DisplayName>One Achieves Immortality</DisplayName>
+			<DisplayName>Một người thành tiên</DisplayName>
 			<Desc>Việc phi thăng của một đệ tử sẽ thúc đẩy đáng kể tốc độ trúc cơ/tu luyện của tất cả đệ tử Môn phái trong thời gian ngắn.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_13">

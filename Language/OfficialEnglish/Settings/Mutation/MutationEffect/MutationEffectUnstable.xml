@@ -1,7 +1,7 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Mutation_Effect_Unstable_EventTrigger">
-			<Desc>Attract a Lushu deer.</Desc>
+			<Desc>Thu hút một con Lộc Thục.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_EventTrigger2">
 			<Desc>Attracted a Qifei</Desc>
@@ -10,75 +10,75 @@
 			<Desc>Thu hút một nhóm tiểu yêu tinh kỳ lạ</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_EventTrigger4">
-			<Desc>An artifact appears.</Desc>
+			<Desc>Một pháp bảo xuất hiện.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_EventTrigger5">
-			<Desc>A treasure appears.</Desc>
+			<Desc>Một bảo vật xuất hiện.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Lua">
-			<Desc>Immediately attract a Flood Dragon.</Desc>
-			<SpecialDesc>A Flood Dragon suddenly appeared in [SCHOOL]!</SpecialDesc>
+			<Desc>Lập tức thu hút một con Giao Long.</Desc>
+			<SpecialDesc>Một con Giao Long đột nhiên xuất hiện tại [SCHOOL]!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Lua2">
-			<Desc>Immediately attract a fierce phoenix.</Desc>
-			<SpecialDesc>A fierce phoenix suddenly appeared in [SCHOOL]!</SpecialDesc>
+			<Desc>Lập tức thu hút một con Phượng hoàng hung dữ.</Desc>
+			<SpecialDesc>Một con Phượng hoàng hung dữ đột nhiên xuất hiện tại [SCHOOL]!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Lua3">
-			<Desc>Immediately attract a Zhulong.</Desc>
-			<SpecialDesc>A Torch Dragon suddenly appeared in [SCHOOL]!</SpecialDesc>
+			<Desc>Lập tức triệu hồi Chúc Long.</Desc>
+			<SpecialDesc>Một Chúc Long bất ngờ xuất hiện tại [SCHOOL]!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_DaNengChuShi">
-			<Desc>Immediately trigger 3 ancient cultivator rumors.</Desc>
-			<SpecialDesc>[SCHOOL] has uncovered rumors about ancient cultivators...</SpecialDesc>
+			<Desc>Lập tức kích hoạt 3 tin đồn về tu sĩ thượng cổ.</Desc>
+			<SpecialDesc>[SCHOOL] đã phát hiện tin đồn về các tu sĩ thượng cổ...</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_BeginWeather">
-			<DisplayName>Summon Weather</DisplayName>
+			<DisplayName>Triệu hồi thời tiết</DisplayName>
 			<Desc>Tạo ra bầu không khí lãng mạn trong môn phái</Desc>
-			<SpecialDesc>[TARGET] appears in [SCHOOL]...</SpecialDesc>
+			<SpecialDesc>[TARGET] xuất hiện tại [SCHOOL]...</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_BeginWeather2">
-			<Desc>Summon Weather: Rainy Season</Desc>
-			<SpecialDesc>[TARGET] appears in [SCHOOL]...</SpecialDesc>
+			<Desc>Triệu hồi thời tiết: Mùa mưa</Desc>
+			<SpecialDesc>[TARGET] xuất hiện tại [SCHOOL]...</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_BeginWeather3">
-			<Desc>Summon Weather: Drought</Desc>
-			<SpecialDesc>[TARGET] appears in [SCHOOL]...</SpecialDesc>
+			<Desc>Triệu hồi thời tiết: Hạn hán</Desc>
+			<SpecialDesc>[TARGET] xuất hiện tại [SCHOOL]...</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_BeginWeather4">
-			<Desc>Summon Weather: Rainstorm</Desc>
-			<SpecialDesc>[TARGET] appears in [SCHOOL]...</SpecialDesc>
+			<Desc>Triệu hồi thời tiết: Bão mưa</Desc>
+			<SpecialDesc>[TARGET] xuất hiện tại [SCHOOL]...</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_BeginWeather5">
-			<Desc>Summon Weather: Foehn Wind</Desc>
-			<SpecialDesc>[TARGET] appears in [SCHOOL]...</SpecialDesc>
+			<Desc>Triệu hồi thời tiết: Gió Foehn</Desc>
+			<SpecialDesc>[TARGET] xuất hiện tại [SCHOOL]...</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_BeginWeather6">
-			<Desc>Summon Weather: Dust Storm</Desc>
-			<SpecialDesc>[TARGET] appears in [SCHOOL]...</SpecialDesc>
+			<Desc>Triệu hồi thời tiết: Bão cát</Desc>
+			<SpecialDesc>[TARGET] xuất hiện tại [SCHOOL]...</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_BeginWeather7">
-			<Desc>Summon weather: Eternal Night.</Desc>
-			<SpecialDesc>[TARGET] appears in [SCHOOL]...</SpecialDesc>
+			<Desc>Triệu hồi thời tiết: Đêm vĩnh hằng.</Desc>
+			<SpecialDesc>[TARGET] xuất hiện tại [SCHOOL]...</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_BeginWeather8">
-			<Desc>Summon Weather: Noxious Air</Desc>
-			<SpecialDesc>[TARGET] appears in [SCHOOL]...</SpecialDesc>
+			<Desc>Triệu hồi thời tiết: Chướng khí</Desc>
+			<SpecialDesc>[TARGET] xuất hiện tại [SCHOOL]...</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_BeginWeather9">
-			<Desc>Summon weather: Thunderstorm.</Desc>
-			<SpecialDesc>[TARGET] appears in [SCHOOL]...</SpecialDesc>
+			<Desc>Triệu hồi thời tiết: Bão sấm sét.</Desc>
+			<SpecialDesc>[TARGET] xuất hiện tại [SCHOOL]...</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_EventTrigger19">
 			<Desc>Attract a passerby.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_EventTrigger20">
-			<Desc>Attract an immortal friend.</Desc>
+			<Desc>Thu hút một tiên hữu.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_EventTrigger21">
 			<Desc>Attract a spirit.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_EventTrigger22">
-			<Desc>Lures a newly formed Yaoguai.</Desc>
+			<Desc>Dụ đến một Yêu Quái mới hình thành.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_EventTrigger23">
 			<Desc>Gặp phải một cuộc xâm lược của yêu thú.</Desc>
@@ -88,28 +88,28 @@
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_RandomCreatureInjured">
 			<Desc>Một sinh vật ngẫu nhiên trên bản đồ chịu thương nhẹ.</Desc>
-			<SpecialDesc>[TARGET] feels slightly unwell!</SpecialDesc>
+			<SpecialDesc>[TARGET] cảm thấy hơi khó chịu!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_RandomCreatureInjured2">
 			<Desc>Một sinh vật ngẫu nhiên trên bản đồ chịu thương nặng</Desc>
-			<SpecialDesc>[TARGET] suddenly falls ill!</SpecialDesc>
+			<SpecialDesc>[TARGET] đột nhiên đổ bệnh!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_RandomEnemyDies">
 			<Desc>Một nhân vật không thân thiện ngẫu nhiên tử vong trên bản đồ.</Desc>
-			<SpecialDesc>[TARGET] suddenly perishes!</SpecialDesc>
+			<SpecialDesc>[TARGET] đột nhiên qua đời!</SpecialDesc>
 			<Effects.0.sParam1>Thiên Ma Hỗn Độn</Effects.0.sParam1>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_TriggerMapSecretAtOnce">
-			<Desc>Immediately trigger a secret event.</Desc>
-			<SpecialDesc>[SCHOOL] has learned a rumor: [TARGET]</SpecialDesc>
+			<Desc>Lập tức kích hoạt một sự kiện bí ẩn.</Desc>
+			<SpecialDesc>[SCHOOL] đã biết được một tin đồn: [TARGET]</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_TriggerMapSecretAtOnce1">
-			<Desc>Immediately trigger a secret event.</Desc>
-			<SpecialDesc>[SCHOOL] has learned a rumor: [TARGET]</SpecialDesc>
+			<Desc>Lập tức kích hoạt một sự kiện bí ẩn.</Desc>
+			<SpecialDesc>[SCHOOL] đã biết được một tin đồn: [TARGET]</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_TriggerMapSecretAtOnce2">
-			<Desc>Immediately trigger a secret event.</Desc>
-			<SpecialDesc>[SCHOOL] has learned a rumor: [TARGET]</SpecialDesc>
+			<Desc>Lập tức kích hoạt một sự kiện bí ẩn.</Desc>
+			<SpecialDesc>[SCHOOL] đã biết được một tin đồn: [TARGET]</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetSchoolRelation">
 			<Desc>Một môn phái cụ thể tăng Hảo cảm với môn phái ta.</Desc>
@@ -133,15 +133,15 @@
 			<SpecialDesc>[TARGET] đồng lòng tôn kính [SCHOOL], Hảo cảm tăng đáng kể!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetItemThing">
-			<Desc>Randomly obtain minerals.</Desc>
+			<Desc>Ngẫu nhiên nhận được khoáng vật.</Desc>
 			<SpecialDesc>[SCHOOL] acquires [TARGET]!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetItemThing2">
-			<Desc>Randomly obtain food.</Desc>
+			<Desc>Ngẫu nhiên nhận được thức ăn.</Desc>
 			<SpecialDesc>[SCHOOL] acquires [TARGET]!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetItemThing3">
-			<Desc>Randomly obtain building materials.</Desc>
+			<Desc>Ngẫu nhiên nhận được vật liệu xây dựng.</Desc>
 			<SpecialDesc>[SCHOOL] acquires [TARGET]!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetItemThing4">
@@ -153,7 +153,7 @@
 			<SpecialDesc>[SCHOOL] acquires [TARGET]!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetItemThing6">
-			<Desc>Randomly obtain a drug.</Desc>
+			<Desc>Ngẫu nhiên nhận được một loại dược.</Desc>
 			<SpecialDesc>[SCHOOL] acquires [TARGET]!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetItemThing7">
@@ -165,7 +165,7 @@
 			<SpecialDesc>[SCHOOL] đã thu được một lượng lớn Khổ hồn bảo thạch!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetItemThing9">
-			<Desc>Randomly obtain a precious item.</Desc>
+			<Desc>Ngẫu nhiên nhận được một vật phẩm quý giá.</Desc>
 			<SpecialDesc>[SCHOOL] acquires [TARGET]!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetSchoolScore">
@@ -184,8 +184,8 @@
 			<SpecialDesc>Tên tuổi [SCHOOL] vang danh khắp thiên hạ, thu được vô số danh tiếng!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_SexTransformation">
-			<Desc>Gender Transformation</Desc>
-			<SpecialDesc>[NPC] undergoes some mysterious changes..</SpecialDesc>
+			<Desc>Chuyển đổi giới tính</Desc>
+			<SpecialDesc>[NPC] trải qua một số thay đổi bí ẩn..</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_HealthRecoverAtOnce">
 			<Desc>Lập tức chữa lành toàn bộ thương tích</Desc>
@@ -196,8 +196,8 @@
 			<SpecialDesc>[NPC] cảm thấy có sự thay đổi trong cơ thể, sức đề kháng với một loại thuốc nào đó biến mất</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_UnlockFabaoSlot">
-			<Desc>Unlock 1 talisman slot.</Desc>
-			<SpecialDesc>[NPC] can control more artifacts.</SpecialDesc>
+			<Desc>Mở khóa 1 ô bùa.</Desc>
+			<SpecialDesc>[NPC] có thể điều khiển nhiều Pháp bảo hơn.</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_1">
 			<Desc>Tăng nhẹ tốc độ hồi phục Khí của bản thân.</Desc>
@@ -280,8 +280,8 @@
 			<SpecialDesc>Đạo hạnh của [NPC] tăng mạnh</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_17">
-			<Desc>Slightly improve own breathing efficiency.</Desc>
-			<SpecialDesc>[NPC]'s breathing efficiency improves slightly</SpecialDesc>
+			<Desc>Cải thiện nhẹ hiệu suất thổ nạp của bản thân.</Desc>
+			<SpecialDesc>Hiệu suất thổ nạp của [NPC] cải thiện nhẹ</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_18">
 			<Desc>Tăng đáng kể hiệu suất hô hấp của bản thân</Desc>
@@ -289,11 +289,11 @@
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_19">
 			<Desc>Tăng cường khả năng hồi phục tự nhiên của cơ thể.</Desc>
-			<SpecialDesc>[NPC]'s natural body resilience has become stronger</SpecialDesc>
+			<SpecialDesc>Sức bền tự nhiên của cơ thể [NPC] đã trở nên mạnh hơn</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_20">
 			<Desc>Tăng phạm vi cảm tri của bản thân.</Desc>
-			<SpecialDesc>[NPC]'s perception range becomes wider</SpecialDesc>
+			<SpecialDesc>Phạm vi Thần thức của [NPC] trở nên rộng hơn</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_21">
 			<Desc>Tăng đáng kể giới hạn tuổi thọ của bản thân.</Desc>
@@ -332,7 +332,7 @@
 			<SpecialDesc>[NPC] có khả năng lĩnh ngộ cao hơn.</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_30">
-			<Desc>Enhance own overall work efficiency.</Desc>
+			<Desc>Tăng cường hiệu suất làm việc tổng thể của bản thân.</Desc>
 			<SpecialDesc>Hiệu suất công việc tổng thể của [NPC] đã được cải thiện đáng kể</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_31">
@@ -340,16 +340,16 @@
 			<SpecialDesc>Tâm cảnh cơ bản của [NPC] được cải thiện</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_32">
-			<Desc>Enhance own array load capacity.</Desc>
+			<Desc>Tăng cường sức tải trận pháp của bản thân.</Desc>
 			<SpecialDesc>Sức tải trận pháp của [NPC] tăng lên</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_40">
 			<Desc>Tăng cấp độ kỹ năng chiến đấu của bản thân lên +1.</Desc>
-			<SpecialDesc>[NPC]'s Battle skill level +1</SpecialDesc>
+			<SpecialDesc>Cấp kỹ năng Chiến đấu của [NPC] +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_41">
 			<Desc>Tăng cấp độ kỹ năng chiến đấu của bản thân lên +2.</Desc>
-			<SpecialDesc>[NPC]'s Battle skill level +2</SpecialDesc>
+			<SpecialDesc>Cấp kỹ năng Chiến đấu của [NPC] +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_42">
 			<Desc>Kỹ năng chiến đấu của bản thân +1 (tăng giới hạn).</Desc>
@@ -357,11 +357,11 @@
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_43">
 			<Desc>Tăng cấp độ kỹ năng giao tiếp của bản thân lên +1.</Desc>
-			<SpecialDesc>[NPC]'s Social skill level +1</SpecialDesc>
+			<SpecialDesc>Cấp kỹ năng Xã giao của [NPC] +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_44">
 			<Desc>Tăng cấp độ kỹ năng giao tiếp của bản thân lên +2.</Desc>
-			<SpecialDesc>[NPC]'s Social skill level +2</SpecialDesc>
+			<SpecialDesc>Cấp kỹ năng Xã giao của [NPC] +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_45">
 			<Desc>Kỹ năng giao tiếp của bản thân +1 (tăng giới hạn).</Desc>
@@ -369,11 +369,11 @@
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_46">
 			<Desc>Tăng cấp độ kỹ năng thủ công nghệ của bản thân lên +1.</Desc>
-			<SpecialDesc>[NPC]'s Artisanry skill level +1</SpecialDesc>
+			<SpecialDesc>Cấp kỹ năng Thủ công của [NPC] +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_47">
 			<Desc>Tăng cấp độ kỹ năng thủ công nghệ của bản thân lên +2.</Desc>
-			<SpecialDesc>[NPC]'s Artisanry skill level +2</SpecialDesc>
+			<SpecialDesc>Cấp kỹ năng Thủ công của [NPC] +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_48">
 			<Desc>Kỹ năng thủ công nghệ của bản thân +1 (tăng giới hạn).</Desc>
@@ -392,15 +392,15 @@
 			<SpecialDesc>Cấp độ kỹ năng Thần thức của [NPC] +1 (tăng giới hạn)</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_52">
-			<Desc>Own Crafting/Artifact Crafting Skill Level +1</Desc>
-			<SpecialDesc>[NPC]'s Crafting/Artifact Crafting skill level +1</SpecialDesc>
+			<Desc>Cấp kỹ năng Chế tạo/Chế tạo Pháp bảo của bản thân +1</Desc>
+			<SpecialDesc>Cấp kỹ năng Chế tạo/Chế tạo Pháp bảo của [NPC] +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_53">
-			<Desc>Crafting/Artifact Crafting Skill Level +2</Desc>
-			<SpecialDesc>[NPC]'s Crafting/Artifact Crafting skill level +2</SpecialDesc>
+			<Desc>Cấp kỹ năng Chế tạo/Chế tạo Pháp bảo +2</Desc>
+			<SpecialDesc>Cấp kỹ năng Chế tạo/Chế tạo Pháp bảo của [NPC] +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_54">
-			<Desc>Self Crafting/Artifact Crafting skill level +1 (raises cap).</Desc>
+			<Desc>Cấp kỹ năng Chế tạo/Chế tạo Pháp bảo của bản thân +1 (tăng giới hạn).</Desc>
 			<SpecialDesc>Cấp độ kỹ năng Chế tác/Luyện chế Pháp bảo của [NPC] +1 (tăng giới hạn)</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_55">
@@ -416,12 +416,12 @@
 			<SpecialDesc>Cấp độ kỹ năng Y dược/Luyện đan của [NPC] +1 (tăng giới hạn)</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_58">
-			<Desc>Personal Artifact Skill +1</Desc>
-			<SpecialDesc>[NPC]'s Artifact skill level +1</SpecialDesc>
+			<Desc>Kỹ năng Pháp bảo cá nhân +1</Desc>
+			<SpecialDesc>Cấp kỹ năng Pháp bảo của [NPC] +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_59">
-			<Desc>Personal Artifact Skill +2</Desc>
-			<SpecialDesc>[NPC]'s Artifact skill level +2</SpecialDesc>
+			<Desc>Kỹ năng Pháp bảo cá nhân +2</Desc>
+			<SpecialDesc>Cấp kỹ năng Pháp bảo của [NPC] +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_60">
 			<Desc>Kỹ năng Pháp bảo +1 (tăng giới hạn).</Desc>
@@ -429,11 +429,11 @@
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_61">
 			<Desc>Tăng cấp độ kỹ năng Pháp thuật của bản thân lên +1.</Desc>
-			<SpecialDesc>[NPC]'s Spell skill level +1</SpecialDesc>
+			<SpecialDesc>Cấp kỹ năng Pháp thuật của [NPC] +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_62">
 			<Desc>Tăng cấp độ kỹ năng Pháp thuật của bản thân lên +2.</Desc>
-			<SpecialDesc>[NPC]'s Spell skill level +2</SpecialDesc>
+			<SpecialDesc>Cấp kỹ năng Pháp thuật của [NPC] +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_63">
 			<Desc>Kỹ năng Pháp thuật của bản thân +1 (tăng giới hạn).</Desc>
@@ -441,11 +441,11 @@
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_64">
 			<Desc>Tăng cấp độ kỹ năng Phòng hộ của bản thân lên +1.</Desc>
-			<SpecialDesc>[NPC]'s Protection skill level +1</SpecialDesc>
+			<SpecialDesc>Cấp kỹ năng Phòng hộ của [NPC] +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_65">
 			<Desc>Tăng cấp độ kỹ năng Phòng hộ của bản thân lên +2.</Desc>
-			<SpecialDesc>[NPC]'s Protection skill level +2</SpecialDesc>
+			<SpecialDesc>Cấp kỹ năng Phòng hộ của [NPC] +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_66">
 			<Desc>Kỹ năng Phòng hộ của bản thân +1 (tăng giới hạn).</Desc>
@@ -453,11 +453,11 @@
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_67">
 			<Desc>Tăng cấp độ kỹ năng Trận pháp của bản thân lên +1.</Desc>
-			<SpecialDesc>[NPC]'s Formation skill level +1</SpecialDesc>
+			<SpecialDesc>Cấp kỹ năng Trận pháp của [NPC] +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_68">
-			<Desc>Personal Formation Skill +2</Desc>
-			<SpecialDesc>[NPC]'s Formation skill level +2</SpecialDesc>
+			<Desc>Kỹ năng Trận pháp cá nhân +2</Desc>
+			<SpecialDesc>Cấp kỹ năng Trận pháp của [NPC] +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_69">
 			<Desc>Kỹ năng Trận pháp của bản thân +1 (tăng giới hạn).</Desc>
@@ -465,11 +465,11 @@
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_70">
 			<Desc>Tăng cấp độ kỹ năng Khai khoáng lên +1.</Desc>
-			<SpecialDesc>[NPC]'s Mining skill level +1</SpecialDesc>
+			<SpecialDesc>Cấp kỹ năng Khai khoáng của [NPC] +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_71">
 			<Desc>Tăng cấp độ kỹ năng Khai khoáng lên +2.</Desc>
-			<SpecialDesc>[NPC]'s Mining skill level +2</SpecialDesc>
+			<SpecialDesc>Cấp kỹ năng Khai khoáng của [NPC] +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_72">
 			<Desc>Tăng cấp độ kỹ năng Khai khoáng của bản thân lên 1 (tăng giới hạn).</Desc>
@@ -477,11 +477,11 @@
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_73">
 			<Desc>Tăng cấp độ kỹ năng Canh tác của bản thân lên +1.</Desc>
-			<SpecialDesc>[NPC]'s Farming skill level +1</SpecialDesc>
+			<SpecialDesc>Cấp kỹ năng Trồng trọt của [NPC] +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_74">
 			<Desc>Tăng cấp độ kỹ năng Canh tác của bản thân lên +2.</Desc>
-			<SpecialDesc>[NPC]'s Farming skill level +2</SpecialDesc>
+			<SpecialDesc>Cấp kỹ năng Trồng trọt của [NPC] +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_75">
 			<Desc>Kỹ năng Canh tác của bản thân +1 (tăng giới hạn).</Desc>
@@ -500,12 +500,12 @@
 			<SpecialDesc>Cấp độ kỹ năng xây dựng của [NPC] +1 (tăng giới hạn)</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_79">
-			<Desc>Personal Cooking Skill +1</Desc>
-			<SpecialDesc>[NPC]'s Cooking skill level +1</SpecialDesc>
+			<Desc>Kỹ năng Nấu ăn cá nhân +1</Desc>
+			<SpecialDesc>Cấp kỹ năng Nấu ăn của [NPC] +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_80">
-			<Desc>Own cooking skill level +2</Desc>
-			<SpecialDesc>[NPC]'s Cooking skill level +2</SpecialDesc>
+			<Desc>Cấp kỹ năng Nấu ăn của bản thân +2</Desc>
+			<SpecialDesc>Cấp kỹ năng Nấu ăn của [NPC] +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_81">
 			<Desc>Kỹ năng Nấu ăn của bản thân +1 (tăng giới hạn).</Desc>
@@ -600,19 +600,19 @@
 			<SpecialDesc>Năng lực công việc liên quan đến lao động chân tay của [NPC] đã được cải thiện</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_104">
-			<Desc>Boosts extreme heat tolerance.</Desc>
-			<SpecialDesc>[NPC] becomes more heat-resistant</SpecialDesc>
+			<Desc>Tăng cường khả năng chịu nhiệt cực độ.</Desc>
+			<SpecialDesc>[NPC] trở nên chịu nhiệt tốt hơn</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_105">
 			<Desc>Tăng khả năng chịu đựng cực lạnh của bản thân.</Desc>
-			<SpecialDesc>[NPC] becomes more cold-resistant</SpecialDesc>
+			<SpecialDesc>[NPC] trở nên chịu lạnh tốt hơn</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_106">
 			<Desc>Tăng cường toàn diện năng lực luyện đan.</Desc>
 			<SpecialDesc>Năng lực liên quan đến luyện đan của [NPC] đã được cải thiện</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_108">
-			<Desc>Enhances overall Craft Artifact capabilities.</Desc>
+			<Desc>Tăng cường khả năng Chế tạo Pháp bảo tổng thể.</Desc>
 			<SpecialDesc>Năng lực liên quan đến luyện chế Pháp bảo của [NPC] đã được cải thiện</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_110">
@@ -624,11 +624,11 @@
 			<SpecialDesc>Năng lực liên quan đến canh tác của [NPC] đã được cải thiện</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_112">
-			<Desc>Enhances overall Adventure capabilities.</Desc>
+			<Desc>Tăng cường khả năng Phiêu lưu tổng thể.</Desc>
 			<SpecialDesc>Năng lực liên quan đến phiêu lưu của [NPC] đã được cải thiện</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_113">
-			<Desc>Enhances overall Remold capabilities.</Desc>
+			<Desc>Tăng cường khả năng Tái tạo tổng thể.</Desc>
 			<SpecialDesc>Năng lực liên quan đến luyện thể của [NPC] đã được cải thiện</SpecialDesc>
 		</Text>
 	</List>

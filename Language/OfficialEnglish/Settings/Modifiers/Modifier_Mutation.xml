@@ -217,13 +217,13 @@
 			<Desc>Giảm đáng kể giá trị Tâm cảnh cơ bản</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_NutritionWaterAutoRecover_1">
-			<Desc>Auto-recover hunger level</Desc>
+			<Desc>Tự hồi mức độ đói</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_NutritionConsumeConstant_1">
-			<Desc>Become Less Hungry</Desc>
+			<Desc>Lâu đói hơn</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_NutritionConsumeConstant_1">
-			<Desc>Become More Hungry</Desc>
+			<Desc>Mau đói hơn</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_FatigueConsumeConstant_1">
 			<Desc>Ít mệt mỏi hơn</Desc>
@@ -256,7 +256,7 @@
 			<Desc>Giảm đáng kể Tốc độ di chuyển</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_GlobalEfficiency_1">
-			<Desc>Slightly boost global work efficiency</Desc>
+			<Desc>Tăng nhẹ hiệu suất làm việc toàn cục</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_GlobalEfficiency_2">
 			<Desc>Tăng Hiệu suất công việc toàn cục</Desc>
@@ -367,28 +367,28 @@
 			<Desc>Cấp độ kỹ năng Chiến đấu +1 (tăng giới hạn)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_2">
-			<Desc>Battle skill level +1</Desc>
+			<Desc>Cấp kỹ năng Chiến đấu +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_3">
-			<Desc>Battle Skill Level +2</Desc>
+			<Desc>Cấp kỹ năng Chiến đấu +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_4">
 			<Desc>Cấp độ kỹ năng Thế sự +1 (tăng giới hạn)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_5">
-			<Desc>Social Skill Level +1</Desc>
+			<Desc>Cấp kỹ năng Xã giao +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_6">
-			<Desc>Social Skill Level +2</Desc>
+			<Desc>Cấp kỹ năng Xã giao +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_7">
 			<Desc>Cấp độ kỹ năng Thủ công +1 (tăng giới hạn)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_8">
-			<Desc>Artisanry Skill Level +1</Desc>
+			<Desc>Cấp kỹ năng Thủ công +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_9">
-			<Desc>Artisanry Skill Level +2</Desc>
+			<Desc>Cấp kỹ năng Thủ công +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_10">
 			<Desc>Cấp độ kỹ năng Cảm khí +1 (tăng giới hạn)</Desc>
@@ -421,55 +421,55 @@
 			<Desc>Cấp độ Tinh thông pháp bảo +1 (tăng giới hạn)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_20">
-			<Desc>Artifact Mastery Skill Level +1</Desc>
+			<Desc>Cấp kỹ năng Tinh thông Pháp bảo +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_21">
-			<Desc>Artifact Mastery Skill Level +2</Desc>
+			<Desc>Cấp kỹ năng Tinh thông Pháp bảo +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_22">
 			<Desc>Cấp độ kỹ năng Pháp thuật +1 (tăng giới hạn)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_23">
-			<Desc>Spell skill level +1</Desc>
+			<Desc>Cấp kỹ năng Pháp thuật +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_24">
-			<Desc>Spell Skill Level +2</Desc>
+			<Desc>Cấp kỹ năng Pháp thuật +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_25">
 			<Desc>Cấp độ kỹ năng Phòng thủ +1 (tăng giới hạn)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_26">
-			<Desc>Protection skill level +1</Desc>
+			<Desc>Cấp kỹ năng Phòng hộ +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_27">
-			<Desc>Protection Skill Level +2</Desc>
+			<Desc>Cấp kỹ năng Phòng hộ +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_28">
 			<Desc>Cấp độ kỹ năng Trận pháp +1 (tăng giới hạn)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_29">
-			<Desc>Formation Skill Level +1</Desc>
+			<Desc>Cấp kỹ năng Trận pháp +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_30">
-			<Desc>Formation skill level +2</Desc>
+			<Desc>Cấp kỹ năng Trận pháp +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_31">
 			<Desc>Cấp độ kỹ năng Khai khoáng +1 (tăng giới hạn)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_32">
-			<Desc>Mining Skill Level +1</Desc>
+			<Desc>Cấp kỹ năng Khai khoáng +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_33">
-			<Desc>Mining Skill Level +2</Desc>
+			<Desc>Cấp kỹ năng Khai khoáng +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_34">
 			<Desc>Cấp độ kỹ năng Canh tác +1 (tăng giới hạn)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_35">
-			<Desc>Farming Skill Level +1</Desc>
+			<Desc>Cấp kỹ năng Trồng trọt +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_36">
-			<Desc>Farming Skill Level +2</Desc>
+			<Desc>Cấp kỹ năng Trồng trọt +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_37">
 			<Desc>Cấp độ kỹ năng Xây dựng +1 (tăng giới hạn)</Desc>
@@ -484,37 +484,37 @@
 			<Desc>Cấp độ kỹ năng Nấu ăn +1 (tăng giới hạn)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_41">
-			<Desc>Cooking Skill Level +1</Desc>
+			<Desc>Cấp kỹ năng Nấu ăn +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_42">
-			<Desc>Cooking Skill Level +2</Desc>
+			<Desc>Cấp kỹ năng Nấu ăn +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_1">
-			<Desc>Battle skill level -1</Desc>
+			<Desc>Cấp kỹ năng Chiến đấu -1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_2">
-			<Desc>Battle skill level -2</Desc>
+			<Desc>Cấp kỹ năng Chiến đấu -2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_3">
-			<Desc>Battle Skill Level -3</Desc>
+			<Desc>Cấp kỹ năng Chiến đấu -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_4">
-			<Desc>Social Skill Level -1</Desc>
+			<Desc>Cấp kỹ năng Xã giao -1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_5">
-			<Desc>Social skill level -2</Desc>
+			<Desc>Cấp kỹ năng Xã giao -2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_6">
-			<Desc>Social Skill Level -3</Desc>
+			<Desc>Cấp kỹ năng Xã giao -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_7">
-			<Desc>Artisanry Skill Level -1</Desc>
+			<Desc>Cấp kỹ năng Thủ công -1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_8">
-			<Desc>Artisanry Skill Level -2</Desc>
+			<Desc>Cấp kỹ năng Thủ công -2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_9">
-			<Desc>Artisanry Skill Level -3</Desc>
+			<Desc>Cấp kỹ năng Thủ công -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_10">
 			<Desc>Cấp độ kỹ năng Cảm khí -1</Desc>
@@ -529,7 +529,7 @@
 			<Desc>Giảm cấp độ kỹ năng Chế tác/Luyện chế pháp bảo của bản thân -1.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_14">
-			<Desc>Crafting/Artifact Crafting Skill -2</Desc>
+			<Desc>Kỹ năng Chế tạo/Chế tạo Pháp bảo -2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_15">
 			<Desc>Giảm cấp độ kỹ năng chế tác/luyện chế pháp bảo của bản thân -3.</Desc>
@@ -544,58 +544,58 @@
 			<Desc>Kỹ năng Y thuật/Luyện đan -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_19">
-			<Desc>Artifact Mastery Skill Level -1</Desc>
+			<Desc>Cấp kỹ năng Tinh thông Pháp bảo -1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_20">
-			<Desc>Artifact Mastery Skill Level -2</Desc>
+			<Desc>Cấp kỹ năng Tinh thông Pháp bảo -2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_21">
-			<Desc>Artifact Mastery skill level -3</Desc>
+			<Desc>Cấp kỹ năng Tinh thông Pháp bảo -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_22">
-			<Desc>Spell skill level -1</Desc>
+			<Desc>Cấp kỹ năng Pháp thuật -1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_23">
-			<Desc>Spell Skill Level -2</Desc>
+			<Desc>Cấp kỹ năng Pháp thuật -2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_24">
-			<Desc>Spell skill level -3</Desc>
+			<Desc>Cấp kỹ năng Pháp thuật -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_25">
-			<Desc>Protection Skill Level -1</Desc>
+			<Desc>Cấp kỹ năng Phòng hộ -1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_26">
-			<Desc>Protection Skill Level -2</Desc>
+			<Desc>Cấp kỹ năng Phòng hộ -2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_27">
-			<Desc>Protection Skill Level -3</Desc>
+			<Desc>Cấp kỹ năng Phòng hộ -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_28">
-			<Desc>Formation skill level -1</Desc>
+			<Desc>Cấp kỹ năng Trận pháp -1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_29">
-			<Desc>Formation Skill Level -2</Desc>
+			<Desc>Cấp kỹ năng Trận pháp -2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_30">
-			<Desc>Formation skill level -3</Desc>
+			<Desc>Cấp kỹ năng Trận pháp -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_31">
-			<Desc>Mining skill level -1</Desc>
+			<Desc>Cấp kỹ năng Khai khoáng -1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_32">
-			<Desc>Mining skill level -2</Desc>
+			<Desc>Cấp kỹ năng Khai khoáng -2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_33">
-			<Desc>Mining Skill Level -3</Desc>
+			<Desc>Cấp kỹ năng Khai khoáng -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_34">
-			<Desc>Farming Skill Level -1</Desc>
+			<Desc>Cấp kỹ năng Trồng trọt -1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_35">
-			<Desc>Farming Skill Level -2</Desc>
+			<Desc>Cấp kỹ năng Trồng trọt -2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_36">
-			<Desc>Farming skill level -3</Desc>
+			<Desc>Cấp kỹ năng Trồng trọt -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_37">
 			<Desc>Cấp độ kỹ năng Xây dựng -1</Desc>
@@ -607,13 +607,13 @@
 			<Desc>Cấp độ kỹ năng Xây dựng -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_40">
-			<Desc>Cooking Skill Level -1</Desc>
+			<Desc>Cấp kỹ năng Nấu ăn -1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_41">
-			<Desc>Cooking Skill Level -2</Desc>
+			<Desc>Cấp kỹ năng Nấu ăn -2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_42">
-			<Desc>Cooking skill level -3</Desc>
+			<Desc>Cấp kỹ năng Nấu ăn -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Quenching_1">
 			<Desc>Tốc độ luyện thể và xác suất tiến hóa cấp cao của nhân vật tăng đáng kể.</Desc>
@@ -742,7 +742,7 @@
 			<Desc>Điều chỉnh giới hạn Tuổi thọ</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_PracticeRateAddPFromDan_1">
-			<Desc>Modify Bottleneck Breakthrough Probability</Desc>
+			<Desc>Điều chỉnh Xác suất Đột phá Bình cảnh</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_DeepPracticeSpeedSpecialCoefficient_1">
 			<Desc>Điều chỉnh tốc độ tu luyện</Desc>
@@ -772,10 +772,10 @@
 			<Desc>Điều chỉnh Tốc độ di chuyển</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_GlobalEfficiency_1">
-			<Desc>Modify Work Efficiency</Desc>
+			<Desc>Điều chỉnh Hiệu suất Làm việc</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_NeckCountdownAddV_1">
-			<Desc>Delay Tribulation</Desc>
+			<Desc>Trì hoãn Kiếp nạn</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_IntelligenceSkillEXPConstant_1">
 			<Desc>Điều chỉnh Tốc độ lĩnh hội</Desc>
@@ -1015,7 +1015,7 @@
 			<Desc>Tăng đáng kể tốc độ suy giảm Tuổi thọ.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_FabaoNum_1">
-			<Desc>Unlock 1 Artifact Slot</Desc>
+			<Desc>Mở khóa 1 Ô Pháp bảo</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_Skills_1">
 			<Desc>Tất cả kỹ năng +2 (tăng giới hạn)</Desc>
@@ -1036,10 +1036,10 @@
 			<Desc>Cấp độ kỹ năng Xây dựng +10</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_Skills_7">
-			<Desc>Mining skill level +10</Desc>
+			<Desc>Cấp kỹ năng Khai khoáng +10</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_Skills_8">
-			<Desc>Social Skill Level -5</Desc>
+			<Desc>Cấp kỹ năng Xã giao -5</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_Skills_9">
 			<Desc>Cấp độ kỹ năng Chiến đấu +5 (tăng giới hạn)</Desc>
@@ -1048,10 +1048,10 @@
 			<Desc>Cấp độ kỹ năng Cảm khí +10</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_Skills_11">
-			<Desc>Battle Skill -5</Desc>
+			<Desc>Kỹ năng Chiến đấu -5</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_Skills_12">
-			<Desc>Protection skill +5 (raises Cap).</Desc>
+			<Desc>Kỹ năng Phòng hộ +5 (tăng Giới hạn).</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_Skills_13">
 			<Desc>Kỹ năng Pháp thuật +10 (tăng giới hạn)</Desc>

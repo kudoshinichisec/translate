@@ -5,7 +5,7 @@
 			<Desc>Meaning unknown…………</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_1">
-			<DisplayName>Eat Any Item</DisplayName>
+			<DisplayName>Ăn bất kỳ vật phẩm nào</DisplayName>
 			<Desc>Một đệ tử tiêu thụ 49 vật phẩm ngẫu nhiên</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_2">
@@ -84,7 +84,7 @@
 			<Desc>Một đệ tử tiêu thụ 7 loại dược phẩm thuộc Thổ khác nhau</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_25">
-			<DisplayName>Consume none attribute items</DisplayName>
+			<DisplayName>Tiêu thụ vật phẩm vô thuộc tính</DisplayName>
 			<Desc>Một đệ tử tiêu thụ 30 vật phẩm vô thuộc tính</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_26">
@@ -94,7 +94,7 @@
 			<Desc>Một đệ tử tiêu thụ 4 loại vật phẩm vô thuộc tính khác nhau</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_1">
-			<DisplayName>Globally Eat any item</DisplayName>
+			<DisplayName>Toàn cục ăn bất kỳ vật phẩm nào</DisplayName>
 			<Desc>Toàn bộ đệ tử môn phái tích lũy tiêu thụ 500 vật phẩm bất kỳ</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_2">
@@ -104,18 +104,18 @@
 			<Desc>Toàn bộ đệ tử môn phái tích lũy tiêu thụ 100 loại vật phẩm khác nhau</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_4">
-			<DisplayName>Globally Eat any food</DisplayName>
+			<DisplayName>Toàn cục ăn bất kỳ thức ăn nào</DisplayName>
 			<Desc>Toàn bộ đệ tử môn phái tích lũy tiêu thụ 400 thực phẩm bất kỳ</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_5">
-			<DisplayName>Globally Eat any food</DisplayName>
+			<DisplayName>Toàn cục ăn bất kỳ thức ăn nào</DisplayName>
 			<Desc>Toàn bộ đệ tử môn phái tích lũy tiêu thụ 800 thực phẩm bất kỳ</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_6">
 			<Desc>Một đệ tử tiêu thụ 12 loại thực phẩm khác nhau</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_7">
-			<DisplayName>Globally Eat gold attribute items</DisplayName>
+			<DisplayName>Toàn cục ăn vật phẩm thuộc tính Kim</DisplayName>
 			<Desc>Toàn bộ đệ tử môn phái tích lũy tiêu thụ 30 vật phẩm thuộc Kim,</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_8">
@@ -165,7 +165,7 @@
 			<Desc>Toàn bộ đệ tử môn phái tích lũy tiêu thụ 10 loại vật phẩm thuộc Thổ khác nhau</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_22">
-			<DisplayName>Globally consume none attribute items</DisplayName>
+			<DisplayName>Toàn cục tiêu thụ vật phẩm vô thuộc tính</DisplayName>
 			<Desc>Toàn bộ đệ tử môn phái tích lũy tiêu thụ 300 vật phẩm vô thuộc tính</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_23">
@@ -185,7 +185,7 @@
 			<Desc>Một đệ tử đột phá lên cảnh giới Nguyên thần</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_BrokenNeck_1">
-			<DisplayName>Global Breakthrough</DisplayName>
+			<DisplayName>Đột phá toàn cục</DisplayName>
 			<Desc>Đệ tử môn phái tích lũy Trúc cơ 3 lần</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_BrokenNeck_2">
@@ -271,7 +271,7 @@
 			<Desc>Môn phái tích lũy 360 ngày tọa thiền</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Sleep_1">
-			<DisplayName>Personal Sleep</DisplayName>
+			<DisplayName>Ngủ cá nhân</DisplayName>
 			<Desc>Một đệ tử hoàn thành 5 lần ngủ đầy đủ trên giường</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Sleep_2">
@@ -399,38 +399,38 @@
 		</Text>
 		<Text Name="MutationCondition_Constant_All_Kill_1">
 			<DisplayName>Kill</DisplayName>
-			<Desc>Kill 7 rabbits, next time doubled</Desc>
+			<Desc>Giết 7 thỏ, lần sau gấp đôi</Desc>
 		</Text>
 		<Text Name="MutationCondition_Constant_All_Kill_2">
 			<DisplayName>Kill</DisplayName>
-			<Desc>Kill 5 wolves, next time doubled</Desc>
+			<Desc>Giết 5 sói, lần sau gấp đôi</Desc>
 		</Text>
 		<Text Name="MutationCondition_Constant_All_Kill_3">
 			<DisplayName>Kill</DisplayName>
-			<Desc>Kill 3 bears, next time doubled</Desc>
+			<Desc>Giết 3 gấu, lần sau gấp đôi</Desc>
 		</Text>
 		<Text Name="MutationCondition_Constant_All_Kill_4">
 			<DisplayName>Kill</DisplayName>
-			<Desc>Kill 7 turtles, next time doubled</Desc>
+			<Desc>Giết 7 rùa, lần sau gấp đôi</Desc>
 		</Text>
 		<Text Name="MutationCondition_Constant_All_Kill_5">
 			<DisplayName>Kill</DisplayName>
-			<Desc>Kill 5 tigers, next time doubled</Desc>
+			<Desc>Giết 5 hổ, lần sau gấp đôi</Desc>
 		</Text>
 		<Text Name="MutationCondition_Constant_All_Kill_6">
 			<DisplayName>Kill</DisplayName>
-			<Desc>Kill 5 cows, next time doubled</Desc>
+			<Desc>Giết 5 bò, lần sau gấp đôi</Desc>
 		</Text>
 		<Text Name="MutationCondition_Constant_All_Kill_7">
 			<DisplayName>Kill</DisplayName>
-			<Desc>Kill 7 chickens, next time doubled</Desc>
+			<Desc>Giết 7 gà, lần sau gấp đôi</Desc>
 		</Text>
 		<Text Name="MutationCondition_Constant_All_Kill_8">
 			<DisplayName>Kill</DisplayName>
-			<Desc>Kill 5 snakes, next time doubled</Desc>
+			<Desc>Giết 5 rắn, lần sau gấp đôi</Desc>
 		</Text>
 		<Text Name="MutationCondition_Constant_All_Sacrific_1">
-			<DisplayName>Beast Sacrifice</DisplayName>
+			<DisplayName>Hiến tế Linh thú</DisplayName>
 			<Desc>Hiến tế cho ma quỷ kích động cơn thịnh nộ của Ma Điện.</Desc>
 		</Text>
 		<Text Name="MutationCondition_Constant_All_SchoolLevelUp_1">
@@ -438,7 +438,7 @@
 			<Desc>Cấp độ danh tiếng môn phái tăng lên một bậc</Desc>
 		</Text>
 		<Text Name="MutationCondition_Constant_All_BrokenNeck_1">
-			<DisplayName>Global Breakthrough</DisplayName>
+			<DisplayName>Đột phá toàn cục</DisplayName>
 			<Desc>Một đệ tử môn phái phi thăng</Desc>
 		</Text>
 		<Text Name="MutationCondition_Constant_One_Kill_1">

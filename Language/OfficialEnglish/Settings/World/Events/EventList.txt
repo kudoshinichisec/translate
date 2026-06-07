@@ -292,11 +292,11 @@ ID	Name	Desc	sParam1	sParam2
 30115	Quái thú xâm lấn	    Một số yêu thú xuất hiện gần đó, chúng đầy thù địch.		
 30116	Quái thú xâm lấn	    Một số yêu thú xuất hiện gần đó, chúng đầy thù địch.		
 30117	Đài thiên ứng	    Địa Mẫu thạch hấp thụ dinh dưỡng từ đất đai đã khiến một số yêu thú tức giận, chúng đầy thù địch!		
-50001	Apocalyptic Remnants	    Bỗng một tiếng nổ lớn, vài dải sáng từ chân trời rơi xuống gần đó, không rõ là thứ gì.		
+50001	Tàn tích Mạt thế	    Bỗng một tiếng nổ lớn, vài dải sáng từ chân trời rơi xuống gần đó, không rõ là thứ gì.		
 50002	Quái thú xâm lấn	    Một số yêu thú xuất hiện gần đó, chúng đầy thù địch.		
 50003	Tấn công mạnh mẽ	    Tiểu Càn Khôn giới đột nhiên phát ra động tĩnh, ngươi nhớ đến giao ước với Phí Bì Không, có vẻ như thời điểm đã đến rồi...		
 50004	Người đi đường lạc lối	    Một người đi đường bị lạc gần đây, mong muốn nhận được sự giúp đỡ của chúng ta.	Người đi đường lạc lối	
-50005	仙友来访	    Một Bằng Hữu tiên đến thăm môn phái của ngươi, có lẽ là muốn ở lại vài ngày.	仙友来访	
+50005	Tiên hữu đến thăm	    Một Bằng Hữu tiên đến thăm môn phái của ngươi, có lẽ là muốn ở lại vài ngày.	仙友来访	
 50006	Linh quái đi qua	    Một [NAME] có khả năng giao tiếp xuất hiện gần đó, nó đầy tò mò.		
 50007	Yêu cầu được bảo vệ	    Một con yêu tộc vừa hóa hình yêu cầu sự che chở của ngươi, mong muốn được giúp đỡ để vượt qua kiếp nạn hóa hình.		
 

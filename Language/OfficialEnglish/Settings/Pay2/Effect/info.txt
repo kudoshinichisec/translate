@@ -2,7 +2,7 @@ ID	Desc
 
 1	Nhận được bảo hộ của Thái Thủy chi Đạo, tăng thêm 10% tỉ lệ thành công cho U túy/Linh túy/Đạo thốy.
 2	Nhận được sự bảo hộ của Thái Dịch, tỷ lệ xuất hiện đệ tử thiên tài tại Tiên duyên đại hội tăng lên.
-3	Nhận được sự bảo hộ của Đạo Thái Dịch, Tiên duyên đại hội chắc chắn sẽ xuất hiện 1 đệ tử đặc biệt (luân hồi者).
+3	Nhận được sự bảo hộ của Đạo Thái Dịch, Tiên duyên đại hội chắc chắn sẽ xuất hiện 1 đệ tử đặc biệt (luân hồi giả).
 4	Được Thái Dịch chi đạo bảo hộ, tỷ lệ xuất hiện đệ tử thiên tài tại đại lý điểm tuyển chọn đệ tử tăng cao.
 5	Nhận được sự bảo hộ của Taixuan, tỷ lệ tăng hảo cảm trong Xã giao nhân vật tăng 50%.
 6	Nhận được sự bảo hộ của Taixuan, tỷ lệ nhận Hảo cảm Môn phái tăng 50%.

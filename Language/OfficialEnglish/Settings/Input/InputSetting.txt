@@ -4,41 +4,41 @@ Up	Up		W	UpArrow	LeftAlt		Player
 down	Down		S	DownArrow	LeftAlt		Player
 left	Left		A	LeftArrow	LeftAlt		Player
 right	Right		D	RightArrow	LeftAlt		Player
-SpeedP	Lower game speed		Q				Player
-SpeedN	Raise game speed		E				Player
+SpeedP	Giảm tốc độ game		Q				Player
+SpeedN	Tăng tốc độ game		E				Player
 GamePauseOrPlay	Pause/Stop		Space				Player
 Attack	Attack		BackQuote				Character
 RunAway	Flee		LeftControl+BackQuote				Character
-Moveto	Move To		V				Character
+Moveto	Di chuyển đến		V				Character
 StopJob	Interrupt	Interrupts the current action (some actions cannot be interrupted).	LeftAlt+S				Character
-Work	Work Menu		T				Menu
-School	Sect Menu		G				Menu
-World	World Map		M				Menu
-Help	Help Menu		F10				Menu
-AttributePanel	Stats Panel		C				Character
-MoodPanel	Social/Mood Menu		F				Character
-HealthPanel	Health menu		H				Character
-PracticePanel	Cultivation Menu		X				Character
-EquipmentPanel	Equipment Menu		Z				Character
+Work	Bảng Làm việc		T				Menu
+School	Bảng Môn phái		G				Menu
+World	Bản đồ Thế giới		M				Menu
+Help	Bảng Trợ giúp		F10				Menu
+AttributePanel	Bảng Chỉ số		C				Character
+MoodPanel	Bảng Xã giao/Tâm trạng		F				Character
+HealthPanel	Bảng Sức khỏe		H				Character
+PracticePanel	Bảng Tu luyện		X				Character
+EquipmentPanel	Bảng Trang bị		Z				Character
 Interaction	Interaction 1-9	F1-F9				1	Character
-RotBuilding	Rotate Building		R				Area
-RepeatBuild	Copy building		LeftControl+V				Area
+RotBuilding	Xoay Công trình		R				Area
+RepeatBuild	Sao chép công trình		LeftControl+V				Area
 Harvest	Harvest		LeftControl+G				Area
 Log	Chop		LeftControl+X				Area
 Mine	Mine		LeftControl+T				Area
-Cutoff	Clear Area		LeftControl+E				Area
+Cutoff	Dọn Khu vực		LeftControl+E				Area
 Dismantle	Demolish		LeftControl+C				Area
-RemoveFloor	Remove Floor		LeftControl+B				Area
-Explore	Search Area		LeftControl+F				Area
-Melting	Smelt Items		LeftControl+Y				Area
-Hunting	Hunt Animals		LeftControl+H				Area
-CancelCMD	Cancel Order		LeftControl+D				Area
-BuildPanel	Build Menu		B				Menu
+RemoveFloor	Gỡ Sàn		LeftControl+B				Area
+Explore	Tìm Khu vực		LeftControl+F				Area
+Melting	Luyện hóa vật phẩm		LeftControl+Y				Area
+Hunting	Săn Động vật		LeftControl+H				Area
+CancelCMD	Hủy Lệnh		LeftControl+D				Area
+BuildPanel	Bảng Xây dựng		B				Menu
 SearchPanel	SearchPanel		Y				Menu
 ProducePanel	ProducePanel	LCtrl+1~9				1	Menu
-SwichNpc	Change Target	1~9				1	Player
-33	Target Team	L-Ctrl + 1-9				1	Player
-34	Select Team		Alpha1				Player
+SwichNpc	Đổi Mục tiêu	1~9				1	Player
+33	Đội Mục tiêu	L-Ctrl + 1-9				1	Player
+34	Chọn Đội		Alpha1				Player
 36	Multiple		Alpha2				Player
 Story1	Adv. Option 1		Alpha1				Adventure
 Story2	Adv. Option 2		Alpha2				Adventure
@@ -49,12 +49,12 @@ Story6	Adv. Option 6		Alpha6				Adventure
 Story7	Adv. Option 7		Alpha7				Adventure
 Story8	Adv. Option 8		Alpha8				Adventure
 Story9	Adv. Option 9		Alpha9				Adventure
-QuickSave	Quick Save	Esc				1	System
-ShowOrHide	Hide/Display UI		F11				System
-37	System Menu		Comma				System
-Zhen	Formation Menu		N				Menu
+QuickSave	Lưu Nhanh	Esc				1	System
+ShowOrHide	Ẩn/Hiện Giao diện		F11				System
+37	Bảng Hệ thống		Comma				System
+Zhen	Bảng Trận pháp		N				Menu
 MinMap	Minimap		Comma				Menu
-ShowElement	Five Element		L				Menu
+ShowElement	Ngũ hành		L				Menu
 Power	power		K				Menu
 
 

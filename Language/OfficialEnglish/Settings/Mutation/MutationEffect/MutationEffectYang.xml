@@ -1,15 +1,15 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Mutation_Effect_Yang_FoodsDropCoin">
-			<DisplayName>Eat Out Coin</DisplayName>
+			<DisplayName>Ăn ra tiền xu</DisplayName>
 			<Desc>Tất cả thức ăn có xác suất rất thấp để thu được tiền vàng.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_FoodsDropCoin2">
-			<DisplayName>Eat Out Coin</DisplayName>
+			<DisplayName>Ăn ra tiền xu</DisplayName>
 			<Desc>Tất cả thức ăn có xác suất nhỏ tạo ra tiền vàng khi ăn</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_FoodsDropCoin3">
-			<DisplayName>Eat Out Coin</DisplayName>
+			<DisplayName>Ăn ra tiền xu</DisplayName>
 			<Desc>Tất cả thức ăn có xác suất cao để thu được tiền vàng.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_FaBaoSpecialAbility">
@@ -17,7 +17,7 @@
 			<Desc>Nhận một hiệu ứng pháp khí hiếm ngẫu nhiên khi pháp khí được hoàn thành.</Desc>
 			<Effects.0.SpecialAbilities.0.Desc>Tăng sát thương lên mục tiêu thuộc tính Thổ thêm 80%.</Effects.0.SpecialAbilities.0.Desc>
 			<Effects.0.SpecialAbilities.1.Desc>Cứ mỗi đòn đánh thứ 15, sẽ tấn công trực tiếp thân thể tu sĩ, xuyên qua khiên và gây thêm sát thương.</Effects.0.SpecialAbilities.1.Desc>
-			<Effects.0.SpecialAbilities.2.Desc>For every 3 attacks, generates 9 spike apparitions that last 3 seconds.</Effects.0.SpecialAbilities.2.Desc>
+			<Effects.0.SpecialAbilities.2.Desc>Cứ mỗi 3 đòn tấn công, tạo ra 9 ảo ảnh gai kéo dài 3 giây.</Effects.0.SpecialAbilities.2.Desc>
 			<Effects.0.SpecialAbilities.3.Desc>Sức mạnh cơ bản của pháp khí tăng 1% cho mỗi giây kiếm duy trì bay. Hiệu ứng bị xóa khi kiếm thu về.</Effects.0.SpecialAbilities.3.Desc>
 			<Effects.0.SpecialAbilities.4.Desc>Cứ mỗi 12 lần tấn công vào cùng một pháp khí, có thể vô hiệu hóa mục tiêu trong khoảng thời gian tương ứng với cấp bậc của nó.</Effects.0.SpecialAbilities.4.Desc>
 			<Effects.0.SpecialAbilities.5.Desc>Cứ mỗi 1% sinh lực giảm, Sức mạnh Pháp khí tăng thêm 5%.</Effects.0.SpecialAbilities.5.Desc>
@@ -27,7 +27,7 @@
 			<Effects.0.SpecialAbilities.9.Desc>Với cái giá là bị hủy, chống lại cái chết một lần và hồi phục toàn bộ sát thương đã nhận.</Effects.0.SpecialAbilities.9.Desc>
 			<Effects.0.SpecialAbilities.10.Desc>Người dùng càng gần tuổi thọ tối đa, pháp khí càng trở nên mạnh mẽ hơn.</Effects.0.SpecialAbilities.10.Desc>
 			<Effects.0.SpecialAbilities.11.Desc>10% sát thương gây ra sẽ được bổ sung vào Khí của pháp khí.</Effects.0.SpecialAbilities.11.Desc>
-			<Effects.0.SpecialAbilities.12.Desc>For every 7 attacks, generate a swordsprite that lasts 7 seconds.</Effects.0.SpecialAbilities.12.Desc>
+			<Effects.0.SpecialAbilities.12.Desc>Cứ mỗi 7 đòn tấn công, tạo ra một kiếm linh kéo dài 7 giây.</Effects.0.SpecialAbilities.12.Desc>
 			<Effects.0.SpecialAbilities.13.Desc>Cấp độ kỹ năng Pháp thuật tăng thêm 10.</Effects.0.SpecialAbilities.13.Desc>
 			<Effects.0.SpecialAbilities.14.Desc>Tăng sát thương lên mục tiêu thuộc tính Mộc thêm 100%.</Effects.0.SpecialAbilities.14.Desc>
 			<Effects.0.SpecialAbilities.15.Desc>Tăng sát thương lên mục tiêu thuộc tính Thổ thêm 100%.</Effects.0.SpecialAbilities.15.Desc>
@@ -39,7 +39,7 @@
 			<Effects.0.SpecialAbilities.21.Desc>Cứ mỗi loại Đan dược tiêu thụ, sức mạnh tăng thêm 5%.</Effects.0.SpecialAbilities.21.Desc>
 			<Effects.0.SpecialAbilities.22.Desc>Cứ mỗi 2 lần tấn công giảm thời gian hồi chiêu 1 giây.</Effects.0.SpecialAbilities.22.Desc>
 			<Effects.0.SpecialAbilities.23.Desc>Cấp độ kỹ năng Kiếm pháp tăng thêm 10.</Effects.0.SpecialAbilities.23.Desc>
-			<Effects.0.SpecialAbilities.24.Desc>Deals 1.5x damage when fighting against other artifacts.</Effects.0.SpecialAbilities.24.Desc>
+			<Effects.0.SpecialAbilities.24.Desc>Gây 1.5x sát thương khi chiến đấu chống lại các Pháp bảo khác.</Effects.0.SpecialAbilities.24.Desc>
 			<Effects.0.SpecialAbilities.25.Desc>Khi gây sát thương, có 10% xác suất gây 5 lần sát thương.</Effects.0.SpecialAbilities.25.Desc>
 			<Effects.0.SpecialAbilities.26.Desc>Gây 1,5 lần sát thương khi tấn công trực tiếp thân thể kẻ địch.</Effects.0.SpecialAbilities.26.Desc>
 			<Effects.0.SpecialAbilities.27.Desc>Khi tấn công trực tiếp thân thể kẻ địch, có 1% xác suất gây thêm sát thương bằng 30% Khí hiện tại của mục tiêu.</Effects.0.SpecialAbilities.27.Desc>
@@ -53,7 +53,7 @@
 			<Effects.0.SpecialAbilities.35.Desc>Sức mạnh của đòn đánh đầu tiên tăng thêm 500%. Hiệu ứng đặt lại khi bổ sung Khí vào pháp khí.</Effects.0.SpecialAbilities.35.Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_PlantIgnoreTemp">
-			<DisplayName>Plants Ignore Temperature Conditions</DisplayName>
+			<DisplayName>Bỏ qua điều kiện nhiệt độ đối với cây trồng</DisplayName>
 			<Desc>Cây trồng của môn phái bỏ qua điều kiện nhiệt độ để sinh trưởng.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Persuasion">
